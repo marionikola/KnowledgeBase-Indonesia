@@ -2,7 +2,22 @@
 
 Folder berikut adalah struktur awal untuk seluruh provinsi di Indonesia (38 provinsi).
 
+## Struktur
+
+Setiap provinsi berada pada folder `provinsi/<nama-provinsi>/` dan memiliki:
+
+- `README.md`, ringkasan provinsi.
+- `kabupaten/`, folder untuk dokumentasi seluruh kabupaten.
+- `kota/`, folder untuk dokumentasi seluruh kota.
+
+Catatan penamaan folder:
+
+- Gunakan huruf kecil.
+- Gunakan tanda hubung (kebab-case).
+- Hindari spasi pada nama folder.
+
 ## Daftar
+
 - Aceh (`aceh/`)
 - Sumatera Utara (`sumatera-utara/`)
 - Sumatera Barat (`sumatera-barat/`)
@@ -43,4 +58,5 @@ Folder berikut adalah struktur awal untuk seluruh provinsi di Indonesia (38 prov
 - Papua Barat Daya (`papua-barat-daya/`)
 
 ## Template penulisan
-Gunakan `provinsi/_TEMPLATE/README.md` sebagai acuan.
+
+- Provinsi: `provinsi/_TEMPLATE/README.md`
