@@ -446,3 +446,69 @@ Range kode pos: **73000-74999**
 - Pemekaran wilayah menciptakan kabupaten/kota baru.
 - Pembangunan berkelanjutan dan peningkatan kesejahteraan masyarakat.
 
+
+## Fun Fact Lengkap
+
+### 🌍 Geografi & Alam
+- Kalimantan Tengah memiliki keunikan geografis yang membedakannya dari provinsi lain di Indonesia.
+- Terdapat berbagai ekosistem unik di Kalimantan Tengah, dari hutan tropis hingga pesisir pantai.
+- Beberapa spesies flora dan fauna endemik hanya ditemukan di Kalimantan Tengah.
+- Kondisi iklim Kalimantan Tengah dipengaruhi oleh posisi geografisnya di kepulauan Indonesia.
+- Terdapat sumber daya alam yang melimpah di Kalimantan Tengah, baik mineral maupun hayati.
+
+### 🏛️ Sejarah & Budaya
+- Kalimantan Tengah memiliki sejarah panjang yang mencakup berbagai peradaban dan kerajaan.
+- Berbagai peninggalan sejarah masih dapat ditemukan di Kalimantan Tengah.
+- Tradisi dan adat istiadat Kalimantan Tengah telah diwariskan turun-temurun selama berabad-abad.
+- Bahasa daerah Kalimantan Tengah memiliki keunikan tersendiri dalam rumpun bahasa Nusantara.
+- Seni pertunjukan tradisional Kalimantan Tengah diakui sebagai warisan budaya yang berharga.
+
+### 🍽️ Kuliner & Produk Lokal
+- Masakan khas Kalimantan Tengah menggunakan rempah-rempah lokal yang unik.
+- Beberapa produk pertanian Kalimantan Tengah terkenal hingga ke mancanegara.
+- Minuman tradisional Kalimantan Tengah memiliki khasiat kesehatan yang telah dikenal lama.
+- Kerajinan tangan Kalimantan Tengah menggunakan bahan-bahan alami setempat.
+- Produk unggulan Kalimantan Tengah berkontribusi signifikan terhadap perekonomian daerah.
+
+### 🎭 Seni & Tradisi
+- Festival tahunan di Kalimantan Tengah menarik ribuan wisatawan setiap tahunnya.
+- Musik tradisional Kalimantan Tengah menggunakan alat musik yang tidak ditemukan di daerah lain.
+- Pakaian adat Kalimantan Tengah mencerminkan kekayaan budaya dan filosofi hidup masyarakatnya.
+- Upacara adat Kalimantan Tengah memiliki makna spiritual yang mendalam bagi masyarakat setempat.
+- Tari tradisional Kalimantan Tengah telah dipentaskan di berbagai festival internasional.
+
+### 🏆 Rekor & Pencapaian
+- Kalimantan Tengah memegang beberapa rekor unik di tingkat nasional maupun internasional.
+- Beberapa tokoh terkenal Indonesia berasal dari Kalimantan Tengah.
+- Kalimantan Tengah telah menerima berbagai penghargaan atas prestasi pembangunan dan pelestarian budaya.
+- Produk-produk dari Kalimantan Tengah telah mendapatkan pengakuan internasional.
+- Kalimantan Tengah menjadi tuan rumah berbagai event nasional dan internasional.
+
+### 🌱 Lingkungan & Konservasi
+- Kalimantan Tengah memiliki kawasan konservasi yang melindungi keanekaragaman hayati.
+- Beberapa spesies langka mendapat perlindungan khusus di Kalimantan Tengah.
+- Program pelestarian lingkungan di Kalimantan Tengah menjadi contoh bagi daerah lain.
+- Masyarakat Kalimantan Tengah memiliki kearifan lokal dalam menjaga keseimbangan alam.
+- Hutan-hutan di Kalimantan Tengah berperan penting dalam menjaga keseimbangan iklim regional.
+
+### 💡 Inovasi & Modernisasi
+- Kalimantan Tengah terus berkembang dengan berbagai inovasi di bidang teknologi dan ekonomi.
+- Generasi muda Kalimantan Tengah aktif dalam berbagai kompetisi nasional dan internasional.
+- Infrastruktur Kalimantan Tengah terus ditingkatkan untuk mendukung pertumbuhan ekonomi.
+- Sektor pariwisata Kalimantan Tengah berkembang pesat dengan berbagai destinasi baru.
+- Kalimantan Tengah menjadi salah satu tujuan investasi yang menarik di Indonesia.
+
+
+## Fun Fact Spesifik
+
+### 🦧 Fakta Unik Kalimantan Tengah
+1. **Taman Nasional Tanjung Puting** — Habitat orangutan terbesar di dunia, terkenal dengan Camp Leakey yang didirikan Dr. Biruté Galdikas.
+2. **Palangka Raya** — Ibu kota Kalimantan Tengah yang pernah direncanakan Soekarno sebagai ibu kota Indonesia.
+3. **Upacara Tiwah** — Upacara pemakaman adat Dayak Ngaju yang berlangsung berhari-hari, salah satu upacara adat paling kompleks di Indonesia.
+4. **Tjilik Riwut** — Gubernur pertama Kalimantan Tengah yang juga pahlawan nasional, berjuang untuk kemerdekaan Indonesia.
+5. **Sungai Kahayan** — Sungai terpanjang di Kalimantan Tengah yang menjadi jalur transportasi utama dan sumber kehidupan masyarakat.
+6. **Rumah Betang** — Rumah adat Dayak yang bisa dihuni oleh 100-150 orang dalam satu atap.
+7. **Mandau** — Senjata tradisional Dayak berupa parang panjang yang dihiasi ukiran dan bulu burung.
+8. **Wadi** — Makanan fermentasi dari ikan yang menjadi lauk khas Kalimantan Tengah.
+9. **Juhu Singkah** — Masakan dari umbut rotan yang menjadi makanan khas Dayak Kalimantan Tengah.
+10. **Danau Sembuluh** — Danau terbesar di Kalimantan Tengah yang menjadi habitat berbagai spesies ikan langka.
