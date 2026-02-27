@@ -29,21 +29,23 @@ Lihat struktur folder:
 ## Budaya
 
 - Rangkaian Nyepi umumnya meliputi ritual Melasti (penyucian) dan pawai Ogoh-ogoh menjelang hari H. 
+- Tari Legong, Kecak, Barong; Pura Besakih (pura induk).
 
 ## Kuliner
 
-- [Belum diisi] Tambahkan kuliner khas Bali dengan sumber rujukan yang jelas.
+- Babi guling (daging babi panggang isi rempah); ayam betutu (ayam rempah panggang); sate lilit (ikan parut dibakar); lawar (campur daging/kelapa muda).
 
 ## Wisata
 
-- [Belum diisi] Tambahkan daftar destinasi, sertakan lokasi umum dan referensi.
+- Pura Tanah Lot (pantai ikonik); Ubud (seni/sawah Tegallalang); Pantai Kuta (surfing); Pura Uluwatu (tebing/tari Kecak); Gunung Batur (danau vulkanik).
 
 ## Tokoh / kontribusi
 
-- [Belum diisi] Tambahkan tokoh dan kontribusinya, sertakan referensi.
+- I Nyoman Rudana (pengusaha seni, Museum Rudana); Ida Bagus Made Togog (seniman ukir); Anak Agung Gde Mandera (pelestari subak).
 
 ## Referensi
 
-- UU No. 64 Tahun 1958 (Peraturan BPK): https://peraturan.bpk.go.id/Details/52333/uu-no-64-tahun-1958
-- UNESCO World Heritage Centre (Cultural Landscape of Bali Province, inscribed 2012): https://whc.unesco.org/en/list/1194/
-- Love Bali (Nyepi – The Day of Silence): https://lovebali.baliprov.go.id/event/detail/1741571083104/nyepi-%E2%80%93-the-day-of-silence
+- UU No. 64 Tahun 1958: https://peraturan.bpk.go.id/Details/52333/uu-no-64-tahun-1958 [web:20]
+- UNESCO Subak: https://whc.unesco.org/en/list/1194/ [web:31]
+- Love Bali Nyepi: https://lovebali.baliprov.go.id/event/detail/1741571083104/nyepi-%E2%80%93-the-day-of-silence [web:26]
+- Daftar kab/kota Bali: https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_Bali [web:52]

@@ -1,12 +1,10 @@
-# Kota (Bali)
+# Daftar Kota Bali
 
-Folder ini berisi dokumentasi untuk seluruh kota di Provinsi Bali.
+## Daftar (1 kota)
 
-## Daftar
+- Kota-Denpasar (`Kota-Denpasar/`)
 
-- Denpasar (`denpasar/`)
+## Catatan
 
-## Catatan penulisan
-
-- Gunakan bahasa Indonesia yang formal.
-- Sertakan referensi untuk klaim faktual.
+- Nama folder: Title-Kebab-Case sesuai EYD.
+- Isi `README.md` per kota dengan template.

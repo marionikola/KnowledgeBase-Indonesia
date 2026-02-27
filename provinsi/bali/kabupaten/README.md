@@ -1,19 +1,17 @@
-# Kabupaten (Bali)
+# Daftar Kabupaten Bali
 
-Folder ini berisi dokumentasi untuk seluruh kabupaten di Provinsi Bali.
+## Daftar (8 kabupaten, urut geografis barat-timur)
 
-## Daftar
+- Kabupaten-Badung (`Kabupaten-Badung/`)
+- Kabupaten-Tabanan (`Kabupaten-Tabanan/`)
+- Kabupaten-Gianyar (`Kabupaten-Gianyar/`)
+- Kabupaten-Klungkung (`Kabupaten-Klungkung/`)
+- Kabupaten-Bangli (`Kabupaten-Bangli/`)
+- Kabupaten-Karangasem (`Kabupaten-Karangasem/`)
+- Kabupaten-Buleleng (`Kabupaten-Buleleng/`)
+- Kabupaten-Jembrana (`Kabupaten-Jembrana/`)
 
-- Badung (`badung/`)
-- Bangli (`bangli/`)
-- Buleleng (`buleleng/`)
-- Gianyar (`gianyar/`)
-- Jembrana (`jembrana/`)
-- Karangasem (`karangasem/`)
-- Klungkung (`klungkung/`)
-- Tabanan (`tabanan/`)
+## Catatan
 
-## Catatan penulisan
-
-- Gunakan bahasa Indonesia yang formal.
-- Sertakan referensi untuk klaim faktual.
+- Nama folder: Title-Kebab-Case sesuai EYD.
+- Isi `README.md` per kabupaten dengan template.
