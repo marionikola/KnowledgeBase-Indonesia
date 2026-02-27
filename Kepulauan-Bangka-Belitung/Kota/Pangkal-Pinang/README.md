@@ -27,3 +27,14 @@ Kota Pangkal Pinang adalah salah satu wilayah di Provinsi Kepulauan Bangka Belit
 ## Referensi
 
 - Wikipedia: https://id.wikipedia.org/wiki/Kota\_Pangkal Pinang
+
+## Kode Pos & Kode Telepon
+
+**Kode Pos:** (lihat detail per kecamatan)
+
+**Kode Telepon:** Lihat README provinsi Kepulauan-Bangka-Belitung untuk kode area.
+
+| Kecamatan | Kode Pos |
+|-----------|----------|
+| (lihat folder Kecamatan/) | - |
+

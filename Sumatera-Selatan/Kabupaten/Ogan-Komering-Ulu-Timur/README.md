@@ -27,3 +27,14 @@ Kabupaten Ogan Komering Ulu Timur adalah salah satu wilayah di Provinsi Sumatera
 ## Referensi
 
 - Wikipedia: https://id.wikipedia.org/wiki/Kabupaten\_Ogan Komering Ulu Timur
+
+## Kode Pos & Kode Telepon
+
+**Kode Pos:** (lihat detail per kecamatan)
+
+**Kode Telepon:** Lihat README provinsi Sumatera-Selatan untuk kode area.
+
+| Kecamatan | Kode Pos |
+|-----------|----------|
+| (lihat folder Kecamatan/) | - |
+

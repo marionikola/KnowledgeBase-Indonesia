@@ -27,3 +27,14 @@ Kabupaten Kulon Progo adalah salah satu wilayah di Provinsi Di Yogyakarta.
 ## Referensi
 
 - Wikipedia: https://id.wikipedia.org/wiki/Kabupaten\_Kulon Progo
+
+## Kode Pos & Kode Telepon
+
+**Kode Pos:** (lihat detail per kecamatan)
+
+**Kode Telepon:** Lihat README provinsi DI-Yogyakarta untuk kode area.
+
+| Kecamatan | Kode Pos |
+|-----------|----------|
+| (lihat folder Kecamatan/) | - |
+

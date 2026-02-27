@@ -27,3 +27,9 @@ Kabupaten Karangasem (ibu kota Amlapura) timur Bali, luas 839 km², populasi ~53
 ## Referensi
 
 - Daftar kab: https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_Bali
+
+## Kode Pos & Kode Telepon
+
+**Range Kode Pos:** 80811-80871
+
+**Kode Telepon:** Lihat README provinsi Bali untuk kode area.

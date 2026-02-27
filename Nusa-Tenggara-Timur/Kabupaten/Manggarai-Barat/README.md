@@ -27,3 +27,14 @@ Kabupaten Manggarai Barat adalah salah satu wilayah di Provinsi Nusa Tenggara Ti
 ## Referensi
 
 - Wikipedia: https://id.wikipedia.org/wiki/Kabupaten\_Manggarai Barat
+
+## Kode Pos & Kode Telepon
+
+**Kode Pos:** (lihat detail per kecamatan)
+
+**Kode Telepon:** Lihat README provinsi Nusa-Tenggara-Timur untuk kode area.
+
+| Kecamatan | Kode Pos |
+|-----------|----------|
+| (lihat folder Kecamatan/) | - |
+

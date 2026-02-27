@@ -27,3 +27,14 @@ Kota Prabumulih adalah salah satu wilayah di Provinsi Sumatera Selatan.
 ## Referensi
 
 - Wikipedia: https://id.wikipedia.org/wiki/Kota\_Prabumulih
+
+## Kode Pos & Kode Telepon
+
+**Kode Pos:** (lihat detail per kecamatan)
+
+**Kode Telepon:** Lihat README provinsi Sumatera-Selatan untuk kode area.
+
+| Kecamatan | Kode Pos |
+|-----------|----------|
+| (lihat folder Kecamatan/) | - |
+

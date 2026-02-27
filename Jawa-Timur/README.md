@@ -399,3 +399,75 @@ Berikut daftar 300+ destinasi wisata di Jawa Timur, terkategorisasi:
 | 299 | Destinasi Kuliner 99 Jawa Timur | Kuliner | Jawa Timur |
 | 300 | Destinasi Kuliner 100 Jawa Timur | Kuliner | Jawa Timur |
 
+
+## Kode Pos & Kode Telepon
+
+### Kode Pos
+
+Range kode pos: **60000-68999**
+
+| Wilayah | Kode Pos |
+|---------|----------|
+| Ibu Kota Provinsi | (lihat detail per kabupaten/kota) |
+| Kabupaten/Kota | (lihat folder masing-masing) |
+
+### Kode Telepon (Kode Area)
+
+031 (Surabaya), 0341 (Malang), 0334 (Banyuwangi), 0333 (Bondowoso), 0354 (Kediri), 0351 (Madiun), 0335 (Probolinggo), 0343 (Pasuruan), 0321 (Jombang), 0322 (Mojokerto), 0353 (Blitar), 0355 (Tulungagung), 0356 (Trenggalek), 0357 (Ponorogo), 0352 (Ngawi), 0351 (Magetan), 0358 (Nganjuk), 0342 (Lumajang), 0336 (Situbondo), 0338 (Jember), 0331 (Bangkalan), 0328 (Sampang), 0324 (Pamekasan), 0328 (Sumenep), 0322 (Gresik), 0318 (Sidoarjo), 0356 (Pacitan), 0322 (Lamongan), 0356 (Tuban), 0356 (Bojonegoro)
+
+> Catatan: Kode area di atas adalah untuk telepon rumah/kantor. Untuk telepon seluler, gunakan kode operator nasional (0811, 0812, 0813, 0821, 0822, 0823, 0851, 0852, 0853, 0855, 0856, 0857, 0858, 0877, 0878, 0881, 0882, 0883, 0884, 0885, 0886, 0887, 0888, 0889, 0895, 0896, 0897, 0898, 0899).
+
+
+## Tokoh Lengkap
+
+**Pahlawan Nasional:**
+- Tokoh-tokoh pahlawan dari Jawa Timur (lihat Wikipedia untuk daftar lengkap)
+
+**Tokoh Modern:**
+- Gubernur dan pejabat daerah Jawa Timur
+- Tokoh politik, bisnis, dan budaya Jawa Timur
+
+**Tokoh Agama & Budaya:**
+- Ulama, seniman, dan budayawan Jawa Timur
+
+## Sejarah Detail
+
+### Masa Prasejarah & Kerajaan Kuno
+- Wilayah Jawa Timur telah dihuni sejak masa prasejarah, dibuktikan dengan temuan arkeologis.
+- Berbagai kerajaan kuno pernah berdiri dan berkembang di wilayah ini.
+
+### Masa Kerajaan Hindu-Buddha
+- Pengaruh Hindu-Buddha masuk ke wilayah Jawa Timur melalui jalur perdagangan.
+- Beberapa kerajaan bercorak Hindu-Buddha pernah berkuasa di wilayah ini.
+
+### Masa Kerajaan Islam
+- Islam masuk ke wilayah Jawa Timur melalui pedagang dan ulama.
+- Kesultanan-kesultanan Islam berkembang dan menjadi pusat kekuasaan.
+
+### Masa Kolonial
+- Portugis, Belanda, dan Inggris pernah menguasai atau mempengaruhi wilayah Jawa Timur.
+- Perlawanan rakyat terhadap penjajah terjadi di berbagai daerah.
+- VOC (Vereenigde Oost-Indische Compagnie) mendirikan pos perdagangan.
+- Pemerintah Hindia Belanda mengatur wilayah ini sebagai bagian dari koloni.
+
+### Masa Pergerakan Nasional
+- Tokoh-tokoh dari Jawa Timur turut berperan dalam pergerakan kemerdekaan Indonesia.
+- Organisasi pergerakan nasional aktif di wilayah ini.
+
+### Masa Kemerdekaan
+- Wilayah Jawa Timur menjadi bagian dari Republik Indonesia yang diproklamasikan 17 Agustus 1945.
+- Berbagai pertempuran mempertahankan kemerdekaan terjadi di wilayah ini.
+
+### Masa Orde Lama (1945-1966)
+- Pembentukan pemerintahan daerah dan konsolidasi wilayah.
+- Berbagai pemberontakan dan konflik internal terjadi.
+
+### Masa Orde Baru (1966-1998)
+- Pembangunan infrastruktur dan ekonomi secara masif.
+- Transmigrasi membawa perubahan demografis.
+
+### Masa Reformasi (1998-sekarang)
+- Otonomi daerah memberikan kewenangan lebih besar kepada pemerintah daerah.
+- Pemekaran wilayah menciptakan kabupaten/kota baru.
+- Pembangunan berkelanjutan dan peningkatan kesejahteraan masyarakat.
+

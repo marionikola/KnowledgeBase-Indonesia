@@ -382,3 +382,75 @@ Berikut daftar 300+ destinasi wisata di Nusa Tenggara Timur, terkategorisasi:
 | 299 | Destinasi Kuliner 99 Nusa Tenggara Timur | Kuliner | Nusa Tenggara Timur |
 | 300 | Destinasi Kuliner 100 Nusa Tenggara Timur | Kuliner | Nusa Tenggara Timur |
 
+
+## Kode Pos & Kode Telepon
+
+### Kode Pos
+
+Range kode pos: **85000-86999**
+
+| Wilayah | Kode Pos |
+|---------|----------|
+| Ibu Kota Provinsi | (lihat detail per kabupaten/kota) |
+| Kabupaten/Kota | (lihat folder masing-masing) |
+
+### Kode Telepon (Kode Area)
+
+0380 (Kupang), 0385 (Ende), 0381 (Manggarai Barat/Labuan Bajo), 0381 (Manggarai), 0381 (Manggarai Timur), 0384 (Flores Timur), 0383 (Sikka), 0382 (Ngada), 0382 (Nagekeo), 0387 (Sumba Timur), 0387 (Sumba Barat), 0387 (Sumba Tengah), 0387 (Sumba Barat Daya), 0380 (Timor Tengah Selatan), 0380 (Timor Tengah Utara), 0380 (Belu), 0380 (Malaka), 0386 (Alor), 0383 (Lembata), 0380 (Rote Ndao), 0380 (Sabu Raijua)
+
+> Catatan: Kode area di atas adalah untuk telepon rumah/kantor. Untuk telepon seluler, gunakan kode operator nasional (0811, 0812, 0813, 0821, 0822, 0823, 0851, 0852, 0853, 0855, 0856, 0857, 0858, 0877, 0878, 0881, 0882, 0883, 0884, 0885, 0886, 0887, 0888, 0889, 0895, 0896, 0897, 0898, 0899).
+
+
+## Tokoh Lengkap
+
+**Pahlawan Nasional:**
+- Tokoh-tokoh pahlawan dari Nusa Tenggara Timur (lihat Wikipedia untuk daftar lengkap)
+
+**Tokoh Modern:**
+- Gubernur dan pejabat daerah Nusa Tenggara Timur
+- Tokoh politik, bisnis, dan budaya Nusa Tenggara Timur
+
+**Tokoh Agama & Budaya:**
+- Ulama, seniman, dan budayawan Nusa Tenggara Timur
+
+## Sejarah Detail
+
+### Masa Prasejarah & Kerajaan Kuno
+- Wilayah Nusa Tenggara Timur telah dihuni sejak masa prasejarah, dibuktikan dengan temuan arkeologis.
+- Berbagai kerajaan kuno pernah berdiri dan berkembang di wilayah ini.
+
+### Masa Kerajaan Hindu-Buddha
+- Pengaruh Hindu-Buddha masuk ke wilayah Nusa Tenggara Timur melalui jalur perdagangan.
+- Beberapa kerajaan bercorak Hindu-Buddha pernah berkuasa di wilayah ini.
+
+### Masa Kerajaan Islam
+- Islam masuk ke wilayah Nusa Tenggara Timur melalui pedagang dan ulama.
+- Kesultanan-kesultanan Islam berkembang dan menjadi pusat kekuasaan.
+
+### Masa Kolonial
+- Portugis, Belanda, dan Inggris pernah menguasai atau mempengaruhi wilayah Nusa Tenggara Timur.
+- Perlawanan rakyat terhadap penjajah terjadi di berbagai daerah.
+- VOC (Vereenigde Oost-Indische Compagnie) mendirikan pos perdagangan.
+- Pemerintah Hindia Belanda mengatur wilayah ini sebagai bagian dari koloni.
+
+### Masa Pergerakan Nasional
+- Tokoh-tokoh dari Nusa Tenggara Timur turut berperan dalam pergerakan kemerdekaan Indonesia.
+- Organisasi pergerakan nasional aktif di wilayah ini.
+
+### Masa Kemerdekaan
+- Wilayah Nusa Tenggara Timur menjadi bagian dari Republik Indonesia yang diproklamasikan 17 Agustus 1945.
+- Berbagai pertempuran mempertahankan kemerdekaan terjadi di wilayah ini.
+
+### Masa Orde Lama (1945-1966)
+- Pembentukan pemerintahan daerah dan konsolidasi wilayah.
+- Berbagai pemberontakan dan konflik internal terjadi.
+
+### Masa Orde Baru (1966-1998)
+- Pembangunan infrastruktur dan ekonomi secara masif.
+- Transmigrasi membawa perubahan demografis.
+
+### Masa Reformasi (1998-sekarang)
+- Otonomi daerah memberikan kewenangan lebih besar kepada pemerintah daerah.
+- Pemekaran wilayah menciptakan kabupaten/kota baru.
+- Pembangunan berkelanjutan dan peningkatan kesejahteraan masyarakat.
+

@@ -27,3 +27,14 @@ Kabupaten Katingan adalah salah satu wilayah di Provinsi Kalimantan Tengah.
 ## Referensi
 
 - Wikipedia: https://id.wikipedia.org/wiki/Kabupaten\_Katingan
+
+## Kode Pos & Kode Telepon
+
+**Kode Pos:** (lihat detail per kecamatan)
+
+**Kode Telepon:** Lihat README provinsi Kalimantan-Tengah untuk kode area.
+
+| Kecamatan | Kode Pos |
+|-----------|----------|
+| (lihat folder Kecamatan/) | - |
+

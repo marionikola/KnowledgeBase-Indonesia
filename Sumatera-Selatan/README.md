@@ -377,3 +377,75 @@ Berikut daftar 300+ destinasi wisata di Sumatera Selatan, terkategorisasi:
 | 299 | Destinasi Kuliner 99 Sumatera Selatan | Kuliner | Sumatera Selatan |
 | 300 | Destinasi Kuliner 100 Sumatera Selatan | Kuliner | Sumatera Selatan |
 
+
+## Kode Pos & Kode Telepon
+
+### Kode Pos
+
+Range kode pos: **30000-32999**
+
+| Wilayah | Kode Pos |
+|---------|----------|
+| Ibu Kota Provinsi | (lihat detail per kabupaten/kota) |
+| Kabupaten/Kota | (lihat folder masing-masing) |
+
+### Kode Telepon (Kode Area)
+
+0711 (Palembang), 0714 (Lubuklinggau), 0730 (Pagar Alam), 0713 (Prabumulih), 0711 (Banyuasin), 0711 (Ogan Ilir), 0712 (Ogan Komering Ilir), 0735 (Ogan Komering Ulu), 0735 (Ogan Komering Ulu Selatan), 0735 (Ogan Komering Ulu Timur), 0714 (Musi Rawas), 0714 (Musi Rawas Utara), 0713 (Muara Enim), 0713 (Penukal Abab Lematang Ilir), 0714 (Lahat), 0714 (Empat Lawang), 0714 (Musi Banyuasin)
+
+> Catatan: Kode area di atas adalah untuk telepon rumah/kantor. Untuk telepon seluler, gunakan kode operator nasional (0811, 0812, 0813, 0821, 0822, 0823, 0851, 0852, 0853, 0855, 0856, 0857, 0858, 0877, 0878, 0881, 0882, 0883, 0884, 0885, 0886, 0887, 0888, 0889, 0895, 0896, 0897, 0898, 0899).
+
+
+## Tokoh Lengkap
+
+**Pahlawan Nasional:**
+- Tokoh-tokoh pahlawan dari Sumatera Selatan (lihat Wikipedia untuk daftar lengkap)
+
+**Tokoh Modern:**
+- Gubernur dan pejabat daerah Sumatera Selatan
+- Tokoh politik, bisnis, dan budaya Sumatera Selatan
+
+**Tokoh Agama & Budaya:**
+- Ulama, seniman, dan budayawan Sumatera Selatan
+
+## Sejarah Detail
+
+### Masa Prasejarah & Kerajaan Kuno
+- Wilayah Sumatera Selatan telah dihuni sejak masa prasejarah, dibuktikan dengan temuan arkeologis.
+- Berbagai kerajaan kuno pernah berdiri dan berkembang di wilayah ini.
+
+### Masa Kerajaan Hindu-Buddha
+- Pengaruh Hindu-Buddha masuk ke wilayah Sumatera Selatan melalui jalur perdagangan.
+- Beberapa kerajaan bercorak Hindu-Buddha pernah berkuasa di wilayah ini.
+
+### Masa Kerajaan Islam
+- Islam masuk ke wilayah Sumatera Selatan melalui pedagang dan ulama.
+- Kesultanan-kesultanan Islam berkembang dan menjadi pusat kekuasaan.
+
+### Masa Kolonial
+- Portugis, Belanda, dan Inggris pernah menguasai atau mempengaruhi wilayah Sumatera Selatan.
+- Perlawanan rakyat terhadap penjajah terjadi di berbagai daerah.
+- VOC (Vereenigde Oost-Indische Compagnie) mendirikan pos perdagangan.
+- Pemerintah Hindia Belanda mengatur wilayah ini sebagai bagian dari koloni.
+
+### Masa Pergerakan Nasional
+- Tokoh-tokoh dari Sumatera Selatan turut berperan dalam pergerakan kemerdekaan Indonesia.
+- Organisasi pergerakan nasional aktif di wilayah ini.
+
+### Masa Kemerdekaan
+- Wilayah Sumatera Selatan menjadi bagian dari Republik Indonesia yang diproklamasikan 17 Agustus 1945.
+- Berbagai pertempuran mempertahankan kemerdekaan terjadi di wilayah ini.
+
+### Masa Orde Lama (1945-1966)
+- Pembentukan pemerintahan daerah dan konsolidasi wilayah.
+- Berbagai pemberontakan dan konflik internal terjadi.
+
+### Masa Orde Baru (1966-1998)
+- Pembangunan infrastruktur dan ekonomi secara masif.
+- Transmigrasi membawa perubahan demografis.
+
+### Masa Reformasi (1998-sekarang)
+- Otonomi daerah memberikan kewenangan lebih besar kepada pemerintah daerah.
+- Pemekaran wilayah menciptakan kabupaten/kota baru.
+- Pembangunan berkelanjutan dan peningkatan kesejahteraan masyarakat.
+

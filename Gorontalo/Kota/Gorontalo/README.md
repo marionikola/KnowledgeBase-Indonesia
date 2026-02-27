@@ -27,3 +27,14 @@ Kota Gorontalo adalah salah satu wilayah di Provinsi Gorontalo.
 ## Referensi
 
 - Wikipedia: https://id.wikipedia.org/wiki/Kota\_Gorontalo
+
+## Kode Pos & Kode Telepon
+
+**Kode Pos:** (lihat detail per kecamatan)
+
+**Kode Telepon:** Lihat README provinsi Gorontalo untuk kode area.
+
+| Kecamatan | Kode Pos |
+|-----------|----------|
+| (lihat folder Kecamatan/) | - |
+

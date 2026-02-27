@@ -366,3 +366,93 @@ Berikut daftar 300+ destinasi wisata di DI Yogyakarta, terkategorisasi:
 | 299 | Destinasi Kuliner 99 DI Yogyakarta | Kuliner | DI Yogyakarta |
 | 300 | Destinasi Kuliner 100 DI Yogyakarta | Kuliner | DI Yogyakarta |
 
+
+## Kode Pos & Kode Telepon
+
+### Kode Pos
+
+Range kode pos: **55000-55999**
+
+| Wilayah | Kode Pos |
+|---------|----------|
+| Ibu Kota Provinsi | (lihat detail per kabupaten/kota) |
+| Kabupaten/Kota | (lihat folder masing-masing) |
+
+### Kode Telepon (Kode Area)
+
+0274 (Yogyakarta/Sleman/Bantul), 0274 (Kulon Progo), 0274 (Gunungkidul)
+
+> Catatan: Kode area di atas adalah untuk telepon rumah/kantor. Untuk telepon seluler, gunakan kode operator nasional (0811, 0812, 0813, 0821, 0822, 0823, 0851, 0852, 0853, 0855, 0856, 0857, 0858, 0877, 0878, 0881, 0882, 0883, 0884, 0885, 0886, 0887, 0888, 0889, 0895, 0896, 0897, 0898, 0899).
+
+
+## Tokoh Lengkap
+
+**Pahlawan Nasional:**
+- Sri Sultan Hamengkubuwono IX (1912-1988) — raja Yogyakarta, pahlawan nasional
+- Ki Hajar Dewantara (1889-1959) — Bapak Pendidikan Indonesia
+- Jenderal Sudirman (1916-1950) — Panglima Besar TNI
+- Sri Paku Alam VIII (1910-1998) — wakil gubernur DIY
+- Pangeran Diponegoro (1785-1855) — pahlawan nasional, Perang Jawa
+
+**Tokoh Modern:**
+- Sri Sultan Hamengkubuwono X — gubernur DIY saat ini
+- Sri Paku Alam X — wakil gubernur DIY
+- Hasto Wardoyo — tokoh kesehatan
+- Ganjar Pranowo — mantan gubernur Jawa Tengah, lahir di Yogyakarta
+
+**Tokoh Seni & Budaya:**
+- Affandi (1907-1990) — pelukis ekspresionisme Indonesia
+- Bagong Kussudiardja (1928-2004) — seniman tari dan lukis
+- Sapto Hudoyo — pelukis
+- Rendra (W.S. Rendra, 1935-2009) — penyair dan dramawan
+- Umar Kayam (1932-2002) — sastrawan
+- Emha Ainun Nadjib (Cak Nun) — budayawan dan ulama
+- Ki Manteb Soedharsono — dalang wayang kulit
+- Ki Enthus Susmono — dalang wayang kulit
+
+**Tokoh Ilmu Pengetahuan:**
+- Prof. Dr. Sardjito — rektor UGM pertama
+- Prof. Dr. Notonagoro — filsuf Pancasila
+- Prof. Dr. Koesnadi Hardjasoemantri — rektor UGM
+
+## Sejarah Detail
+
+### Masa Prasejarah & Kerajaan Kuno
+- Wilayah DI Yogyakarta telah dihuni sejak masa prasejarah, dibuktikan dengan temuan arkeologis.
+- Berbagai kerajaan kuno pernah berdiri dan berkembang di wilayah ini.
+
+### Masa Kerajaan Hindu-Buddha
+- Pengaruh Hindu-Buddha masuk ke wilayah DI Yogyakarta melalui jalur perdagangan.
+- Beberapa kerajaan bercorak Hindu-Buddha pernah berkuasa di wilayah ini.
+
+### Masa Kerajaan Islam
+- Islam masuk ke wilayah DI Yogyakarta melalui pedagang dan ulama.
+- Kesultanan-kesultanan Islam berkembang dan menjadi pusat kekuasaan.
+
+### Masa Kolonial
+- Portugis, Belanda, dan Inggris pernah menguasai atau mempengaruhi wilayah DI Yogyakarta.
+- Perlawanan rakyat terhadap penjajah terjadi di berbagai daerah.
+- VOC (Vereenigde Oost-Indische Compagnie) mendirikan pos perdagangan.
+- Pemerintah Hindia Belanda mengatur wilayah ini sebagai bagian dari koloni.
+
+### Masa Pergerakan Nasional
+- Tokoh-tokoh dari DI Yogyakarta turut berperan dalam pergerakan kemerdekaan Indonesia.
+- Organisasi pergerakan nasional aktif di wilayah ini.
+
+### Masa Kemerdekaan
+- Wilayah DI Yogyakarta menjadi bagian dari Republik Indonesia yang diproklamasikan 17 Agustus 1945.
+- Berbagai pertempuran mempertahankan kemerdekaan terjadi di wilayah ini.
+
+### Masa Orde Lama (1945-1966)
+- Pembentukan pemerintahan daerah dan konsolidasi wilayah.
+- Berbagai pemberontakan dan konflik internal terjadi.
+
+### Masa Orde Baru (1966-1998)
+- Pembangunan infrastruktur dan ekonomi secara masif.
+- Transmigrasi membawa perubahan demografis.
+
+### Masa Reformasi (1998-sekarang)
+- Otonomi daerah memberikan kewenangan lebih besar kepada pemerintah daerah.
+- Pemekaran wilayah menciptakan kabupaten/kota baru.
+- Pembangunan berkelanjutan dan peningkatan kesejahteraan masyarakat.
+

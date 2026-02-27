@@ -396,3 +396,91 @@ Berikut daftar 300+ destinasi wisata di Bali, terkategorisasi:
 - UU No. 64 Tahun 1958: https://peraturan.bpk.go.id/Details/52333/uu-no-64-tahun-1958
 - UNESCO Subak: https://whc.unesco.org/en/list/1194/
 - Daftar kab/kota Bali: https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_Bali
+
+## Kode Pos & Kode Telepon
+
+### Kode Pos
+
+Range kode pos: **80000-82999**
+
+| Wilayah | Kode Pos |
+|---------|----------|
+| Ibu Kota Provinsi | (lihat detail per kabupaten/kota) |
+| Kabupaten/Kota | (lihat folder masing-masing) |
+
+### Kode Telepon (Kode Area)
+
+0361 (Denpasar/Badung), 0362 (Buleleng), 0363 (Karangasem), 0365 (Jembrana), 0366 (Klungkung), 0368 (Tabanan), 0366 (Gianyar), 0366 (Bangli)
+
+> Catatan: Kode area di atas adalah untuk telepon rumah/kantor. Untuk telepon seluler, gunakan kode operator nasional (0811, 0812, 0813, 0821, 0822, 0823, 0851, 0852, 0853, 0855, 0856, 0857, 0858, 0877, 0878, 0881, 0882, 0883, 0884, 0885, 0886, 0887, 0888, 0889, 0895, 0896, 0897, 0898, 0899).
+
+
+## Tokoh Lengkap
+
+**Pahlawan & Tokoh Sejarah:**
+- I Gusti Ngurah Rai (1917-1946) — pahlawan nasional, Puputan Marga
+- I Gusti Ketut Jelantik (1800-1849) — pahlawan Bali
+- I Gusti Ngurah Made Agung (1876-1906) — raja Badung, Puputan Badung
+- Dewa Agung Jambe (abad 18) — raja Klungkung
+- Dalem Waturenggong (abad 15-16) — raja Gelgel
+
+**Tokoh Seni & Budaya:**
+- I Nyoman Rudana — pengusaha seni, Museum Rudana
+- Ida Bagus Made Togog — seniman ukir
+- Anak Agung Gde Mandera — pelestari subak
+- I Wayan Beratha — maestro gamelan Bali
+- I Made Sidia — seniman tari kontemporer
+- Ni Ketut Arini — maestri tari Legong
+- I Nyoman Cakra — pelukis Bali
+- Affandi — pelukis (tinggal di Bali)
+- Walter Spies (1895-1942) — seniman Jerman, memperkenalkan Bali ke dunia
+- Miguel Covarrubias — penulis 'Island of Bali'
+
+**Tokoh Modern:**
+- I Wayan Koster — gubernur Bali
+- Made Mangku Pastika — gubernur Bali
+- Dewa Made Beratha — gubernur Bali
+- Tjokorda Gde Agung Sukawati — tokoh pariwisata Bali
+- Ngurah Rai Wirajaya — tokoh bisnis Bali
+
+## Sejarah Detail
+
+### Masa Prasejarah & Kerajaan Kuno
+- Wilayah Bali telah dihuni sejak masa prasejarah, dibuktikan dengan temuan arkeologis.
+- Berbagai kerajaan kuno pernah berdiri dan berkembang di wilayah ini.
+
+### Masa Kerajaan Hindu-Buddha
+- Pengaruh Hindu-Buddha masuk ke wilayah Bali melalui jalur perdagangan.
+- Beberapa kerajaan bercorak Hindu-Buddha pernah berkuasa di wilayah ini.
+
+### Masa Kerajaan Islam
+- Islam masuk ke wilayah Bali melalui pedagang dan ulama.
+- Kesultanan-kesultanan Islam berkembang dan menjadi pusat kekuasaan.
+
+### Masa Kolonial
+- Portugis, Belanda, dan Inggris pernah menguasai atau mempengaruhi wilayah Bali.
+- Perlawanan rakyat terhadap penjajah terjadi di berbagai daerah.
+- VOC (Vereenigde Oost-Indische Compagnie) mendirikan pos perdagangan.
+- Pemerintah Hindia Belanda mengatur wilayah ini sebagai bagian dari koloni.
+
+### Masa Pergerakan Nasional
+- Tokoh-tokoh dari Bali turut berperan dalam pergerakan kemerdekaan Indonesia.
+- Organisasi pergerakan nasional aktif di wilayah ini.
+
+### Masa Kemerdekaan
+- Wilayah Bali menjadi bagian dari Republik Indonesia yang diproklamasikan 17 Agustus 1945.
+- Berbagai pertempuran mempertahankan kemerdekaan terjadi di wilayah ini.
+
+### Masa Orde Lama (1945-1966)
+- Pembentukan pemerintahan daerah dan konsolidasi wilayah.
+- Berbagai pemberontakan dan konflik internal terjadi.
+
+### Masa Orde Baru (1966-1998)
+- Pembangunan infrastruktur dan ekonomi secara masif.
+- Transmigrasi membawa perubahan demografis.
+
+### Masa Reformasi (1998-sekarang)
+- Otonomi daerah memberikan kewenangan lebih besar kepada pemerintah daerah.
+- Pemekaran wilayah menciptakan kabupaten/kota baru.
+- Pembangunan berkelanjutan dan peningkatan kesejahteraan masyarakat.
+

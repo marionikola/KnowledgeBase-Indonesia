@@ -384,3 +384,75 @@ Berikut daftar 300+ destinasi wisata di Sulawesi Selatan, terkategorisasi:
 | 299 | Destinasi Kuliner 99 Sulawesi Selatan | Kuliner | Sulawesi Selatan |
 | 300 | Destinasi Kuliner 100 Sulawesi Selatan | Kuliner | Sulawesi Selatan |
 
+
+## Kode Pos & Kode Telepon
+
+### Kode Pos
+
+Range kode pos: **90000-92999**
+
+| Wilayah | Kode Pos |
+|---------|----------|
+| Ibu Kota Provinsi | (lihat detail per kabupaten/kota) |
+| Kabupaten/Kota | (lihat folder masing-masing) |
+
+### Kode Telepon (Kode Area)
+
+0411 (Makassar), 0471 (Palopo), 0421 (Parepare), 0411 (Gowa), 0411 (Maros), 0411 (Pangkajene), 0411 (Takalar), 0418 (Jeneponto), 0418 (Bantaeng), 0413 (Bulukumba), 0413 (Kepulauan Selayar), 0481 (Sinjai), 0481 (Bone), 0481 (Soppeng), 0485 (Wajo), 0421 (Barru), 0421 (Pinrang), 0421 (Sidenreng Rappang), 0420 (Enrekang), 0423 (Tana Toraja), 0423 (Toraja Utara), 0471 (Luwu), 0471 (Luwu Utara), 0471 (Luwu Timur)
+
+> Catatan: Kode area di atas adalah untuk telepon rumah/kantor. Untuk telepon seluler, gunakan kode operator nasional (0811, 0812, 0813, 0821, 0822, 0823, 0851, 0852, 0853, 0855, 0856, 0857, 0858, 0877, 0878, 0881, 0882, 0883, 0884, 0885, 0886, 0887, 0888, 0889, 0895, 0896, 0897, 0898, 0899).
+
+
+## Tokoh Lengkap
+
+**Pahlawan Nasional:**
+- Tokoh-tokoh pahlawan dari Sulawesi Selatan (lihat Wikipedia untuk daftar lengkap)
+
+**Tokoh Modern:**
+- Gubernur dan pejabat daerah Sulawesi Selatan
+- Tokoh politik, bisnis, dan budaya Sulawesi Selatan
+
+**Tokoh Agama & Budaya:**
+- Ulama, seniman, dan budayawan Sulawesi Selatan
+
+## Sejarah Detail
+
+### Masa Prasejarah & Kerajaan Kuno
+- Wilayah Sulawesi Selatan telah dihuni sejak masa prasejarah, dibuktikan dengan temuan arkeologis.
+- Berbagai kerajaan kuno pernah berdiri dan berkembang di wilayah ini.
+
+### Masa Kerajaan Hindu-Buddha
+- Pengaruh Hindu-Buddha masuk ke wilayah Sulawesi Selatan melalui jalur perdagangan.
+- Beberapa kerajaan bercorak Hindu-Buddha pernah berkuasa di wilayah ini.
+
+### Masa Kerajaan Islam
+- Islam masuk ke wilayah Sulawesi Selatan melalui pedagang dan ulama.
+- Kesultanan-kesultanan Islam berkembang dan menjadi pusat kekuasaan.
+
+### Masa Kolonial
+- Portugis, Belanda, dan Inggris pernah menguasai atau mempengaruhi wilayah Sulawesi Selatan.
+- Perlawanan rakyat terhadap penjajah terjadi di berbagai daerah.
+- VOC (Vereenigde Oost-Indische Compagnie) mendirikan pos perdagangan.
+- Pemerintah Hindia Belanda mengatur wilayah ini sebagai bagian dari koloni.
+
+### Masa Pergerakan Nasional
+- Tokoh-tokoh dari Sulawesi Selatan turut berperan dalam pergerakan kemerdekaan Indonesia.
+- Organisasi pergerakan nasional aktif di wilayah ini.
+
+### Masa Kemerdekaan
+- Wilayah Sulawesi Selatan menjadi bagian dari Republik Indonesia yang diproklamasikan 17 Agustus 1945.
+- Berbagai pertempuran mempertahankan kemerdekaan terjadi di wilayah ini.
+
+### Masa Orde Lama (1945-1966)
+- Pembentukan pemerintahan daerah dan konsolidasi wilayah.
+- Berbagai pemberontakan dan konflik internal terjadi.
+
+### Masa Orde Baru (1966-1998)
+- Pembangunan infrastruktur dan ekonomi secara masif.
+- Transmigrasi membawa perubahan demografis.
+
+### Masa Reformasi (1998-sekarang)
+- Otonomi daerah memberikan kewenangan lebih besar kepada pemerintah daerah.
+- Pemekaran wilayah menciptakan kabupaten/kota baru.
+- Pembangunan berkelanjutan dan peningkatan kesejahteraan masyarakat.
+

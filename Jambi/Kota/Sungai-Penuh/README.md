@@ -27,3 +27,14 @@ Kota Sungai Penuh adalah salah satu wilayah di Provinsi Jambi.
 ## Referensi
 
 - Wikipedia: https://id.wikipedia.org/wiki/Kota\_Sungai Penuh
+
+## Kode Pos & Kode Telepon
+
+**Kode Pos:** (lihat detail per kecamatan)
+
+**Kode Telepon:** Lihat README provinsi Jambi untuk kode area.
+
+| Kecamatan | Kode Pos |
+|-----------|----------|
+| (lihat folder Kecamatan/) | - |
+

@@ -27,3 +27,14 @@ Kabupaten Empat Lawang adalah salah satu wilayah di Provinsi Sumatera Selatan.
 ## Referensi
 
 - Wikipedia: https://id.wikipedia.org/wiki/Kabupaten\_Empat Lawang
+
+## Kode Pos & Kode Telepon
+
+**Kode Pos:** (lihat detail per kecamatan)
+
+**Kode Telepon:** Lihat README provinsi Sumatera-Selatan untuk kode area.
+
+| Kecamatan | Kode Pos |
+|-----------|----------|
+| (lihat folder Kecamatan/) | - |
+

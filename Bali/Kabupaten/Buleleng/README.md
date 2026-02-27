@@ -27,3 +27,9 @@ Kabupaten Buleleng (ibu kota Singaraja) utara Bali, luas 1.322 km², populasi ~8
 ## Referensi
 
 - Daftar kab: https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_Bali
+
+## Kode Pos & Kode Telepon
+
+**Range Kode Pos:** 81100-81171
+
+**Kode Telepon:** Lihat README provinsi Bali untuk kode area.

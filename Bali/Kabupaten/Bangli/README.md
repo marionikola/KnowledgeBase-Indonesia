@@ -27,3 +27,9 @@ Kabupaten Bangli (ibu kota Bangli) satu-satunya kabupaten Bali tanpa pantai laut
 ## Referensi
 
 - Profil Bangli: http://tarubali.baliprov.go.id/bangli/
+
+## Kode Pos & Kode Telepon
+
+**Range Kode Pos:** 80611-80671
+
+**Kode Telepon:** Lihat README provinsi Bali untuk kode area.

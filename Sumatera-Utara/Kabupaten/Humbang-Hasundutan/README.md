@@ -27,3 +27,14 @@ Kabupaten Humbang Hasundutan adalah salah satu wilayah di Provinsi Sumatera Utar
 ## Referensi
 
 - Wikipedia: https://id.wikipedia.org/wiki/Kabupaten\_Humbang Hasundutan
+
+## Kode Pos & Kode Telepon
+
+**Kode Pos:** (lihat detail per kecamatan)
+
+**Kode Telepon:** Lihat README provinsi Sumatera-Utara untuk kode area.
+
+| Kecamatan | Kode Pos |
+|-----------|----------|
+| (lihat folder Kecamatan/) | - |
+

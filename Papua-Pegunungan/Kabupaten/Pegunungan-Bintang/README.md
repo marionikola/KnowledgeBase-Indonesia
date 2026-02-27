@@ -27,3 +27,14 @@ Kabupaten Pegunungan Bintang adalah salah satu wilayah di Provinsi Papua Pegunun
 ## Referensi
 
 - Wikipedia: https://id.wikipedia.org/wiki/Kabupaten\_Pegunungan Bintang
+
+## Kode Pos & Kode Telepon
+
+**Kode Pos:** (lihat detail per kecamatan)
+
+**Kode Telepon:** Lihat README provinsi Papua-Pegunungan untuk kode area.
+
+| Kecamatan | Kode Pos |
+|-----------|----------|
+| (lihat folder Kecamatan/) | - |
+

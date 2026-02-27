@@ -27,3 +27,14 @@ Kabupaten Mamberamo Tengah adalah salah satu wilayah di Provinsi Papua Pegununga
 ## Referensi
 
 - Wikipedia: https://id.wikipedia.org/wiki/Kabupaten\_Mamberamo Tengah
+
+## Kode Pos & Kode Telepon
+
+**Kode Pos:** (lihat detail per kecamatan)
+
+**Kode Telepon:** Lihat README provinsi Papua-Pegunungan untuk kode area.
+
+| Kecamatan | Kode Pos |
+|-----------|----------|
+| (lihat folder Kecamatan/) | - |
+

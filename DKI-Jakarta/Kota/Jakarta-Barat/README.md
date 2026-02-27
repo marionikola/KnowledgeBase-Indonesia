@@ -27,3 +27,14 @@ Kota Jakarta Barat adalah salah satu wilayah di Provinsi Dki Jakarta.
 ## Referensi
 
 - Wikipedia: https://id.wikipedia.org/wiki/Kota\_Jakarta Barat
+
+## Kode Pos & Kode Telepon
+
+**Kode Pos:** (lihat detail per kecamatan)
+
+**Kode Telepon:** Lihat README provinsi DKI-Jakarta untuk kode area.
+
+| Kecamatan | Kode Pos |
+|-----------|----------|
+| (lihat folder Kecamatan/) | - |
+

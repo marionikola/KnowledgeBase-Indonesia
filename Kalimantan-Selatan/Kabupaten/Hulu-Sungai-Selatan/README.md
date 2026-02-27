@@ -27,3 +27,14 @@ Kabupaten Hulu Sungai Selatan adalah salah satu wilayah di Provinsi Kalimantan S
 ## Referensi
 
 - Wikipedia: https://id.wikipedia.org/wiki/Kabupaten\_Hulu Sungai Selatan
+
+## Kode Pos & Kode Telepon
+
+**Kode Pos:** (lihat detail per kecamatan)
+
+**Kode Telepon:** Lihat README provinsi Kalimantan-Selatan untuk kode area.
+
+| Kecamatan | Kode Pos |
+|-----------|----------|
+| (lihat folder Kecamatan/) | - |
+

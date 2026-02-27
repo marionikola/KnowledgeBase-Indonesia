@@ -27,3 +27,9 @@ Kabupaten Gianyar (ibu kota Gianyar) pusat seni Bali, luas 364 km², populasi ~5
 ## Referensi
 
 - Daftar kab: https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_Bali
+
+## Kode Pos & Kode Telepon
+
+**Range Kode Pos:** 80511-80581
+
+**Kode Telepon:** Lihat README provinsi Bali untuk kode area.

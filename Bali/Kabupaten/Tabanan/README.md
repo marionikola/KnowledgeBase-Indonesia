@@ -27,3 +27,9 @@ Kabupaten Tabanan (ibu kota Tabanan) barat daya Bali, luas 849 km², populasi ~4
 ## Referensi
 
 - Daftar kab: https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_Bali
+
+## Kode Pos & Kode Telepon
+
+**Range Kode Pos:** 82100-82171
+
+**Kode Telepon:** Lihat README provinsi Bali untuk kode area.

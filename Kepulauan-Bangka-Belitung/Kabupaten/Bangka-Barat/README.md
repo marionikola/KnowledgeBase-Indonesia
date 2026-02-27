@@ -27,3 +27,14 @@ Kabupaten Bangka Barat adalah salah satu wilayah di Provinsi Kepulauan Bangka Be
 ## Referensi
 
 - Wikipedia: https://id.wikipedia.org/wiki/Kabupaten\_Bangka Barat
+
+## Kode Pos & Kode Telepon
+
+**Kode Pos:** (lihat detail per kecamatan)
+
+**Kode Telepon:** Lihat README provinsi Kepulauan-Bangka-Belitung untuk kode area.
+
+| Kecamatan | Kode Pos |
+|-----------|----------|
+| (lihat folder Kecamatan/) | - |
+

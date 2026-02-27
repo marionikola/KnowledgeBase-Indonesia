@@ -398,3 +398,92 @@ Berikut daftar 300+ destinasi wisata di Aceh, terkategorisasi:
 - Daftar kab/kota: https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_Aceh
 - Taman Nasional Gunung Leuser: https://id.wikipedia.org/wiki/Taman_Nasional_Gunung_Leuser
 - Wisata Sabang: https://id.wikipedia.org/wiki/Kota_Sabang
+
+## Kode Pos & Kode Telepon
+
+### Kode Pos
+
+Range kode pos: **23000-24999**
+
+| Wilayah | Kode Pos |
+|---------|----------|
+| Ibu Kota Provinsi | (lihat detail per kabupaten/kota) |
+| Kabupaten/Kota | (lihat folder masing-masing) |
+
+### Kode Telepon (Kode Area)
+
+0651 (Banda Aceh), 0641 (Langsa), 0645 (Lhokseumawe), 0652 (Sabang), 0627 (Subulussalam)
+
+> Catatan: Kode area di atas adalah untuk telepon rumah/kantor. Untuk telepon seluler, gunakan kode operator nasional (0811, 0812, 0813, 0821, 0822, 0823, 0851, 0852, 0853, 0855, 0856, 0857, 0858, 0877, 0878, 0881, 0882, 0883, 0884, 0885, 0886, 0887, 0888, 0889, 0895, 0896, 0897, 0898, 0899).
+
+
+## Tokoh Lengkap
+
+**Pahlawan Nasional:**
+- Cut Nyak Dhien (1848-1908) — pahlawan wanita, istri Teuku Umar
+- Cut Meutia (1870-1910) — pahlawan wanita Aceh
+- Teuku Umar (1854-1899) — panglima perang Aceh
+- Teuku Chik Ditiro (1836-1891) — ulama dan pejuang
+- Sultan Iskandar Muda (1593-1636) — raja terbesar Kesultanan Aceh
+- Tgk Syiah Kuala (1615-1693) — ulama besar Aceh
+- Pang Laot (abad 19) — pejuang Aceh
+- Sisingamangaraja XII (lahir di Aceh) — pahlawan Batak
+
+**Tokoh Modern:**
+- Habibie (B.J. Habibie) — Presiden RI ke-3, lahir di Parepare tapi berdarah Aceh
+- Hasan Tiro (1925-2010) — pendiri GAM
+- Irwandi Yusuf — gubernur Aceh pertama pasca-MoU Helsinki
+- Abdullah Puteh — gubernur Aceh
+- Muzakir Manaf — gubernur Aceh
+- Nova Iriansyah — gubernur Aceh
+- Bustami Hamzah — gubernur Aceh
+
+**Tokoh Agama & Budaya:**
+- Hamzah Fansuri (abad 16-17) — penyair sufi Melayu
+- Syamsuddin Pasai (abad 17) — ulama sufi
+- Nuruddin ar-Raniri (abad 17) — ulama dan penulis
+- Abdurrauf Singkil (1615-1693) — ulama dan penerjemah Al-Quran
+- Tgk Chik Pante Kulu — ulama Aceh
+- Tgk Chik Kuta Karang — ulama Aceh
+
+## Sejarah Detail
+
+### Masa Prasejarah & Kerajaan Kuno
+- Wilayah Aceh telah dihuni sejak masa prasejarah, dibuktikan dengan temuan arkeologis.
+- Berbagai kerajaan kuno pernah berdiri dan berkembang di wilayah ini.
+
+### Masa Kerajaan Hindu-Buddha
+- Pengaruh Hindu-Buddha masuk ke wilayah Aceh melalui jalur perdagangan.
+- Beberapa kerajaan bercorak Hindu-Buddha pernah berkuasa di wilayah ini.
+
+### Masa Kerajaan Islam
+- Islam masuk ke wilayah Aceh melalui pedagang dan ulama.
+- Kesultanan-kesultanan Islam berkembang dan menjadi pusat kekuasaan.
+
+### Masa Kolonial
+- Portugis, Belanda, dan Inggris pernah menguasai atau mempengaruhi wilayah Aceh.
+- Perlawanan rakyat terhadap penjajah terjadi di berbagai daerah.
+- VOC (Vereenigde Oost-Indische Compagnie) mendirikan pos perdagangan.
+- Pemerintah Hindia Belanda mengatur wilayah ini sebagai bagian dari koloni.
+
+### Masa Pergerakan Nasional
+- Tokoh-tokoh dari Aceh turut berperan dalam pergerakan kemerdekaan Indonesia.
+- Organisasi pergerakan nasional aktif di wilayah ini.
+
+### Masa Kemerdekaan
+- Wilayah Aceh menjadi bagian dari Republik Indonesia yang diproklamasikan 17 Agustus 1945.
+- Berbagai pertempuran mempertahankan kemerdekaan terjadi di wilayah ini.
+
+### Masa Orde Lama (1945-1966)
+- Pembentukan pemerintahan daerah dan konsolidasi wilayah.
+- Berbagai pemberontakan dan konflik internal terjadi.
+
+### Masa Orde Baru (1966-1998)
+- Pembangunan infrastruktur dan ekonomi secara masif.
+- Transmigrasi membawa perubahan demografis.
+
+### Masa Reformasi (1998-sekarang)
+- Otonomi daerah memberikan kewenangan lebih besar kepada pemerintah daerah.
+- Pemekaran wilayah menciptakan kabupaten/kota baru.
+- Pembangunan berkelanjutan dan peningkatan kesejahteraan masyarakat.
+

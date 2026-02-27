@@ -27,3 +27,9 @@ Kabupaten Jembrana (ibu kota Negara) barat Bali, luas 841 km², populasi ~329 ri
 ## Referensi
 
 - Ibu kota: https://www.detik.com/bali/berita/d-7236160/daftar-nama-ibu-kota-kabupaten-dan-kota-provinsi-bali
+
+## Kode Pos & Kode Telepon
+
+**Range Kode Pos:** 82211-82261
+
+**Kode Telepon:** Lihat README provinsi Bali untuk kode area.

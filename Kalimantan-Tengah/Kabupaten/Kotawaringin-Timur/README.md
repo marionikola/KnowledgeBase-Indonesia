@@ -27,3 +27,14 @@ Kabupaten Kotawaringin Timur adalah salah satu wilayah di Provinsi Kalimantan Te
 ## Referensi
 
 - Wikipedia: https://id.wikipedia.org/wiki/Kabupaten\_Kotawaringin Timur
+
+## Kode Pos & Kode Telepon
+
+**Kode Pos:** (lihat detail per kecamatan)
+
+**Kode Telepon:** Lihat README provinsi Kalimantan-Tengah untuk kode area.
+
+| Kecamatan | Kode Pos |
+|-----------|----------|
+| (lihat folder Kecamatan/) | - |
+

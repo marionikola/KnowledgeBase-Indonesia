@@ -28,3 +28,9 @@ Kabupaten Badung (ibu kota Mangupura) merupakan pusat pariwisata Bali selatan, l
 
 - Sejarah Badung: https://bali.idntimes.com/news/bali/sejarah-kabupaten-badung-bali-00-gnww6-hzbhgy
 - Tempat bersejarah: https://www.detik.com/bali/berita/d-6518306/8-tempat-bersejarah-di-kabupaten-badung-yang-wajib-dikunjungi
+
+## Kode Pos & Kode Telepon
+
+**Range Kode Pos:** 80351-80971
+
+**Kode Telepon:** Lihat README provinsi Bali untuk kode area.

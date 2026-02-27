@@ -27,3 +27,14 @@ Kota Bukittinggi adalah salah satu wilayah di Provinsi Sumatera Barat.
 ## Referensi
 
 - Wikipedia: https://id.wikipedia.org/wiki/Kota\_Bukittinggi
+
+## Kode Pos & Kode Telepon
+
+**Kode Pos:** (lihat detail per kecamatan)
+
+**Kode Telepon:** Lihat README provinsi Sumatera-Barat untuk kode area.
+
+| Kecamatan | Kode Pos |
+|-----------|----------|
+| (lihat folder Kecamatan/) | - |
+

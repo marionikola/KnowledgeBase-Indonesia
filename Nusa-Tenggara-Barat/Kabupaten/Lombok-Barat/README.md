@@ -27,3 +27,14 @@ Kabupaten Lombok Barat adalah salah satu wilayah di Provinsi Nusa Tenggara Barat
 ## Referensi
 
 - Wikipedia: https://id.wikipedia.org/wiki/Kabupaten\_Lombok Barat
+
+## Kode Pos & Kode Telepon
+
+**Kode Pos:** (lihat detail per kecamatan)
+
+**Kode Telepon:** Lihat README provinsi Nusa-Tenggara-Barat untuk kode area.
+
+| Kecamatan | Kode Pos |
+|-----------|----------|
+| (lihat folder Kecamatan/) | - |
+

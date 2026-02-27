@@ -27,3 +27,9 @@ Kabupaten Klungkung (ibu kota Semarapura) pusat sejarah Bali, luas 314 km², pop
 ## Referensi
 
 - Ibu kota: https://www.detik.com/bali/berita/d-7236160/daftar-nama-ibu-kota-kabupaten-dan-kota-provinsi-bali
+
+## Kode Pos & Kode Telepon
+
+**Range Kode Pos:** 80711-80771
+
+**Kode Telepon:** Lihat README provinsi Bali untuk kode area.

@@ -27,3 +27,14 @@ Kota Pekanbaru adalah salah satu wilayah di Provinsi Riau.
 ## Referensi
 
 - Wikipedia: https://id.wikipedia.org/wiki/Kota\_Pekanbaru
+
+## Kode Pos & Kode Telepon
+
+**Kode Pos:** (lihat detail per kecamatan)
+
+**Kode Telepon:** Lihat README provinsi Riau untuk kode area.
+
+| Kecamatan | Kode Pos |
+|-----------|----------|
+| (lihat folder Kecamatan/) | - |
+

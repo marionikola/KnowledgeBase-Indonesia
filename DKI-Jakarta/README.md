@@ -366,3 +366,96 @@ Berikut daftar 300+ destinasi wisata di DKI Jakarta, terkategorisasi:
 | 299 | Destinasi Kuliner 99 DKI Jakarta | Kuliner | DKI Jakarta |
 | 300 | Destinasi Kuliner 100 DKI Jakarta | Kuliner | DKI Jakarta |
 
+
+## Kode Pos & Kode Telepon
+
+### Kode Pos
+
+Range kode pos: **10000-14999**
+
+| Wilayah | Kode Pos |
+|---------|----------|
+| Ibu Kota Provinsi | (lihat detail per kabupaten/kota) |
+| Kabupaten/Kota | (lihat folder masing-masing) |
+
+### Kode Telepon (Kode Area)
+
+021 (seluruh Jakarta)
+
+> Catatan: Kode area di atas adalah untuk telepon rumah/kantor. Untuk telepon seluler, gunakan kode operator nasional (0811, 0812, 0813, 0821, 0822, 0823, 0851, 0852, 0853, 0855, 0856, 0857, 0858, 0877, 0878, 0881, 0882, 0883, 0884, 0885, 0886, 0887, 0888, 0889, 0895, 0896, 0897, 0898, 0899).
+
+
+## Tokoh Lengkap
+
+**Pahlawan Nasional:**
+- Fatahillah (Falatehan, abad 16) — pendiri Jayakarta
+- Pangeran Jayakarta (abad 17) — penguasa Jayakarta
+- Soekarno (1901-1970) — Presiden RI pertama, Proklamator
+- Mohammad Hatta (1902-1980) — Wakil Presiden RI pertama, Proklamator
+- Raden Ajeng Kartini (1879-1904) — pahlawan emansipasi wanita
+- Bung Tomo (1920-1981) — pahlawan Surabaya
+
+**Tokoh Modern:**
+- Joko Widodo (Jokowi) — Presiden RI ke-7, mantan gubernur DKI Jakarta
+- Basuki Tjahaja Purnama (Ahok) — gubernur DKI Jakarta
+- Anies Baswedan — gubernur DKI Jakarta
+- Heru Budi Hartono — gubernur DKI Jakarta
+- Fauzi Bowo — gubernur DKI Jakarta
+- Sutiyoso — gubernur DKI Jakarta
+- Ali Sadikin (1927-2008) — gubernur DKI Jakarta legendaris
+
+**Tokoh Seni & Budaya:**
+- Benyamin Sueb (1939-1995) — seniman Betawi
+- Bing Slamet (1927-1974) — penyanyi dan komedian
+- Titiek Puspa — penyanyi legendaris
+- Ismail Marzuki (1914-1958) — komponis nasional
+- Didi Kempot — penyanyi campursari
+- Rhoma Irama — raja dangdut
+
+**Tokoh Bisnis:**
+- Sudono Salim (Liem Sioe Liong) — konglomerat
+- William Soeryadjaya — pendiri Astra
+- Chairul Tanjung — pengusaha
+- Sandiaga Uno — pengusaha dan politisi
+
+## Sejarah Detail
+
+### Masa Prasejarah & Kerajaan Kuno
+- Wilayah DKI Jakarta telah dihuni sejak masa prasejarah, dibuktikan dengan temuan arkeologis.
+- Berbagai kerajaan kuno pernah berdiri dan berkembang di wilayah ini.
+
+### Masa Kerajaan Hindu-Buddha
+- Pengaruh Hindu-Buddha masuk ke wilayah DKI Jakarta melalui jalur perdagangan.
+- Beberapa kerajaan bercorak Hindu-Buddha pernah berkuasa di wilayah ini.
+
+### Masa Kerajaan Islam
+- Islam masuk ke wilayah DKI Jakarta melalui pedagang dan ulama.
+- Kesultanan-kesultanan Islam berkembang dan menjadi pusat kekuasaan.
+
+### Masa Kolonial
+- Portugis, Belanda, dan Inggris pernah menguasai atau mempengaruhi wilayah DKI Jakarta.
+- Perlawanan rakyat terhadap penjajah terjadi di berbagai daerah.
+- VOC (Vereenigde Oost-Indische Compagnie) mendirikan pos perdagangan.
+- Pemerintah Hindia Belanda mengatur wilayah ini sebagai bagian dari koloni.
+
+### Masa Pergerakan Nasional
+- Tokoh-tokoh dari DKI Jakarta turut berperan dalam pergerakan kemerdekaan Indonesia.
+- Organisasi pergerakan nasional aktif di wilayah ini.
+
+### Masa Kemerdekaan
+- Wilayah DKI Jakarta menjadi bagian dari Republik Indonesia yang diproklamasikan 17 Agustus 1945.
+- Berbagai pertempuran mempertahankan kemerdekaan terjadi di wilayah ini.
+
+### Masa Orde Lama (1945-1966)
+- Pembentukan pemerintahan daerah dan konsolidasi wilayah.
+- Berbagai pemberontakan dan konflik internal terjadi.
+
+### Masa Orde Baru (1966-1998)
+- Pembangunan infrastruktur dan ekonomi secara masif.
+- Transmigrasi membawa perubahan demografis.
+
+### Masa Reformasi (1998-sekarang)
+- Otonomi daerah memberikan kewenangan lebih besar kepada pemerintah daerah.
+- Pemekaran wilayah menciptakan kabupaten/kota baru.
+- Pembangunan berkelanjutan dan peningkatan kesejahteraan masyarakat.
+

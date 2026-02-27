@@ -27,3 +27,14 @@ Kota Bengkulu adalah salah satu wilayah di Provinsi Bengkulu.
 ## Referensi
 
 - Wikipedia: https://id.wikipedia.org/wiki/Kota\_Bengkulu
+
+## Kode Pos & Kode Telepon
+
+**Kode Pos:** (lihat detail per kecamatan)
+
+**Kode Telepon:** Lihat README provinsi Bengkulu untuk kode area.
+
+| Kecamatan | Kode Pos |
+|-----------|----------|
+| (lihat folder Kecamatan/) | - |
+

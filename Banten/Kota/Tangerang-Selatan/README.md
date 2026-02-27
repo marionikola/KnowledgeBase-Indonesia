@@ -27,3 +27,14 @@ Kota Tangerang Selatan adalah salah satu wilayah di Provinsi Banten.
 ## Referensi
 
 - Wikipedia: https://id.wikipedia.org/wiki/Kota\_Tangerang Selatan
+
+## Kode Pos & Kode Telepon
+
+**Kode Pos:** (lihat detail per kecamatan)
+
+**Kode Telepon:** Lihat README provinsi Banten untuk kode area.
+
+| Kecamatan | Kode Pos |
+|-----------|----------|
+| (lihat folder Kecamatan/) | - |
+

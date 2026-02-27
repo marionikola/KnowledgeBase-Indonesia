@@ -27,3 +27,14 @@ Kabupaten Belitung Timur adalah salah satu wilayah di Provinsi Kepulauan Bangka 
 ## Referensi
 
 - Wikipedia: https://id.wikipedia.org/wiki/Kabupaten\_Belitung Timur
+
+## Kode Pos & Kode Telepon
+
+**Kode Pos:** (lihat detail per kecamatan)
+
+**Kode Telepon:** Lihat README provinsi Kepulauan-Bangka-Belitung untuk kode area.
+
+| Kecamatan | Kode Pos |
+|-----------|----------|
+| (lihat folder Kecamatan/) | - |
+

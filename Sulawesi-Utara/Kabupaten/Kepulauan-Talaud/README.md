@@ -27,3 +27,14 @@ Kabupaten Kepulauan Talaud adalah salah satu wilayah di Provinsi Sulawesi Utara.
 ## Referensi
 
 - Wikipedia: https://id.wikipedia.org/wiki/Kabupaten\_Kepulauan Talaud
+
+## Kode Pos & Kode Telepon
+
+**Kode Pos:** (lihat detail per kecamatan)
+
+**Kode Telepon:** Lihat README provinsi Sulawesi-Utara untuk kode area.
+
+| Kecamatan | Kode Pos |
+|-----------|----------|
+| (lihat folder Kecamatan/) | - |
+

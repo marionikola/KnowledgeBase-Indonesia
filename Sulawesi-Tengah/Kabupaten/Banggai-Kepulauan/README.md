@@ -27,3 +27,14 @@ Kabupaten Banggai Kepulauan adalah salah satu wilayah di Provinsi Sulawesi Tenga
 ## Referensi
 
 - Wikipedia: https://id.wikipedia.org/wiki/Kabupaten\_Banggai Kepulauan
+
+## Kode Pos & Kode Telepon
+
+**Kode Pos:** (lihat detail per kecamatan)
+
+**Kode Telepon:** Lihat README provinsi Sulawesi-Tengah untuk kode area.
+
+| Kecamatan | Kode Pos |
+|-----------|----------|
+| (lihat folder Kecamatan/) | - |
+

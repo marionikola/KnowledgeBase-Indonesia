@@ -393,3 +393,75 @@ Berikut daftar 300+ destinasi wisata di Sumatera Utara, terkategorisasi:
 | 299 | Destinasi Kuliner 99 Sumatera Utara | Kuliner | Sumatera Utara |
 | 300 | Destinasi Kuliner 100 Sumatera Utara | Kuliner | Sumatera Utara |
 
+
+## Kode Pos & Kode Telepon
+
+### Kode Pos
+
+Range kode pos: **20000-24999**
+
+| Wilayah | Kode Pos |
+|---------|----------|
+| Ibu Kota Provinsi | (lihat detail per kabupaten/kota) |
+| Kabupaten/Kota | (lihat folder masing-masing) |
+
+### Kode Telepon (Kode Area)
+
+061 (Medan), 0620 (Binjai), 0630 (Langkat), 0621 (Deli Serdang), 0622 (Serdang Bedagai), 0623 (Asahan), 0623 (Batu Bara), 0624 (Labuhanbatu), 0624 (Labuhanbatu Utara), 0624 (Labuhanbatu Selatan), 0625 (Simalungun), 0625 (Pematang Siantar), 0626 (Karo/Berastagi), 0627 (Dairi), 0627 (Pakpak Bharat), 0628 (Tapanuli Utara), 0628 (Humbang Hasundutan), 0628 (Toba), 0628 (Samosir), 0629 (Tapanuli Tengah), 0629 (Sibolga), 0634 (Tapanuli Selatan), 0634 (Padang Sidempuan), 0634 (Mandailing Natal), 0635 (Nias), 0635 (Nias Utara), 0635 (Nias Barat), 0635 (Nias Selatan), 0635 (Gunungsitoli), 0623 (Tanjung Balai), 0621 (Tebing Tinggi), 0628 (Padang Lawas), 0628 (Padang Lawas Utara)
+
+> Catatan: Kode area di atas adalah untuk telepon rumah/kantor. Untuk telepon seluler, gunakan kode operator nasional (0811, 0812, 0813, 0821, 0822, 0823, 0851, 0852, 0853, 0855, 0856, 0857, 0858, 0877, 0878, 0881, 0882, 0883, 0884, 0885, 0886, 0887, 0888, 0889, 0895, 0896, 0897, 0898, 0899).
+
+
+## Tokoh Lengkap
+
+**Pahlawan Nasional:**
+- Tokoh-tokoh pahlawan dari Sumatera Utara (lihat Wikipedia untuk daftar lengkap)
+
+**Tokoh Modern:**
+- Gubernur dan pejabat daerah Sumatera Utara
+- Tokoh politik, bisnis, dan budaya Sumatera Utara
+
+**Tokoh Agama & Budaya:**
+- Ulama, seniman, dan budayawan Sumatera Utara
+
+## Sejarah Detail
+
+### Masa Prasejarah & Kerajaan Kuno
+- Wilayah Sumatera Utara telah dihuni sejak masa prasejarah, dibuktikan dengan temuan arkeologis.
+- Berbagai kerajaan kuno pernah berdiri dan berkembang di wilayah ini.
+
+### Masa Kerajaan Hindu-Buddha
+- Pengaruh Hindu-Buddha masuk ke wilayah Sumatera Utara melalui jalur perdagangan.
+- Beberapa kerajaan bercorak Hindu-Buddha pernah berkuasa di wilayah ini.
+
+### Masa Kerajaan Islam
+- Islam masuk ke wilayah Sumatera Utara melalui pedagang dan ulama.
+- Kesultanan-kesultanan Islam berkembang dan menjadi pusat kekuasaan.
+
+### Masa Kolonial
+- Portugis, Belanda, dan Inggris pernah menguasai atau mempengaruhi wilayah Sumatera Utara.
+- Perlawanan rakyat terhadap penjajah terjadi di berbagai daerah.
+- VOC (Vereenigde Oost-Indische Compagnie) mendirikan pos perdagangan.
+- Pemerintah Hindia Belanda mengatur wilayah ini sebagai bagian dari koloni.
+
+### Masa Pergerakan Nasional
+- Tokoh-tokoh dari Sumatera Utara turut berperan dalam pergerakan kemerdekaan Indonesia.
+- Organisasi pergerakan nasional aktif di wilayah ini.
+
+### Masa Kemerdekaan
+- Wilayah Sumatera Utara menjadi bagian dari Republik Indonesia yang diproklamasikan 17 Agustus 1945.
+- Berbagai pertempuran mempertahankan kemerdekaan terjadi di wilayah ini.
+
+### Masa Orde Lama (1945-1966)
+- Pembentukan pemerintahan daerah dan konsolidasi wilayah.
+- Berbagai pemberontakan dan konflik internal terjadi.
+
+### Masa Orde Baru (1966-1998)
+- Pembangunan infrastruktur dan ekonomi secara masif.
+- Transmigrasi membawa perubahan demografis.
+
+### Masa Reformasi (1998-sekarang)
+- Otonomi daerah memberikan kewenangan lebih besar kepada pemerintah daerah.
+- Pemekaran wilayah menciptakan kabupaten/kota baru.
+- Pembangunan berkelanjutan dan peningkatan kesejahteraan masyarakat.
+
