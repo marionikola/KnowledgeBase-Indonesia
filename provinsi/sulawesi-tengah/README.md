@@ -2,37 +2,54 @@
 
 ## Ringkasan
 
-Sulawesi Tengah (Sulteng) ibukota Palu, luas 61.841 km², populasi ~3 juta. [web:237]
+Sulawesi Tengah adalah provinsi terluas di Sulawesi, ibu kota Palu, luas 61.841 km², populasi ~3,1 juta jiwa.
 
 ## Administrasi
 
-- 12 kabupaten: Banggai, Banggai Kepulauan, Banggai Laut, Buol, Donggala, Morowali, Morowali Utara, Parigi Moutong, Poso, Sigi, Tojo Una-Una, Tolitoli.
-- 1 kota: Palu. [web:237]
+**Kabupaten (12):**
+- Banggai
+- Banggai Kepulauan
+- Banggai Laut
+- Buol
+- Donggala
+- Morowali
+- Morowali Utara
+- Parigi Moutong
+- Poso
+- Sigi
+- Tojo Una-Una
+- Tolitoli
 
-## Sejarah
+**Kota (1):**
+- Palu
 
-- Kesultanan Palu; gempa 2018. [web:237]
+Lihat `kabupaten/` dan `kota/`.
 
-## Fun fact
+## Sejarah singkat
 
-- Cagar Taman Nasional Lore Lindu. [web:237]
+- Kerajaan Palu dan Donggala; Gempa dan tsunami Palu (2018).
+
+## Fun fact / hal menarik
+
+- Danau Poso, danau terdalam ketiga di Indonesia.
+- Lore Lindu, taman nasional dengan megalit misterius.
 
 ## Budaya
 
-- Tari Pamonte Kaili.
+- Tari Dero; Upacara Balia; Tenun Donggala.
 
 ## Kuliner
 
-- Kaledo (sup kaki sapi); Uta Kelo.
+- Kaledo (sup kaki sapi); Uta Dada; Palumara.
 
 ## Wisata
 
-Tabel 50 (Lore Lindu, Togean).
+- Danau Poso, Taman Nasional Lore Lindu, Pantai Tanjung Karang.
 
 ## Tokoh
 
-- Sinyo Harry Sarundajang.
+- Madopolo (pahlawan Poso).
 
 ## Referensi
 
-- Wiki Sulteng: https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_Sulawesi_Tengah [web:237]
+- Wikipedia Sulawesi Tengah: https://id.wikipedia.org/wiki/Sulawesi_Tengah

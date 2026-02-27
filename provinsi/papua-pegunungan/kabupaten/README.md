@@ -1,9 +1,17 @@
-# Kabupaten
+# Daftar Kabupaten di Papua Pegunungan
 
-Folder ini disiapkan untuk dokumentasi seluruh kabupaten pada provinsi ini.
+## Daftar
 
-## Aturan penamaan folder
+- Kabupaten Bintang (`bintang/`)
+- Kabupaten Jayawijaya (`jayawijaya/`)
+- Kabupaten Lanny Jaya (`lanny-jaya/`)
+- Kabupaten Mamberamo Tengah (`mamberamo-tengah/`)
+- Kabupaten Nduga (`nduga/`)
+- Kabupaten Pegunungan Bintang (`pegunungan-bintang/`)
+- Kabupaten Tolikara (`tolikara/`)
+- Kabupaten Yalimo (`yalimo/`)
 
-- Gunakan huruf kecil.
-- Gunakan tanda hubung (kebab-case).
-- Satu folder per kabupaten, dan isi `README.md` di dalamnya.
+## Catatan
+
+- Nama folder: kebab-case lowercase.
+- Isi `README.md` per Kabupaten dengan template.

@@ -1,9 +1,27 @@
-# Kabupaten
+# Daftar Kabupaten di Jawa Barat
 
-Folder ini disiapkan untuk dokumentasi seluruh kabupaten pada provinsi ini.
+## Daftar
 
-## Aturan penamaan folder
+- Kabupaten Bandung (`bandung/`)
+- Kabupaten Bandung Barat (`bandung-barat/`)
+- Kabupaten Bekasi (`bekasi/`)
+- Kabupaten Bogor (`bogor/`)
+- Kabupaten Ciamis (`ciamis/`)
+- Kabupaten Cianjur (`cianjur/`)
+- Kabupaten Cirebon (`cirebon/`)
+- Kabupaten Garut (`garut/`)
+- Kabupaten Indramayu (`indramayu/`)
+- Kabupaten Karawang (`karawang/`)
+- Kabupaten Kuningan (`kuningan/`)
+- Kabupaten Majalengka (`majalengka/`)
+- Kabupaten Pangandaran (`pangandaran/`)
+- Kabupaten Purwakarta (`purwakarta/`)
+- Kabupaten Subang (`subang/`)
+- Kabupaten Sukabumi (`sukabumi/`)
+- Kabupaten Sumedang (`sumedang/`)
+- Kabupaten Tasikmalaya (`tasikmalaya/`)
 
-- Gunakan huruf kecil.
-- Gunakan tanda hubung (kebab-case).
-- Satu folder per kabupaten, dan isi `README.md` di dalamnya.
+## Catatan
+
+- Nama folder: kebab-case lowercase.
+- Isi `README.md` per Kabupaten dengan template.

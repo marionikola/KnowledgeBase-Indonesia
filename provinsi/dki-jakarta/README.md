@@ -2,45 +2,47 @@
 
 ## Ringkasan
 
-Daerah Khusus Ibukota Jakarta (DKI Jakarta) adalah ibu kota negara Indonesia, pusat ekonomi-politik, luas 662 km², populasi ~10,6 juta jiwa (terpadat). [web:175][web:177]
+DKI Jakarta adalah ibu kota negara Indonesia (hingga pemindahan ke IKN), luas 664 km², populasi ~10,6 juta jiwa (metropolitan ~34 juta).
 
 ## Administrasi
 
-- 1 kabupaten admin: Kepulauan Seribu.
-- 5 kota admin: Jakarta Pusat, Jakarta Barat, Jakarta Utara, Jakarta Selatan, Jakarta Timur.
+**Kabupaten (1):**
+- Kepulauan Seribu
 
-Lihat `kabupaten/` `kota/`.
+**Kota (5):**
+- Jakarta Barat
+- Jakarta Pusat
+- Jakarta Selatan
+- Jakarta Timur
+- Jakarta Utara
+
+Lihat `kabupaten/` dan `kota/`.
 
 ## Sejarah singkat
 
-- Didirikan 22 Juni 1527 oleh Fatahillah (Jayakarta); kolonial Batavia; ibukota RI sejak 1945. [web:175]
+- Batavia (VOC, 1619); Jayakarta (Fatahillah, 1527); Proklamasi kemerdekaan RI (1945).
 
-## Fun fact
+## Fun fact / hal menarik
 
-- Monas (tugu nasional 132m). [web:175]
+- Kota metropolitan terbesar di Asia Tenggara.
+- Akan berpindah status ibu kota ke Nusantara (IKN) di Kalimantan Timur.
 
 ## Budaya
 
-- Betawi (lenong, ondel-ondel).
+- Ondel-ondel (boneka raksasa Betawi); Lenong; Tanjidor.
 
 ## Kuliner
 
-- Kerak telor, soto Betawi, nasi uduk.
+- Kerak telor; Soto Betawi; Nasi uduk; Bir pletok.
 
 ## Wisata
 
-Tabel 50 destinasi sorted wilayah:
-
-| No | Nama | Jenis | Wilayah |
-|----|------|-------|---------|
-| 1 | Monas | Ikon | Jakarta Pusat |
-| ... | (49 lebih: Kota Tua, Ancol, TMII) | ... | ... |
+- Monas, Kota Tua, Kepulauan Seribu, Ancol, TMII.
 
 ## Tokoh
 
-- Soekarno; Soeharto.
+- Soekarno-Hatta (proklamator); Fatahillah (pendiri Jayakarta).
 
 ## Referensi
 
-- Admin DKI: https://www.jakarta.go.id [web:175]
-- Daftar: https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_Indonesia_menurut_provinsi [web:177]
+- Wikipedia DKI Jakarta: https://id.wikipedia.org/wiki/Daerah_Khusus_Ibukota_Jakarta

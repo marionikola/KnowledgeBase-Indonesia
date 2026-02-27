@@ -2,39 +2,56 @@
 
 ## Ringkasan
 
-Provinsi Lampung berada di ujung selatan Sumatra dengan ibu kota Bandar Lampung, menjadi gerbang utama Pulau Sumatra dari arah Jawa dan wilayah transmigrasi penting sejak era Orde Baru. [web:165]
+Lampung adalah provinsi di ujung selatan Sumatera, ibu kota Bandar Lampung, luas 34.623 km², populasi ~9,2 juta jiwa.
 
 ## Administrasi
 
-- Kabupaten/kota antara lain: Lampung Barat, Lampung Selatan, Lampung Tengah, Lampung Timur, Lampung Utara, Mesuji, Pesawaran, Pesisir Barat, Pringsewu, Tanggamus, Tulang Bawang, Tulang Bawang Barat, Way Kanan, Kota Bandar Lampung, Kota Metro. [web:41][web:165]
+**Kabupaten (13):**
+- Lampung Barat
+- Lampung Selatan
+- Lampung Tengah
+- Lampung Timur
+- Lampung Utara
+- Mesuji
+- Pesawaran
+- Pesisir Barat
+- Pringsewu
+- Tanggamus
+- Tulang Bawang
+- Tulang Bawang Barat
+- Way Kanan
+
+**Kota (2):**
+- Bandar Lampung
+- Metro
+
+Lihat `kabupaten/` dan `kota/`.
 
 ## Sejarah singkat
 
-- Wilayah pengaruh Kesultanan Banten dan Palembang; berkembang sebagai daerah perkebunan kopi, lada, dan kemudian transmigrasi nasional. [web:165]
+- Kerajaan Sekala Brak (abad 3); gerbang Sumatera dari Jawa via Selat Sunda.
 
 ## Fun fact / hal menarik
 
-- Simbol gajah sangat kuat karena keberadaan Taman Nasional Way Kambas sebagai pusat konservasi gajah Sumatra. [web:165]
+- Taman Nasional Way Kambas, pusat konservasi gajah Sumatera.
+- Kain tapis, kain tenun tradisional Lampung.
 
 ## Budaya
 
-- Rumah adat Nuwo Sesat, seni tari Sigeh Pengunten, dan tradisi adat Sai Batin serta Pepadun. [web:165]
+- Tari Sembah; Kain Tapis; Upacara Cangget.
 
 ## Kuliner
 
-- Seruit (pindang ikan dengan sambal/seruit), gulai taboh, dan keripik pisang aneka rasa. [web:165]
+- Seruit (ikan bakar sambal); Pindang patin; Kue engkak.
 
 ## Wisata
 
-Kerangka tabel wisata (minimal 50 destinasi) akan mencakup antara lain Way Kambas, Teluk Kiluan, Pantai Tanjung Setia, dan beragam pantai di pesisir barat. [web:165]
+- Taman Nasional Way Kambas, Krakatau, Pantai Mutun.
 
-| No | Nama Tempat | Jenis Wisata | Wilayah |
-|----|-------------|--------------|---------|
+## Tokoh
 
-## Tokoh / kontribusi
-
-- Tokoh Lampung modern dan adat akan diisi kemudian.
+- Radin Inten II (pahlawan nasional).
 
 ## Referensi
 
-- Sejarah daerah Lampung: dokumen "Sejarah Daerah Lampung" Kemendikbud [web:165]
+- Wikipedia Lampung: https://id.wikipedia.org/wiki/Lampung

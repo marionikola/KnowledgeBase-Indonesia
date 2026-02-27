@@ -2,37 +2,55 @@
 
 ## Ringkasan
 
-Kalimantan Tengah (Kalteng) ibukota Palangka Raya, luas 153.564 km², populasi ~2,8 juta. [web:220]
+Kalimantan Tengah adalah provinsi terluas kedua di Indonesia, ibu kota Palangka Raya, luas 153.564 km², populasi ~2,7 juta jiwa.
 
 ## Administrasi
 
-- 13 kabupaten: Barito Selatan, Barito Timur, Barito Utara, Gunung Mas, Kapuas, Katingan, Kotawaringin Barat, Kotawaringin Timur, Lamandau, Murung Raya, Pulang Pisau, Seruyan, Sukamara.
-- 1 kota: Palangka Raya. [web:220]
+**Kabupaten (13):**
+- Barito Selatan
+- Barito Timur
+- Barito Utara
+- Gunung Mas
+- Kapuas
+- Katingan
+- Kotawaringin Barat
+- Kotawaringin Timur
+- Lamandau
+- Murung Raya
+- Pulang Pisau
+- Seruyan
+- Sukamara
 
-## Sejarah
+**Kota (1):**
+- Palangka Raya
 
-- Tumbang Anoi 1894 (perdamaian Dayak). [web:220]
+Lihat `kabupaten/` dan `kota/`.
 
-## Fun fact
+## Sejarah singkat
 
-- Orangutan habitat Tanjung Puting. [web:220]
+- Dibentuk tahun 1957; Palangka Raya pernah direncanakan sebagai ibu kota RI.
+
+## Fun fact / hal menarik
+
+- Taman Nasional Tanjung Puting, habitat orangutan terbesar di dunia.
+- Sungai Kahayan, sungai terpanjang di Kalimantan Tengah.
 
 ## Budaya
 
-- Mandau Dayak; Tatu tradisional.
+- Tari Mandau; Upacara Tiwah (Dayak Ngaju); Rumah Betang.
 
 ## Kuliner
 
-- Juhu singkah (sayur khas Dayak).
+- Juhu singkah (umbut rotan); Kalumpe (daun singkong); Wadi (ikan fermentasi).
 
 ## Wisata
 
-Tabel 50 (Tanjung Puting, Sebangau).
+- Taman Nasional Tanjung Puting, Danau Sembuluh, Sungai Kahayan.
 
 ## Tokoh
 
-- Tjilik Riwut.
+- Tjilik Riwut (gubernur pertama, pahlawan nasional).
 
 ## Referensi
 
-- Wiki Kalteng: https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_Kalimantan_Tengah [web:220]
+- Wikipedia Kalimantan Tengah: https://id.wikipedia.org/wiki/Kalimantan_Tengah

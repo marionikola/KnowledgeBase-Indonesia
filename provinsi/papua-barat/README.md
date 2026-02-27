@@ -2,37 +2,49 @@
 
 ## Ringkasan
 
-Papua Barat ibukota Manokwari, luas 102.955 km², populasi ~1,1 juta (post pemekaran PBD). [web:266]
+Papua Barat adalah provinsi di kepala burung Pulau Papua, ibu kota Manokwari, luas 97.024 km², populasi ~1 juta jiwa.
 
 ## Administrasi
 
-- 7 kabupaten: Fakfak, Kaimana, Manokwari, Manokwari Selatan, Pegunungan Arfak, Teluk Bintuni, Teluk Wondama.
-- 0 kota (tanpa kota). [web:266][web:268]
+**Kabupaten (7):**
+- Fakfak
+- Kaimana
+- Manokwari
+- Manokwari Selatan
+- Pegunungan Arfak
+- Teluk Bintuni
+- Teluk Wondama
 
-## Sejarah
+**Kota (1):**
+- Sorong
 
-- Pemekaran Papua 2003. [web:266]
+Lihat `kabupaten/` dan `kota/`.
 
-## Fun fact
+## Sejarah singkat
 
-- Cenderawasih endemik. [web:266]
+- Pemekaran dari Papua tahun 2003; Sorong, kota minyak dan gerbang Raja Ampat.
+
+## Fun fact / hal menarik
+
+- Teluk Cenderawasih, taman nasional laut terbesar di Indonesia.
+- Fakfak, penghasil pala terbaik di dunia.
 
 ## Budaya
 
-- Rumah Kaki Seribu.
+- Tari Wor; Upacara Bakar Batu; Noken (tas rajut Papua, UNESCO).
 
 ## Kuliner
 
-- Papeda; Ulat sagu.
+- Ikan bakar manokwari; Papeda; Sagu.
 
 ## Wisata
 
-Tabel 50 (Teluk Cenderawasih).
+- Raja Ampat, Teluk Cenderawasih, Taman Nasional Manusela.
 
 ## Tokoh
 
-- Frans Kaisiepo.
+- Abraham Octavianus Atururi (gubernur pertama).
 
 ## Referensi
 
-- Daftar Papua Barat: lediknas [web:266]
+- Wikipedia Papua Barat: https://id.wikipedia.org/wiki/Papua_Barat

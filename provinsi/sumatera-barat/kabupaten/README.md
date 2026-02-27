@@ -1,9 +1,21 @@
-# Kabupaten
+# Daftar Kabupaten di Sumatera Barat
 
-Folder ini disiapkan untuk dokumentasi seluruh kabupaten pada provinsi ini.
+## Daftar
 
-## Aturan penamaan folder
+- Kabupaten Agam (`agam/`)
+- Kabupaten Dharmasraya (`dharmasraya/`)
+- Kabupaten Kepulauan Mentawai (`kepulauan-mentawai/`)
+- Kabupaten Lima Puluh Kota (`lima-puluh-kota/`)
+- Kabupaten Padang Pariaman (`padang-pariaman/`)
+- Kabupaten Pasaman (`pasaman/`)
+- Kabupaten Pasaman Barat (`pasaman-barat/`)
+- Kabupaten Pesisir Selatan (`pesisir-selatan/`)
+- Kabupaten Sijunjung (`sijunjung/`)
+- Kabupaten Solok (`solok/`)
+- Kabupaten Solok Selatan (`solok-selatan/`)
+- Kabupaten Tanah Datar (`tanah-datar/`)
 
-- Gunakan huruf kecil.
-- Gunakan tanda hubung (kebab-case).
-- Satu folder per kabupaten, dan isi `README.md` di dalamnya.
+## Catatan
+
+- Nama folder: kebab-case lowercase.
+- Isi `README.md` per Kabupaten dengan template.

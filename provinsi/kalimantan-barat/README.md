@@ -2,37 +2,55 @@
 
 ## Ringkasan
 
-Kalbar ibukota Pontianak, luas 146.760 km², populasi ~5,4 juta, Dayak-Melayu. [web:198]
+Kalimantan Barat adalah provinsi di barat Pulau Kalimantan, ibu kota Pontianak, luas 147.307 km², populasi ~5,4 juta jiwa.
 
 ## Administrasi
 
-- 12 kabupaten: Bengkayang, Kapuas Hulu, Kayong Utara, Ketapang, Kubu Raya, Landak, Melawi, Mempawah, Sambas, Sanggau, Sekadau, Sintang.
-- 2 kota: Pontianak, Singkawang. [web:198]
+**Kabupaten (12):**
+- Bengkayang
+- Kapuas Hulu
+- Kayong Utara
+- Ketapang
+- Kubu Raya
+- Landak
+- Melawi
+- Mempawah
+- Sambas
+- Sanggau
+- Sekadau
+- Sintang
 
-## Sejarah
+**Kota (2):**
+- Pontianak
+- Singkawang
 
-- Kesultanan Pontianak. [web:198]
+Lihat `kabupaten/` dan `kota/`.
 
-## Fun fact
+## Sejarah singkat
 
-- Khatulistiwa tepat Pontianak.
+- Kesultanan Pontianak (1771); Kota Pontianak tepat di garis khatulistiwa.
+
+## Fun fact / hal menarik
+
+- Pontianak adalah satu-satunya kota di dunia yang dilalui garis khatulistiwa dan memiliki Tugu Khatulistiwa.
+- Sungai Kapuas, sungai terpanjang di Indonesia (1.143 km).
 
 ## Budaya
 
-- Mantra Dayak.
+- Tari Monong; Festival Cap Go Meh Singkawang; Rumah Betang Dayak.
 
 ## Kuliner
 
-- Tempoyak; Kue bingka.
+- Mie tiaw; Bubur pedas; Chai kwe.
 
 ## Wisata
 
-Tabel 50 (Khatulistiwa, Sungai Kapuas).
+- Tugu Khatulistiwa, Taman Nasional Gunung Palung, Danau Sentarum.
 
 ## Tokoh
 
-- Oevaang Oeray.
+- Usman Janatin (pahlawan nasional).
 
 ## Referensi
 
-- Wiki Kalbar: https://id.wikipedia.org/wiki/Kalimantan_Barat [web:198]
+- Wikipedia Kalimantan Barat: https://id.wikipedia.org/wiki/Kalimantan_Barat

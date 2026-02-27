@@ -1,9 +1,16 @@
-# Kota
+# Daftar Kota di Sumatera Barat
 
-Folder ini disiapkan untuk dokumentasi seluruh kota pada provinsi ini.
+## Daftar
 
-## Aturan penamaan folder
+- Kota Bukittinggi (`bukittinggi/`)
+- Kota Padang (`padang/`)
+- Kota Padang Panjang (`padang-panjang/`)
+- Kota Pariaman (`pariaman/`)
+- Kota Payakumbuh (`payakumbuh/`)
+- Kota Sawahlunto (`sawahlunto/`)
+- Kota Solok (`solok/`)
 
-- Gunakan huruf kecil.
-- Gunakan tanda hubung (kebab-case).
-- Satu folder per kota, dan isi `README.md` di dalamnya.
+## Catatan
+
+- Nama folder: kebab-case lowercase.
+- Isi `README.md` per Kota dengan template.

@@ -1,9 +1,14 @@
-# Kota
+# Daftar Kota di Dki Jakarta
 
-Folder ini disiapkan untuk dokumentasi seluruh kota pada provinsi ini.
+## Daftar
 
-## Aturan penamaan folder
+- Kota Jakarta Barat (`jakarta-barat/`)
+- Kota Jakarta Pusat (`jakarta-pusat/`)
+- Kota Jakarta Selatan (`jakarta-selatan/`)
+- Kota Jakarta Timur (`jakarta-timur/`)
+- Kota Jakarta Utara (`jakarta-utara/`)
 
-- Gunakan huruf kecil.
-- Gunakan tanda hubung (kebab-case).
-- Satu folder per kota, dan isi `README.md` di dalamnya.
+## Catatan
+
+- Nama folder: kebab-case lowercase.
+- Isi `README.md` per Kota dengan template.

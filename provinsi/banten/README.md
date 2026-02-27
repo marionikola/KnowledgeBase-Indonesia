@@ -2,44 +2,50 @@
 
 ## Ringkasan
 
-Provinsi Banten berlokasi di ujung barat Pulau Jawa, ibu kota Kota Serang, luas 9.662 km², populasi ~12,6 juta jiwa, dikenal sebagai Bumi Jawara dan pusat industri di sekitar Jakarta. [web:197][web:202]
+Banten adalah provinsi di ujung barat Pulau Jawa, ibu kota Serang, luas 9.663 km², populasi ~12 juta jiwa. Dibentuk tahun 2000 dari pemekaran Jawa Barat.
 
 ## Administrasi
 
-- 4 kabupaten: Lebak, Pandeglang, Serang, Tangerang.
-- 4 kota: Cilegon, Serang, Tangerang, Tangerang Selatan. [web:197]
+**Kabupaten (4):**
+- Lebak
+- Pandeglang
+- Serang
+- Tangerang
 
-Lihat `kabupaten/` `kota/`.
+**Kota (4):**
+- Cilegon
+- Serang
+- Tangerang
+- Tangerang Selatan
+
+Lihat `kabupaten/` dan `kota/`.
 
 ## Sejarah singkat
 
-- Wilayah Kesultanan Banten (abad 16-19); menjadi provinsi pemekaran Jawa Barat tahun 2000. [web:197]
+- Kesultanan Banten (abad 16-19); pusat perdagangan lada dunia.
+- Pemekaran dari Jawa Barat menjadi provinsi tersendiri pada tahun 2000.
 
-## Fun fact
+## Fun fact / hal menarik
 
-- Sate bandeng unik (ikan utuh dibakar). [web:202][web:205]
+- Ujung Kulon, habitat terakhir badak Jawa (Rhinoceros sondaicus).
+- Krakatau, gunung berapi legendaris di Selat Sunda.
 
 ## Budaya
 
-- Debus; Tari Andan.
+- Debus (seni bela diri kebal senjata); Tari Cokek; Batik Banten.
 
 ## Kuliner
 
-- Sate bandeng; Nasi Belendong. [web:202]
+- Sate bandeng; Rabeg (gulai kambing); Kue pasung.
 
 ## Wisata
 
-Tabel 50 destinasi sorted wilayah:
-
-| No | Nama | Jenis | Wilayah |
-|----|------|-------|---------|
-| 1 | Tanjung Lesung | Pantai | Pandeglang |
-| ... | (49 lebih: Carita, Ujung Kulon) | ... | ... |
+- Taman Nasional Ujung Kulon, Krakatau, Pantai Anyer, Pantai Carita.
 
 ## Tokoh
 
-- Ki Ageng Giring.
+- Sultan Ageng Tirtayasa (pahlawan nasional); Tb. Chasan Sochib (tokoh Banten).
 
 ## Referensi
 
-- Wisata Banten: BPS Banten [web:197]; Makanan: CNN [web:202]
+- Wikipedia Banten: https://id.wikipedia.org/wiki/Banten

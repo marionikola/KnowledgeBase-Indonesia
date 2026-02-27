@@ -2,37 +2,53 @@
 
 ## Ringkasan
 
-Riau ibukota Pekanbaru, luas 87.023 km², populasi ~6,6 juta, kaya migas. [web:138]
+Riau adalah provinsi di Sumatera bagian tengah, ibu kota Pekanbaru, luas 87.023 km², populasi ~7 juta jiwa. Penghasil minyak bumi terbesar Indonesia.
 
 ## Administrasi
 
-- 10 kabupaten: Bengkalis, Indragiri Hilir, Indragiri Hulu, Kampar, Kepulauan Meranti, Kuantan Singingi, Pelalawan, Rokan Hilir, Rokan Hulu, Siak.
-- 2 kota: Dumai, Pekanbaru.
+**Kabupaten (10):**
+- Bengkalis
+- Indragiri Hilir
+- Indragiri Hulu
+- Kampar
+- Kepulauan Meranti
+- Kuantan Singingi
+- Pelalawan
+- Rokan Hilir
+- Rokan Hulu
+- Siak
 
-## Sejarah
+**Kota (2):**
+- Dumai
+- Pekanbaru
 
-- Kesultanan Melayu Riau-Lingga.
+Lihat `kabupaten/` dan `kota/`.
 
-## Fun fact
+## Sejarah singkat
 
-- Hutan mangrove terbesar.
+- Kesultanan Siak Sri Indrapura (1723); pusat produksi minyak bumi Indonesia.
+
+## Fun fact / hal menarik
+
+- Penghasil minyak bumi terbesar di Indonesia.
+- Istana Siak, istana kerajaan Melayu yang megah.
 
 ## Budaya
 
-- Melayu Randai.
+- Tari Zapin; Pantun Melayu; Batik Riau.
 
 ## Kuliner
 
-- Gulai ikan patin; Kerupuk sangar.
+- Gulai ikan patin; Asam pedas; Bolu kemojo.
 
 ## Wisata
 
-Tabel 50 (contoh: Taman Nasional Zamrud Bukit Batu).
+- Istana Siak, Danau Bawah, Taman Nasional Tesso Nilo.
 
 ## Tokoh
 
-- Suriansyah.
+- Sultan Syarif Kasim II (pahlawan nasional).
 
 ## Referensi
 
-- Kuliner Riau: https://badanbahasa.kemendikdasmen.go.id [web:138]
+- Wikipedia Riau: https://id.wikipedia.org/wiki/Riau

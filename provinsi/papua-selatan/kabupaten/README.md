@@ -1,9 +1,13 @@
-# Kabupaten
+# Daftar Kabupaten di Papua Selatan
 
-Folder ini disiapkan untuk dokumentasi seluruh kabupaten pada provinsi ini.
+## Daftar
 
-## Aturan penamaan folder
+- Kabupaten Asmat (`asmat/`)
+- Kabupaten Boven Digoel (`boven-digoel/`)
+- Kabupaten Mappi (`mappi/`)
+- Kabupaten Merauke (`merauke/`)
 
-- Gunakan huruf kecil.
-- Gunakan tanda hubung (kebab-case).
-- Satu folder per kabupaten, dan isi `README.md` di dalamnya.
+## Catatan
+
+- Nama folder: kebab-case lowercase.
+- Isi `README.md` per Kabupaten dengan template.

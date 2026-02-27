@@ -2,37 +2,70 @@
 
 ## Ringkasan
 
-Papua ibukota Jayapura, luas 319.036 km², populasi ~4,3 juta (post pemekaran). [web:264]
+Papua adalah provinsi di ujung timur Indonesia, ibu kota Jayapura, luas 90.676 km², populasi ~1,1 juta jiwa (setelah pemekaran 2022).
 
 ## Administrasi
 
-- 8 kabupaten: Asmat, Biak Numfor, Boven Digoel, Jayapura, Keerom, Mappi, Merauke, Sarmi, Supiori, Waropen, Yapen (variatif post-2024).
-- 1 kota: Jayapura. [web:264]
+**Kabupaten (28):**
+- Asmat
+- Biak Numfor
+- Boven Digoel
+- Deiyai
+- Dogiyai
+- Intan Jaya
+- Jayapura
+- Jayawijaya
+- Keerom
+- Kepulauan Yapen
+- Lanny Jaya
+- Mamberamo Raya
+- Mamberamo Tengah
+- Mappi
+- Merauke
+- Mimika
+- Nabire
+- Nduga
+- Paniai
+- Pegunungan Bintang
+- Puncak
+- Puncak Jaya
+- Sarmi
+- Supiori
+- Tolikara
+- Waropen
+- Yahukimo
+- Yalimo
 
-## Sejarah
+**Kota (1):**
+- Jayapura
 
-- Irian Jaya; Act Free Choice 1969. [web:264]
+Lihat `kabupaten/` dan `kota/`.
 
-## Fun fact
+## Sejarah singkat
 
-- Raja Ampat biodiversitas tertinggi. [web:264]
+- Integrasi Papua ke Indonesia (1969, Pepera); pemekaran menjadi 6 provinsi (2022).
+
+## Fun fact / hal menarik
+
+- Puncak Jaya (Carstensz Pyramid), puncak tertinggi di Indonesia (4.884 m).
+- Suku Asmat, terkenal dengan ukiran kayu tradisional.
 
 ## Budaya
 
-- Honai; Koteka; Tari Yospan.
+- Tari Yospan; Ukiran Asmat; Koteka (pakaian adat).
 
 ## Kuliner
 
-- Papeda; Ikan bakar kuah kuning.
+- Papeda; Ikan bakar manokwari; Sagu lempeng.
 
 ## Wisata
 
-Tabel 50 (Raja Ampat, Baliem).
+- Raja Ampat, Danau Sentani, Taman Nasional Lorentz.
 
 ## Tokoh
 
-- Theys Eluay.
+- Frans Kaisiepo (pahlawan nasional); Silas Papare (pahlawan nasional).
 
 ## Referensi
 
-- Wiki Papua: https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_Pulau_Papua [web:264]
+- Wikipedia Papua: https://id.wikipedia.org/wiki/Papua_(provinsi)

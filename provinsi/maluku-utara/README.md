@@ -2,37 +2,51 @@
 
 ## Ringkasan
 
-Maluku Utara (Malut) ibukota Sofifi, luas 31.983 km², populasi ~1,3 juta. [web:257]
+Maluku Utara adalah provinsi kepulauan di Indonesia Timur, ibu kota Sofifi, luas 31.982 km², populasi ~1,3 juta jiwa.
 
 ## Administrasi
 
-- 8 kabupaten: Halmahera Barat, Halmahera Selatan, Halmahera Tengah, Halmahera Timur, Halmahera Utara, Kepulauan Sula, Pulau Morotai, Pulau Taliabu.
-- 2 kota: Ternate, Tidore Kepulauan. [web:257]
+**Kabupaten (8):**
+- Halmahera Barat
+- Halmahera Selatan
+- Halmahera Tengah
+- Halmahera Timur
+- Halmahera Utara
+- Kepulauan Sula
+- Pulau Morotai
+- Pulau Taliabu
 
-## Sejarah
+**Kota (2):**
+- Ternate
+- Tidore Kepulauan
 
-- Kesultanan Ternate-Tidore. [web:257]
+Lihat `kabupaten/` dan `kota/`.
 
-## Fun fact
+## Sejarah singkat
 
-- Cengkih Ternate. [web:257]
+- Kesultanan Ternate dan Tidore, pusat perdagangan cengkeh dunia (abad 13-17).
+
+## Fun fact / hal menarik
+
+- Ternate dan Tidore, dua kesultanan yang bersaing memperebutkan hegemoni rempah.
+- Gunung Gamalama, gunung berapi aktif di Pulau Ternate.
 
 ## Budaya
 
-- Tari Soya-soya.
+- Tari Soya-soya; Upacara Kololi Kie; Musik Bambu Gila.
 
 ## Kuliner
 
-- Gohu ikan; Nasi lapola.
+- Gohu ikan (sashimi Maluku); Nasi jaha; Halua kenari.
 
 ## Wisata
 
-Tabel 50 (Morotai, Tidore).
+- Benteng Tolukko, Pulau Morotai, Danau Tolire.
 
 ## Tokoh
 
-- Sultan Babullah.
+- Sultan Baab Ullah (Sultan Ternate); Sultan Nuku (pahlawan nasional).
 
 ## Referensi
 
-- Wiki Malut: https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_Maluku_Utara [web:257]
+- Wikipedia Maluku Utara: https://id.wikipedia.org/wiki/Maluku_Utara

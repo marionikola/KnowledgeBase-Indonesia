@@ -2,37 +2,68 @@
 
 ## Ringkasan
 
-Jawa Barat ibukota Bandung, luas 35.377 km², populasi ~50 juta (terpadat provinsi). [web:178][web:180]
+Jawa Barat adalah provinsi terpadat di Indonesia, ibu kota Bandung, luas 35.377 km², populasi ~49 juta jiwa.
 
 ## Administrasi
 
-- 18 kabupaten: Bandung, Bandung Barat, Bekasi, Bogor, Ciamis, Cianjur, Cirebon, Garut, Indramayu, Karawang, Kuningan, Majalengka, Pangandaran, Purwakarta, Subang, Sukabumi, Sumedang, Tasikmalaya.
-- 9 kota: Bandung, Banjar, Bekasi, Bogor, Cimahi, Cirebon, Depok, Sukabumi, Tasikmalaya.
+**Kabupaten (18):**
+- Bandung
+- Bandung Barat
+- Bekasi
+- Bogor
+- Ciamis
+- Cianjur
+- Cirebon
+- Garut
+- Indramayu
+- Karawang
+- Kuningan
+- Majalengka
+- Pangandaran
+- Purwakarta
+- Subang
+- Sukabumi
+- Sumedang
+- Tasikmalaya
 
-## Sejarah
+**Kota (9):**
+- Bandung
+- Banjar
+- Bekasi
+- Bogor
+- Cimahi
+- Cirebon
+- Depok
+- Sukabumi
+- Tasikmalaya
 
-- Kerajaan Sunda Pajajaran; kolonial Bandoeng. [web:178]
+Lihat `kabupaten/` dan `kota/`.
 
-## Fun fact
+## Sejarah singkat
 
-- Bandung 'Paris van Java'. [web:178]
+- Kerajaan Sunda (abad 7-16); Kerajaan Pajajaran; Batavia (VOC) di wilayah barat.
+
+## Fun fact / hal menarik
+
+- Provinsi dengan populasi terbanyak di Indonesia.
+- Kawah Putih dan Tangkuban Perahu, gunung berapi aktif.
 
 ## Budaya
 
-- Angklung; Jaipong.
+- Angklung (UNESCO); Wayang Golek; Tari Jaipong; Batik Priangan.
 
 ## Kuliner
 
-- Nasi timbel; Karedok.
+- Nasi timbel; Karedok; Batagor; Siomay; Surabi.
 
 ## Wisata
 
-Tabel 50 sorted wilayah (contoh: Tangkuban Perahu Bandung).
+- Kawah Putih, Tangkuban Perahu, Pantai Pangandaran, Kebun Raya Bogor.
 
 ## Tokoh
 
-- HOS Tjokroaminoto.
+- Dewi Sartika (pahlawan pendidikan wanita); Daeng Soetigna (pencipta angklung modern).
 
 ## Referensi
 
-- Daftar Jabar: https://infogarut.id/daftar-lengkap-nama-nama-kabupaten-dan-kota-di-jawa-barat [web:178]
+- Wikipedia Jawa Barat: https://id.wikipedia.org/wiki/Jawa_Barat

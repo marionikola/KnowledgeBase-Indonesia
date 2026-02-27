@@ -1,9 +1,10 @@
-# Kota
+# Daftar Kota di Kepulauan Bangka Belitung
 
-Folder ini disiapkan untuk dokumentasi seluruh kota pada provinsi ini.
+## Daftar
 
-## Aturan penamaan folder
+- Kota Pangkal Pinang (`pangkal-pinang/`)
 
-- Gunakan huruf kecil.
-- Gunakan tanda hubung (kebab-case).
-- Satu folder per kota, dan isi `README.md` di dalamnya.
+## Catatan
+
+- Nama folder: kebab-case lowercase.
+- Isi `README.md` per Kota dengan template.

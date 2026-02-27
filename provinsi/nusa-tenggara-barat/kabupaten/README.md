@@ -1,9 +1,17 @@
-# Kabupaten
+# Daftar Kabupaten di Nusa Tenggara Barat
 
-Folder ini disiapkan untuk dokumentasi seluruh kabupaten pada provinsi ini.
+## Daftar
 
-## Aturan penamaan folder
+- Kabupaten Bima (`bima/`)
+- Kabupaten Dompu (`dompu/`)
+- Kabupaten Lombok Barat (`lombok-barat/`)
+- Kabupaten Lombok Tengah (`lombok-tengah/`)
+- Kabupaten Lombok Timur (`lombok-timur/`)
+- Kabupaten Lombok Utara (`lombok-utara/`)
+- Kabupaten Sumbawa (`sumbawa/`)
+- Kabupaten Sumbawa Barat (`sumbawa-barat/`)
 
-- Gunakan huruf kecil.
-- Gunakan tanda hubung (kebab-case).
-- Satu folder per kabupaten, dan isi `README.md` di dalamnya.
+## Catatan
+
+- Nama folder: kebab-case lowercase.
+- Isi `README.md` per Kabupaten dengan template.

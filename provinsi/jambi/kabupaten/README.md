@@ -1,9 +1,18 @@
-# Kabupaten
+# Daftar Kabupaten di Jambi
 
-Folder ini disiapkan untuk dokumentasi seluruh kabupaten pada provinsi ini.
+## Daftar
 
-## Aturan penamaan folder
+- Kabupaten Batanghari (`batanghari/`)
+- Kabupaten Bungo (`bungo/`)
+- Kabupaten Kerinci (`kerinci/`)
+- Kabupaten Merangin (`merangin/`)
+- Kabupaten Muaro Jambi (`muaro-jambi/`)
+- Kabupaten Sarolangun (`sarolangun/`)
+- Kabupaten Tanjung Jabung Barat (`tanjung-jabung-barat/`)
+- Kabupaten Tanjung Jabung Timur (`tanjung-jabung-timur/`)
+- Kabupaten Tebo (`tebo/`)
 
-- Gunakan huruf kecil.
-- Gunakan tanda hubung (kebab-case).
-- Satu folder per kabupaten, dan isi `README.md` di dalamnya.
+## Catatan
+
+- Nama folder: kebab-case lowercase.
+- Isi `README.md` per Kabupaten dengan template.

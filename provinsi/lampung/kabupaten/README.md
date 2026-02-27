@@ -1,9 +1,22 @@
-# Kabupaten
+# Daftar Kabupaten di Lampung
 
-Folder ini disiapkan untuk dokumentasi seluruh kabupaten pada provinsi ini.
+## Daftar
 
-## Aturan penamaan folder
+- Kabupaten Lampung Barat (`lampung-barat/`)
+- Kabupaten Lampung Selatan (`lampung-selatan/`)
+- Kabupaten Lampung Tengah (`lampung-tengah/`)
+- Kabupaten Lampung Timur (`lampung-timur/`)
+- Kabupaten Lampung Utara (`lampung-utara/`)
+- Kabupaten Mesuji (`mesuji/`)
+- Kabupaten Pesawaran (`pesawaran/`)
+- Kabupaten Pesisir Barat (`pesisir-barat/`)
+- Kabupaten Pringsewu (`pringsewu/`)
+- Kabupaten Tanggamus (`tanggamus/`)
+- Kabupaten Tulang Bawang (`tulang-bawang/`)
+- Kabupaten Tulang Bawang Barat (`tulang-bawang-barat/`)
+- Kabupaten Way Kanan (`way-kanan/`)
 
-- Gunakan huruf kecil.
-- Gunakan tanda hubung (kebab-case).
-- Satu folder per kabupaten, dan isi `README.md` di dalamnya.
+## Catatan
+
+- Nama folder: kebab-case lowercase.
+- Isi `README.md` per Kabupaten dengan template.

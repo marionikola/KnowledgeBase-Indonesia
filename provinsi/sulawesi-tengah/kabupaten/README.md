@@ -1,9 +1,21 @@
-# Kabupaten
+# Daftar Kabupaten di Sulawesi Tengah
 
-Folder ini disiapkan untuk dokumentasi seluruh kabupaten pada provinsi ini.
+## Daftar
 
-## Aturan penamaan folder
+- Kabupaten Banggai (`banggai/`)
+- Kabupaten Banggai Kepulauan (`banggai-kepulauan/`)
+- Kabupaten Banggai Laut (`banggai-laut/`)
+- Kabupaten Buol (`buol/`)
+- Kabupaten Donggala (`donggala/`)
+- Kabupaten Morowali (`morowali/`)
+- Kabupaten Morowali Utara (`morowali-utara/`)
+- Kabupaten Parigi Moutong (`parigi-moutong/`)
+- Kabupaten Poso (`poso/`)
+- Kabupaten Sigi (`sigi/`)
+- Kabupaten Tojo Una Una (`tojo-una-una/`)
+- Kabupaten Tolitoli (`tolitoli/`)
 
-- Gunakan huruf kecil.
-- Gunakan tanda hubung (kebab-case).
-- Satu folder per kabupaten, dan isi `README.md` di dalamnya.
+## Catatan
+
+- Nama folder: kebab-case lowercase.
+- Isi `README.md` per Kabupaten dengan template.

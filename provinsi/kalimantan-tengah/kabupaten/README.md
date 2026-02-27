@@ -1,9 +1,22 @@
-# Kabupaten
+# Daftar Kabupaten di Kalimantan Tengah
 
-Folder ini disiapkan untuk dokumentasi seluruh kabupaten pada provinsi ini.
+## Daftar
 
-## Aturan penamaan folder
+- Kabupaten Barito Selatan (`barito-selatan/`)
+- Kabupaten Barito Timur (`barito-timur/`)
+- Kabupaten Barito Utara (`barito-utara/`)
+- Kabupaten Gunung Mas (`gunung-mas/`)
+- Kabupaten Kapuas (`kapuas/`)
+- Kabupaten Katingan (`katingan/`)
+- Kabupaten Kotawaringin Barat (`kotawaringin-barat/`)
+- Kabupaten Kotawaringin Timur (`kotawaringin-timur/`)
+- Kabupaten Lamandau (`lamandau/`)
+- Kabupaten Murung Raya (`murung-raya/`)
+- Kabupaten Pulang Pisau (`pulang-pisau/`)
+- Kabupaten Seruyan (`seruyan/`)
+- Kabupaten Sukamara (`sukamara/`)
 
-- Gunakan huruf kecil.
-- Gunakan tanda hubung (kebab-case).
-- Satu folder per kabupaten, dan isi `README.md` di dalamnya.
+## Catatan
+
+- Nama folder: kebab-case lowercase.
+- Isi `README.md` per Kabupaten dengan template.

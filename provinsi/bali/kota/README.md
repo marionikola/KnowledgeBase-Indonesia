@@ -1,10 +1,10 @@
-# Daftar Kota Bali
+# Daftar Kota di Bali
 
-## Daftar (1 kota)
+## Daftar
 
-- Kota-Denpasar (`Kota-Denpasar/`)
+- Kota Denpasar (`denpasar/`)
 
 ## Catatan
 
-- Nama folder: Title-Kebab-Case sesuai EYD.
-- Isi `README.md` per kota dengan template.
+- Nama folder: kebab-case lowercase.
+- Isi `README.md` per Kota dengan template.

@@ -2,37 +2,48 @@
 
 ## Ringkasan
 
-Kepulauan Riau (Kepri) ibukota Tanjung Pinang, luas 8.248 km², populasi ~2,1 juta, pulau-pulau Melayu. [web:135]
+Kepulauan Riau adalah provinsi kepulauan di Selat Malaka, ibu kota Tanjung Pinang, luas 8.201 km², populasi ~2,2 juta jiwa.
 
 ## Administrasi
 
-- 5 kabupaten: Bintan, Karimun, Lingga, Natuna, Tanjung Jabung Barat.
-- 2 kota: Batam, Tanjung Pinang.
+**Kabupaten (5):**
+- Bintan
+- Karimun
+- Kepulauan Anambas
+- Lingga
+- Natuna
 
-## Sejarah
+**Kota (2):**
+- Batam
+- Tanjung Pinang
 
-- Kesultanan Riau-Lingga.
+Lihat `kabupaten/` dan `kota/`.
 
-## Fun fact
+## Sejarah singkat
 
-- Banyak pulau >3rb.
+- Kesultanan Riau-Lingga (1722-1911); Batam dikembangkan sebagai kawasan industri (1970-an).
+
+## Fun fact / hal menarik
+
+- Batam, kota industri dan perdagangan bebas terbesar di Indonesia.
+- Kepulauan Natuna, wilayah paling utara Indonesia di Laut China Selatan.
 
 ## Budaya
 
-- Tabuh; Istana Kesultanan.
+- Tari Zapin; Pantun Melayu; Upacara Tepuk Tepung Tawar.
 
 ## Kuliner
 
-- Otak-otak; Gong-gong.
+- Mie tarempa; Otak-otak; Gonggong (siput laut).
 
 ## Wisata
 
-Tabel 50 (contoh: Pulau Bintan, Lagoi Bay).
+- Pulau Bintan, Batam (belanja), Kepulauan Anambas.
 
 ## Tokoh
 
-- Raja Ali Haji.
+- Raja Ali Haji (pujangga, Gurindam Dua Belas).
 
 ## Referensi
 
-- Desa wisata Kepri: https://ppid.kepriprov.go.id [web:141]
+- Wikipedia Kepri: https://id.wikipedia.org/wiki/Kepulauan_Riau

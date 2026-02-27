@@ -2,37 +2,46 @@
 
 ## Ringkasan
 
-Papua Selatan ibukota Merauke, luas ~129.000 km², populasi ~600rb, pemekaran 2022. [web:255][web:264]
+Papua Selatan adalah provinsi baru (2022) hasil pemekaran Papua, ibu kota Merauke, luas ~119.000 km², populasi ~500 ribu jiwa.
 
 ## Administrasi
 
-- 4 kabupaten: Asmat, Boven Digoel, Mappi, Merauke.
-- 0 kota (tanpa kota). [web:264]
+**Kabupaten (4):**
+- Asmat
+- Boven Digoel
+- Mappi
+- Merauke
 
-## Sejarah
+**Kota:**
+- (tidak ada kota)
 
-- Pemekaran Papua 2022. [web:255]
+Lihat `kabupaten/`.
 
-## Fun fact
+## Sejarah singkat
 
-- Merauke kota paling timur Indonesia. [web:255]
+- Dibentuk tahun 2022; Merauke, kota paling timur Indonesia.
+
+## Fun fact / hal menarik
+
+- Merauke, titik paling timur Indonesia (Sabang-Merauke).
+- Taman Nasional Wasur, lahan basah terbesar di Papua.
 
 ## Budaya
 
-- Suku Asmat ukiran kayu.
+- Suku Marind; Tari Yosim Pancar; Ukiran Asmat.
 
 ## Kuliner
 
-- Sagu bakar; Ikan rawa.
+- Papeda; Ikan bakar; Sagu.
 
 ## Wisata
 
-Tabel 50 (Wasur NP, Asmat ukiran).
+- Taman Nasional Wasur, Pantai Lampu Satu, Sungai Maro.
 
 ## Tokoh
 
-- Frederika Korain.
+- Tokoh-tokoh adat Merauke.
 
 ## Referensi
 
-- Reddit Papua: https://www.reddit.com/r/indonesia/comments/vo2rqd [web:255]
+- Wikipedia Papua Selatan: https://id.wikipedia.org/wiki/Papua_Selatan

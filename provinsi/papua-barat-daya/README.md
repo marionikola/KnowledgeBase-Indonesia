@@ -2,37 +2,47 @@
 
 ## Ringkasan
 
-Papua Barat Daya (PBD) ibukota Sorong, luas 35.000 km², populasi ~600rb, provinsi ke-38 (2022). [web:252][web:270]
+Papua Barat Daya adalah provinsi baru (2022) hasil pemekaran Papua Barat, ibu kota Sorong, luas ~40.000 km², populasi ~500 ribu jiwa.
 
 ## Administrasi
 
-- 5 kabupaten: Maybrat, Raja Ampat, Sorong, Sorong Selatan, Tambrauw.
-- 1 kota: Sorong. [web:262][web:270]
+**Kabupaten (5):**
+- Maybrat
+- Raja Ampat
+- Sorong
+- Sorong Selatan
+- Tambrauw
 
-## Sejarah
+**Kota (1):**
+- Sorong
 
-- Pemekaran Papua Barat 2022. [web:252][web:270]
+Lihat `kabupaten/` dan `kota/`.
 
-## Fun fact
+## Sejarah singkat
 
-- Raja Ampat diving paradise. [web:270]
+- Dibentuk tahun 2022 dari pemekaran Papua Barat; Raja Ampat terkenal sebagai surga bawah laut.
+
+## Fun fact / hal menarik
+
+- Raja Ampat, destinasi menyelam terbaik di dunia dengan keanekaragaman hayati laut tertinggi.
+- Provinsi termuda kedua di Indonesia.
 
 ## Budaya
 
-- Tarian perang Papua.
+- Tari Wor; Noken (UNESCO); Upacara Bakar Batu.
 
 ## Kuliner
 
-- Ikan bakar kuah kuning.
+- Ikan bakar; Papeda; Kepiting kenari.
 
 ## Wisata
 
-Tabel 50 (Raja Ampat, Tambrauw konservasi).
+- Raja Ampat, Pulau Misool, Pulau Waigeo.
 
 ## Tokoh
 
-- Johny Kamuru.
+- Tokoh-tokoh adat Raja Ampat.
 
 ## Referensi
 
-- Wiki PBD: https://id.wikipedia.org/wiki/Papua_Barat_Daya [web:270]
+- Wikipedia Papua Barat Daya: https://id.wikipedia.org/wiki/Papua_Barat_Daya

@@ -1,9 +1,13 @@
-# Kabupaten
+# Daftar Kabupaten di Di Yogyakarta
 
-Folder ini disiapkan untuk dokumentasi seluruh kabupaten pada provinsi ini.
+## Daftar
 
-## Aturan penamaan folder
+- Kabupaten Bantul (`bantul/`)
+- Kabupaten Gunungkidul (`gunungkidul/`)
+- Kabupaten Kulon Progo (`kulon-progo/`)
+- Kabupaten Sleman (`sleman/`)
 
-- Gunakan huruf kecil.
-- Gunakan tanda hubung (kebab-case).
-- Satu folder per kabupaten, dan isi `README.md` di dalamnya.
+## Catatan
+
+- Nama folder: kebab-case lowercase.
+- Isi `README.md` per Kabupaten dengan template.

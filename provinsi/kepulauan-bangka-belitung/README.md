@@ -2,41 +2,48 @@
 
 ## Ringkasan
 
-Provinsi Kepulauan Bangka Belitung (Babel) terdiri dari dua pulau utama, Bangka dan Belitung, dengan ibu kota Pangkalpinang dan dikenal sebagai daerah tambang timah serta destinasi pantai dan kuliner laut. [web:156]
+Kepulauan Bangka Belitung adalah provinsi kepulauan di Laut Jawa, ibu kota Pangkal Pinang, luas 16.424 km², populasi ~1,5 juta jiwa.
 
 ## Administrasi
 
-- 6 kabupaten: Bangka, Bangka Barat, Bangka Tengah, Bangka Selatan, Belitung, Belitung Timur. [web:156]
-- 1 kota: Pangkalpinang. [web:156]
+**Kabupaten (6):**
+- Bangka
+- Bangka Barat
+- Bangka Selatan
+- Bangka Tengah
+- Belitung
+- Belitung Timur
+
+**Kota (1):**
+- Pangkal Pinang
+
+Lihat `kabupaten/` dan `kota/`.
 
 ## Sejarah singkat
 
-- Wilayah ini pernah berada di bawah pengaruh Kesultanan Palembang dan VOC; pemekaran menjadi provinsi tersendiri tahun 2000 dari Sumatera Selatan. [web:156]
+- Pusat penambangan timah sejak abad 18; pemekaran dari Sumatera Selatan tahun 2000.
 
 ## Fun fact / hal menarik
 
-- Belitung terkenal sebagai lokasi film "Laskar Pelangi" dengan latar pantai dan sekolah Muhammadiyah Gantong. [web:156]
+- Penghasil timah terbesar di dunia.
+- Pantai Tanjung Tinggi, lokasi syuting film Laskar Pelangi.
 
 ## Budaya
 
-- Perpaduan budaya Melayu dan Tionghoa sangat kuat, tercermin dalam tradisi, arsitektur, dan makanan khas. [web:160]
+- Tari Campak; Festival Perang Ketupat; Rumah adat Rakit.
 
 ## Kuliner
 
-- Lempah kuning, mie Bangka/Belitung, getas, kemplang, dan teritip sebagai camilan laut. [web:156][web:160]
+- Mie Belitung; Gangan (sup ikan); Lempah kuning.
 
 ## Wisata
 
-Kerangka tabel wisata (minimal 50 destinasi) akan diisi bertahap, mencakup pantai-pantai seperti Tanjung Tinggi, Tanjung Kelayang, Pulau Lengkuas, dan pulau-pulau kecil lain. [web:162]
+- Pantai Tanjung Tinggi, Pantai Tanjung Kelayang, Pulau Lengkuas.
 
-| No | Nama Tempat | Jenis Wisata | Wilayah |
-|----|-------------|--------------|---------|
+## Tokoh
 
-## Tokoh / kontribusi
-
-- Pencatatan tokoh lokal dan budayawan Bangka Belitung akan ditambahkan di tahap lanjutan.
+- Andrea Hirata (penulis Laskar Pelangi).
 
 ## Referensi
 
-- Profil Babel: https://id.wikipedia.org/wiki/Kepulauan_Bangka_Belitung [web:156]
-- Data daya tarik wisata: dokumen "DATA DAYA TARIK WISATA DI PROV. KEP. BANGKA BELITUNG" [web:162]
+- Wikipedia Babel: https://id.wikipedia.org/wiki/Kepulauan_Bangka_Belitung

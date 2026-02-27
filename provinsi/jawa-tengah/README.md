@@ -2,36 +2,76 @@
 
 ## Ringkasan
 
-Jawa Tengah ibukota Semarang, luas 32.801 km², populasi ~37 juta. [web:179]
+Jawa Tengah adalah provinsi di tengah Pulau Jawa, ibu kota Semarang, luas 32.800 km², populasi ~37 juta jiwa.
 
 ## Administrasi
 
-- 29 kabupaten + 6 kota (Semarang, Solo, dll.).
+**Kabupaten (29):**
+- Banjarnegara
+- Banyumas
+- Batang
+- Blora
+- Boyolali
+- Brebes
+- Cilacap
+- Demak
+- Grobogan
+- Jepara
+- Karanganyar
+- Kebumen
+- Kendal
+- Klaten
+- Kudus
+- Magelang
+- Pati
+- Pekalongan
+- Pemalang
+- Purbalingga
+- Purworejo
+- Rembang
+- Semarang
+- Sragen
+- Sukoharjo
+- Tegal
+- Temanggung
+- Wonogiri
+- Wonosobo
 
-## Sejarah
+**Kota (6):**
+- Magelang
+- Pekalongan
+- Salatiga
+- Semarang
+- Surakarta
+- Tegal
 
-- Kerajaan Mataram Islam. [web:179]
+Lihat `kabupaten/` dan `kota/`.
 
-## Fun fact
+## Sejarah singkat
 
-- Gudeg manis pengaruh tebu kolonial. [web:179]
+- Kerajaan Mataram Islam (abad 16); Perjanjian Giyanti (1755) membagi Mataram.
+
+## Fun fact / hal menarik
+
+- Candi Borobudur (Magelang), Warisan Dunia UNESCO.
+- Batik Pekalongan dan Solo terkenal di dunia.
 
 ## Budaya
 
-- Wayang kulit.
+- Wayang kulit; Batik Solo/Pekalongan (UNESCO); Tari Gambyong.
 
 ## Kuliner
 
-- Gudeg; Lumpia Semarang. [web:179][web:183]
+- Lumpia Semarang; Nasi liwet Solo; Gudeg Jogja; Soto Kudus.
 
 ## Wisata
 
-Tabel 50 (Borobudur, Prambanan).
+- Candi Borobudur, Candi Prambanan, Kota Lama Semarang, Dieng Plateau.
 
 ## Tokoh
 
-- Diponegoro.
+- Ki Hajar Dewantara (Bapak Pendidikan); Jenderal Sudirman (pahlawan nasional).
 
 ## Referensi
 
-- Kuliner Jateng: https://www.kompas.com/food/read/2020/08/12 [web:179]
+- Wikipedia Jawa Tengah: https://id.wikipedia.org/wiki/Jawa_Tengah

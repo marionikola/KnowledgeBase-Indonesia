@@ -2,37 +2,60 @@
 
 ## Ringkasan
 
-Sumatera Barat (Sumbar) ibukota Padang, luas 49.778 km², populasi ~5,5 juta, pusat Minangkabau. [web:135]
+Sumatera Barat adalah provinsi di barat Sumatera, ibu kota Padang, luas 42.013 km², populasi ~5,6 juta jiwa. Tanah Minangkabau.
 
 ## Administrasi
 
-- 12 kabupaten: Agam, Dharmasraya, Limapuluh Kota, Padang Pariaman, Mentawai, Pasaman, Pasaman Barat, Pesisir Selatan, Sawahlunto Sijunjung, Solok, Solok Selatan, Tanah Datar.
-- 7 kota: Bukittinggi, Padang, Padang Panjang, Painan, Pariaman, Payakumbuh, Sawahlunto.
+**Kabupaten (12):**
+- Agam
+- Dharmasraya
+- Kepulauan Mentawai
+- Lima Puluh Kota
+- Padang Pariaman
+- Pasaman
+- Pasaman Barat
+- Pesisir Selatan
+- Sijunjung
+- Solok
+- Solok Selatan
+- Tanah Datar
+
+**Kota (7):**
+- Bukittinggi
+- Padang
+- Padang Panjang
+- Pariaman
+- Payakumbuh
+- Sawahlunto
+- Solok
+
+Lihat `kabupaten/` dan `kota/`.
 
 ## Sejarah singkat
 
-- Kerajaan Pagaruyung; Reformasi 1999. [web:135]
+- Kerajaan Pagaruyung (abad 14); Perang Padri (1803-1838); Pemberontakan PRRI (1958).
 
-## Fun fact
+## Fun fact / hal menarik
 
-- Rumah gadang bertanduk kerbau.
+- Rumah Gadang, rumah adat dengan atap melengkung seperti tanduk kerbau.
+- Rendang, masakan terlezat di dunia versi CNN.
 
 ## Budaya
 
-- Randai; Tari Piring; Adat basandi syarak.
+- Tari Piring; Randai; Sistem matrilineal Minangkabau.
 
 ## Kuliner
 
-- Rendang; Sate Padang; Dendeng balado.
+- Rendang; Sate Padang; Nasi Padang; Dendeng balado.
 
 ## Wisata
 
-Tabel 50 sorted wilayah (contoh: Danau Maninjau Agam).
+- Jam Gadang Bukittinggi, Danau Maninjau, Danau Singkarak, Lembah Harau.
 
 ## Tokoh
 
-- Mohammad Hatta; Hamka.
+- Bung Hatta (Proklamator); Tan Malaka (tokoh revolusi); Hamka (ulama/sastrawan).
 
 ## Referensi
 
-- Kepri kuliner: https://www.liputan6.com/feeds/read/5813482 [web:135]
+- Wikipedia Sumatera Barat: https://id.wikipedia.org/wiki/Sumatera_Barat

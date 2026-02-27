@@ -1,9 +1,17 @@
-# Kota
+# Daftar Kota di Sumatera Utara
 
-Folder ini disiapkan untuk dokumentasi seluruh kota pada provinsi ini.
+## Daftar
 
-## Aturan penamaan folder
+- Kota Binjai (`binjai/`)
+- Kota Gunungsitoli (`gunungsitoli/`)
+- Kota Medan (`medan/`)
+- Kota Padang Sidempuan (`padang-sidempuan/`)
+- Kota Pematang Siantar (`pematang-siantar/`)
+- Kota Sibolga (`sibolga/`)
+- Kota Tanjung Balai (`tanjung-balai/`)
+- Kota Tebing Tinggi (`tebing-tinggi/`)
 
-- Gunakan huruf kecil.
-- Gunakan tanda hubung (kebab-case).
-- Satu folder per kota, dan isi `README.md` di dalamnya.
+## Catatan
+
+- Nama folder: kebab-case lowercase.
+- Isi `README.md` per Kota dengan template.

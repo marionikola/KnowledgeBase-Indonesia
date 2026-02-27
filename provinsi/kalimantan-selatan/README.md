@@ -2,37 +2,54 @@
 
 ## Ringkasan
 
-Kalimantan Selatan (Kalsel) ibukota Banjarmasin, luas 38.744 km², populasi ~4,2 juta, Banjar etnis dominan. [web:201]
+Kalimantan Selatan adalah provinsi di selatan Pulau Kalimantan, ibu kota Banjarbaru, luas 38.744 km², populasi ~4,3 juta jiwa.
 
 ## Administrasi
 
-- 11 kabupaten: Balangan, Banjar, Barito Kuala, Hulu Sungai Selatan, Hulu Sungai Tengah, Hulu Sungai Utara, Kotabaru, Tabalong, Tanah Bumbu, Tanah Laut, Tapin.
-- 2 kota: Banjarbaru, Banjarmasin. [web:201]
+**Kabupaten (11):**
+- Balangan
+- Banjar
+- Barito Kuala
+- Hulu Sungai Selatan
+- Hulu Sungai Tengah
+- Hulu Sungai Utara
+- Kotabaru
+- Tabalong
+- Tanah Bumbu
+- Tanah Laut
+- Tapin
 
-## Sejarah
+**Kota (2):**
+- Banjarbaru
+- Banjarmasin
 
-- Kesultanan Banjar. [web:201]
+Lihat `kabupaten/` dan `kota/`.
 
-## Fun fact
+## Sejarah singkat
 
-- Pasar terapung Lok Baintan. [web:201]
+- Kesultanan Banjar (1526-1905); Perang Banjar (1859-1905).
+
+## Fun fact / hal menarik
+
+- Pasar Terapung Lok Baintan, pasar di atas sungai yang unik.
+- Intan Trisakti, berlian terbesar yang pernah ditemukan di Indonesia.
 
 ## Budaya
 
-- Sasirangan; Mamanda.
+- Tari Baksa Kembang; Madihin (pantun Banjar); Batik Sasirangan.
 
 ## Kuliner
 
-- Soto Banjar; Ketupat kandangan.
+- Soto Banjar; Ketupat kandangan; Nasi kuning Banjar.
 
 ## Wisata
 
-Tabel 50 (Pasar Terapung, Meratus).
+- Pasar Terapung, Pulau Kaget (bekantan), Pegunungan Meratus.
 
 ## Tokoh
 
-- Pangeran Antasari.
+- Pangeran Antasari (pahlawan nasional).
 
 ## Referensi
 
-- Daftar Kalsel: bimtekdiklat [web:201]
+- Wikipedia Kalimantan Selatan: https://id.wikipedia.org/wiki/Kalimantan_Selatan

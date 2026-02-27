@@ -1,9 +1,18 @@
-# Kota
+# Daftar Kota di Jawa Barat
 
-Folder ini disiapkan untuk dokumentasi seluruh kota pada provinsi ini.
+## Daftar
 
-## Aturan penamaan folder
+- Kota Bandung (`bandung/`)
+- Kota Banjar (`banjar/`)
+- Kota Bekasi (`bekasi/`)
+- Kota Bogor (`bogor/`)
+- Kota Cimahi (`cimahi/`)
+- Kota Cirebon (`cirebon/`)
+- Kota Depok (`depok/`)
+- Kota Sukabumi (`sukabumi/`)
+- Kota Tasikmalaya (`tasikmalaya/`)
 
-- Gunakan huruf kecil.
-- Gunakan tanda hubung (kebab-case).
-- Satu folder per kota, dan isi `README.md` di dalamnya.
+## Catatan
+
+- Nama folder: kebab-case lowercase.
+- Isi `README.md` per Kota dengan template.

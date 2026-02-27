@@ -2,37 +2,46 @@
 
 ## Ringkasan
 
-Kalimantan Utara (Kaltara) ibukota Tanjung Selor, luas 75.467 km², populasi ~750rb, pemekaran Kaltim 2012. [web:201]
+Kalimantan Utara adalah provinsi termuda di Indonesia (2012), ibu kota Tanjung Selor, luas 75.467 km², populasi ~750 ribu jiwa.
 
 ## Administrasi
 
-- 4 kabupaten: Bulungan, Malinau, Nunukan, Tana Tidung.
-- 1 kota: Tarakan. [web:201]
+**Kabupaten (4):**
+- Bulungan
+- Malinau
+- Nunukan
+- Tana Tidung
 
-## Sejarah
+**Kota (1):**
+- Tarakan
 
-- Kesultanan Bulungan. [web:201]
+Lihat `kabupaten/` dan `kota/`.
 
-## Fun fact
+## Sejarah singkat
 
-- Perbatasan Malaysia Sabah. [web:201]
+- Pemekaran dari Kalimantan Timur tahun 2012; berbatasan langsung dengan Malaysia.
+
+## Fun fact / hal menarik
+
+- Provinsi termuda Indonesia.
+- Berbatasan langsung dengan Malaysia (Sabah dan Sarawak).
 
 ## Budaya
 
-- Tidung tari perang.
+- Tari Kancet Ledo (Dayak Kenyah); Upacara Naik Dango.
 
 ## Kuliner
 
-- Kepiting soka Tarakan.
+- Kepiting soka; Ikan patin bakar; Nasi kuning Tarakan.
 
 ## Wisata
 
-Tabel 50 (Tarakan, Krayan).
+- Pulau Derawan, Taman Nasional Kayan Mentarang, Pantai Amal.
 
 ## Tokoh
 
-- Yusuf Kasim.
+- Irianto Lambrie (gubernur pertama).
 
 ## Referensi
 
-- Daftar Kaltara: bimtekdiklat [web:201]
+- Wikipedia Kalimantan Utara: https://id.wikipedia.org/wiki/Kalimantan_Utara

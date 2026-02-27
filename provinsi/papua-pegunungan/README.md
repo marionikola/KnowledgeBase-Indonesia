@@ -2,37 +2,50 @@
 
 ## Ringkasan
 
-Papua Pegunungan ibukota Jayawijaya (Wamena area), luas ~50.000 km², populasi ~1,5 juta, pemekaran 2022. [web:255][web:264]
+Papua Pegunungan adalah provinsi baru (2022) hasil pemekaran Papua, ibu kota Wamena, luas ~67.000 km², populasi ~1,3 juta jiwa.
 
 ## Administrasi
 
-- 8 kabupaten: Jayawijaya, Lanny Jaya, Mamberamo Tengah, Nduga, Tolikara, Yahukimo, Yalimo, Pegunungan Bintang.
-- 0 kota (tanpa kota). [web:264]
+**Kabupaten (8):**
+- Bintang
+- Jayawijaya
+- Lanny Jaya
+- Mamberamo Tengah
+- Nduga
+- Pegunungan Bintang
+- Tolikara
+- Yalimo
 
-## Sejarah
+**Kota:**
+- (tidak ada kota)
 
-- Pemekaran Papua 2022. [web:255]
+Lihat `kabupaten/`.
 
-## Fun fact
+## Sejarah singkat
 
-- Lembah Baliem salju tropis. [web:255]
+- Dibentuk tahun 2022; Lembah Baliem, pusat peradaban suku Dani.
+
+## Fun fact / hal menarik
+
+- Lembah Baliem, lembah tersembunyi yang baru ditemukan dunia luar tahun 1938.
+- Festival Lembah Baliem, perang-perangan tradisional suku Dani.
 
 ## Budaya
 
-- Suku Dani; Festival Baliem.
+- Suku Dani; Festival Lembah Baliem; Honai (rumah adat).
 
 ## Kuliner
 
-- Bakar babi batu; Hipere.
+- Bakar batu; Hipere (ubi jalar); Sagu.
 
 ## Wisata
 
-Tabel 50 (Baliem Valley, Danau Habbema).
+- Lembah Baliem, Danau Habema, Puncak Jaya.
 
 ## Tokoh
 
-- Barnabas Suebu.
+- Tokoh-tokoh adat suku Dani.
 
 ## Referensi
 
-- Reddit Papua: https://www.reddit.com/r/indonesia/comments/vo2rqd [web:255]
+- Wikipedia Papua Pegunungan: https://id.wikipedia.org/wiki/Papua_Pegunungan

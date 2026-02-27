@@ -2,39 +2,51 @@
 
 ## Ringkasan
 
-Provinsi Bengkulu terletak di pesisir barat Sumatra dengan ibu kota Kota Bengkulu, dikenal sebagai bekas lokasi pembuangan tokoh pergerakan nasional dan memiliki garis pantai Samudra Hindia yang panjang. [web:158]
+Bengkulu adalah provinsi di pantai barat Sumatera, ibu kota Bengkulu, luas 19.919 km², populasi ~2 juta jiwa.
 
 ## Administrasi
 
-- 9 kabupaten dan 1 kota (Bengkulu): Bengkulu Selatan, Bengkulu Tengah, Bengkulu Utara, Kaur, Kepahiang, Lebong, Mukomuko, Rejang Lebong, Seluma, Kota Bengkulu. [web:41]
+**Kabupaten (9):**
+- Bengkulu Selatan
+- Bengkulu Tengah
+- Bengkulu Utara
+- Kaur
+- Kepahiang
+- Lebong
+- Mukomuko
+- Rejang Lebong
+- Seluma
+
+**Kota (1):**
+- Bengkulu
+
+Lihat `kabupaten/` dan `kota/`.
 
 ## Sejarah singkat
 
-- Pernah menjadi koloni Inggris (Fort Marlborough) sebelum diserahkan ke Belanda berdasarkan Traktat London 1824; menjadi provinsi tersendiri pada era Orde Baru. [web:158]
+- Benteng Marlborough dibangun Inggris (1714); Bung Karno diasingkan di sini (1938-1942).
 
 ## Fun fact / hal menarik
 
-- Dikenal sebagai habitat bunga Rafflesia arnoldi dan memiliki kuliner khas fermentasi seperti lema. [web:158]
+- Bunga Rafflesia arnoldii, bunga terbesar di dunia, banyak ditemukan di sini.
+- Satu-satunya provinsi yang pernah menjadi tempat pengasingan Bung Karno.
 
 ## Budaya
 
-- Tradisi tabot (peringatan Asyura) dan rumah adat panggung di beberapa wilayah pedalaman. [web:158]
+- Tari Andun; Tari Kejei; Rumah adat Bubungan Lima.
 
 ## Kuliner
 
-- Bagar hiu, lema (gulai rebung fermentasi dengan ikan), dan beragam olahan ikan laut. [web:158]
+- Pendap (ikan bumbu daun talas); Lema (fermentasi rebung); Kue bay tat.
 
 ## Wisata
 
-Kerangka tabel wisata (minimal 50 destinasi) akan mengakomodasi objek-objek seperti Pantai Panjang, Fort Marlborough, dan kawasan bunga bangkai di Rejang Lebong.
+- Pantai Panjang, Benteng Marlborough, Taman Nasional Kerinci Seblat.
 
-| No | Nama Tempat | Jenis Wisata | Wilayah |
-|----|-------------|--------------|---------|
+## Tokoh
 
-## Tokoh / kontribusi
-
-- Beberapa tokoh sejarah dan budayawan Bengkulu akan ditambahkan pada pengisian berikutnya.
+- Fatmawati (istri Bung Karno, penjahit bendera merah putih).
 
 ## Referensi
 
-- Kuliner Bengkulu: dokumen kuliner tradisional Bengkulu [web:158]
+- Wikipedia Bengkulu: https://id.wikipedia.org/wiki/Bengkulu

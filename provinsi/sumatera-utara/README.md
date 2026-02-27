@@ -2,45 +2,74 @@
 
 ## Ringkasan
 
-Sumatera Utara (Sumut) ibukota Medan, luas 72.981 km², populasi ~14 juta, pusat Batak dan Melayu. [web:134]
+Sumatera Utara adalah provinsi di utara Sumatera, ibu kota Medan, luas 72.981 km², populasi ~15 juta jiwa.
 
 ## Administrasi
 
-- 25 kabupaten (contoh: Karo, Simalungun, Toba Samosir).
-- 8 kota: Medan, Binjai, Tanjungbalai, Pematangsiantar, Tebing Tinggi, Padang Sidimpuan, Sibolga, Gunungsitoli.
+**Kabupaten (25):**
+- Asahan
+- Batu Bara
+- Dairi
+- Deli Serdang
+- Humbang Hasundutan
+- Karo
+- Labuhanbatu
+- Labuhanbatu Selatan
+- Labuhanbatu Utara
+- Langkat
+- Mandailing Natal
+- Nias
+- Nias Barat
+- Nias Selatan
+- Nias Utara
+- Padang Lawas
+- Padang Lawas Utara
+- Pakpak Bharat
+- Samosir
+- Serdang Bedagai
+- Simalungun
+- Tapanuli Selatan
+- Tapanuli Tengah
+- Tapanuli Utara
+- Toba
 
-Lihat `kabupaten/` `kota/`.
+**Kota (8):**
+- Binjai
+- Gunungsitoli
+- Medan
+- Padang Sidempuan
+- Pematang Siantar
+- Sibolga
+- Tanjung Balai
+- Tebing Tinggi
+
+Lihat `kabupaten/` dan `kota/`.
 
 ## Sejarah singkat
 
-- Kerajaan Batak; Kolonial Belanda; Danau Toba eksplorasi 1820. [web:134]
+- Kerajaan Batak; Kesultanan Deli (1632); Medan berkembang sebagai pusat perkebunan tembakau.
 
-## Fun fact
+## Fun fact / hal menarik
 
-- Danau Toba vulkanik terbesar dunia. [web:134]
+- Danau Toba, danau vulkanik terbesar di dunia.
+- Istana Maimun, istana Kesultanan Deli yang megah.
 
 ## Budaya
 
-- Gondang Batak; Rumah Bolon; Tor-tor dance.
+- Tari Tor-Tor; Gondang Batak; Ulos (kain adat Batak).
 
 ## Kuliner
 
-- Rendang; Arsik ikan; Mi gomak.
+- Bika ambon; Soto Medan; Arsik (ikan mas bumbu); Mie gomak.
 
 ## Wisata
 
-Tabel 50 destinasi sorted wilayah:
-
-| No | Nama | Jenis | Wilayah |
-|----|------|-------|---------|
-| 1 | Danau Toba | Danau | Toba Samosir |
-| 2 | Sipiso-piso | Air Terjun | Karo |
-| ... | (48 lebih) | ... | ... |
+- Danau Toba, Pulau Samosir, Berastagi, Istana Maimun.
 
 ## Tokoh
 
-- Sisingamangaraja XII; TB Simatupang.
+- Sisingamangaraja XII (pahlawan nasional); Adam Malik (Wakil Presiden RI).
 
 ## Referensi
 
-- Wisata Sumut: https://kumparan.com/jendela-dunia/25-tempat-wisata-di-sumatera-utara [web:134]
+- Wikipedia Sumatera Utara: https://id.wikipedia.org/wiki/Sumatera_Utara

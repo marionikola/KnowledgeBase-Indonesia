@@ -1,9 +1,18 @@
-# Kabupaten
+# Daftar Kabupaten di Bengkulu
 
-Folder ini disiapkan untuk dokumentasi seluruh kabupaten pada provinsi ini.
+## Daftar
 
-## Aturan penamaan folder
+- Kabupaten Bengkulu Selatan (`bengkulu-selatan/`)
+- Kabupaten Bengkulu Tengah (`bengkulu-tengah/`)
+- Kabupaten Bengkulu Utara (`bengkulu-utara/`)
+- Kabupaten Kaur (`kaur/`)
+- Kabupaten Kepahiang (`kepahiang/`)
+- Kabupaten Lebong (`lebong/`)
+- Kabupaten Mukomuko (`mukomuko/`)
+- Kabupaten Rejang Lebong (`rejang-lebong/`)
+- Kabupaten Seluma (`seluma/`)
 
-- Gunakan huruf kecil.
-- Gunakan tanda hubung (kebab-case).
-- Satu folder per kabupaten, dan isi `README.md` di dalamnya.
+## Catatan
+
+- Nama folder: kebab-case lowercase.
+- Isi `README.md` per Kabupaten dengan template.

@@ -2,37 +2,65 @@
 
 ## Ringkasan
 
-Sulawesi Selatan (Sulsel) ibukota Makassar, luas 45.764 km², populasi ~9,1 juta, Bugis-Makassar. [web:240]
+Sulawesi Selatan adalah provinsi di selatan Pulau Sulawesi, ibu kota Makassar, luas 46.717 km², populasi ~9,3 juta jiwa.
 
 ## Administrasi
 
-- 21 kabupaten: Bantaeng, Barru, Bone, Bulukumba, Enrekang, Gowa, Jeneponto, Kepulauan Selayar, Luwu, Luwu Timur, Luwu Utara, Maros, Pangkajene Kepulauan, Pinrang, Sidenreng Rappang, Sinjai, Soppeng, Takalar, Tana Toraja, Toraja Utara, Wajo.
-- 3 kota: Makassar, Parepare, Palopo. [web:240]
+**Kabupaten (21):**
+- Bantaeng
+- Barru
+- Bone
+- Bulukumba
+- Enrekang
+- Gowa
+- Jeneponto
+- Kepulauan Selayar
+- Luwu
+- Luwu Timur
+- Luwu Utara
+- Maros
+- Pangkajene dan Kepulauan
+- Pinrang
+- Sidenreng Rappang
+- Sinjai
+- Soppeng
+- Takalar
+- Tana Toraja
+- Toraja Utara
+- Wajo
 
-## Sejarah
+**Kota (3):**
+- Makassar
+- Palopo
+- Parepare
 
-- Kerajaan Gowa-Tallo. [web:240]
+Lihat `kabupaten/` dan `kota/`.
 
-## Fun fact
+## Sejarah singkat
 
-- Toraja upacara kematian Rambu Solo. [web:240]
+- Kerajaan Gowa-Tallo (abad 14-17); Perjanjian Bongaya (1667); Perang Makassar.
+
+## Fun fact / hal menarik
+
+- Perahu Pinisi, kapal layar tradisional Bugis-Makassar, Warisan Budaya UNESCO.
+- Tana Toraja, upacara pemakaman Rambu Solo termahal di dunia.
 
 ## Budaya
 
-- Tari Pakarena; Tongkonan.
+- Tari Pakarena; Upacara Rambu Solo (Toraja); Perahu Pinisi (UNESCO).
 
 ## Kuliner
 
-- Coto Makassar; Pallubasa; Kapurung. [web:227]
+- Coto Makassar; Konro; Pallubasa; Pisang epe.
 
 ## Wisata
 
-Tabel 50 (Toraja, Bantimurung).
+- Tana Toraja, Pantai Losari, Benteng Rotterdam, Taman Nasional Bantimurung.
 
 ## Tokoh
 
-- B.J. Habibie.
+- Sultan Hasanuddin (pahlawan nasional); Andi Mappanyukki (raja Bone).
 
 ## Referensi
 
-- Wiki Sulsel: https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_Sulawesi_Selatan [web:240]
+- Wikipedia Sulawesi Selatan: https://id.wikipedia.org/wiki/Sulawesi_Selatan

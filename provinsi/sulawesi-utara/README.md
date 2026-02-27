@@ -2,36 +2,56 @@
 
 ## Ringkasan
 
-Sulawesi Utara (Sulut) ibukota Manado, luas 13.892 km², populasi ~2,6 juta, Minahasa dominan. [web:222]
+Sulawesi Utara adalah provinsi di ujung utara Pulau Sulawesi, ibu kota Manado, luas 13.851 km², populasi ~2,6 juta jiwa.
 
 ## Administrasi
 
-- 11 kabupaten + 4 kota (Manado, dll.). [web:222]
+**Kabupaten (11):**
+- Bolaang Mongondow
+- Bolaang Mongondow Selatan
+- Bolaang Mongondow Timur
+- Bolaang Mongondow Utara
+- Kepulauan Sangihe
+- Kepulauan Siau Tagulandang Biaro
+- Kepulauan Talaud
+- Minahasa
+- Minahasa Selatan
+- Minahasa Tenggara
+- Minahasa Utara
 
-## Sejarah
+**Kota (4):**
+- Bitung
+- Kotamobagu
+- Manado
+- Tomohon
 
-- Kerajaan Minahasa. [web:222]
+Lihat `kabupaten/` dan `kota/`.
 
-## Fun fact
+## Sejarah singkat
 
-- Tinutuan bubur Manado. [web:222][web:224]
+- Kerajaan Minahasa; Perjanjian Bungku (1679) dengan VOC.
+
+## Fun fact / hal menarik
+
+- Bunaken, taman laut dengan keanekaragaman hayati tertinggi di dunia.
+- Tomohon, kota bunga di kaki Gunung Lokon.
 
 ## Budaya
 
-- Kabasaran tarian perang.
+- Tari Maengket; Kolintang (alat musik bambu); Upacara Tulude.
 
 ## Kuliner
 
-- Tinutuan; Woku mujair; Rica-rica; Brenebon. [web:222][web:224]
+- Tinutuan (bubur Manado); Cakalang fufu; Paniki (kelelawar).
 
 ## Wisata
 
-Tabel 50 (Bunaken, Tomohon).
+- Taman Nasional Bunaken, Danau Tondano, Gunung Lokon.
 
 ## Tokoh
 
-- Sam Ratulangi.
+- Sam Ratulangi (pahlawan nasional); A.A. Maramis (tokoh BPUPKI).
 
 ## Referensi
 
-- Kuliner Sulut: detik [web:222]; Traveloka [web:224]
+- Wikipedia Sulawesi Utara: https://id.wikipedia.org/wiki/Sulawesi_Utara

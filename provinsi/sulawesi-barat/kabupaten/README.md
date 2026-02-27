@@ -1,9 +1,15 @@
-# Kabupaten
+# Daftar Kabupaten di Sulawesi Barat
 
-Folder ini disiapkan untuk dokumentasi seluruh kabupaten pada provinsi ini.
+## Daftar
 
-## Aturan penamaan folder
+- Kabupaten Majene (`majene/`)
+- Kabupaten Mamasa (`mamasa/`)
+- Kabupaten Mamuju (`mamuju/`)
+- Kabupaten Mamuju Tengah (`mamuju-tengah/`)
+- Kabupaten Pasangkayu (`pasangkayu/`)
+- Kabupaten Polewali Mandar (`polewali-mandar/`)
 
-- Gunakan huruf kecil.
-- Gunakan tanda hubung (kebab-case).
-- Satu folder per kabupaten, dan isi `README.md` di dalamnya.
+## Catatan
+
+- Nama folder: kebab-case lowercase.
+- Isi `README.md` per Kabupaten dengan template.

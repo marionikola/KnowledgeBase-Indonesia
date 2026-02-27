@@ -1,9 +1,15 @@
-# Kabupaten
+# Daftar Kabupaten di Kepulauan Bangka Belitung
 
-Folder ini disiapkan untuk dokumentasi seluruh kabupaten pada provinsi ini.
+## Daftar
 
-## Aturan penamaan folder
+- Kabupaten Bangka (`bangka/`)
+- Kabupaten Bangka Barat (`bangka-barat/`)
+- Kabupaten Bangka Selatan (`bangka-selatan/`)
+- Kabupaten Bangka Tengah (`bangka-tengah/`)
+- Kabupaten Belitung (`belitung/`)
+- Kabupaten Belitung Timur (`belitung-timur/`)
 
-- Gunakan huruf kecil.
-- Gunakan tanda hubung (kebab-case).
-- Satu folder per kabupaten, dan isi `README.md` di dalamnya.
+## Catatan
+
+- Nama folder: kebab-case lowercase.
+- Isi `README.md` per Kabupaten dengan template.

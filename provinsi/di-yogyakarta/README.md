@@ -2,37 +2,47 @@
 
 ## Ringkasan
 
-Daerah Istimewa Yogyakarta (DIY) sultanat modern, ibukota Yogyakarta, luas 3.185 km². [web:179]
+Daerah Istimewa Yogyakarta (DIY) adalah provinsi berstatus istimewa di Pulau Jawa, ibu kota Yogyakarta, luas 3.186 km², populasi ~3,8 juta jiwa.
 
 ## Administrasi
 
-- 4 kabupaten: Bantul, Gunungkidul, Kulon Progo, Sleman.
-- 1 kota: Yogyakarta.
+**Kabupaten (4):**
+- Bantul
+- Gunungkidul
+- Kulon Progo
+- Sleman
 
-## Sejarah
+**Kota (1):**
+- Yogyakarta
 
-- Keraton Ngayogyakarta Hadiningrat (1755). [web:179]
+Lihat `kabupaten/` dan `kota/`.
 
-## Fun fact
+## Sejarah singkat
 
-- Malioboro ikon. [web:179]
+- Kesultanan Yogyakarta (1755); Sri Sultan HB IX menyatakan bergabung dengan RI (1945).
+- Status istimewa diakui UU No. 13 Tahun 2012.
+
+## Fun fact / hal menarik
+
+- Kota pelajar dengan ratusan perguruan tinggi.
+- Candi Borobudur dan Prambanan, Warisan Dunia UNESCO.
 
 ## Budaya
 
-- Gamelan; Batik.
+- Wayang kulit; Batik Yogyakarta (UNESCO); Keraton Yogyakarta.
 
 ## Kuliner
 
-- Gudeg; Wedang ronde.
+- Gudeg (nangka muda); Bakpia; Sate klathak.
 
 ## Wisata
 
-Tabel 50 (Malioboro, Keraton).
+- Candi Borobudur, Candi Prambanan, Keraton Yogyakarta, Pantai Parangtritis.
 
 ## Tokoh
 
-- Sri Sultan Hamengkubuwono.
+- Sri Sultan Hamengkubuwono IX (pahlawan nasional); Ki Hajar Dewantara (Bapak Pendidikan).
 
 ## Referensi
 
-- Daftar DIY: wiki. [web:179]
+- Wikipedia DIY: https://id.wikipedia.org/wiki/Daerah_Istimewa_Yogyakarta

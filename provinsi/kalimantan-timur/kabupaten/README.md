@@ -1,9 +1,16 @@
-# Kabupaten
+# Daftar Kabupaten di Kalimantan Timur
 
-Folder ini disiapkan untuk dokumentasi seluruh kabupaten pada provinsi ini.
+## Daftar
 
-## Aturan penamaan folder
+- Kabupaten Berau (`berau/`)
+- Kabupaten Kutai Barat (`kutai-barat/`)
+- Kabupaten Kutai Kartanegara (`kutai-kartanegara/`)
+- Kabupaten Kutai Timur (`kutai-timur/`)
+- Kabupaten Mahakam Ulu (`mahakam-ulu/`)
+- Kabupaten Paser (`paser/`)
+- Kabupaten Penajam Paser Utara (`penajam-paser-utara/`)
 
-- Gunakan huruf kecil.
-- Gunakan tanda hubung (kebab-case).
-- Satu folder per kabupaten, dan isi `README.md` di dalamnya.
+## Catatan
+
+- Nama folder: kebab-case lowercase.
+- Isi `README.md` per Kabupaten dengan template.

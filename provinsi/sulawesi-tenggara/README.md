@@ -2,36 +2,58 @@
 
 ## Ringkasan
 
-Sulawesi Tenggara (Sultra) ibukota Kendari, luas 38.140 km², populasi ~2,7 juta. [web:213]
+Sulawesi Tenggara adalah provinsi di tenggara Pulau Sulawesi, ibu kota Kendari, luas 38.140 km², populasi ~2,7 juta jiwa.
 
 ## Administrasi
 
-- 15 kabupaten + 2 kota (Kendari, Baubau). [web:213]
+**Kabupaten (15):**
+- Bombana
+- Buton
+- Buton Selatan
+- Buton Tengah
+- Buton Utara
+- Kolaka
+- Kolaka Timur
+- Kolaka Utara
+- Konawe
+- Konawe Kepulauan
+- Konawe Selatan
+- Konawe Utara
+- Muna
+- Muna Barat
+- Wakatobi
 
-## Sejarah
+**Kota (2):**
+- Bau-Bau
+- Kendari
 
-- Kesultanan Buton. [web:213]
+Lihat `kabupaten/` dan `kota/`.
 
-## Fun fact
+## Sejarah singkat
 
-- Wakatobi diving paradise. [web:213]
+- Kesultanan Buton (abad 14-20); Benteng Keraton Buton, benteng terluas di dunia.
+
+## Fun fact / hal menarik
+
+- Wakatobi, taman nasional laut dengan keanekaragaman terumbu karang tertinggi di dunia.
+- Benteng Keraton Buton, benteng terluas di dunia (22,8 km keliling).
 
 ## Budaya
 
-- Tari Lulo.
+- Tari Lariangi; Upacara Posuo (pingitan); Tenun Buton.
 
 ## Kuliner
 
-- Kasuami; Luluta.
+- Kasoami (sagu); Sinonggi (papeda Tolaki); Ikan parende.
 
 ## Wisata
 
-Tabel 50 (Wakatobi, Moramo).
+- Wakatobi, Benteng Keraton Buton, Pulau Labengki.
 
 ## Tokoh
 
-- Nur Alam.
+- Sultan Murhum (Sultan Buton ke-4).
 
 ## Referensi
 
-- GitHub desa Sultra [web:213]
+- Wikipedia Sulawesi Tenggara: https://id.wikipedia.org/wiki/Sulawesi_Tenggara

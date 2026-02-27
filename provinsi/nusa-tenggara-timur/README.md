@@ -2,36 +2,63 @@
 
 ## Ringkasan
 
-NTT ibukota Kupang, luas 47.876 km², populasi ~5,5 juta, pulau Flores, Sumba, Timor. [web:199]
+Nusa Tenggara Timur (NTT) adalah provinsi kepulauan di Indonesia Timur, ibu kota Kupang, luas 48.718 km², populasi ~5,5 juta jiwa.
 
 ## Administrasi
 
-- 21 kabupaten + 1 kota (Kupang). [web:199]
+**Kabupaten (21):**
+- Alor
+- Belu
+- Ende
+- Flores Timur
+- Kupang
+- Lembata
+- Malaka
+- Manggarai
+- Manggarai Barat
+- Manggarai Timur
+- Nagekeo
+- Ngada
+- Rote Ndao
+- Sabu Raijua
+- Sikka
+- Sumba Barat
+- Sumba Barat Daya
+- Sumba Tengah
+- Sumba Timur
+- Timor Tengah Selatan
+- Timor Tengah Utara
 
-## Sejarah
+**Kota (1):**
+- Kupang
 
-- Portugis-Belanda. [web:199]
+Lihat `kabupaten/` dan `kota/`.
 
-## Fun fact
+## Sejarah singkat
 
-- Se'i daging asap. [web:209]
+- Kerajaan-kerajaan kecil di Flores, Timor, Sumba; Portugis masuk abad 16.
+
+## Fun fact / hal menarik
+
+- Komodo, kadal terbesar di dunia, hanya ada di Pulau Komodo dan sekitarnya.
+- Pulau Rote, pulau paling selatan Indonesia.
 
 ## Budaya
 
-- Caci Sumba.
+- Tari Caci (Manggarai); Tenun Ikat NTT; Upacara Pasola (Sumba).
 
 ## Kuliner
 
-- Jagung bose; Se'i. [web:209]
+- Se'i (daging asap); Jagung bose; Kolo (nasi bambu).
 
 ## Wisata
 
-Tabel 50 (Komodo, Kelimutu).
+- Taman Nasional Komodo, Danau Kelimutu, Pantai Pink.
 
 ## Tokoh
 
-- Frans Seda.
+- El Tari (gubernur NTT pertama).
 
 ## Referensi
 
-- Kota unggulan NTT: pikiran-rakyat [web:199]
+- Wikipedia NTT: https://id.wikipedia.org/wiki/Nusa_Tenggara_Timur

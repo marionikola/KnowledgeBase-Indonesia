@@ -2,37 +2,50 @@
 
 ## Ringkasan
 
-Papua Tengah ibukota Nabire, luas ~61.000 km², populasi ~1,3 juta, pemekaran 2022. [web:255][web:264]
+Papua Tengah adalah provinsi baru (2022) hasil pemekaran Papua, ibu kota Nabire, luas ~63.000 km², populasi ~1 juta jiwa.
 
 ## Administrasi
 
-- 8 kabupaten: Deiyai, Dogiyai, Intan Jaya, Mimika, Nabire, Paniai, Puncak, Puncak Jaya.
-- 0 kota (tanpa kota). [web:264]
+**Kabupaten (8):**
+- Deiyai
+- Dogiyai
+- Intan Jaya
+- Mimika
+- Nabire
+- Paniai
+- Puncak
+- Puncak Jaya
 
-## Sejarah
+**Kota:**
+- (tidak ada kota)
 
-- Pemekaran Papua 2022. [web:255]
+Lihat `kabupaten/`.
 
-## Fun fact
+## Sejarah singkat
 
-- Freeport tambang emas Mimika. [web:255]
+- Dibentuk tahun 2022; Mimika, lokasi tambang emas terbesar di dunia (Freeport).
+
+## Fun fact / hal menarik
+
+- Grasberg (Freeport), tambang emas dan tembaga terbesar di dunia.
+- Danau Paniai, danau indah di dataran tinggi Papua.
 
 ## Budaya
 
-- Suku Mee.
+- Suku Mee; Suku Amungme; Upacara Bakar Batu.
 
 ## Kuliner
 
-- Papeda; Ulat sagu.
+- Papeda; Sagu; Ubi jalar.
 
 ## Wisata
 
-Tabel 50 (Danau Paniai).
+- Danau Paniai, Puncak Jaya, Taman Nasional Lorentz.
 
 ## Tokoh
 
-- John Ibo.
+- Tokoh-tokoh adat Mimika dan Paniai.
 
 ## Referensi
 
-- Reddit Papua: https://www.reddit.com/r/indonesia/comments/vo2rqd [web:255]
+- Wikipedia Papua Tengah: https://id.wikipedia.org/wiki/Papua_Tengah

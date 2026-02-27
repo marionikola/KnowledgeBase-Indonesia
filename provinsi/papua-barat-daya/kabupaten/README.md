@@ -1,9 +1,14 @@
-# Kabupaten
+# Daftar Kabupaten di Papua Barat Daya
 
-Folder ini disiapkan untuk dokumentasi seluruh kabupaten pada provinsi ini.
+## Daftar
 
-## Aturan penamaan folder
+- Kabupaten Maybrat (`maybrat/`)
+- Kabupaten Raja Ampat (`raja-ampat/`)
+- Kabupaten Sorong (`sorong/`)
+- Kabupaten Sorong Selatan (`sorong-selatan/`)
+- Kabupaten Tambrauw (`tambrauw/`)
 
-- Gunakan huruf kecil.
-- Gunakan tanda hubung (kebab-case).
-- Satu folder per kabupaten, dan isi `README.md` di dalamnya.
+## Catatan
+
+- Nama folder: kebab-case lowercase.
+- Isi `README.md` per Kabupaten dengan template.

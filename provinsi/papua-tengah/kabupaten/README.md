@@ -1,9 +1,17 @@
-# Kabupaten
+# Daftar Kabupaten di Papua Tengah
 
-Folder ini disiapkan untuk dokumentasi seluruh kabupaten pada provinsi ini.
+## Daftar
 
-## Aturan penamaan folder
+- Kabupaten Deiyai (`deiyai/`)
+- Kabupaten Dogiyai (`dogiyai/`)
+- Kabupaten Intan Jaya (`intan-jaya/`)
+- Kabupaten Mimika (`mimika/`)
+- Kabupaten Nabire (`nabire/`)
+- Kabupaten Paniai (`paniai/`)
+- Kabupaten Puncak (`puncak/`)
+- Kabupaten Puncak Jaya (`puncak-jaya/`)
 
-- Gunakan huruf kecil.
-- Gunakan tanda hubung (kebab-case).
-- Satu folder per kabupaten, dan isi `README.md` di dalamnya.
+## Catatan
+
+- Nama folder: kebab-case lowercase.
+- Isi `README.md` per Kabupaten dengan template.

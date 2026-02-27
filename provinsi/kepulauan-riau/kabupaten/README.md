@@ -1,9 +1,14 @@
-# Kabupaten
+# Daftar Kabupaten di Kepulauan Riau
 
-Folder ini disiapkan untuk dokumentasi seluruh kabupaten pada provinsi ini.
+## Daftar
 
-## Aturan penamaan folder
+- Kabupaten Bintan (`bintan/`)
+- Kabupaten Karimun (`karimun/`)
+- Kabupaten Kepulauan Anambas (`kepulauan-anambas/`)
+- Kabupaten Lingga (`lingga/`)
+- Kabupaten Natuna (`natuna/`)
 
-- Gunakan huruf kecil.
-- Gunakan tanda hubung (kebab-case).
-- Satu folder per kabupaten, dan isi `README.md` di dalamnya.
+## Catatan
+
+- Nama folder: kebab-case lowercase.
+- Isi `README.md` per Kabupaten dengan template.

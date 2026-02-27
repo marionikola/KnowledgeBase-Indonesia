@@ -1,9 +1,18 @@
-# Kabupaten
+# Daftar Kabupaten di Maluku
 
-Folder ini disiapkan untuk dokumentasi seluruh kabupaten pada provinsi ini.
+## Daftar
 
-## Aturan penamaan folder
+- Kabupaten Buru (`buru/`)
+- Kabupaten Buru Selatan (`buru-selatan/`)
+- Kabupaten Kepulauan Aru (`kepulauan-aru/`)
+- Kabupaten Maluku Barat Daya (`maluku-barat-daya/`)
+- Kabupaten Maluku Tengah (`maluku-tengah/`)
+- Kabupaten Maluku Tenggara (`maluku-tenggara/`)
+- Kabupaten Maluku Tenggara Barat (`maluku-tenggara-barat/`)
+- Kabupaten Seram Bagian Barat (`seram-bagian-barat/`)
+- Kabupaten Seram Bagian Timur (`seram-bagian-timur/`)
 
-- Gunakan huruf kecil.
-- Gunakan tanda hubung (kebab-case).
-- Satu folder per kabupaten, dan isi `README.md` di dalamnya.
+## Catatan
+
+- Nama folder: kebab-case lowercase.
+- Isi `README.md` per Kabupaten dengan template.

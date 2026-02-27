@@ -2,37 +2,52 @@
 
 ## Ringkasan
 
-Maluku ibukota Ambon, luas 57.900 km², populasi ~1,9 juta, kepulauan rempah. [web:258]
+Maluku adalah provinsi kepulauan di Indonesia Timur, ibu kota Ambon, luas 46.914 km², populasi ~1,9 juta jiwa.
 
 ## Administrasi
 
-- 9 kabupaten: Buru, Buru Selatan, Kepulauan Aru, Kepulauan Tanimbar, Maluku Barat Daya, Maluku Tengah, Maluku Tenggara, Seram Bagian Barat, Seram Bagian Timur.
-- 2 kota: Ambon, Tual. [web:258][web:261]
+**Kabupaten (9):**
+- Buru
+- Buru Selatan
+- Kepulauan Aru
+- Maluku Barat Daya
+- Maluku Tengah
+- Maluku Tenggara
+- Maluku Tenggara Barat
+- Seram Bagian Barat
+- Seram Bagian Timur
 
-## Sejarah
+**Kota (2):**
+- Ambon
+- Tual
 
-- Kepulauan Rempah VOC. [web:258]
+Lihat `kabupaten/` dan `kota/`.
 
-## Fun fact
+## Sejarah singkat
 
-- Cengkih pala Banda. [web:258]
+- Kepulauan Rempah (cengkeh, pala); Perjanjian Saragosa (1529) membagi dunia antara Spanyol-Portugis.
+
+## Fun fact / hal menarik
+
+- Banda Neira, pusat perdagangan pala dunia abad 16-17.
+- Laut Banda, salah satu laut terdalam di dunia.
 
 ## Budaya
 
-- Cakalele; Pela gandong.
+- Tari Cakalele; Musik Tifa; Upacara Panas Pela.
 
 ## Kuliner
 
-- Papeda; Ikan kuah kuning.
+- Papeda (sagu); Ikan kuah kuning; Kohu-kohu.
 
 ## Wisata
 
-Tabel 50 (Banda Neira, Ora Beach).
+- Banda Neira, Pantai Natsepa, Pulau Ora.
 
 ## Tokoh
 
-- Pattimura.
+- Pattimura (pahlawan nasional); Martha Christina Tiahahu (pahlawan wanita).
 
 ## Referensi
 
-- Wiki Maluku: https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_Maluku [web:258]
+- Wikipedia Maluku: https://id.wikipedia.org/wiki/Maluku

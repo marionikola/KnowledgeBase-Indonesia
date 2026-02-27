@@ -2,37 +2,48 @@
 
 ## Ringkasan
 
-Sulawesi Barat (Sulbar) ibukota Mamuju, luas 16.796 km², populasi ~1,4 juta, Mandar etnis. [web:37]
+Sulawesi Barat adalah provinsi di barat Pulau Sulawesi, ibu kota Mamuju, luas 16.787 km², populasi ~1,4 juta jiwa. Dibentuk tahun 2004.
 
 ## Administrasi
 
-- 6 kabupaten: Majene, Mamasa, Mamuju, Mamuju Tengah, Mamuju Utara, Polewali Mandar.
-- Tidak ada kota (belum ada). [web:37]
+**Kabupaten (6):**
+- Majene
+- Mamasa
+- Mamuju
+- Mamuju Tengah
+- Pasangkayu
+- Polewali Mandar
 
-## Sejarah
+**Kota:**
+- (tidak ada kota)
 
-- Pemekaran Sulsel 2004. [web:37]
+Lihat `kabupaten/`.
 
-## Fun fact
+## Sejarah singkat
 
-- Provinsi termuda (2004). [web:37]
+- Pemekaran dari Sulawesi Selatan tahun 2004; Kerajaan Mandar (abad 16).
+
+## Fun fact / hal menarik
+
+- Suku Mandar, pelaut ulung penghasil perahu pinisi.
+- Pantai Mamuju, pantai indah di Teluk Mandar.
 
 ## Budaya
 
-- Sayyang Pattu'du'.
+- Tari Pattudu; Perahu Sandeq (Mandar); Tenun Mandar.
 
 ## Kuliner
 
-- Jepa; Bau Piapi.
+- Ikan bakar Mandar; Jepa (sagu bakar); Gogos (lemang).
 
 ## Wisata
 
-Tabel 50 (Pantai Manakarra, Mamasa).
+- Pantai Mamuju, Air Terjun Liawan, Pulau Karampuang.
 
 ## Tokoh
 
-- Abdul Malik Pattana Endeng.
+- Baharuddin Lopa (tokoh hukum nasional).
 
 ## Referensi
 
-- GitHub regencies [web:37]
+- Wikipedia Sulawesi Barat: https://id.wikipedia.org/wiki/Sulawesi_Barat

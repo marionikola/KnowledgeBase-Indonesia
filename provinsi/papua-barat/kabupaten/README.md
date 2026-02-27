@@ -1,9 +1,16 @@
-# Kabupaten
+# Daftar Kabupaten di Papua Barat
 
-Folder ini disiapkan untuk dokumentasi seluruh kabupaten pada provinsi ini.
+## Daftar
 
-## Aturan penamaan folder
+- Kabupaten Fakfak (`fakfak/`)
+- Kabupaten Kaimana (`kaimana/`)
+- Kabupaten Manokwari (`manokwari/`)
+- Kabupaten Manokwari Selatan (`manokwari-selatan/`)
+- Kabupaten Pegunungan Arfak (`pegunungan-arfak/`)
+- Kabupaten Teluk Bintuni (`teluk-bintuni/`)
+- Kabupaten Teluk Wondama (`teluk-wondama/`)
 
-- Gunakan huruf kecil.
-- Gunakan tanda hubung (kebab-case).
-- Satu folder per kabupaten, dan isi `README.md` di dalamnya.
+## Catatan
+
+- Nama folder: kebab-case lowercase.
+- Isi `README.md` per Kabupaten dengan template.

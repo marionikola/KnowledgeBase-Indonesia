@@ -1,9 +1,14 @@
-# Kabupaten
+# Daftar Kabupaten di Gorontalo
 
-Folder ini disiapkan untuk dokumentasi seluruh kabupaten pada provinsi ini.
+## Daftar
 
-## Aturan penamaan folder
+- Kabupaten Boalemo (`boalemo/`)
+- Kabupaten Bone Bolango (`bone-bolango/`)
+- Kabupaten Gorontalo (`gorontalo/`)
+- Kabupaten Gorontalo Utara (`gorontalo-utara/`)
+- Kabupaten Pohuwato (`pohuwato/`)
 
-- Gunakan huruf kecil.
-- Gunakan tanda hubung (kebab-case).
-- Satu folder per kabupaten, dan isi `README.md` di dalamnya.
+## Catatan
+
+- Nama folder: kebab-case lowercase.
+- Isi `README.md` per Kabupaten dengan template.

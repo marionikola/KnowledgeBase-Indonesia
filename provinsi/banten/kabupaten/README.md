@@ -1,9 +1,13 @@
-# Kabupaten
+# Daftar Kabupaten di Banten
 
-Folder ini disiapkan untuk dokumentasi seluruh kabupaten pada provinsi ini.
+## Daftar
 
-## Aturan penamaan folder
+- Kabupaten Lebak (`lebak/`)
+- Kabupaten Pandeglang (`pandeglang/`)
+- Kabupaten Serang (`serang/`)
+- Kabupaten Tangerang (`tangerang/`)
 
-- Gunakan huruf kecil.
-- Gunakan tanda hubung (kebab-case).
-- Satu folder per kabupaten, dan isi `README.md` di dalamnya.
+## Catatan
+
+- Nama folder: kebab-case lowercase.
+- Isi `README.md` per Kabupaten dengan template.

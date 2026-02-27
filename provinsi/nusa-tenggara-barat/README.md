@@ -2,37 +2,51 @@
 
 ## Ringkasan
 
-NTB ibukota Mataram, luas 20.177 km², populasi ~5,5 juta, pulau Lombok & Sumbawa. [web:201]
+Nusa Tenggara Barat (NTB) adalah provinsi kepulauan di Indonesia Tengah, ibu kota Mataram, luas 19.709 km², populasi ~5,3 juta jiwa.
 
 ## Administrasi
 
-- 8 kabupaten: Bima, Dompu, Lombok Barat, Lombok Tengah, Lombok Timur, Lombok Utara, Sumbawa, Sumbawa Barat.
-- 2 kota: Bima, Mataram. [web:201]
+**Kabupaten (8):**
+- Bima
+- Dompu
+- Lombok Barat
+- Lombok Tengah
+- Lombok Timur
+- Lombok Utara
+- Sumbawa
+- Sumbawa Barat
 
-## Sejarah
+**Kota (2):**
+- Bima
+- Mataram
 
-- Kerajaan Lombok. [web:201]
+Lihat `kabupaten/` dan `kota/`.
 
-## Fun fact
+## Sejarah singkat
 
-- Ayam taliwang pedas ekstrem. [web:207]
+- Kesultanan Bima (abad 17); Letusan Gunung Tambora (1815), terbesar dalam sejarah.
+
+## Fun fact / hal menarik
+
+- Gunung Tambora, letusan 1815 menyebabkan 'tahun tanpa musim panas' di seluruh dunia.
+- Gili Trawangan, Gili Meno, Gili Air, destinasi snorkeling terkenal.
 
 ## Budaya
 
-- Gendang beleq.
+- Tari Gandrung; Bau Nyale (festival cacing laut); Tenun Lombok.
 
 ## Kuliner
 
-- Ayam taliwang; Sate bulayak. [web:207]
+- Ayam taliwang; Plecing kangkung; Sate rembiga.
 
 ## Wisata
 
-Tabel 50 (Gili, Rinjani).
+- Gunung Rinjani, Gili Islands, Pantai Kuta Lombok, Gunung Tambora.
 
 ## Tokoh
 
-- Tuanku Imam Bonjol (afiliasi).
+- Sultan Muhammad Salahuddin (pahlawan nasional Bima).
 
 ## Referensi
 
-- Daftar NTB: bimtekdiklat [web:201]
+- Wikipedia NTB: https://id.wikipedia.org/wiki/Nusa_Tenggara_Barat

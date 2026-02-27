@@ -1,9 +1,20 @@
-# Kabupaten
+# Daftar Kabupaten di Kalimantan Selatan
 
-Folder ini disiapkan untuk dokumentasi seluruh kabupaten pada provinsi ini.
+## Daftar
 
-## Aturan penamaan folder
+- Kabupaten Balangan (`balangan/`)
+- Kabupaten Banjar (`banjar/`)
+- Kabupaten Barito Kuala (`barito-kuala/`)
+- Kabupaten Hulu Sungai Selatan (`hulu-sungai-selatan/`)
+- Kabupaten Hulu Sungai Tengah (`hulu-sungai-tengah/`)
+- Kabupaten Hulu Sungai Utara (`hulu-sungai-utara/`)
+- Kabupaten Kotabaru (`kotabaru/`)
+- Kabupaten Tabalong (`tabalong/`)
+- Kabupaten Tanah Bumbu (`tanah-bumbu/`)
+- Kabupaten Tanah Laut (`tanah-laut/`)
+- Kabupaten Tapin (`tapin/`)
 
-- Gunakan huruf kecil.
-- Gunakan tanda hubung (kebab-case).
-- Satu folder per kabupaten, dan isi `README.md` di dalamnya.
+## Catatan
+
+- Nama folder: kebab-case lowercase.
+- Isi `README.md` per Kabupaten dengan template.

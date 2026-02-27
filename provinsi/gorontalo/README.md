@@ -2,37 +2,47 @@
 
 ## Ringkasan
 
-Gorontalo ibukota Kota Gorontalo, luas 11.257 km², populasi ~1,2 juta, Teluk Tomini. [web:233][web:241]
+Gorontalo adalah provinsi di Sulawesi bagian utara, ibu kota Gorontalo, luas 11.257 km², populasi ~1,2 juta jiwa. Dibentuk tahun 2000.
 
 ## Administrasi
 
-- 5 kabupaten: Boalemo, Bone Bolango, Gorontalo, Gorontalo Utara, Pohuwato.
-- 1 kota: Gorontalo. [web:37]
+**Kabupaten (5):**
+- Boalemo
+- Bone Bolango
+- Gorontalo
+- Gorontalo Utara
+- Pohuwato
 
-## Sejarah
+**Kota (1):**
+- Gorontalo
 
-- Kesultanan Gorontalo; pemekaran Sulut 2000. [web:233]
+Lihat `kabupaten/` dan `kota/`.
 
-## Fun fact
+## Sejarah singkat
 
-- 'Serambi Madinah' ortodoksi Islam. [web:233]
+- Kerajaan Gorontalo (abad 14); pemekaran dari Sulawesi Utara tahun 2000.
+
+## Fun fact / hal menarik
+
+- Danau Limboto, danau terbesar di Sulawesi.
+- Kota Serambi Madinah karena mayoritas Muslim taat.
 
 ## Budaya
 
-- Tari Polopalo; Langga martial art. [web:233]
+- Tari Saronde; Upacara Molonthalo (7 bulan kehamilan); Pakaian adat Biliu.
 
 ## Kuliner
 
-- Binte Biluhuta; Ilabulo; Sate tuna. [web:241][web:243]
+- Binte biluhuta (sup jagung); Ilabulo (sagu isi); Milu siram.
 
 ## Wisata
 
-Tabel 50 (Olele, Botubarani whale shark).
+- Danau Limboto, Pantai Olele, Taman Nasional Bogani Nani Wartabone.
 
 ## Tokoh
 
-- B.J. Habibie (asal Gorontalo). [web:233]
+- Nani Wartabone (pahlawan nasional); Fadel Muhammad (tokoh politik).
 
 ## Referensi
 
-- Reddit Gorontalo: https://www.reddit.com/r/CityPorn/comments/jsn4yx [web:233]; Wiki pariwisata [web:241]
+- Wikipedia Gorontalo: https://id.wikipedia.org/wiki/Gorontalo
