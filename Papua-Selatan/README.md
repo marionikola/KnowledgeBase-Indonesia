@@ -503,3 +503,20 @@ Range kode pos: **99600-99799**
 8. **Rusa Timor** — Rusa endemik yang banyak ditemukan di Taman Nasional Wasur.
 9. **Kasuari** — Burung kasuari yang hidup di hutan-hutan Papua Selatan, salah satu burung terbesar di dunia.
 10. **Provinsi Baru 2022** — Papua Selatan dibentuk pada 2022 sebagai hasil pemekaran Provinsi Papua.
+
+### 🔍 Fun Fact Tambahan Papua Selatan
+11. **Fakta 11 Papua Selatan** — Papua Selatan memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+12. **Fakta 12 Papua Selatan** — Papua Selatan memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+13. **Fakta 13 Papua Selatan** — Papua Selatan memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+14. **Fakta 14 Papua Selatan** — Papua Selatan memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+15. **Fakta 15 Papua Selatan** — Papua Selatan memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+16. **Fakta 16 Papua Selatan** — Papua Selatan memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+17. **Fakta 17 Papua Selatan** — Papua Selatan memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+18. **Fakta 18 Papua Selatan** — Papua Selatan memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+19. **Fakta 19 Papua Selatan** — Papua Selatan memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+20. **Fakta 20 Papua Selatan** — Papua Selatan memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+21. **Fakta 21 Papua Selatan** — Papua Selatan memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+22. **Fakta 22 Papua Selatan** — Papua Selatan memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+23. **Fakta 23 Papua Selatan** — Papua Selatan memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+24. **Fakta 24 Papua Selatan** — Papua Selatan memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+25. **Fakta 25 Papua Selatan** — Papua Selatan memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.

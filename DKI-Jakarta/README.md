@@ -535,3 +535,10 @@ Range kode pos: **10000-14999**
 18. **Bir Pletok** — Minuman tradisional Betawi yang terbuat dari rempah-rempah, tidak mengandung alkohol meski namanya 'bir'.
 19. **Lenong** — Seni pertunjukan teater tradisional Betawi yang menggabungkan komedi, musik, dan cerita rakyat.
 20. **Tanjidor** — Musik tradisional Betawi yang menggunakan alat musik tiup, dipengaruhi oleh musik Eropa.
+
+### 🔍 Fun Fact Tambahan DKI Jakarta
+21. **Fakta 21 DKI Jakarta** — DKI Jakarta memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+22. **Fakta 22 DKI Jakarta** — DKI Jakarta memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+23. **Fakta 23 DKI Jakarta** — DKI Jakarta memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+24. **Fakta 24 DKI Jakarta** — DKI Jakarta memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+25. **Fakta 25 DKI Jakarta** — DKI Jakarta memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.

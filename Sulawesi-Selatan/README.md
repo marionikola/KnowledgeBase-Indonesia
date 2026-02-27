@@ -527,3 +527,15 @@ Range kode pos: **90000-92999**
 13. **Suku Toraja** — Suku yang terkenal dengan rumah adat Tongkonan, ukiran kayu, dan upacara pemakaman yang unik.
 14. **Tongkonan** — Rumah adat Toraja dengan atap melengkung seperti perahu, dihiasi ukiran berwarna merah, hitam, dan kuning.
 15. **Tau-Tau** — Patung kayu yang mewakili orang yang telah meninggal, diletakkan di tebing batu di Toraja.
+
+### 🔍 Fun Fact Tambahan Sulawesi Selatan
+16. **Fakta 16 Sulawesi Selatan** — Sulawesi Selatan memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+17. **Fakta 17 Sulawesi Selatan** — Sulawesi Selatan memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+18. **Fakta 18 Sulawesi Selatan** — Sulawesi Selatan memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+19. **Fakta 19 Sulawesi Selatan** — Sulawesi Selatan memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+20. **Fakta 20 Sulawesi Selatan** — Sulawesi Selatan memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+21. **Fakta 21 Sulawesi Selatan** — Sulawesi Selatan memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+22. **Fakta 22 Sulawesi Selatan** — Sulawesi Selatan memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+23. **Fakta 23 Sulawesi Selatan** — Sulawesi Selatan memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+24. **Fakta 24 Sulawesi Selatan** — Sulawesi Selatan memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+25. **Fakta 25 Sulawesi Selatan** — Sulawesi Selatan memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.

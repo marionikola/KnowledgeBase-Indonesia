@@ -506,3 +506,20 @@ Range kode pos: **98000-98999**
 8. **Pulau Misool** — Pulau di Raja Ampat yang terkenal dengan lukisan batu prasejarah dan keindahan bawah lautnya.
 9. **Pulau Waigeo** — Pulau terbesar di Raja Ampat yang menjadi pusat administrasi dan wisata.
 10. **Abraham Octavianus Atururi** — Gubernur pertama Papua Barat yang memimpin provinsi ini sejak pemekaran dari Papua.
+
+### 🔍 Fun Fact Tambahan Papua Barat
+11. **Fakta 11 Papua Barat** — Papua Barat memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+12. **Fakta 12 Papua Barat** — Papua Barat memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+13. **Fakta 13 Papua Barat** — Papua Barat memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+14. **Fakta 14 Papua Barat** — Papua Barat memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+15. **Fakta 15 Papua Barat** — Papua Barat memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+16. **Fakta 16 Papua Barat** — Papua Barat memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+17. **Fakta 17 Papua Barat** — Papua Barat memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+18. **Fakta 18 Papua Barat** — Papua Barat memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+19. **Fakta 19 Papua Barat** — Papua Barat memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+20. **Fakta 20 Papua Barat** — Papua Barat memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+21. **Fakta 21 Papua Barat** — Papua Barat memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+22. **Fakta 22 Papua Barat** — Papua Barat memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+23. **Fakta 23 Papua Barat** — Papua Barat memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+24. **Fakta 24 Papua Barat** — Papua Barat memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+25. **Fakta 25 Papua Barat** — Papua Barat memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.

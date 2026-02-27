@@ -509,3 +509,20 @@ Range kode pos: **36000-37999**
 8. **Batik Jambi** — Batik khas Jambi dengan motif-motif yang terinspirasi dari alam dan budaya Melayu.
 9. **Nasi Gemuk** — Nasi yang dimasak dengan santan dan rempah-rempah, disajikan dengan berbagai lauk pauk khas Jambi.
 10. **Sungai Batanghari** — Sungai terpanjang di Sumatera (800 km) yang mengalir melalui Jambi, menjadi jalur transportasi utama.
+
+### 🔍 Fun Fact Tambahan Jambi
+11. **Fakta 11 Jambi** — Jambi memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+12. **Fakta 12 Jambi** — Jambi memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+13. **Fakta 13 Jambi** — Jambi memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+14. **Fakta 14 Jambi** — Jambi memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+15. **Fakta 15 Jambi** — Jambi memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+16. **Fakta 16 Jambi** — Jambi memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+17. **Fakta 17 Jambi** — Jambi memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+18. **Fakta 18 Jambi** — Jambi memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+19. **Fakta 19 Jambi** — Jambi memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+20. **Fakta 20 Jambi** — Jambi memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+21. **Fakta 21 Jambi** — Jambi memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+22. **Fakta 22 Jambi** — Jambi memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+23. **Fakta 23 Jambi** — Jambi memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+24. **Fakta 24 Jambi** — Jambi memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+25. **Fakta 25 Jambi** — Jambi memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.

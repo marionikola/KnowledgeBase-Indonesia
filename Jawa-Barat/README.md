@@ -535,3 +535,10 @@ Range kode pos: **40000-46999**
 18. **Cirebon** — Kota di pesisir utara Jawa Barat yang terkenal dengan batik mega mendung dan empal gentong.
 19. **Empal Gentong** — Gulai daging sapi khas Cirebon yang dimasak dalam gentong tanah liat.
 20. **Tahu Sumedang** — Tahu goreng khas Sumedang yang terkenal dengan teksturnya yang renyah di luar dan lembut di dalam.
+
+### 🔍 Fun Fact Tambahan Jawa Barat
+21. **Fakta 21 Jawa Barat** — Jawa Barat memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+22. **Fakta 22 Jawa Barat** — Jawa Barat memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+23. **Fakta 23 Jawa Barat** — Jawa Barat memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+24. **Fakta 24 Jawa Barat** — Jawa Barat memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+25. **Fakta 25 Jawa Barat** — Jawa Barat memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.

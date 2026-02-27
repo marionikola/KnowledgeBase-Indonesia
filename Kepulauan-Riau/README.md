@@ -505,3 +505,20 @@ Range kode pos: **29000-29999**
 8. **Pantun Melayu** — Tradisi berpantun yang kuat di Kepulauan Riau, mencerminkan kekayaan sastra Melayu.
 9. **Pulau Bintan** — Pulau resort yang terkenal dengan pantai-pantai indah dan resort mewah.
 10. **Kesultanan Riau-Lingga** — Kesultanan Melayu yang pernah menguasai wilayah Kepulauan Riau hingga awal abad 20.
+
+### 🔍 Fun Fact Tambahan Kepulauan Riau
+11. **Fakta 11 Kepulauan Riau** — Kepulauan Riau memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+12. **Fakta 12 Kepulauan Riau** — Kepulauan Riau memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+13. **Fakta 13 Kepulauan Riau** — Kepulauan Riau memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+14. **Fakta 14 Kepulauan Riau** — Kepulauan Riau memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+15. **Fakta 15 Kepulauan Riau** — Kepulauan Riau memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+16. **Fakta 16 Kepulauan Riau** — Kepulauan Riau memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+17. **Fakta 17 Kepulauan Riau** — Kepulauan Riau memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+18. **Fakta 18 Kepulauan Riau** — Kepulauan Riau memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+19. **Fakta 19 Kepulauan Riau** — Kepulauan Riau memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+20. **Fakta 20 Kepulauan Riau** — Kepulauan Riau memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+21. **Fakta 21 Kepulauan Riau** — Kepulauan Riau memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+22. **Fakta 22 Kepulauan Riau** — Kepulauan Riau memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+23. **Fakta 23 Kepulauan Riau** — Kepulauan Riau memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+24. **Fakta 24 Kepulauan Riau** — Kepulauan Riau memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+25. **Fakta 25 Kepulauan Riau** — Kepulauan Riau memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.

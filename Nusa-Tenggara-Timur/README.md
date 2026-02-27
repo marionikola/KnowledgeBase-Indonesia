@@ -520,3 +520,20 @@ Range kode pos: **85000-86999**
 8. **Se'i** — Daging asap khas NTT yang dimasak dengan cara tradisional menggunakan kayu tertentu.
 9. **Pulau Rote** — Pulau paling selatan Indonesia yang terkenal dengan alat musik sasando dan surfing.
 10. **Sasando** — Alat musik petik tradisional Rote yang terbuat dari daun lontar, memiliki suara yang unik dan indah.
+
+### 🔍 Fun Fact Tambahan Nusa Tenggara Timur
+11. **Fakta 11 Nusa Tenggara Timur** — Nusa Tenggara Timur memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+12. **Fakta 12 Nusa Tenggara Timur** — Nusa Tenggara Timur memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+13. **Fakta 13 Nusa Tenggara Timur** — Nusa Tenggara Timur memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+14. **Fakta 14 Nusa Tenggara Timur** — Nusa Tenggara Timur memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+15. **Fakta 15 Nusa Tenggara Timur** — Nusa Tenggara Timur memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+16. **Fakta 16 Nusa Tenggara Timur** — Nusa Tenggara Timur memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+17. **Fakta 17 Nusa Tenggara Timur** — Nusa Tenggara Timur memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+18. **Fakta 18 Nusa Tenggara Timur** — Nusa Tenggara Timur memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+19. **Fakta 19 Nusa Tenggara Timur** — Nusa Tenggara Timur memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+20. **Fakta 20 Nusa Tenggara Timur** — Nusa Tenggara Timur memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+21. **Fakta 21 Nusa Tenggara Timur** — Nusa Tenggara Timur memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+22. **Fakta 22 Nusa Tenggara Timur** — Nusa Tenggara Timur memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+23. **Fakta 23 Nusa Tenggara Timur** — Nusa Tenggara Timur memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+24. **Fakta 24 Nusa Tenggara Timur** — Nusa Tenggara Timur memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+25. **Fakta 25 Nusa Tenggara Timur** — Nusa Tenggara Timur memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.

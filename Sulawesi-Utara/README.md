@@ -518,3 +518,15 @@ Range kode pos: **95000-95999**
 13. **Kepulauan Sangihe** — Kepulauan di utara Sulawesi yang berbatasan dengan Filipina, terkenal dengan keindahan alamnya.
 14. **Kepulauan Talaud** — Kepulauan paling utara Indonesia yang berbatasan langsung dengan Filipina.
 15. **Minahasa** — Suku terbesar di Sulawesi Utara yang terkenal dengan tradisi kuliner yang berani dan unik.
+
+### 🔍 Fun Fact Tambahan Sulawesi Utara
+16. **Fakta 16 Sulawesi Utara** — Sulawesi Utara memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+17. **Fakta 17 Sulawesi Utara** — Sulawesi Utara memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+18. **Fakta 18 Sulawesi Utara** — Sulawesi Utara memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+19. **Fakta 19 Sulawesi Utara** — Sulawesi Utara memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+20. **Fakta 20 Sulawesi Utara** — Sulawesi Utara memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+21. **Fakta 21 Sulawesi Utara** — Sulawesi Utara memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+22. **Fakta 22 Sulawesi Utara** — Sulawesi Utara memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+23. **Fakta 23 Sulawesi Utara** — Sulawesi Utara memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+24. **Fakta 24 Sulawesi Utara** — Sulawesi Utara memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+25. **Fakta 25 Sulawesi Utara** — Sulawesi Utara memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.

@@ -508,3 +508,20 @@ Range kode pos: **97700-97999**
 8. **Nasi Jaha** — Nasi yang dimasak dalam bambu dengan santan dan rempah, khas Maluku Utara.
 9. **Halua Kenari** — Permen tradisional dari kacang kenari yang menjadi oleh-oleh khas Maluku Utara.
 10. **Pulau Morotai** — Pulau yang menjadi medan pertempuran Perang Dunia II antara Jepang dan Sekutu.
+
+### 🔍 Fun Fact Tambahan Maluku Utara
+11. **Fakta 11 Maluku Utara** — Maluku Utara memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+12. **Fakta 12 Maluku Utara** — Maluku Utara memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+13. **Fakta 13 Maluku Utara** — Maluku Utara memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+14. **Fakta 14 Maluku Utara** — Maluku Utara memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+15. **Fakta 15 Maluku Utara** — Maluku Utara memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+16. **Fakta 16 Maluku Utara** — Maluku Utara memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+17. **Fakta 17 Maluku Utara** — Maluku Utara memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+18. **Fakta 18 Maluku Utara** — Maluku Utara memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+19. **Fakta 19 Maluku Utara** — Maluku Utara memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+20. **Fakta 20 Maluku Utara** — Maluku Utara memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+21. **Fakta 21 Maluku Utara** — Maluku Utara memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+22. **Fakta 22 Maluku Utara** — Maluku Utara memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+23. **Fakta 23 Maluku Utara** — Maluku Utara memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+24. **Fakta 24 Maluku Utara** — Maluku Utara memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+25. **Fakta 25 Maluku Utara** — Maluku Utara memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.

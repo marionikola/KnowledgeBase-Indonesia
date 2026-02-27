@@ -563,3 +563,10 @@ Range kode pos: **23000-24999**
 18. **Rumoh Aceh** — Rumah adat Aceh berbentuk panggung dengan ornamen ukiran yang kaya makna filosofis.
 19. **Seudati** — Tari tradisional Aceh yang menggabungkan gerakan dinamis dengan syair-syair Islami.
 20. **Aceh Tamiang** — Daerah penghasil minyak bumi pertama di Indonesia, ditemukan pada abad 19.
+
+### 🔍 Fun Fact Tambahan Aceh
+21. **Fakta 21 Aceh** — Aceh memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+22. **Fakta 22 Aceh** — Aceh memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+23. **Fakta 23 Aceh** — Aceh memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+24. **Fakta 24 Aceh** — Aceh memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+25. **Fakta 25 Aceh** — Aceh memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.

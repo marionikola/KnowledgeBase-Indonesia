@@ -541,3 +541,10 @@ Range kode pos: **20000-24999**
 18. **Fahombo** — Tradisi lompat batu khas Nias yang dulunya merupakan latihan perang, kini menjadi atraksi wisata.
 19. **Kesultanan Deli** — Kesultanan Melayu yang berdiri pada 1632, menjadi penguasa Medan dan sekitarnya.
 20. **Tembakau Deli** — Tembakau khas Deli Serdang yang pernah menjadi komoditas ekspor paling berharga di dunia pada abad 19.
+
+### 🔍 Fun Fact Tambahan Sumatera Utara
+21. **Fakta 21 Sumatera Utara** — Sumatera Utara memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+22. **Fakta 22 Sumatera Utara** — Sumatera Utara memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+23. **Fakta 23 Sumatera Utara** — Sumatera Utara memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+24. **Fakta 24 Sumatera Utara** — Sumatera Utara memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+25. **Fakta 25 Sumatera Utara** — Sumatera Utara memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.

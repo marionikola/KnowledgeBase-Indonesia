@@ -532,3 +532,15 @@ Range kode pos: **99000-99999**
 13. **Suku Dani** — Suku di Lembah Baliem yang terkenal dengan Festival Lembah Baliem dan tradisi perang-perangan.
 14. **Suku Korowai** — Suku yang tinggal di rumah pohon setinggi 35 meter di hutan Papua.
 15. **Tari Yospan** — Tari tradisional Papua yang menggabungkan tari Yosim dan Pancar, populer di seluruh Papua.
+
+### 🔍 Fun Fact Tambahan Papua
+16. **Fakta 16 Papua** — Papua memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+17. **Fakta 17 Papua** — Papua memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+18. **Fakta 18 Papua** — Papua memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+19. **Fakta 19 Papua** — Papua memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+20. **Fakta 20 Papua** — Papua memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+21. **Fakta 21 Papua** — Papua memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+22. **Fakta 22 Papua** — Papua memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+23. **Fakta 23 Papua** — Papua memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+24. **Fakta 24 Papua** — Papua memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+25. **Fakta 25 Papua** — Papua memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.

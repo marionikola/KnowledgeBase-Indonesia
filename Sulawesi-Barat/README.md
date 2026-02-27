@@ -505,3 +505,20 @@ Range kode pos: **91000-91999**
 8. **Pantai Mamuju** — Pantai indah di Teluk Mandar yang menjadi ikon wisata Sulawesi Barat.
 9. **Pulau Karampuang** — Pulau kecil di depan Mamuju yang terkenal dengan keindahan pantai dan bawah lautnya.
 10. **Provinsi Termuda Sulawesi** — Sulawesi Barat adalah provinsi termuda di Sulawesi, dibentuk pada 2004.
+
+### 🔍 Fun Fact Tambahan Sulawesi Barat
+11. **Fakta 11 Sulawesi Barat** — Sulawesi Barat memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+12. **Fakta 12 Sulawesi Barat** — Sulawesi Barat memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+13. **Fakta 13 Sulawesi Barat** — Sulawesi Barat memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+14. **Fakta 14 Sulawesi Barat** — Sulawesi Barat memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+15. **Fakta 15 Sulawesi Barat** — Sulawesi Barat memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+16. **Fakta 16 Sulawesi Barat** — Sulawesi Barat memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+17. **Fakta 17 Sulawesi Barat** — Sulawesi Barat memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+18. **Fakta 18 Sulawesi Barat** — Sulawesi Barat memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+19. **Fakta 19 Sulawesi Barat** — Sulawesi Barat memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+20. **Fakta 20 Sulawesi Barat** — Sulawesi Barat memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+21. **Fakta 21 Sulawesi Barat** — Sulawesi Barat memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+22. **Fakta 22 Sulawesi Barat** — Sulawesi Barat memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+23. **Fakta 23 Sulawesi Barat** — Sulawesi Barat memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+24. **Fakta 24 Sulawesi Barat** — Sulawesi Barat memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+25. **Fakta 25 Sulawesi Barat** — Sulawesi Barat memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.

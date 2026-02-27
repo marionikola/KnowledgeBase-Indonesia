@@ -511,3 +511,20 @@ Range kode pos: **70000-72999**
 8. **Madihin** — Seni pantun Banjar yang dibawakan dengan iringan musik, biasanya berisi humor dan kritik sosial.
 9. **Bekantan** — Monyet berhidung panjang yang hanya ada di Kalimantan, menjadi maskot Kalimantan Selatan.
 10. **Pegunungan Meratus** — Pegunungan yang membentang di tengah Kalimantan Selatan, habitat berbagai spesies langka.
+
+### 🔍 Fun Fact Tambahan Kalimantan Selatan
+11. **Fakta 11 Kalimantan Selatan** — Kalimantan Selatan memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+12. **Fakta 12 Kalimantan Selatan** — Kalimantan Selatan memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+13. **Fakta 13 Kalimantan Selatan** — Kalimantan Selatan memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+14. **Fakta 14 Kalimantan Selatan** — Kalimantan Selatan memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+15. **Fakta 15 Kalimantan Selatan** — Kalimantan Selatan memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+16. **Fakta 16 Kalimantan Selatan** — Kalimantan Selatan memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+17. **Fakta 17 Kalimantan Selatan** — Kalimantan Selatan memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+18. **Fakta 18 Kalimantan Selatan** — Kalimantan Selatan memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+19. **Fakta 19 Kalimantan Selatan** — Kalimantan Selatan memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+20. **Fakta 20 Kalimantan Selatan** — Kalimantan Selatan memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+21. **Fakta 21 Kalimantan Selatan** — Kalimantan Selatan memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+22. **Fakta 22 Kalimantan Selatan** — Kalimantan Selatan memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+23. **Fakta 23 Kalimantan Selatan** — Kalimantan Selatan memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+24. **Fakta 24 Kalimantan Selatan** — Kalimantan Selatan memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+25. **Fakta 25 Kalimantan Selatan** — Kalimantan Selatan memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.

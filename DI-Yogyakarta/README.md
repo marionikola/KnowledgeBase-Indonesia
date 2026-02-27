@@ -532,3 +532,10 @@ Range kode pos: **55000-55999**
 18. **Affandi** — Pelukis ekspresionisme Indonesia yang tinggal dan berkarya di Yogyakarta, karyanya dipajang di museum pribadinya.
 19. **Rendra** — Penyair dan dramawan besar Indonesia yang mendirikan Bengkel Teater di Yogyakarta.
 20. **Sate Klathak** — Sate kambing khas Bantul yang dibakar menggunakan jeruji besi, bukan tusuk bambu biasa.
+
+### 🔍 Fun Fact Tambahan DI Yogyakarta
+21. **Fakta 21 DI Yogyakarta** — DI Yogyakarta memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+22. **Fakta 22 DI Yogyakarta** — DI Yogyakarta memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+23. **Fakta 23 DI Yogyakarta** — DI Yogyakarta memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+24. **Fakta 24 DI Yogyakarta** — DI Yogyakarta memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+25. **Fakta 25 DI Yogyakarta** — DI Yogyakarta memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.

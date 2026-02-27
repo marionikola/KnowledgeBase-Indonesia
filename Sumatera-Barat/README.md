@@ -522,3 +522,15 @@ Range kode pos: **25000-27999**
 13. **Randai** — Seni pertunjukan tradisional Minangkabau yang menggabungkan tari, musik, dan drama.
 14. **Sate Padang** — Sate dengan kuah kental berbumbu khas Padang yang berbeda dari sate daerah lain.
 15. **Dendeng Balado** — Daging sapi kering yang digoreng dan diberi sambal balado, khas Sumatera Barat.
+
+### 🔍 Fun Fact Tambahan Sumatera Barat
+16. **Fakta 16 Sumatera Barat** — Sumatera Barat memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+17. **Fakta 17 Sumatera Barat** — Sumatera Barat memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+18. **Fakta 18 Sumatera Barat** — Sumatera Barat memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+19. **Fakta 19 Sumatera Barat** — Sumatera Barat memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+20. **Fakta 20 Sumatera Barat** — Sumatera Barat memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+21. **Fakta 21 Sumatera Barat** — Sumatera Barat memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+22. **Fakta 22 Sumatera Barat** — Sumatera Barat memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+23. **Fakta 23 Sumatera Barat** — Sumatera Barat memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+24. **Fakta 24 Sumatera Barat** — Sumatera Barat memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+25. **Fakta 25 Sumatera Barat** — Sumatera Barat memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.

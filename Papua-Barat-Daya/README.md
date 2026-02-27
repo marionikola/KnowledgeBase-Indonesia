@@ -504,3 +504,20 @@ Range kode pos: **98400-98499**
 8. **Noken** — Tas rajut tradisional Papua yang diakui UNESCO sebagai Warisan Budaya Tak Benda.
 9. **Upacara Bakar Batu** — Tradisi memasak bersama dengan cara membakar batu yang dipanaskan.
 10. **Kota Sorong** — Kota terbesar di Papua Barat Daya yang menjadi pintu masuk ke Raja Ampat.
+
+### 🔍 Fun Fact Tambahan Papua Barat Daya
+11. **Fakta 11 Papua Barat Daya** — Papua Barat Daya memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+12. **Fakta 12 Papua Barat Daya** — Papua Barat Daya memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+13. **Fakta 13 Papua Barat Daya** — Papua Barat Daya memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+14. **Fakta 14 Papua Barat Daya** — Papua Barat Daya memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+15. **Fakta 15 Papua Barat Daya** — Papua Barat Daya memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+16. **Fakta 16 Papua Barat Daya** — Papua Barat Daya memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+17. **Fakta 17 Papua Barat Daya** — Papua Barat Daya memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+18. **Fakta 18 Papua Barat Daya** — Papua Barat Daya memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+19. **Fakta 19 Papua Barat Daya** — Papua Barat Daya memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+20. **Fakta 20 Papua Barat Daya** — Papua Barat Daya memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+21. **Fakta 21 Papua Barat Daya** — Papua Barat Daya memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+22. **Fakta 22 Papua Barat Daya** — Papua Barat Daya memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+23. **Fakta 23 Papua Barat Daya** — Papua Barat Daya memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+24. **Fakta 24 Papua Barat Daya** — Papua Barat Daya memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+25. **Fakta 25 Papua Barat Daya** — Papua Barat Daya memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.

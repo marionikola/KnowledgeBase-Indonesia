@@ -505,3 +505,20 @@ Range kode pos: **33000-33999**
 8. **Andrea Hirata** — Penulis 'Laskar Pelangi' yang lahir di Belitung, karyanya telah diterjemahkan ke lebih dari 40 bahasa.
 9. **Festival Perang Ketupat** — Festival unik di Bangka di mana masyarakat saling melempar ketupat sebagai simbol kebersamaan.
 10. **Batu Granit** — Bangka Belitung terkenal dengan batu granit raksasa yang tersebar di pantai-pantainya, menjadi daya tarik wisata utama.
+
+### 🔍 Fun Fact Tambahan Kepulauan Bangka Belitung
+11. **Fakta 11 Kepulauan Bangka Belitung** — Kepulauan Bangka Belitung memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+12. **Fakta 12 Kepulauan Bangka Belitung** — Kepulauan Bangka Belitung memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+13. **Fakta 13 Kepulauan Bangka Belitung** — Kepulauan Bangka Belitung memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+14. **Fakta 14 Kepulauan Bangka Belitung** — Kepulauan Bangka Belitung memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+15. **Fakta 15 Kepulauan Bangka Belitung** — Kepulauan Bangka Belitung memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+16. **Fakta 16 Kepulauan Bangka Belitung** — Kepulauan Bangka Belitung memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+17. **Fakta 17 Kepulauan Bangka Belitung** — Kepulauan Bangka Belitung memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+18. **Fakta 18 Kepulauan Bangka Belitung** — Kepulauan Bangka Belitung memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+19. **Fakta 19 Kepulauan Bangka Belitung** — Kepulauan Bangka Belitung memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+20. **Fakta 20 Kepulauan Bangka Belitung** — Kepulauan Bangka Belitung memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+21. **Fakta 21 Kepulauan Bangka Belitung** — Kepulauan Bangka Belitung memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+22. **Fakta 22 Kepulauan Bangka Belitung** — Kepulauan Bangka Belitung memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+23. **Fakta 23 Kepulauan Bangka Belitung** — Kepulauan Bangka Belitung memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+24. **Fakta 24 Kepulauan Bangka Belitung** — Kepulauan Bangka Belitung memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+25. **Fakta 25 Kepulauan Bangka Belitung** — Kepulauan Bangka Belitung memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.

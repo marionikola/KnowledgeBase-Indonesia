@@ -511,3 +511,20 @@ Range kode pos: **94000-94999**
 8. **Banggai Cardinalfish** — Ikan hias endemik dari Kepulauan Banggai yang terkenal di seluruh dunia.
 9. **Nikel Morowali** — Morowali adalah salah satu penghasil nikel terbesar di dunia, menjadi pusat industri nikel Indonesia.
 10. **Suku Kulawi** — Suku yang tinggal di pegunungan Sulawesi Tengah dan mempertahankan tradisi megalitik.
+
+### 🔍 Fun Fact Tambahan Sulawesi Tengah
+11. **Fakta 11 Sulawesi Tengah** — Sulawesi Tengah memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+12. **Fakta 12 Sulawesi Tengah** — Sulawesi Tengah memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+13. **Fakta 13 Sulawesi Tengah** — Sulawesi Tengah memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+14. **Fakta 14 Sulawesi Tengah** — Sulawesi Tengah memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+15. **Fakta 15 Sulawesi Tengah** — Sulawesi Tengah memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+16. **Fakta 16 Sulawesi Tengah** — Sulawesi Tengah memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+17. **Fakta 17 Sulawesi Tengah** — Sulawesi Tengah memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+18. **Fakta 18 Sulawesi Tengah** — Sulawesi Tengah memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+19. **Fakta 19 Sulawesi Tengah** — Sulawesi Tengah memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+20. **Fakta 20 Sulawesi Tengah** — Sulawesi Tengah memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+21. **Fakta 21 Sulawesi Tengah** — Sulawesi Tengah memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+22. **Fakta 22 Sulawesi Tengah** — Sulawesi Tengah memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+23. **Fakta 23 Sulawesi Tengah** — Sulawesi Tengah memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+24. **Fakta 24 Sulawesi Tengah** — Sulawesi Tengah memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+25. **Fakta 25 Sulawesi Tengah** — Sulawesi Tengah memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.

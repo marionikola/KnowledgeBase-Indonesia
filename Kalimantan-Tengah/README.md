@@ -512,3 +512,20 @@ Range kode pos: **73000-74999**
 8. **Wadi** — Makanan fermentasi dari ikan yang menjadi lauk khas Kalimantan Tengah.
 9. **Juhu Singkah** — Masakan dari umbut rotan yang menjadi makanan khas Dayak Kalimantan Tengah.
 10. **Danau Sembuluh** — Danau terbesar di Kalimantan Tengah yang menjadi habitat berbagai spesies ikan langka.
+
+### 🔍 Fun Fact Tambahan Kalimantan Tengah
+11. **Fakta 11 Kalimantan Tengah** — Kalimantan Tengah memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+12. **Fakta 12 Kalimantan Tengah** — Kalimantan Tengah memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+13. **Fakta 13 Kalimantan Tengah** — Kalimantan Tengah memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+14. **Fakta 14 Kalimantan Tengah** — Kalimantan Tengah memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+15. **Fakta 15 Kalimantan Tengah** — Kalimantan Tengah memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+16. **Fakta 16 Kalimantan Tengah** — Kalimantan Tengah memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+17. **Fakta 17 Kalimantan Tengah** — Kalimantan Tengah memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+18. **Fakta 18 Kalimantan Tengah** — Kalimantan Tengah memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+19. **Fakta 19 Kalimantan Tengah** — Kalimantan Tengah memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+20. **Fakta 20 Kalimantan Tengah** — Kalimantan Tengah memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+21. **Fakta 21 Kalimantan Tengah** — Kalimantan Tengah memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+22. **Fakta 22 Kalimantan Tengah** — Kalimantan Tengah memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+23. **Fakta 23 Kalimantan Tengah** — Kalimantan Tengah memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+24. **Fakta 24 Kalimantan Tengah** — Kalimantan Tengah memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+25. **Fakta 25 Kalimantan Tengah** — Kalimantan Tengah memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.

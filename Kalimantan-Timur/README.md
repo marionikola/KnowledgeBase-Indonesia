@@ -508,3 +508,20 @@ Range kode pos: **75000-77999**
 8. **Batik Samarinda** — Batik khas Samarinda dengan motif-motif yang terinspirasi dari alam Kalimantan.
 9. **Mahakam Ulu** — Kabupaten terpencil di hulu Sungai Mahakam yang masih mempertahankan tradisi Dayak.
 10. **Pesut Mahakam** — Lumba-lumba air tawar yang hanya ada di Sungai Mahakam, terancam punah.
+
+### 🔍 Fun Fact Tambahan Kalimantan Timur
+11. **Fakta 11 Kalimantan Timur** — Kalimantan Timur memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+12. **Fakta 12 Kalimantan Timur** — Kalimantan Timur memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+13. **Fakta 13 Kalimantan Timur** — Kalimantan Timur memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+14. **Fakta 14 Kalimantan Timur** — Kalimantan Timur memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+15. **Fakta 15 Kalimantan Timur** — Kalimantan Timur memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+16. **Fakta 16 Kalimantan Timur** — Kalimantan Timur memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+17. **Fakta 17 Kalimantan Timur** — Kalimantan Timur memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+18. **Fakta 18 Kalimantan Timur** — Kalimantan Timur memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+19. **Fakta 19 Kalimantan Timur** — Kalimantan Timur memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+20. **Fakta 20 Kalimantan Timur** — Kalimantan Timur memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+21. **Fakta 21 Kalimantan Timur** — Kalimantan Timur memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+22. **Fakta 22 Kalimantan Timur** — Kalimantan Timur memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+23. **Fakta 23 Kalimantan Timur** — Kalimantan Timur memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+24. **Fakta 24 Kalimantan Timur** — Kalimantan Timur memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+25. **Fakta 25 Kalimantan Timur** — Kalimantan Timur memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.

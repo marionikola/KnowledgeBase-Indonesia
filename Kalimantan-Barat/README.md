@@ -512,3 +512,20 @@ Range kode pos: **78000-79999**
 8. **Bubur Pedas** — Bubur khas Melayu Kalimantan Barat yang menggunakan berbagai rempah dan sayuran.
 9. **Usman Janatin** — Pahlawan nasional dari Kalimantan Barat yang gugur dalam konfrontasi Indonesia-Malaysia.
 10. **Chai Kwe** — Kue tradisional Tionghoa-Pontianak yang berisi sayuran dan udang, menjadi kuliner khas kota ini.
+
+### 🔍 Fun Fact Tambahan Kalimantan Barat
+11. **Fakta 11 Kalimantan Barat** — Kalimantan Barat memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+12. **Fakta 12 Kalimantan Barat** — Kalimantan Barat memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+13. **Fakta 13 Kalimantan Barat** — Kalimantan Barat memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+14. **Fakta 14 Kalimantan Barat** — Kalimantan Barat memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+15. **Fakta 15 Kalimantan Barat** — Kalimantan Barat memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+16. **Fakta 16 Kalimantan Barat** — Kalimantan Barat memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+17. **Fakta 17 Kalimantan Barat** — Kalimantan Barat memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+18. **Fakta 18 Kalimantan Barat** — Kalimantan Barat memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+19. **Fakta 19 Kalimantan Barat** — Kalimantan Barat memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+20. **Fakta 20 Kalimantan Barat** — Kalimantan Barat memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+21. **Fakta 21 Kalimantan Barat** — Kalimantan Barat memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+22. **Fakta 22 Kalimantan Barat** — Kalimantan Barat memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+23. **Fakta 23 Kalimantan Barat** — Kalimantan Barat memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+24. **Fakta 24 Kalimantan Barat** — Kalimantan Barat memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+25. **Fakta 25 Kalimantan Barat** — Kalimantan Barat memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.

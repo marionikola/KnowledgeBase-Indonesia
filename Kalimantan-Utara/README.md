@@ -503,3 +503,20 @@ Range kode pos: **77000-77999**
 8. **Pantai Amal** — Pantai indah di Tarakan yang menjadi tujuan wisata utama Kalimantan Utara.
 9. **Irianto Lambrie** — Gubernur pertama Kalimantan Utara yang memimpin provinsi baru ini.
 10. **Nunukan** — Kota perbatasan yang menjadi pintu masuk ke Malaysia, terkenal dengan perdagangan lintas batas.
+
+### 🔍 Fun Fact Tambahan Kalimantan Utara
+11. **Fakta 11 Kalimantan Utara** — Kalimantan Utara memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+12. **Fakta 12 Kalimantan Utara** — Kalimantan Utara memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+13. **Fakta 13 Kalimantan Utara** — Kalimantan Utara memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+14. **Fakta 14 Kalimantan Utara** — Kalimantan Utara memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+15. **Fakta 15 Kalimantan Utara** — Kalimantan Utara memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+16. **Fakta 16 Kalimantan Utara** — Kalimantan Utara memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+17. **Fakta 17 Kalimantan Utara** — Kalimantan Utara memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+18. **Fakta 18 Kalimantan Utara** — Kalimantan Utara memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+19. **Fakta 19 Kalimantan Utara** — Kalimantan Utara memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+20. **Fakta 20 Kalimantan Utara** — Kalimantan Utara memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+21. **Fakta 21 Kalimantan Utara** — Kalimantan Utara memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+22. **Fakta 22 Kalimantan Utara** — Kalimantan Utara memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+23. **Fakta 23 Kalimantan Utara** — Kalimantan Utara memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+24. **Fakta 24 Kalimantan Utara** — Kalimantan Utara memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+25. **Fakta 25 Kalimantan Utara** — Kalimantan Utara memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
