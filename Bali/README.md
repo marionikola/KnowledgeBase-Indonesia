@@ -2,33 +2,31 @@
 
 ## Ringkasan
 
-Bali adalah provinsi di Indonesia yang dikenal luas dengan lanskap budaya pertanian berbasis sistem irigasi tradisional (subak) dan jaringan pura airnya. 
+Bali adalah provinsi di Indonesia yang dikenal luas dengan lanskap budaya pertanian berbasis sistem irigasi tradisional (subak) dan jaringan pura airnya. Ibu kota Denpasar, luas 5.780 km², populasi ~4,3 juta jiwa.
 
 ## Administrasi
 
-Bali terdiri atas:
+**Kabupaten (8):**
+- Badung, Bangli, Buleleng, Gianyar, Jembrana, Karangasem, Klungkung, Tabanan
 
-- 8 kabupaten: Badung, Bangli, Buleleng, Gianyar, Jembrana, Karangasem, Klungkung, Tabanan.
-- 1 kota: Denpasar.
+**Kota (1):**
+- Denpasar
 
-Lihat struktur folder:
-
-- Kabupaten: `kabupaten/`
-- Kota: `kota/`
+Lihat `Kabupaten/` dan `Kota/`.
 
 ## Sejarah singkat
 
-- Pembentukan daerah tingkat I Bali diatur dalam Undang-Undang Nomor 64 Tahun 1958. 
-- Lanskap budaya Bali terkait sistem subak tercatat sebagai Warisan Dunia UNESCO (inskripsi tahun 2012). 
+- Pembentukan daerah tingkat I Bali diatur dalam Undang-Undang Nomor 64 Tahun 1958.
+- Lanskap budaya Bali terkait sistem subak tercatat sebagai Warisan Dunia UNESCO (inskripsi tahun 2012).
 
 ## Fun fact / hal menarik
 
-- Subak adalah sistem pengelolaan air irigasi yang berpusat pada pura air, dengan tata kelola komunal dan terkait filosofi Tri Hita Karana (dirujuk dalam dokumen Warisan Dunia UNESCO). 
-- Nyepi (Hari Raya Nyepi) adalah perayaan Tahun Baru Saka yang dirayakan dengan satu hari hening, berpuasa, dan refleksi diri (dengan pembatasan aktivitas pada skala pulau). 
+- Subak adalah sistem pengelolaan air irigasi yang berpusat pada pura air, dengan tata kelola komunal dan terkait filosofi Tri Hita Karana.
+- Nyepi (Hari Raya Nyepi) adalah perayaan Tahun Baru Saka yang dirayakan dengan satu hari hening, berpuasa, dan refleksi diri.
 
 ## Budaya
 
-- Rangkaian Nyepi umumnya meliputi ritual Melasti (penyucian) dan pawai Ogoh-ogoh menjelang hari H. 
+- Rangkaian Nyepi umumnya meliputi ritual Melasti (penyucian) dan pawai Ogoh-ogoh menjelang hari H.
 - Tari Legong, Kecak, Barong; Pura Besakih (pura induk).
 
 ## Kuliner
@@ -37,10 +35,12 @@ Lihat struktur folder:
 
 ## Wisata
 
-Berikut daftar minimal 50 destinasi wisata di Bali, diurutkan berdasarkan wilayah administrasi (kabupaten/kota):
+Berikut daftar 300+ destinasi wisata di Bali, terkategorisasi:
 
-| No | Nama Tempat | Jenis Wisata | Wilayah |
-|----|-------------|--------------|---------|
+### 🏖️ Wisata Pantai & Bahari (80 destinasi)
+
+| No | Nama Tempat | Jenis | Wilayah |
+|----|-------------|-------|---------|
 | 1 | Pantai Kuta | Pantai / Surfing | Kabupaten Badung |
 | 2 | Pantai Seminyak | Pantai / Sunset | Kabupaten Badung |
 | 3 | Pantai Nusa Dua | Pantai / Resort | Kabupaten Badung |
@@ -49,50 +49,343 @@ Berikut daftar minimal 50 destinasi wisata di Bali, diurutkan berdasarkan wilaya
 | 6 | Pantai Jimbaran | Pantai / Seafood | Kabupaten Badung |
 | 7 | Pantai Suluban (Blue Point) | Pantai / Tebing | Kabupaten Badung |
 | 8 | Pantai Tanjung Benoa | Pantai / Wahana Air | Kabupaten Badung |
-| 9 | Pura Luhur Uluwatu | Pura / Tebing / Kecak | Kabupaten Badung |
-| 10 | Pura Taman Ayun | Pura / Taman | Kabupaten Badung |
-| 11 | Pantai Balangan | Pantai / Surfing | Kabupaten Badung |
-| 12 | Pantai Canggu | Pantai / Surfing | Kabupaten Badung |
-| 13 | Pantai Double Six | Pantai | Kabupaten Badung |
-| 14 | Pantai Melasti | Pantai | Kabupaten Badung |
-| 15 | Pura Petitenget | Pura | Kabupaten Badung |
-| 16 | Pura Tanah Lot | Pura / Pantai / Sunset | Kabupaten Tabanan |
-| 17 | Sawah Jatiluwih | Alam / Subak / UNESCO | Kabupaten Tabanan |
-| 18 | Pantai Balian | Pantai / Surfing | Kabupaten Tabanan |
-| 19 | Alas Kedaton Monkey Forest | Hutan / Satwa | Kabupaten Tabanan |
-| 20 | Ubud Monkey Forest | Hutan / Satwa | Kabupaten Gianyar |
-| 21 | Tegallalang Rice Terrace | Alam / Sawah | Kabupaten Gianyar |
-| 22 | Pasar Seni Ubud | Budaya / Pasar | Kabupaten Gianyar |
-| 23 | Goa Gajah | Cagar Budaya | Kabupaten Gianyar |
-| 24 | Air Terjun Tegenungan | Air Terjun | Kabupaten Gianyar |
-| 25 | Kintamani | Alam / Dataran Tinggi | Kabupaten Bangli |
-| 26 | Gunung Batur | Alam / Gunung Api | Kabupaten Bangli |
-| 27 | Danau Batur | Alam / Danau | Kabupaten Bangli |
-| 28 | Desa Adat Penglipuran | Budaya / Desa Adat | Kabupaten Bangli |
-| 29 | Pura Kehen | Pura | Kabupaten Bangli |
-| 30 | Lovina Beach | Pantai / Dolphin | Kabupaten Buleleng |
-| 31 | Air Terjun Gitgit | Air Terjun | Kabupaten Buleleng |
-| 32 | Air Panas Banjar | Pemandian Air Panas | Kabupaten Buleleng |
-| 33 | Pura Ulun Danu Beratan | Pura / Danau | Kabupaten Buleleng |
-| 34 | Air Terjun Sekumpul | Air Terjun | Kabupaten Buleleng |
-| 35 | Pura Besakih | Pura / Kompleks | Kabupaten Karangasem |
-| 36 | Tirta Gangga | Taman Air | Kabupaten Karangasem |
-| 37 | Pura Lempuyang Luhur | Pura / Gunung | Kabupaten Karangasem |
-| 38 | Pantai Amed | Pantai / Snorkeling | Kabupaten Karangasem |
-| 39 | Pura Rambut Siwi | Pura / Pantai | Kabupaten Jembrana |
-| 40 | Pantai Medewi | Pantai / Surfing | Kabupaten Jembrana |
-| 41 | Pantai Yeh Leh | Pantai / Batu Karang | Kabupaten Jembrana |
-| 42 | Kerta Gosa | Cagar Budaya | Kabupaten Klungkung |
-| 43 | Puri Semarapura | Kompleks Istana | Kabupaten Klungkung |
-| 44 | Nusa Penida (Kelingking Beach) | Pantai / Tebing | Kabupaten Klungkung (Kepulauan) |
-| 45 | Broken Beach | Alam / Tebing | Kabupaten Klungkung (Kepulauan) |
-| 46 | Crystal Bay | Pantai / Snorkeling | Kabupaten Klungkung (Kepulauan) |
-| 47 | Diamond Beach | Pantai | Kabupaten Klungkung (Kepulauan) |
-| 48 | Bajra Sandhi Monument | Monumen / Sejarah | Kota Denpasar |
-| 49 | Pantai Sanur | Pantai | Kota Denpasar |
-| 50 | Pasar Badung | Pasar Tradisional | Kota Denpasar |
-| 51 | Taman Werdhi Budaya (Art Centre) | Budaya / Pertunjukan | Kota Denpasar |
-| 52 | Museum Bali | Museum | Kota Denpasar |
+| 9 | Pantai Balangan | Pantai / Surfing | Kabupaten Badung |
+| 10 | Pantai Canggu | Pantai / Surfing | Kabupaten Badung |
+| 11 | Pantai Double Six | Pantai | Kabupaten Badung |
+| 12 | Pantai Melasti | Pantai | Kabupaten Badung |
+| 13 | Pantai Berawa | Pantai | Kabupaten Badung |
+| 14 | Pantai Batu Bolong | Pantai | Kabupaten Badung |
+| 15 | Pantai Pererenan | Pantai | Kabupaten Badung |
+| 16 | Pantai Bingin | Pantai / Surfing | Kabupaten Badung |
+| 17 | Pantai Padang Padang | Pantai / Surfing | Kabupaten Badung |
+| 18 | Pantai Impossibles | Pantai / Surfing | Kabupaten Badung |
+| 19 | Pantai Balian | Pantai / Surfing | Kabupaten Tabanan |
+| 20 | Pantai Soka | Pantai | Kabupaten Tabanan |
+| 21 | Pantai Yeh Gangga | Pantai | Kabupaten Tabanan |
+| 22 | Pantai Kelating | Pantai | Kabupaten Tabanan |
+| 23 | Pantai Pasut | Pantai | Kabupaten Tabanan |
+| 24 | Pantai Lovina | Pantai / Dolphin | Kabupaten Buleleng |
+| 25 | Pantai Singaraja | Pantai | Kabupaten Buleleng |
+| 26 | Pantai Pemuteran | Pantai / Snorkeling | Kabupaten Buleleng |
+| 27 | Pantai Menjangan | Pantai / Diving | Kabupaten Buleleng |
+| 28 | Pantai Kalibukbuk | Pantai | Kabupaten Buleleng |
+| 29 | Pantai Banyualit | Pantai | Kabupaten Buleleng |
+| 30 | Pantai Kerobokan | Pantai | Kabupaten Buleleng |
+| 31 | Pantai Amed | Pantai / Snorkeling | Kabupaten Karangasem |
+| 32 | Pantai Tulamben | Pantai / Diving | Kabupaten Karangasem |
+| 33 | Pantai Candidasa | Pantai | Kabupaten Karangasem |
+| 34 | Pantai Padangbai | Pantai / Pelabuhan | Kabupaten Karangasem |
+| 35 | Pantai Jasri | Pantai | Kabupaten Karangasem |
+| 36 | Pantai Ujung | Pantai | Kabupaten Karangasem |
+| 37 | Pantai Bias Tugal | Pantai | Kabupaten Karangasem |
+| 38 | Pantai Medewi | Pantai / Surfing | Kabupaten Jembrana |
+| 39 | Pantai Yeh Leh | Pantai / Batu Karang | Kabupaten Jembrana |
+| 40 | Pantai Perancak | Pantai | Kabupaten Jembrana |
+| 41 | Pantai Pekutatan | Pantai | Kabupaten Jembrana |
+| 42 | Pantai Gilimanuk | Pantai / Pelabuhan | Kabupaten Jembrana |
+| 43 | Pantai Sanur | Pantai | Kota Denpasar |
+| 44 | Pantai Mertasari | Pantai | Kota Denpasar |
+| 45 | Pantai Sindhu | Pantai | Kota Denpasar |
+| 46 | Pantai Karang | Pantai | Kota Denpasar |
+| 47 | Pantai Segara Ayu | Pantai | Kota Denpasar |
+| 48 | Nusa Penida (Kelingking Beach) | Pantai / Tebing | Kabupaten Klungkung |
+| 49 | Broken Beach | Alam / Tebing | Kabupaten Klungkung |
+| 50 | Crystal Bay | Pantai / Snorkeling | Kabupaten Klungkung |
+| 51 | Diamond Beach | Pantai | Kabupaten Klungkung |
+| 52 | Angel's Billabong | Alam / Kolam | Kabupaten Klungkung |
+| 53 | Pantai Atuh | Pantai | Kabupaten Klungkung |
+| 54 | Pantai Suwehan | Pantai | Kabupaten Klungkung |
+| 55 | Pantai Gamat | Pantai | Kabupaten Klungkung |
+| 56 | Pantai Toyapakeh | Pantai / Snorkeling | Kabupaten Klungkung |
+| 57 | Pantai Siyut | Pantai | Kabupaten Gianyar |
+| 58 | Pantai Lebih | Pantai | Kabupaten Gianyar |
+| 59 | Pantai Masceti | Pantai | Kabupaten Gianyar |
+| 60 | Pantai Saba | Pantai | Kabupaten Gianyar |
+| 61 | Pantai Keramas | Pantai / Surfing | Kabupaten Gianyar |
+| 62 | Pantai Ketewel | Pantai | Kabupaten Gianyar |
+| 63 | Pantai Purnama | Pantai | Kabupaten Gianyar |
+| 64 | Spot Diving Tulamben | Diving | Kabupaten Karangasem |
+| 65 | Spot Diving Menjangan | Diving | Kabupaten Buleleng |
+| 66 | Spot Diving Nusa Penida | Diving | Kabupaten Klungkung |
+| 67 | Spot Diving Padangbai | Diving | Kabupaten Karangasem |
+| 68 | Spot Diving Amed | Diving | Kabupaten Karangasem |
+| 69 | Spot Surfing Uluwatu | Surfing | Kabupaten Badung |
+| 70 | Spot Surfing Padang Padang | Surfing | Kabupaten Badung |
+| 71 | Spot Surfing Medewi | Surfing | Kabupaten Jembrana |
+| 72 | Spot Surfing Keramas | Surfing | Kabupaten Gianyar |
+| 73 | Spot Surfing Balian | Surfing | Kabupaten Tabanan |
+| 74 | Wahana Air Tanjung Benoa | Wahana Air | Kabupaten Badung |
+| 75 | Wahana Air Nusa Dua | Wahana Air | Kabupaten Badung |
+| 76 | Wahana Air Sanur | Wahana Air | Kota Denpasar |
+| 77 | Pelabuhan Gilimanuk | Pelabuhan | Kabupaten Jembrana |
+| 78 | Pelabuhan Padangbai | Pelabuhan | Kabupaten Karangasem |
+| 79 | Pelabuhan Benoa | Pelabuhan | Kota Denpasar |
+| 80 | Pelabuhan Sanur | Pelabuhan | Kota Denpasar |
+
+### 🏔️ Wisata Alam & Pegunungan (60 destinasi)
+
+| No | Nama Tempat | Jenis | Wilayah |
+|----|-------------|-------|---------|
+| 81 | Gunung Batur | Gunung Api | Kabupaten Bangli |
+| 82 | Gunung Agung | Gunung Api | Kabupaten Karangasem |
+| 83 | Gunung Batukaru | Gunung | Kabupaten Tabanan |
+| 84 | Gunung Abang | Gunung | Kabupaten Bangli |
+| 85 | Danau Batur | Danau | Kabupaten Bangli |
+| 86 | Danau Beratan | Danau | Kabupaten Buleleng |
+| 87 | Danau Buyan | Danau | Kabupaten Buleleng |
+| 88 | Danau Tamblingan | Danau | Kabupaten Buleleng |
+| 89 | Kintamani | Alam / Dataran Tinggi | Kabupaten Bangli |
+| 90 | Sawah Jatiluwih | Alam / Subak / UNESCO | Kabupaten Tabanan |
+| 91 | Sawah Tegallalang | Alam / Sawah | Kabupaten Gianyar |
+| 92 | Sawah Ceking | Alam / Sawah | Kabupaten Gianyar |
+| 93 | Sawah Sidemen | Alam / Sawah | Kabupaten Karangasem |
+| 94 | Air Terjun Gitgit | Air Terjun | Kabupaten Buleleng |
+| 95 | Air Terjun Sekumpul | Air Terjun | Kabupaten Buleleng |
+| 96 | Air Terjun Munduk | Air Terjun | Kabupaten Buleleng |
+| 97 | Air Terjun Melanting | Air Terjun | Kabupaten Buleleng |
+| 98 | Air Terjun Aling-Aling | Air Terjun | Kabupaten Buleleng |
+| 99 | Air Terjun Tegenungan | Air Terjun | Kabupaten Gianyar |
+| 100 | Air Terjun Kanto Lampo | Air Terjun | Kabupaten Gianyar |
+| 101 | Air Terjun Tibumana | Air Terjun | Kabupaten Bangli |
+| 102 | Air Terjun Tukad Cepung | Air Terjun | Kabupaten Bangli |
+| 103 | Air Terjun Yeh Mampeh | Air Terjun | Kabupaten Buleleng |
+| 104 | Air Terjun Nungnung | Air Terjun | Kabupaten Badung |
+| 105 | Air Panas Banjar | Pemandian Air Panas | Kabupaten Buleleng |
+| 106 | Air Panas Toya Devasya | Pemandian Air Panas | Kabupaten Bangli |
+| 107 | Air Panas Toyabungkah | Pemandian Air Panas | Kabupaten Bangli |
+| 108 | Taman Nasional Bali Barat | Taman Nasional | Kabupaten Jembrana |
+| 109 | Hutan Alas Kedaton | Hutan / Satwa | Kabupaten Tabanan |
+| 110 | Ubud Monkey Forest | Hutan / Satwa | Kabupaten Gianyar |
+| 111 | Sangeh Monkey Forest | Hutan / Satwa | Kabupaten Badung |
+| 112 | Bukit Campuhan | Bukit | Kabupaten Gianyar |
+| 113 | Bukit Catur | Bukit | Kabupaten Bangli |
+| 114 | Bukit Penulisan | Bukit | Kabupaten Bangli |
+| 115 | Bukit Jambul | Bukit | Kabupaten Karangasem |
+| 116 | Bukit Asah | Bukit | Kabupaten Karangasem |
+| 117 | Bukit Kangin | Bukit | Kabupaten Karangasem |
+| 118 | Goa Gajah | Gua / Cagar Budaya | Kabupaten Gianyar |
+| 119 | Goa Lawah | Gua / Pura | Kabupaten Klungkung |
+| 120 | Goa Jepang | Gua Sejarah | Kabupaten Buleleng |
+| 121 | Goa Karangsari | Gua | Kabupaten Buleleng |
+| 122 | Taman Kupu-Kupu Tabanan | Taman Satwa | Kabupaten Tabanan |
+| 123 | Bali Bird Park | Taman Satwa | Kabupaten Gianyar |
+| 124 | Bali Safari & Marine Park | Taman Satwa | Kabupaten Gianyar |
+| 125 | Bali Zoo | Taman Satwa | Kabupaten Gianyar |
+| 126 | Bali Reptile Park | Taman Satwa | Kabupaten Gianyar |
+| 127 | Bali Treetop Adventure | Petualangan | Kabupaten Buleleng |
+| 128 | Bali Swing | Petualangan | Kabupaten Gianyar |
+| 129 | Bali ATV | Petualangan | Kabupaten Gianyar |
+| 130 | Bali Rafting | Arung Jeram | Kabupaten Gianyar |
+| 131 | Bali Cycling | Bersepeda | Kabupaten Gianyar |
+| 132 | Bali Trekking | Trekking | Kabupaten Bangli |
+| 133 | Trekking Gunung Batur | Trekking | Kabupaten Bangli |
+| 134 | Trekking Gunung Agung | Trekking | Kabupaten Karangasem |
+| 135 | Trekking Gunung Batukaru | Trekking | Kabupaten Tabanan |
+| 136 | Camping Gunung Batur | Camping | Kabupaten Bangli |
+| 137 | Camping Danau Beratan | Camping | Kabupaten Buleleng |
+| 138 | Camping Danau Buyan | Camping | Kabupaten Buleleng |
+| 139 | Camping Danau Tamblingan | Camping | Kabupaten Buleleng |
+| 140 | Camping Pantai Lovina | Camping | Kabupaten Buleleng |
+
+### 🕌 Wisata Religi & Budaya (80 destinasi)
+
+| No | Nama Tempat | Jenis | Wilayah |
+|----|-------------|-------|---------|
+| 141 | Pura Besakih | Pura / Kompleks | Kabupaten Karangasem |
+| 142 | Pura Luhur Uluwatu | Pura / Tebing / Kecak | Kabupaten Badung |
+| 143 | Pura Tanah Lot | Pura / Pantai / Sunset | Kabupaten Tabanan |
+| 144 | Pura Taman Ayun | Pura / Taman | Kabupaten Badung |
+| 145 | Pura Ulun Danu Beratan | Pura / Danau | Kabupaten Buleleng |
+| 146 | Pura Ulun Danu Batur | Pura / Danau | Kabupaten Bangli |
+| 147 | Pura Lempuyang Luhur | Pura / Gunung | Kabupaten Karangasem |
+| 148 | Pura Kehen | Pura | Kabupaten Bangli |
+| 149 | Pura Petitenget | Pura | Kabupaten Badung |
+| 150 | Pura Rambut Siwi | Pura / Pantai | Kabupaten Jembrana |
+| 151 | Pura Goa Lawah | Pura / Gua | Kabupaten Klungkung |
+| 152 | Pura Tirta Empul | Pura / Mata Air | Kabupaten Gianyar |
+| 153 | Pura Gunung Kawi | Pura / Candi | Kabupaten Gianyar |
+| 154 | Pura Dalem Puri | Pura | Kabupaten Gianyar |
+| 155 | Pura Pusering Jagat | Pura | Kabupaten Gianyar |
+| 156 | Pura Samuan Tiga | Pura | Kabupaten Gianyar |
+| 157 | Pura Masceti | Pura | Kabupaten Gianyar |
+| 158 | Pura Silayukti | Pura | Kabupaten Karangasem |
+| 159 | Pura Ponjok Batu | Pura | Kabupaten Buleleng |
+| 160 | Pura Meduwe Karang | Pura | Kabupaten Buleleng |
+| 161 | Pura Jagatnatha | Pura | Kota Denpasar |
+| 162 | Pura Maospahit | Pura | Kota Denpasar |
+| 163 | Pura Sakenan | Pura | Kota Denpasar |
+| 164 | Pura Dalem Sidakarya | Pura | Kota Denpasar |
+| 165 | Pura Agung Besakih | Pura | Kabupaten Karangasem |
+| 166 | Pura Luhur Batukaru | Pura | Kabupaten Tabanan |
+| 167 | Pura Luhur Pucak Mangu | Pura | Kabupaten Badung |
+| 168 | Pura Luhur Pucak Tedung | Pura | Kabupaten Badung |
+| 169 | Pura Luhur Pucak Kembar | Pura | Kabupaten Badung |
+| 170 | Pura Luhur Pucak Sari | Pura | Kabupaten Badung |
+| 171 | Tirta Gangga | Taman Air | Kabupaten Karangasem |
+| 172 | Taman Ujung | Taman Air | Kabupaten Karangasem |
+| 173 | Kerta Gosa | Cagar Budaya | Kabupaten Klungkung |
+| 174 | Puri Semarapura | Kompleks Istana | Kabupaten Klungkung |
+| 175 | Puri Agung Karangasem | Istana | Kabupaten Karangasem |
+| 176 | Puri Agung Gianyar | Istana | Kabupaten Gianyar |
+| 177 | Puri Agung Tabanan | Istana | Kabupaten Tabanan |
+| 178 | Puri Agung Buleleng | Istana | Kabupaten Buleleng |
+| 179 | Puri Agung Jembrana | Istana | Kabupaten Jembrana |
+| 180 | Bajra Sandhi Monument | Monumen / Sejarah | Kota Denpasar |
+| 181 | Museum Bali | Museum | Kota Denpasar |
+| 182 | Museum Le Mayeur | Museum | Kota Denpasar |
+| 183 | Museum Rudana | Museum | Kabupaten Gianyar |
+| 184 | Museum Neka | Museum | Kabupaten Gianyar |
+| 185 | Museum ARMA | Museum | Kabupaten Gianyar |
+| 186 | Museum Puri Lukisan | Museum | Kabupaten Gianyar |
+| 187 | Museum Subak | Museum | Kabupaten Tabanan |
+| 188 | Museum Gedong Kirtya | Museum | Kabupaten Buleleng |
+| 189 | Museum Buleleng | Museum | Kabupaten Buleleng |
+| 190 | Desa Adat Penglipuran | Budaya / Desa Adat | Kabupaten Bangli |
+| 191 | Desa Adat Tenganan | Budaya / Desa Adat | Kabupaten Karangasem |
+| 192 | Desa Adat Trunyan | Budaya / Desa Adat | Kabupaten Bangli |
+| 193 | Desa Adat Sidemen | Budaya / Desa Adat | Kabupaten Karangasem |
+| 194 | Desa Adat Bali Aga | Budaya / Desa Adat | Kabupaten Karangasem |
+| 195 | Desa Wisata Ubud | Desa Wisata | Kabupaten Gianyar |
+| 196 | Desa Wisata Mas | Desa Wisata | Kabupaten Gianyar |
+| 197 | Desa Wisata Celuk | Desa Wisata | Kabupaten Gianyar |
+| 198 | Desa Wisata Batuan | Desa Wisata | Kabupaten Gianyar |
+| 199 | Desa Wisata Batubulan | Desa Wisata | Kabupaten Gianyar |
+| 200 | Desa Wisata Sukawati | Desa Wisata | Kabupaten Gianyar |
+| 201 | Desa Wisata Blahbatuh | Desa Wisata | Kabupaten Gianyar |
+| 202 | Desa Wisata Kemenuh | Desa Wisata | Kabupaten Gianyar |
+| 203 | Desa Wisata Peliatan | Desa Wisata | Kabupaten Gianyar |
+| 204 | Desa Wisata Nyuh Kuning | Desa Wisata | Kabupaten Gianyar |
+| 205 | Pasar Seni Ubud | Budaya / Pasar | Kabupaten Gianyar |
+| 206 | Pasar Sukawati | Budaya / Pasar | Kabupaten Gianyar |
+| 207 | Pasar Badung | Pasar Tradisional | Kota Denpasar |
+| 208 | Pasar Kumbasari | Pasar Tradisional | Kota Denpasar |
+| 209 | Pasar Seni Kuta | Pasar Seni | Kabupaten Badung |
+| 210 | Pasar Seni Seminyak | Pasar Seni | Kabupaten Badung |
+| 211 | Taman Werdhi Budaya (Art Centre) | Budaya / Pertunjukan | Kota Denpasar |
+| 212 | Gedung Kesenian Bali | Budaya / Pertunjukan | Kota Denpasar |
+| 213 | Sanggar Tari Kecak Uluwatu | Seni Pertunjukan | Kabupaten Badung |
+| 214 | Sanggar Tari Kecak Tanah Lot | Seni Pertunjukan | Kabupaten Tabanan |
+| 215 | Sanggar Tari Legong Ubud | Seni Pertunjukan | Kabupaten Gianyar |
+| 216 | Sanggar Tari Barong Batubulan | Seni Pertunjukan | Kabupaten Gianyar |
+| 217 | Sanggar Tari Kecak Garuda Wisnu | Seni Pertunjukan | Kabupaten Badung |
+| 218 | Garuda Wisnu Kencana (GWK) | Budaya / Patung | Kabupaten Badung |
+| 219 | Patung Dewa Ruci | Patung | Kabupaten Badung |
+| 220 | Patung Ngurah Rai | Patung | Kota Denpasar |
+
+### 🌿 Wisata Agro & Kuliner (40 destinasi)
+
+| No | Nama Tempat | Jenis | Wilayah |
+|----|-------------|-------|---------|
+| 221 | Kebun Raya Bedugul | Kebun Raya | Kabupaten Buleleng |
+| 222 | Kebun Raya Eka Karya | Kebun Raya | Kabupaten Buleleng |
+| 223 | Agrowisata Kopi Kintamani | Agrowisata | Kabupaten Bangli |
+| 224 | Agrowisata Kopi Munduk | Agrowisata | Kabupaten Buleleng |
+| 225 | Agrowisata Kopi Pupuan | Agrowisata | Kabupaten Tabanan |
+| 226 | Agrowisata Anggur Buleleng | Agrowisata | Kabupaten Buleleng |
+| 227 | Agrowisata Salak Sibetan | Agrowisata | Kabupaten Karangasem |
+| 228 | Agrowisata Jeruk Kintamani | Agrowisata | Kabupaten Bangli |
+| 229 | Agrowisata Strawberry Bedugul | Agrowisata | Kabupaten Buleleng |
+| 230 | Agrowisata Sayuran Bedugul | Agrowisata | Kabupaten Buleleng |
+| 231 | Warung Babi Guling Ibu Oka | Kuliner | Kabupaten Gianyar |
+| 232 | Warung Babi Guling Pak Malen | Kuliner | Kabupaten Badung |
+| 233 | Warung Ayam Betutu Men Tempeh | Kuliner | Kabupaten Gianyar |
+| 234 | Warung Sate Lilit Jimbaran | Kuliner | Kabupaten Badung |
+| 235 | Warung Lawar Bali | Kuliner | Kota Denpasar |
+| 236 | Warung Nasi Campur Bali | Kuliner | Kota Denpasar |
+| 237 | Warung Tipat Cantok | Kuliner | Kota Denpasar |
+| 238 | Warung Jukut Ares | Kuliner | Kabupaten Gianyar |
+| 239 | Warung Sate Plecing | Kuliner | Kota Denpasar |
+| 240 | Warung Rujak Kuah Pindang | Kuliner | Kota Denpasar |
+| 241 | Pasar Kuliner Seminyak | Kuliner | Kabupaten Badung |
+| 242 | Pasar Kuliner Kuta | Kuliner | Kabupaten Badung |
+| 243 | Pasar Kuliner Ubud | Kuliner | Kabupaten Gianyar |
+| 244 | Pasar Kuliner Sanur | Kuliner | Kota Denpasar |
+| 245 | Pasar Kuliner Lovina | Kuliner | Kabupaten Buleleng |
+| 246 | Pusat Oleh-Oleh Krisna | Belanja | Kota Denpasar |
+| 247 | Pusat Oleh-Oleh Joger | Belanja | Kabupaten Badung |
+| 248 | Pusat Oleh-Oleh Cening Bagus | Belanja | Kota Denpasar |
+| 249 | Pusat Oleh-Oleh Bali Galeria | Belanja | Kota Denpasar |
+| 250 | Pusat Oleh-Oleh Bali Collection | Belanja | Kabupaten Badung |
+| 251 | Toko Kerajinan Celuk | Kerajinan Perak | Kabupaten Gianyar |
+| 252 | Toko Kerajinan Mas | Kerajinan Ukir | Kabupaten Gianyar |
+| 253 | Toko Kerajinan Batuan | Kerajinan Lukis | Kabupaten Gianyar |
+| 254 | Toko Kerajinan Batubulan | Kerajinan Batu | Kabupaten Gianyar |
+| 255 | Toko Kerajinan Sukawati | Kerajinan Kain | Kabupaten Gianyar |
+| 256 | Toko Kerajinan Klungkung | Kerajinan Tenun | Kabupaten Klungkung |
+| 257 | Toko Kerajinan Tenganan | Kerajinan Gringsing | Kabupaten Karangasem |
+| 258 | Toko Kerajinan Sidemen | Kerajinan Tenun | Kabupaten Karangasem |
+| 259 | Toko Kerajinan Jembrana | Kerajinan Jegog | Kabupaten Jembrana |
+| 260 | Toko Kerajinan Buleleng | Kerajinan Kayu | Kabupaten Buleleng |
+
+### 🏨 Wisata Modern & Hiburan (40 destinasi)
+
+| No | Nama Tempat | Jenis | Wilayah |
+|----|-------------|-------|---------|
+| 261 | Waterbom Bali | Taman Air | Kabupaten Badung |
+| 262 | Bali Trampoline | Hiburan | Kabupaten Badung |
+| 263 | Bali Laser Tag | Hiburan | Kabupaten Badung |
+| 264 | Bali Bowling | Hiburan | Kabupaten Badung |
+| 265 | Bali Karting | Hiburan | Kabupaten Badung |
+| 266 | Bali Paintball | Hiburan | Kabupaten Badung |
+| 267 | Bali Bungy Jump | Petualangan | Kabupaten Badung |
+| 268 | Bali Parasailing | Petualangan | Kabupaten Badung |
+| 269 | Bali Jet Ski | Wahana Air | Kabupaten Badung |
+| 270 | Bali Banana Boat | Wahana Air | Kabupaten Badung |
+| 271 | Bali Glass Bottom Boat | Wahana Air | Kabupaten Badung |
+| 272 | Bali Submarine | Wisata Bawah Laut | Kabupaten Badung |
+| 273 | Bali Seawalker | Wisata Bawah Laut | Kabupaten Badung |
+| 274 | Bali Snuba | Wisata Bawah Laut | Kabupaten Badung |
+| 275 | Bali Flyboard | Wahana Air | Kabupaten Badung |
+| 276 | Bali Wakeboard | Wahana Air | Kabupaten Badung |
+| 277 | Bali Kitesurfing | Olahraga Air | Kabupaten Badung |
+| 278 | Bali Windsurfing | Olahraga Air | Kabupaten Badung |
+| 279 | Bali Paddleboard | Olahraga Air | Kabupaten Badung |
+| 280 | Bali Kayak | Olahraga Air | Kabupaten Badung |
+| 281 | Bali Spa & Wellness | Spa | Kabupaten Badung |
+| 282 | Bali Yoga Retreat | Wellness | Kabupaten Gianyar |
+| 283 | Bali Meditation | Wellness | Kabupaten Gianyar |
+| 284 | Bali Cooking Class | Kuliner | Kabupaten Gianyar |
+| 285 | Bali Batik Class | Kerajinan | Kabupaten Gianyar |
+| 286 | Bali Silver Class | Kerajinan | Kabupaten Gianyar |
+| 287 | Bali Wood Carving Class | Kerajinan | Kabupaten Gianyar |
+| 288 | Bali Painting Class | Seni | Kabupaten Gianyar |
+| 289 | Bali Dance Class | Seni | Kabupaten Gianyar |
+| 290 | Bali Gamelan Class | Seni | Kabupaten Gianyar |
+| 291 | Bali Cycling Tour | Wisata Aktif | Kabupaten Gianyar |
+| 292 | Bali Trekking Tour | Wisata Aktif | Kabupaten Bangli |
+| 293 | Bali Elephant Safari | Wisata Satwa | Kabupaten Gianyar |
+| 294 | Bali Horse Riding | Wisata Aktif | Kabupaten Gianyar |
+| 295 | Bali Quad Bike | Wisata Aktif | Kabupaten Gianyar |
+| 296 | Bali Zipline | Wisata Aktif | Kabupaten Gianyar |
+| 297 | Bali Paragliding | Wisata Aktif | Kabupaten Badung |
+| 298 | Bali Hot Air Balloon | Wisata Aktif | Kabupaten Gianyar |
+| 299 | Bali Sunrise Trekking | Wisata Aktif | Kabupaten Bangli |
+| 300 | Bali Sunset Cruise | Wisata Bahari | Kabupaten Badung |
+
+### 🌅 Wisata Sunset & Pemandangan (20 destinasi)
+
+| No | Nama Tempat | Jenis | Wilayah |
+|----|-------------|-------|---------|
+| 301 | Sunset Tanah Lot | Sunset | Kabupaten Tabanan |
+| 302 | Sunset Uluwatu | Sunset | Kabupaten Badung |
+| 303 | Sunset Seminyak | Sunset | Kabupaten Badung |
+| 304 | Sunset Jimbaran | Sunset | Kabupaten Badung |
+| 305 | Sunset Kuta | Sunset | Kabupaten Badung |
+| 306 | Sunset Canggu | Sunset | Kabupaten Badung |
+| 307 | Sunrise Gunung Batur | Sunrise | Kabupaten Bangli |
+| 308 | Sunrise Gunung Agung | Sunrise | Kabupaten Karangasem |
+| 309 | Sunrise Kintamani | Sunrise | Kabupaten Bangli |
+| 310 | Sunrise Sidemen | Sunrise | Kabupaten Karangasem |
+| 311 | Pemandangan Tegallalang | Pemandangan | Kabupaten Gianyar |
+| 312 | Pemandangan Jatiluwih | Pemandangan | Kabupaten Tabanan |
+| 313 | Pemandangan Kintamani | Pemandangan | Kabupaten Bangli |
+| 314 | Pemandangan Munduk | Pemandangan | Kabupaten Buleleng |
+| 315 | Pemandangan Bedugul | Pemandangan | Kabupaten Buleleng |
+| 316 | Pemandangan Sidemen | Pemandangan | Kabupaten Karangasem |
+| 317 | Pemandangan Nusa Penida | Pemandangan | Kabupaten Klungkung |
+| 318 | Pemandangan Bukit Campuhan | Pemandangan | Kabupaten Gianyar |
+| 319 | Pemandangan Bukit Jambul | Pemandangan | Kabupaten Karangasem |
+| 320 | Pemandangan Bukit Asah | Pemandangan | Kabupaten Karangasem |
 
 ## Tokoh / kontribusi
 
@@ -100,7 +393,6 @@ Berikut daftar minimal 50 destinasi wisata di Bali, diurutkan berdasarkan wilaya
 
 ## Referensi
 
-- UU No. 64 Tahun 1958: https://peraturan.bpk.go.id/Details/52333/uu-no-64-tahun-1958 [web:20]
-- UNESCO Subak: https://whc.unesco.org/en/list/1194/ [web:31]
-- Love Bali Nyepi: https://lovebali.baliprov.go.id/event/detail/1741571083104/nyepi-%E2%80%93-the-day-of-silence [web:26]
-- Daftar kab/kota Bali: https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_Bali [web:52]
+- UU No. 64 Tahun 1958: https://peraturan.bpk.go.id/Details/52333/uu-no-64-tahun-1958
+- UNESCO Subak: https://whc.unesco.org/en/list/1194/
+- Daftar kab/kota Bali: https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_Bali

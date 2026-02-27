@@ -1,0 +1,17 @@
+# Kecamatan Donomulyo
+
+## Ringkasan
+
+Kecamatan Donomulyo adalah salah satu kecamatan di Kabupaten Malang, Jawa-Timur.
+
+## Desa / Kelurahan
+
+Lihat folder `Kelurahan/` dan `Desa/`.
+
+## Wisata
+
+- Destinasi wisata di Kecamatan Donomulyo.
+
+## Referensi
+
+- Wikipedia: https://id.wikipedia.org/wiki/Kecamatan_Donomulyo
