@@ -37,7 +37,62 @@ Lihat struktur folder:
 
 ## Wisata
 
-- Pura Tanah Lot (pantai ikonik); Ubud (seni/sawah Tegallalang); Pantai Kuta (surfing); Pura Uluwatu (tebing/tari Kecak); Gunung Batur (danau vulkanik).
+Berikut daftar minimal 50 destinasi wisata di Bali, diurutkan berdasarkan wilayah administrasi (kabupaten/kota):
+
+| No | Nama Tempat | Jenis Wisata | Wilayah |
+|----|-------------|--------------|---------|
+| 1 | Pantai Kuta | Pantai / Surfing | Kabupaten Badung |
+| 2 | Pantai Seminyak | Pantai / Sunset | Kabupaten Badung |
+| 3 | Pantai Nusa Dua | Pantai / Resort | Kabupaten Badung |
+| 4 | Pantai Dreamland | Pantai / Surfing | Kabupaten Badung |
+| 5 | Pantai Pandawa | Pantai / Tebing | Kabupaten Badung |
+| 6 | Pantai Jimbaran | Pantai / Seafood | Kabupaten Badung |
+| 7 | Pantai Suluban (Blue Point) | Pantai / Tebing | Kabupaten Badung |
+| 8 | Pantai Tanjung Benoa | Pantai / Wahana Air | Kabupaten Badung |
+| 9 | Pura Luhur Uluwatu | Pura / Tebing / Kecak | Kabupaten Badung |
+| 10 | Pura Taman Ayun | Pura / Taman | Kabupaten Badung |
+| 11 | Pantai Balangan | Pantai / Surfing | Kabupaten Badung |
+| 12 | Pantai Canggu | Pantai / Surfing | Kabupaten Badung |
+| 13 | Pantai Double Six | Pantai | Kabupaten Badung |
+| 14 | Pantai Melasti | Pantai | Kabupaten Badung |
+| 15 | Pura Petitenget | Pura | Kabupaten Badung |
+| 16 | Pura Tanah Lot | Pura / Pantai / Sunset | Kabupaten Tabanan |
+| 17 | Sawah Jatiluwih | Alam / Subak / UNESCO | Kabupaten Tabanan |
+| 18 | Pantai Balian | Pantai / Surfing | Kabupaten Tabanan |
+| 19 | Alas Kedaton Monkey Forest | Hutan / Satwa | Kabupaten Tabanan |
+| 20 | Ubud Monkey Forest | Hutan / Satwa | Kabupaten Gianyar |
+| 21 | Tegallalang Rice Terrace | Alam / Sawah | Kabupaten Gianyar |
+| 22 | Pasar Seni Ubud | Budaya / Pasar | Kabupaten Gianyar |
+| 23 | Goa Gajah | Cagar Budaya | Kabupaten Gianyar |
+| 24 | Air Terjun Tegenungan | Air Terjun | Kabupaten Gianyar |
+| 25 | Kintamani | Alam / Dataran Tinggi | Kabupaten Bangli |
+| 26 | Gunung Batur | Alam / Gunung Api | Kabupaten Bangli |
+| 27 | Danau Batur | Alam / Danau | Kabupaten Bangli |
+| 28 | Desa Adat Penglipuran | Budaya / Desa Adat | Kabupaten Bangli |
+| 29 | Pura Kehen | Pura | Kabupaten Bangli |
+| 30 | Lovina Beach | Pantai / Dolphin | Kabupaten Buleleng |
+| 31 | Air Terjun Gitgit | Air Terjun | Kabupaten Buleleng |
+| 32 | Air Panas Banjar | Pemandian Air Panas | Kabupaten Buleleng |
+| 33 | Pura Ulun Danu Beratan | Pura / Danau | Kabupaten Buleleng |
+| 34 | Air Terjun Sekumpul | Air Terjun | Kabupaten Buleleng |
+| 35 | Pura Besakih | Pura / Kompleks | Kabupaten Karangasem |
+| 36 | Tirta Gangga | Taman Air | Kabupaten Karangasem |
+| 37 | Pura Lempuyang Luhur | Pura / Gunung | Kabupaten Karangasem |
+| 38 | Pantai Amed | Pantai / Snorkeling | Kabupaten Karangasem |
+| 39 | Pura Rambut Siwi | Pura / Pantai | Kabupaten Jembrana |
+| 40 | Pantai Medewi | Pantai / Surfing | Kabupaten Jembrana |
+| 41 | Pantai Yeh Leh | Pantai / Batu Karang | Kabupaten Jembrana |
+| 42 | Kerta Gosa | Cagar Budaya | Kabupaten Klungkung |
+| 43 | Puri Semarapura | Kompleks Istana | Kabupaten Klungkung |
+| 44 | Nusa Penida (Kelingking Beach) | Pantai / Tebing | Kabupaten Klungkung (Kepulauan) |
+| 45 | Broken Beach | Alam / Tebing | Kabupaten Klungkung (Kepulauan) |
+| 46 | Crystal Bay | Pantai / Snorkeling | Kabupaten Klungkung (Kepulauan) |
+| 47 | Diamond Beach | Pantai | Kabupaten Klungkung (Kepulauan) |
+| 48 | Bajra Sandhi Monument | Monumen / Sejarah | Kota Denpasar |
+| 49 | Pantai Sanur | Pantai | Kota Denpasar |
+| 50 | Pasar Badung | Pasar Tradisional | Kota Denpasar |
+| 51 | Taman Werdhi Budaya (Art Centre) | Budaya / Pertunjukan | Kota Denpasar |
+| 52 | Museum Bali | Museum | Kota Denpasar |
 
 ## Tokoh / kontribusi
 
