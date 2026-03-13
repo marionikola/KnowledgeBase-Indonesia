@@ -284,11 +284,49 @@ Berdasarkan analisis kondisi saat ini, berikut adalah langkah-langkah yang dapat
    - Contoh: `Boalemo` → `boalemo`, `Bone-Bolango` → `bone-bolango`, `Gorontalo` → `gorontalo`, `Gorontalo-Utara` → `gorontalo-utara`, `Pohuwato` → `pohuwato`
    - Verifikasi bahwa tidak ada konten yang hilang atau rusak setelah rename telah dilakukan
 
-8. **Dokumentasi Proses** [x] Selesai
-   - Panduan singkat untuk proses rename telah dibuat dalam file `PANDUAN_RENAMA.md`
-   - Panduan ini dapat diaplikasikan ke provinsi lain
+8. **Pilot Project - Standarisasi Nama Kabupaten dan Kota Jambi** [x] Selesai
+   - Rename semua folder di `Jambi/Kabupaten/` dan `Jambi/Kota/` dari Title Case ke kebab-case lowercase telah selesai
+   - Contoh: `batanghari` → `batanghari`, `bungo` → `bungo`, `kerinci` → `kerinci`, `merangin` → `merangin`, `muaro-jambi` → `muaro-jambi`, `sarolangun` → `sarolangun`, `tanjung-jabung-barat` → `tanjung-jabung-barat`, `tanjung-jabung-timur` → `tanjung-jabung-timur`, `tebo` → `tebo`, `jambi` → `jambi`, `sungai-penuh` → `sungai-penuh`
+   - Verifikasi bahwa tidak ada konten yang hilang atau rusak setelah rename telah dilakukan
 
-9. **Eksekusi Berbatch untuk Provinsi Lain** [ ] Sedang Berjalan
-   - Pilot berhasil di Aceh, Bali, Bengkulu, DI Yogyakarta, DKI Jakarta, dan Gorontalo, sekarang melakukan ekspansi ke provinsi lain secara bertahap
-   - Gunakan skrip atau alat otomatisasi (lihat `PANDUAN_RENAMA.md`) untuk meminimalkan kesalahan manual
-   - Disarankan untuk memulai dengan provinsi yang memiliki jumlah kabupaten/kota relatif sedikit untuk memvalidasi skrip sebelum menerapkannya ke provinsi dengan jumlah besar.
+9. **Pilot Project - Standarisasi Nama Kabupaten dan Kota Jawa Barat** [x] Selesai
+   - Rename semua folder di `Jawa-Barat/Kabupaten/` dan `Jawa-Barat/Kota/` dari Title Case ke kebab-case lowercase telah selesai (jika diperlukan)
+   - Verifikasi bahwa tidak ada konten yang hilang atau rusak setelah rename telah dilakukan
+
+10. **Dokumentasi Proses** [x] Selesai
+    - Panduan singkat untuk proses rename telah dibuat dalam file `PANDUAN_RENAMA.md`
+    - Panduan ini dapat diaplikasikan ke provinsi lain
+
+11. **Eksekusi Berbatch untuk Provinsi Lain (Fase 1)** [ ] Sedang Berjalan
+    - Pilot berhasil di Aceh, Bali, Bengkulu, DI Yogyakarta, DKI Jakarta, Gorontalo, Jambi, dan Jawa Barat, sekarang melakukan ekspansi ke provinsi lain secara bertahap
+    - Gunakan skrip atau alat otomatisasi (lihat `PANDUAN_RENAMA.md`) untuk meminimalkan kesalahan manual
+    - Disarankan untuk memulai dengan provinsi yang memiliki jumlah kabupaten/kota relatif sedikit untuk memvalidasi skrip sebelum menerapkannya ke provinsi dengan jumlah besar.
+
+12. **Fase 2: Penyelesaian Struktur Folder Lengkap** [ ] Belum Dimulai
+    - Untuk setiap provinsi yang belum memiliki folder kabupaten/kota lengkap, buat struktur:
+      ```
+      provinsi/{nama-provinsi}/
+        README.md
+        kabupaten/
+          README.md
+          {nama-kabupaten}/
+            README.md
+        kota/
+          README.md
+          {nama-kota}/
+            README.md
+      ```
+    - Fokus pada provinsi yang telah selesai dalam Fase 1.
+
+13. **Fase 3: Isi Konten Berkualitas (Pilot)** [ ] Belum Dimulai
+    - Pilih beberapa provinsi untuk diisi konten sesuai template:
+      - Ringkasan (lokasi, luas, populasi, ibu kota)
+      - Administrasi (daftar kabupaten/kota)
+      - Sejarah singkat
+      - Fun fact / hal menarik
+      - Budaya
+      - Kuliner
+      - Wisata (tabel minimal 10 destinasi)
+      - Tokoh
+      - Referensi
+    - Mulai dengan provinsi yang memiliki struktur folder lengkap (setelah Fase 2).
