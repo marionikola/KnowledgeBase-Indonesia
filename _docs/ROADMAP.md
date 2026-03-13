@@ -1,5 +1,10 @@
 # Rencana Pengembangan KnowledgeBase Indonesia
 
+## Catatan Terbaru
+- Folder `plans` telah diubah nama menjadi `_docs` untuk mengikuti konvensi penamaan folder yang biasanya digunakan untuk dokumentasi.
+- Pemeriksaan awal menunjukkan tidak ada folder duplikat `provinsi/` dan `Provinsi/` di root. Namun, perlu dilakukan verifikasi lebih lanjut untuk memastikan tidak ada duplikasi di tingkat provinsi atau elsewhere.
+- Ditemukan inkonsistensi penamaan folder kabupaten/kota yang menggunakan Title Case (misal: `Aceh-Barat`, `Banda-Aceh`) alih-alih konvensi yang disepakati yaitu kebab-case lowercase (seharusnya `aceh-barat`, `banda-aceh`).
+
 ## Ringkasan Masalah
 
 Repo ini memiliki beberapa masalah yang perlu diselesaikan:
@@ -187,14 +192,23 @@ Repo ini memiliki beberapa masalah yang perlu diselesaikan:
 
 ## Rencana Eksekusi
 
-### Fase 1: Bersihkan Duplikasi
-- Hapus folder `Provinsi/` (Title Case) karena duplikat dari `provinsi/` (lowercase)
-- Di Bali: hapus folder `kabupaten/Kabupaten-Badung/` dst (Title-Kebab-Case) karena duplikat dari `kabupaten/badung/` dst
-- Di Bali: hapus folder `kota/Kota-Denpasar/` karena duplikat dari `kota/denpasar/`
-- Konten yang sudah ada di folder Title-Kebab-Case dipindahkan ke folder lowercase
+### Fase 1: Pembersihan dan Standarisasi Nama Folder
+#### 1.1 Verifikasi Duplikasi Root Level
+- Verifikasi tidak ada folder `Provinsi/` (Title Case) di root yang merupakan duplikat dari `provinsi/` (lowercase)
+- Jika ditemukan, hapus duplikat dan pindahkan konten yang diperlukan
 
-### Fase 2: Buat Struktur Folder Lengkap
-Untuk setiap provinsi yang belum memiliki folder kabupaten/kota, buat struktur:
+#### 1.2 Standarisasi Nama Kabupaten/Kota ke Kebab-Case Lowercase
+- Identifikasi semua folder kabupaten/kota yang menggunakan Title Case (misal: `Aceh-Barat`, `Banda-Aceh`)
+- Rename folder tersebut ke kebab-case lowercase (seharusnya `aceh-barat`, `banda-aceh`)
+- Pastikan perubahan nama folder tidak mengganggu struktur atau referensi internal
+- Lakukan ini untuk semua provinsi secara sistematis
+
+#### 1.3 Verifikasi Nama Kabupaten/Kota Tanpa Prefix
+- Pastikan tidak ada folder yang menggunakan prefix `Kabupaten-` atau `Kota-` dalam nama folder
+- Prefix tersebut hanya boleh ada di dalam konten `README.md` (judul H1)
+
+### Fase 2: Penyelesaian Struktur Folder Lengkap
+Untuk setiap provinsi yang belum memiliki folder kabupaten/kota lengkap, buat struktur:
 ```
 provinsi/{nama-provinsi}/
   README.md
@@ -208,7 +222,7 @@ provinsi/{nama-provinsi}/
       README.md
 ```
 
-### Fase 3: Isi Konten
+### Fase 3: Isi Konten Berkualitas
 Setiap README.md diisi dengan konten sesuai template:
 - Ringkasan (lokasi, luas, populasi, ibu kota)
 - Administrasi (daftar kabupaten/kota)
@@ -227,7 +241,54 @@ Setiap README.md diisi dengan konten sesuai template:
 Karena jumlah file sangat besar (38 provinsi × rata-rata 15 kabupaten/kota = ~570+ file README.md), eksekusi dilakukan secara batch per provinsi menggunakan Code mode.
 
 **Urutan prioritas:**
-1. Bersihkan duplikasi (Fase 1) - paling kritis
+1. Bersihkan duplikasi dan standarisasi nama (Fase 1) - paling kritis
 2. Buat semua struktur folder (Fase 2) - fondasi
 3. Isi konten provinsi (Fase 3a) - 38 file
 4. Isi konten kabupaten/kota (Fase 3b) - ~570 file, batch per provinsi
+
+## Langkah Selanjutnya yang Disarankan (Action Items)
+
+Berdasarkan analisis kondisi saat ini, berikut adalah langkah-langkah yang dapat langsung dijalankan:
+
+1. **Pilot Project - Standarisasi Nama Kabupaten Aceh** [x] Selesai
+   - Rename semua folder di `Aceh/Kabupaten/` dari Title Case ke kebab-case lowercase telah selesai
+   - Contoh: `Aceh-Barat` → `aceh-barat`, `Aceh-Besar` → `aceh-besar`, dst
+   - Verifikasi bahwa tidak ada konten yang hilang atau rusak setelah rename telah dilakukan
+
+2. **Validasi Struktur Kota Aceh** [x] Selesai
+   - Periksa folder `Aceh/Kota/` untuk memastikan nama sudah menggunakan kebab-case lowercase telah selesai
+   - Semua folder kota telah di-rename ke kebab-case lowercase
+
+3. **Pilot Project - Standarisasi Nama Kabupaten dan Kota Bali** [x] Selesai
+   - Rename semua folder di `Bali/Kabupaten/` dan `Bali/Kota/` dari Title Case ke kebab-case lowercase telah selesai
+   - Contoh: `Badung` → `badung`, `Denpasar` → `denpasar`, dst
+   - Verifikasi bahwa tidak ada konten yang hilang atau rusak setelah rename telah dilakukan
+
+4. **Pilot Project - Standarisasi Nama Kabupaten dan Kota Bengkulu** [x] Selesai
+   - Rename semua folder di `Bengkulu/Kabupaten/` dan `Bengkulu/Kota/` dari Title Case ke kebab-case lowercase telah selesai
+   - Contoh: `Bengkulu-Selatan` → `bengkulu-selatan`, `Bengkulu` → `bengkulu`, dst
+   - Verifikasi bahwa tidak ada konten yang hilang atau rusak setelah rename telah dilakukan
+
+5. **Pilot Project - Standarisasi Nama Kabupaten dan Kota DI Yogyakarta** [x] Selesai
+   - Rename semua folder di `DI-Yogyakarta/Kabupaten/` dan `DI-Yogyakarta/Kota/` dari Title Case ke kebab-case lowercase telah selesai
+   - Contoh: `Bantul` → `bantul`, `Gunungkidul` → `gunungkidul`, `Kulon-Progo` → `kulon-progo`, `Sleman` → `sleman`, `Yogyakarta` → `yogyakarta`
+   - Verifikasi bahwa tidak ada konten yang hilang atau rusak setelah rename telah dilakukan
+
+6. **Pilot Project - Standarisasi Nama Kabupaten dan Kota DKI Jakarta** [x] Selesai
+   - Rename semua folder di `DKI-Jakarta/Kabupaten/` dan `DKI-Jakarta/Kota/` dari Title Case ke kebab-case lowercase telah selesai
+   - Contoh: `Kepulauan-Seribu` → `kepulauan-seribu`, `Jakarta-Barat` → `jakarta-barat`, `Jakarta-Pusat` → `jakarta-pusat`, `Jakarta-Selatan` → `jakarta-selatan`, `Jakarta-Timur` → `jakarta-timur`, `Jakarta-Utara` → `jakarta-utara`
+   - Verifikasi bahwa tidak ada konten yang hilang atau rusak setelah rename telah dilakukan
+
+7. **Pilot Project - Standarisasi Nama Kabupaten dan Kota Gorontalo** [x] Selesai
+   - Rename semua folder di `Gorontalo/Kabupaten/` dan `Gorontalo/Kota/` dari Title Case ke kebab-case lowercase telah selesai
+   - Contoh: `Boalemo` → `boalemo`, `Bone-Bolango` → `bone-bolango`, `Gorontalo` → `gorontalo`, `Gorontalo-Utara` → `gorontalo-utara`, `Pohuwato` → `pohuwato`
+   - Verifikasi bahwa tidak ada konten yang hilang atau rusak setelah rename telah dilakukan
+
+8. **Dokumentasi Proses** [x] Selesai
+   - Panduan singkat untuk proses rename telah dibuat dalam file `PANDUAN_RENAMA.md`
+   - Panduan ini dapat diaplikasikan ke provinsi lain
+
+9. **Eksekusi Berbatch untuk Provinsi Lain** [ ] Sedang Berjalan
+   - Pilot berhasil di Aceh, Bali, Bengkulu, DI Yogyakarta, DKI Jakarta, dan Gorontalo, sekarang melakukan ekspansi ke provinsi lain secara bertahap
+   - Gunakan skrip atau alat otomatisasi (lihat `PANDUAN_RENAMA.md`) untuk meminimalkan kesalahan manual
+   - Disarankan untuk memulai dengan provinsi yang memiliki jumlah kabupaten/kota relatif sedikit untuk memvalidasi skrip sebelum menerapkannya ke provinsi dengan jumlah besar.
