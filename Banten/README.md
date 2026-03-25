@@ -51,18 +51,18 @@ Daerah Banten memiliki sejarah panjang yang gemilang. Pada abad ke-16 hingga ke-
 
 ## Pariwisata
 
-| No  | Nama Destinasi                      | Kabupaten/Kota        | Kategori Singkat                          |
-| --- | ----------------------------------- | --------------------- | ----------------------------------------- |
-| 1   | **Taman Nasional Ujung Kulon**      | Pandeglang            | Alam Tertutup, habitat Badak Jawa         |
-| 2   | **Desa Wisata Suku Baduy**          | Lebak                 | Budaya / Masyarakat Adat                  |
-| 3   | **Pantai Anyer**                    | Serang                | Pantai & Rekreasi                         |
-| 4   | **Pantai Tanjung Lesung**           | Pandeglang            | Pantai Berpasir Putih (KEK)               |
-| 5   | **Keraton Surosowan**               | Serang                | Situs Sejarah Kesultanan                  |
-| 6   | **Masjid Agung Banten**             | Serang                | Wisata Religi Sejarah                     |
-| 7   | **Pulau Umang**                     | Pandeglang            | Wisata Bahari / Resort                    |
-| 8   | **Gunung Krakatau (Titik Turisme)** | Pandeglang/Laut Selat | Alam / Vulkanik                           |
-| 9   | **Danau Tasikardi**                 | Serang                | Danau Bersejarah (Peninggalan Kesultanan) |
-| 10  | **Scientia Square Park**            | Tangerang             | Taman Bermain Modern / Keluarga           |
+| No  | Nama Destinasi                      | Kabupaten/Kota        | Kategori Singkat                          | Google Maps / Koordinat                                                                                                     |
+| --- | ----------------------------------- | --------------------- | ----------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| 1   | **Taman Nasional Ujung Kulon**      | Pandeglang            | Alam Tertutup, habitat Badak Jawa         | [Peta](https://www.google.com/maps/search/?api=1&query=Taman%20Nasional%20Ujung%20Kulon%20Pandeglang)                       |
+| 2   | **Desa Wisata Suku Baduy**          | Lebak                 | Budaya / Masyarakat Adat                  | [Peta](https://www.google.com/maps/search/?api=1&query=Desa%20Wisata%20Suku%20Baduy%20Lebak)                                |
+| 3   | **Pantai Anyer**                    | Serang                | Pantai & Rekreasi                         | [Peta](https://www.google.com/maps/search/?api=1&query=Pantai%20Anyer%20Serang)                                             |
+| 4   | **Pantai Tanjung Lesung**           | Pandeglang            | Pantai Berpasir Putih (KEK)               | [Peta](https://www.google.com/maps/search/?api=1&query=Pantai%20Tanjung%20Lesung%20Pandeglang)                              |
+| 5   | **Keraton Surosowan**               | Serang                | Situs Sejarah Kesultanan                  | [Peta](https://www.google.com/maps/search/?api=1&query=Keraton%20Surosowan%20Serang)                                        |
+| 6   | **Masjid Agung Banten**             | Serang                | Wisata Religi Sejarah                     | [Peta](https://www.google.com/maps/search/?api=1&query=Masjid%20Agung%20Banten%20Serang)                                    |
+| 7   | **Pulau Umang**                     | Pandeglang            | Wisata Bahari / Resort                    | [Peta](https://www.google.com/maps/search/?api=1&query=Pulau%20Umang%20Pandeglang)                                          |
+| 8   | **Gunung Krakatau (Titik Turisme)** | Pandeglang/Laut Selat | Alam / Vulkanik                           | [Peta](<https://www.google.com/maps/search/?api=1&query=Gunung%20Krakatau%20(Titik%20Turisme)%20Pandeglang%2FLaut%20Selat>) |
+| 9   | **Danau Tasikardi**                 | Serang                | Danau Bersejarah (Peninggalan Kesultanan) | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Tasikardi%20Serang)                                          |
+| 10  | **Scientia Square Park**            | Tangerang             | Taman Bermain Modern / Keluarga           | [Peta](https://www.google.com/maps/search/?api=1&query=Scientia%20Square%20Park%20Tangerang)                                |
 
 ## Tokoh Terkenal
 

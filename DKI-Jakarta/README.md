@@ -49,18 +49,18 @@ Jakarta memiliki sejarah panjang dengan berbagai nama: Sunda Kelapa, Jayakarta, 
 
 ## Pariwisata
 
-| No  | Nama Destinasi                        | Kabupaten/Kota   | Kategori Singkat                     |
-| --- | ------------------------------------- | ---------------- | ------------------------------------ |
-| 1   | **Monumen Nasional (Monas)**          | Jakarta Pusat    | Sejarah & Ikon                       |
-| 2   | **Taman Mini Indonesia Indah (TMII)** | Jakarta Timur    | Rekreasi Edukasi & Budaya            |
-| 3   | **Kota Tua Jakarta**                  | Jakarta Barat    | Situs Sejarah Kolonial               |
-| 4   | **Taman Impian Jaya Ancol**           | Jakarta Utara    | Taman Hiburan / Rekreasi Pantai      |
-| 5   | **Kepulauan Seribu**                  | Kepulauan Seribu | Wisata Bahari / Pulau Eksotis        |
-| 6   | **Museum Nasional (Museum Gajah)**    | Jakarta Pusat    | Museum Budaya Terbesar               |
-| 7   | **Masjid Istiqlal & Gereja Katedral** | Jakarta Pusat    | Wisata Religi & Arsitektur Simbolik  |
-| 8   | **Kebun Binatang Ragunan**            | Jakarta Selatan  | Kebun Binatang & Ruang Terbuka Hijau |
-| 9   | **Sarinah Raya**                      | Jakarta Pusat    | Mal Bersejarah & Cultural Center     |
-| 10  | **Kawasan Gelora Bung Karno**         | Jakarta Pusat    | Tur Olahraga & Taman Terbuka         |
+| No  | Nama Destinasi                        | Kabupaten/Kota   | Kategori Singkat                     | Google Maps / Koordinat                                                                                               |
+| --- | ------------------------------------- | ---------------- | ------------------------------------ | --------------------------------------------------------------------------------------------------------------------- |
+| 1   | **Monumen Nasional (Monas)**          | Jakarta Pusat    | Sejarah & Ikon                       | [Peta](<https://www.google.com/maps/search/?api=1&query=Monumen%20Nasional%20(Monas)%20Jakarta%20Pusat>)              |
+| 2   | **Taman Mini Indonesia Indah (TMII)** | Jakarta Timur    | Rekreasi Edukasi & Budaya            | [Peta](<https://www.google.com/maps/search/?api=1&query=Taman%20Mini%20Indonesia%20Indah%20(TMII)%20Jakarta%20Timur>) |
+| 3   | **Kota Tua Jakarta**                  | Jakarta Barat    | Situs Sejarah Kolonial               | [Peta](https://www.google.com/maps/search/?api=1&query=Kota%20Tua%20Jakarta%20Jakarta%20Barat)                        |
+| 4   | **Taman Impian Jaya Ancol**           | Jakarta Utara    | Taman Hiburan / Rekreasi Pantai      | [Peta](https://www.google.com/maps/search/?api=1&query=Taman%20Impian%20Jaya%20Ancol%20Jakarta%20Utara)               |
+| 5   | **Kepulauan Seribu**                  | Kepulauan Seribu | Wisata Bahari / Pulau Eksotis        | [Peta](https://www.google.com/maps/search/?api=1&query=Kepulauan%20Seribu%20Kepulauan%20Seribu)                       |
+| 6   | **Museum Nasional (Museum Gajah)**    | Jakarta Pusat    | Museum Budaya Terbesar               | [Peta](<https://www.google.com/maps/search/?api=1&query=Museum%20Nasional%20(Museum%20Gajah)%20Jakarta%20Pusat>)      |
+| 7   | **Masjid Istiqlal & Gereja Katedral** | Jakarta Pusat    | Wisata Religi & Arsitektur Simbolik  | [Peta](https://www.google.com/maps/search/?api=1&query=Masjid%20Istiqlal%20%26%20Gereja%20Katedral%20Jakarta%20Pusat) |
+| 8   | **Kebun Binatang Ragunan**            | Jakarta Selatan  | Kebun Binatang & Ruang Terbuka Hijau | [Peta](https://www.google.com/maps/search/?api=1&query=Kebun%20Binatang%20Ragunan%20Jakarta%20Selatan)                |
+| 9   | **Sarinah Raya**                      | Jakarta Pusat    | Mal Bersejarah & Cultural Center     | [Peta](https://www.google.com/maps/search/?api=1&query=Sarinah%20Raya%20Jakarta%20Pusat)                              |
+| 10  | **Kawasan Gelora Bung Karno**         | Jakarta Pusat    | Tur Olahraga & Taman Terbuka         | [Peta](https://www.google.com/maps/search/?api=1&query=Kawasan%20Gelora%20Bung%20Karno%20Jakarta%20Pusat)             |
 
 ## Tokoh Terkenal
 
