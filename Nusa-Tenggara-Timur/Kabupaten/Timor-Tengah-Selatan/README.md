@@ -34,7 +34,6 @@ Kabupaten Timor Tengah Selatan adalah salah satu wilayah di Provinsi Nusa Tengga
 
 **Kode Telepon:** Lihat README provinsi Nusa-Tenggara-Timur untuk kode area.
 
-| Kecamatan | Kode Pos |
-|-----------|----------|
-| (lihat folder Kecamatan/) | - |
-
+| Kecamatan                 | Kode Pos |
+| ------------------------- | -------- |
+| (lihat folder Kecamatan/) | -        |

@@ -34,7 +34,6 @@ Kabupaten Semarang adalah salah satu wilayah di Provinsi Jawa Tengah.
 
 **Kode Telepon:** Lihat README provinsi Jawa-Tengah untuk kode area.
 
-| Kecamatan | Kode Pos |
-|-----------|----------|
-| (lihat folder Kecamatan/) | - |
-
+| Kecamatan                 | Kode Pos |
+| ------------------------- | -------- |
+| (lihat folder Kecamatan/) | -        |

@@ -34,7 +34,6 @@ Kabupaten Hulu Sungai Utara adalah salah satu wilayah di Provinsi Kalimantan Sel
 
 **Kode Telepon:** Lihat README provinsi Kalimantan-Selatan untuk kode area.
 
-| Kecamatan | Kode Pos |
-|-----------|----------|
-| (lihat folder Kecamatan/) | - |
-
+| Kecamatan                 | Kode Pos |
+| ------------------------- | -------- |
+| (lihat folder Kecamatan/) | -        |

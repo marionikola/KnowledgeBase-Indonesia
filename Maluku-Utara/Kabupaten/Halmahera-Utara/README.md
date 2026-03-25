@@ -34,7 +34,6 @@ Kabupaten Halmahera Utara adalah salah satu wilayah di Provinsi Maluku Utara.
 
 **Kode Telepon:** Lihat README provinsi Maluku-Utara untuk kode area.
 
-| Kecamatan | Kode Pos |
-|-----------|----------|
-| (lihat folder Kecamatan/) | - |
-
+| Kecamatan                 | Kode Pos |
+| ------------------------- | -------- |
+| (lihat folder Kecamatan/) | -        |

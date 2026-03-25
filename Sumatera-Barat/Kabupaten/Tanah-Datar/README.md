@@ -34,7 +34,6 @@ Kabupaten Tanah Datar adalah salah satu wilayah di Provinsi Sumatera Barat.
 
 **Kode Telepon:** Lihat README provinsi Sumatera-Barat untuk kode area.
 
-| Kecamatan | Kode Pos |
-|-----------|----------|
-| (lihat folder Kecamatan/) | - |
-
+| Kecamatan                 | Kode Pos |
+| ------------------------- | -------- |
+| (lihat folder Kecamatan/) | -        |

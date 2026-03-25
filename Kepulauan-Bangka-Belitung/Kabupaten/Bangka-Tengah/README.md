@@ -34,7 +34,6 @@ Kabupaten Bangka Tengah adalah salah satu wilayah di Provinsi Kepulauan Bangka B
 
 **Kode Telepon:** Lihat README provinsi Kepulauan-Bangka-Belitung untuk kode area.
 
-| Kecamatan | Kode Pos |
-|-----------|----------|
-| (lihat folder Kecamatan/) | - |
-
+| Kecamatan                 | Kode Pos |
+| ------------------------- | -------- |
+| (lihat folder Kecamatan/) | -        |

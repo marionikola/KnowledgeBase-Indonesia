@@ -34,7 +34,6 @@ Kota Tual adalah salah satu wilayah di Provinsi Maluku.
 
 **Kode Telepon:** Lihat README provinsi Maluku untuk kode area.
 
-| Kecamatan | Kode Pos |
-|-----------|----------|
-| (lihat folder Kecamatan/) | - |
-
+| Kecamatan                 | Kode Pos |
+| ------------------------- | -------- |
+| (lihat folder Kecamatan/) | -        |

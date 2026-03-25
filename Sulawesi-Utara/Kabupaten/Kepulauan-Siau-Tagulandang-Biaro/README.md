@@ -34,7 +34,6 @@ Kabupaten Kepulauan Siau Tagulandang Biaro adalah salah satu wilayah di Provinsi
 
 **Kode Telepon:** Lihat README provinsi Sulawesi-Utara untuk kode area.
 
-| Kecamatan | Kode Pos |
-|-----------|----------|
-| (lihat folder Kecamatan/) | - |
-
+| Kecamatan                 | Kode Pos |
+| ------------------------- | -------- |
+| (lihat folder Kecamatan/) | -        |

@@ -34,7 +34,6 @@ Kabupaten Paniai adalah salah satu wilayah di Provinsi Papua Tengah.
 
 **Kode Telepon:** Lihat README provinsi Papua-Tengah untuk kode area.
 
-| Kecamatan | Kode Pos |
-|-----------|----------|
-| (lihat folder Kecamatan/) | - |
-
+| Kecamatan                 | Kode Pos |
+| ------------------------- | -------- |
+| (lihat folder Kecamatan/) | -        |

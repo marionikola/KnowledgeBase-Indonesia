@@ -34,7 +34,6 @@ Kabupaten Karimun adalah salah satu wilayah di Provinsi Kepulauan Riau.
 
 **Kode Telepon:** Lihat README provinsi Kepulauan-Riau untuk kode area.
 
-| Kecamatan | Kode Pos |
-|-----------|----------|
-| (lihat folder Kecamatan/) | - |
-
+| Kecamatan                 | Kode Pos |
+| ------------------------- | -------- |
+| (lihat folder Kecamatan/) | -        |

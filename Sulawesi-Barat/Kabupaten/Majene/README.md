@@ -34,7 +34,6 @@ Kabupaten Majene adalah salah satu wilayah di Provinsi Sulawesi Barat.
 
 **Kode Telepon:** Lihat README provinsi Sulawesi-Barat untuk kode area.
 
-| Kecamatan | Kode Pos |
-|-----------|----------|
-| (lihat folder Kecamatan/) | - |
-
+| Kecamatan                 | Kode Pos |
+| ------------------------- | -------- |
+| (lihat folder Kecamatan/) | -        |

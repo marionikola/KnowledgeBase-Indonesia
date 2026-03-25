@@ -34,7 +34,6 @@ Kabupaten Musi Rawas Utara adalah salah satu wilayah di Provinsi Sumatera Selata
 
 **Kode Telepon:** Lihat README provinsi Sumatera-Selatan untuk kode area.
 
-| Kecamatan | Kode Pos |
-|-----------|----------|
-| (lihat folder Kecamatan/) | - |
-
+| Kecamatan                 | Kode Pos |
+| ------------------------- | -------- |
+| (lihat folder Kecamatan/) | -        |

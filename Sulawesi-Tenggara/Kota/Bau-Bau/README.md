@@ -34,7 +34,6 @@ Kota Bau Bau adalah salah satu wilayah di Provinsi Sulawesi Tenggara.
 
 **Kode Telepon:** Lihat README provinsi Sulawesi-Tenggara untuk kode area.
 
-| Kecamatan | Kode Pos |
-|-----------|----------|
-| (lihat folder Kecamatan/) | - |
-
+| Kecamatan                 | Kode Pos |
+| ------------------------- | -------- |
+| (lihat folder Kecamatan/) | -        |

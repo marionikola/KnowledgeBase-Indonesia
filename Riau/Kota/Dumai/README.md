@@ -34,7 +34,6 @@ Kota Dumai adalah salah satu wilayah di Provinsi Riau.
 
 **Kode Telepon:** Lihat README provinsi Riau untuk kode area.
 
-| Kecamatan | Kode Pos |
-|-----------|----------|
-| (lihat folder Kecamatan/) | - |
-
+| Kecamatan                 | Kode Pos |
+| ------------------------- | -------- |
+| (lihat folder Kecamatan/) | -        |

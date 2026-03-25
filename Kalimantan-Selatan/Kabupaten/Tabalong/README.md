@@ -34,7 +34,6 @@ Kabupaten Tabalong adalah salah satu wilayah di Provinsi Kalimantan Selatan.
 
 **Kode Telepon:** Lihat README provinsi Kalimantan-Selatan untuk kode area.
 
-| Kecamatan | Kode Pos |
-|-----------|----------|
-| (lihat folder Kecamatan/) | - |
-
+| Kecamatan                 | Kode Pos |
+| ------------------------- | -------- |
+| (lihat folder Kecamatan/) | -        |

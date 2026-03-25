@@ -34,7 +34,6 @@ Kota Tarakan adalah salah satu wilayah di Provinsi Kalimantan Utara.
 
 **Kode Telepon:** Lihat README provinsi Kalimantan-Utara untuk kode area.
 
-| Kecamatan | Kode Pos |
-|-----------|----------|
-| (lihat folder Kecamatan/) | - |
-
+| Kecamatan                 | Kode Pos |
+| ------------------------- | -------- |
+| (lihat folder Kecamatan/) | -        |

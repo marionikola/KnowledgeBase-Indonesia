@@ -34,7 +34,6 @@ Kabupaten Ponorogo adalah salah satu wilayah di Provinsi Jawa Timur.
 
 **Kode Telepon:** Lihat README provinsi Jawa-Timur untuk kode area.
 
-| Kecamatan | Kode Pos |
-|-----------|----------|
-| (lihat folder Kecamatan/) | - |
-
+| Kecamatan                 | Kode Pos |
+| ------------------------- | -------- |
+| (lihat folder Kecamatan/) | -        |

@@ -34,7 +34,6 @@ Kabupaten Murung Raya adalah salah satu wilayah di Provinsi Kalimantan Tengah.
 
 **Kode Telepon:** Lihat README provinsi Kalimantan-Tengah untuk kode area.
 
-| Kecamatan | Kode Pos |
-|-----------|----------|
-| (lihat folder Kecamatan/) | - |
-
+| Kecamatan                 | Kode Pos |
+| ------------------------- | -------- |
+| (lihat folder Kecamatan/) | -        |

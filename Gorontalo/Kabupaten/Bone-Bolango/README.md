@@ -34,7 +34,6 @@ Kabupaten Bone Bolango adalah salah satu wilayah di Provinsi Gorontalo.
 
 **Kode Telepon:** Lihat README provinsi Gorontalo untuk kode area.
 
-| Kecamatan | Kode Pos |
-|-----------|----------|
-| (lihat folder Kecamatan/) | - |
-
+| Kecamatan                 | Kode Pos |
+| ------------------------- | -------- |
+| (lihat folder Kecamatan/) | -        |

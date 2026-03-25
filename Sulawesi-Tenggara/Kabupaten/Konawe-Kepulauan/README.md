@@ -34,7 +34,6 @@ Kabupaten Konawe Kepulauan adalah salah satu wilayah di Provinsi Sulawesi Tengga
 
 **Kode Telepon:** Lihat README provinsi Sulawesi-Tenggara untuk kode area.
 
-| Kecamatan | Kode Pos |
-|-----------|----------|
-| (lihat folder Kecamatan/) | - |
-
+| Kecamatan                 | Kode Pos |
+| ------------------------- | -------- |
+| (lihat folder Kecamatan/) | -        |

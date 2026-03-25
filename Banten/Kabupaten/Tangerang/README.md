@@ -34,7 +34,6 @@ Kabupaten Tangerang adalah salah satu wilayah di Provinsi Banten.
 
 **Kode Telepon:** Lihat README provinsi Banten untuk kode area.
 
-| Kecamatan | Kode Pos |
-|-----------|----------|
-| (lihat folder Kecamatan/) | - |
-
+| Kecamatan                 | Kode Pos |
+| ------------------------- | -------- |
+| (lihat folder Kecamatan/) | -        |

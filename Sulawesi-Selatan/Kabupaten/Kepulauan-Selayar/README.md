@@ -34,7 +34,6 @@ Kabupaten Kepulauan Selayar adalah salah satu wilayah di Provinsi Sulawesi Selat
 
 **Kode Telepon:** Lihat README provinsi Sulawesi-Selatan untuk kode area.
 
-| Kecamatan | Kode Pos |
-|-----------|----------|
-| (lihat folder Kecamatan/) | - |
-
+| Kecamatan                 | Kode Pos |
+| ------------------------- | -------- |
+| (lihat folder Kecamatan/) | -        |

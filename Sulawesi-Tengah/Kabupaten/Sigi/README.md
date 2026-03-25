@@ -34,7 +34,6 @@ Kabupaten Sigi adalah salah satu wilayah di Provinsi Sulawesi Tengah.
 
 **Kode Telepon:** Lihat README provinsi Sulawesi-Tengah untuk kode area.
 
-| Kecamatan | Kode Pos |
-|-----------|----------|
-| (lihat folder Kecamatan/) | - |
-
+| Kecamatan                 | Kode Pos |
+| ------------------------- | -------- |
+| (lihat folder Kecamatan/) | -        |

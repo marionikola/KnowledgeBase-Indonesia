@@ -34,7 +34,6 @@ Kabupaten Sumbawa Barat adalah salah satu wilayah di Provinsi Nusa Tenggara Bara
 
 **Kode Telepon:** Lihat README provinsi Nusa-Tenggara-Barat untuk kode area.
 
-| Kecamatan | Kode Pos |
-|-----------|----------|
-| (lihat folder Kecamatan/) | - |
-
+| Kecamatan                 | Kode Pos |
+| ------------------------- | -------- |
+| (lihat folder Kecamatan/) | -        |

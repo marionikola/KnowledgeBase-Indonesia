@@ -34,7 +34,6 @@ Kabupaten Jayawijaya adalah salah satu wilayah di Provinsi Papua Pegunungan.
 
 **Kode Telepon:** Lihat README provinsi Papua-Pegunungan untuk kode area.
 
-| Kecamatan | Kode Pos |
-|-----------|----------|
-| (lihat folder Kecamatan/) | - |
-
+| Kecamatan                 | Kode Pos |
+| ------------------------- | -------- |
+| (lihat folder Kecamatan/) | -        |

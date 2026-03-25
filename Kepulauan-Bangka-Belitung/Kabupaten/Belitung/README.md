@@ -34,7 +34,6 @@ Kabupaten Belitung adalah salah satu wilayah di Provinsi Kepulauan Bangka Belitu
 
 **Kode Telepon:** Lihat README provinsi Kepulauan-Bangka-Belitung untuk kode area.
 
-| Kecamatan | Kode Pos |
-|-----------|----------|
-| (lihat folder Kecamatan/) | - |
-
+| Kecamatan                 | Kode Pos |
+| ------------------------- | -------- |
+| (lihat folder Kecamatan/) | -        |

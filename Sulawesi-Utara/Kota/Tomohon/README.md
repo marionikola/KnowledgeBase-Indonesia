@@ -34,7 +34,6 @@ Kota Tomohon adalah salah satu wilayah di Provinsi Sulawesi Utara.
 
 **Kode Telepon:** Lihat README provinsi Sulawesi-Utara untuk kode area.
 
-| Kecamatan | Kode Pos |
-|-----------|----------|
-| (lihat folder Kecamatan/) | - |
-
+| Kecamatan                 | Kode Pos |
+| ------------------------- | -------- |
+| (lihat folder Kecamatan/) | -        |

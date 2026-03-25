@@ -34,7 +34,6 @@ Kabupaten Tebo adalah salah satu wilayah di Provinsi Jambi.
 
 **Kode Telepon:** Lihat README provinsi Jambi untuk kode area.
 
-| Kecamatan | Kode Pos |
-|-----------|----------|
-| (lihat folder Kecamatan/) | - |
-
+| Kecamatan                 | Kode Pos |
+| ------------------------- | -------- |
+| (lihat folder Kecamatan/) | -        |

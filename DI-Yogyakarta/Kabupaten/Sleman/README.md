@@ -34,7 +34,6 @@ Kabupaten Sleman adalah salah satu wilayah di Provinsi Di Yogyakarta.
 
 **Kode Telepon:** Lihat README provinsi DI-Yogyakarta untuk kode area.
 
-| Kecamatan | Kode Pos |
-|-----------|----------|
-| (lihat folder Kecamatan/) | - |
-
+| Kecamatan                 | Kode Pos |
+| ------------------------- | -------- |
+| (lihat folder Kecamatan/) | -        |

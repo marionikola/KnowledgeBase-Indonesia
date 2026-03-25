@@ -34,7 +34,6 @@ Kabupaten Sumbawa adalah salah satu wilayah di Provinsi Nusa Tenggara Barat.
 
 **Kode Telepon:** Lihat README provinsi Nusa-Tenggara-Barat untuk kode area.
 
-| Kecamatan | Kode Pos |
-|-----------|----------|
-| (lihat folder Kecamatan/) | - |
-
+| Kecamatan                 | Kode Pos |
+| ------------------------- | -------- |
+| (lihat folder Kecamatan/) | -        |

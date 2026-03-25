@@ -2,7 +2,6 @@
 
 ## Daftar
 
-
 ## Catatan
 
 - Nama folder: kebab-case lowercase.

@@ -34,7 +34,6 @@ Kabupaten Ogan Komering Ulu Selatan adalah salah satu wilayah di Provinsi Sumate
 
 **Kode Telepon:** Lihat README provinsi Sumatera-Selatan untuk kode area.
 
-| Kecamatan | Kode Pos |
-|-----------|----------|
-| (lihat folder Kecamatan/) | - |
-
+| Kecamatan                 | Kode Pos |
+| ------------------------- | -------- |
+| (lihat folder Kecamatan/) | -        |

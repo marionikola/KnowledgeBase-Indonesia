@@ -34,7 +34,6 @@ Kabupaten Pangkajene Dan Kepulauan adalah salah satu wilayah di Provinsi Sulawes
 
 **Kode Telepon:** Lihat README provinsi Sulawesi-Selatan untuk kode area.
 
-| Kecamatan | Kode Pos |
-|-----------|----------|
-| (lihat folder Kecamatan/) | - |
-
+| Kecamatan                 | Kode Pos |
+| ------------------------- | -------- |
+| (lihat folder Kecamatan/) | -        |

@@ -34,7 +34,6 @@ Kabupaten Kepulauan Seribu adalah salah satu wilayah di Provinsi Dki Jakarta.
 
 **Kode Telepon:** Lihat README provinsi DKI-Jakarta untuk kode area.
 
-| Kecamatan | Kode Pos |
-|-----------|----------|
-| (lihat folder Kecamatan/) | - |
-
+| Kecamatan                 | Kode Pos |
+| ------------------------- | -------- |
+| (lihat folder Kecamatan/) | -        |

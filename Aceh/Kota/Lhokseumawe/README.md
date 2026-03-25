@@ -34,7 +34,6 @@ Kota Lhokseumawe adalah salah satu wilayah di Provinsi Aceh.
 
 **Kode Telepon:** Lihat README provinsi Aceh untuk kode area.
 
-| Kecamatan | Kode Pos |
-|-----------|----------|
-| (lihat folder Kecamatan/) | - |
-
+| Kecamatan                 | Kode Pos |
+| ------------------------- | -------- |
+| (lihat folder Kecamatan/) | -        |

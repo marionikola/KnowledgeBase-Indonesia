@@ -34,7 +34,6 @@ Kabupaten Boven Digoel adalah salah satu wilayah di Provinsi Papua.
 
 **Kode Telepon:** Lihat README provinsi Papua untuk kode area.
 
-| Kecamatan | Kode Pos |
-|-----------|----------|
-| (lihat folder Kecamatan/) | - |
-
+| Kecamatan                 | Kode Pos |
+| ------------------------- | -------- |
+| (lihat folder Kecamatan/) | -        |

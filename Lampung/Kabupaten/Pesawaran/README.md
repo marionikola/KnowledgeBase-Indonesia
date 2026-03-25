@@ -34,7 +34,6 @@ Kabupaten Pesawaran adalah salah satu wilayah di Provinsi Lampung.
 
 **Kode Telepon:** Lihat README provinsi Lampung untuk kode area.
 
-| Kecamatan | Kode Pos |
-|-----------|----------|
-| (lihat folder Kecamatan/) | - |
-
+| Kecamatan                 | Kode Pos |
+| ------------------------- | -------- |
+| (lihat folder Kecamatan/) | -        |

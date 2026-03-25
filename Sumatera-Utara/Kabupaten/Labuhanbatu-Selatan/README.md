@@ -34,7 +34,6 @@ Kabupaten Labuhanbatu Selatan adalah salah satu wilayah di Provinsi Sumatera Uta
 
 **Kode Telepon:** Lihat README provinsi Sumatera-Utara untuk kode area.
 
-| Kecamatan | Kode Pos |
-|-----------|----------|
-| (lihat folder Kecamatan/) | - |
-
+| Kecamatan                 | Kode Pos |
+| ------------------------- | -------- |
+| (lihat folder Kecamatan/) | -        |

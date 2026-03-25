@@ -34,7 +34,6 @@ Kabupaten Bolaang Mongondow Timur adalah salah satu wilayah di Provinsi Sulawesi
 
 **Kode Telepon:** Lihat README provinsi Sulawesi-Utara untuk kode area.
 
-| Kecamatan | Kode Pos |
-|-----------|----------|
-| (lihat folder Kecamatan/) | - |
-
+| Kecamatan                 | Kode Pos |
+| ------------------------- | -------- |
+| (lihat folder Kecamatan/) | -        |

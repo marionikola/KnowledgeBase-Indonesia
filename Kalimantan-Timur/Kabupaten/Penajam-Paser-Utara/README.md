@@ -34,7 +34,6 @@ Kabupaten Penajam Paser Utara adalah salah satu wilayah di Provinsi Kalimantan T
 
 **Kode Telepon:** Lihat README provinsi Kalimantan-Timur untuk kode area.
 
-| Kecamatan | Kode Pos |
-|-----------|----------|
-| (lihat folder Kecamatan/) | - |
-
+| Kecamatan                 | Kode Pos |
+| ------------------------- | -------- |
+| (lihat folder Kecamatan/) | -        |

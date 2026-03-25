@@ -34,9 +34,9 @@ Kota Denpasar ibu kota Provinsi Bali, luas 111 km², populasi ~726 ribu jiwa.
 
 **Kode Telepon:** 0361
 
-| Kecamatan | Kode Pos |
-|-----------|----------|
-| Denpasar Barat | 80117-80119 |
-| Denpasar Timur | 80234-80238 |
+| Kecamatan        | Kode Pos    |
+| ---------------- | ----------- |
+| Denpasar Barat   | 80117-80119 |
+| Denpasar Timur   | 80234-80238 |
 | Denpasar Selatan | 80221-80229 |
-| Denpasar Utara | 80111-80116 |
+| Denpasar Utara   | 80111-80116 |

@@ -34,7 +34,6 @@ Kabupaten Mappi adalah salah satu wilayah di Provinsi Papua Selatan.
 
 **Kode Telepon:** Lihat README provinsi Papua-Selatan untuk kode area.
 
-| Kecamatan | Kode Pos |
-|-----------|----------|
-| (lihat folder Kecamatan/) | - |
-
+| Kecamatan                 | Kode Pos |
+| ------------------------- | -------- |
+| (lihat folder Kecamatan/) | -        |

@@ -34,7 +34,6 @@ Kabupaten Kepahiang adalah salah satu wilayah di Provinsi Bengkulu.
 
 **Kode Telepon:** Lihat README provinsi Bengkulu untuk kode area.
 
-| Kecamatan | Kode Pos |
-|-----------|----------|
-| (lihat folder Kecamatan/) | - |
-
+| Kecamatan                 | Kode Pos |
+| ------------------------- | -------- |
+| (lihat folder Kecamatan/) | -        |

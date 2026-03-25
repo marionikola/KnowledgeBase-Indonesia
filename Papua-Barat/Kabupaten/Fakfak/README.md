@@ -34,7 +34,6 @@ Kabupaten Fakfak adalah salah satu wilayah di Provinsi Papua Barat.
 
 **Kode Telepon:** Lihat README provinsi Papua-Barat untuk kode area.
 
-| Kecamatan | Kode Pos |
-|-----------|----------|
-| (lihat folder Kecamatan/) | - |
-
+| Kecamatan                 | Kode Pos |
+| ------------------------- | -------- |
+| (lihat folder Kecamatan/) | -        |

@@ -34,7 +34,6 @@ Kabupaten Sorong adalah salah satu wilayah di Provinsi Papua Barat Daya.
 
 **Kode Telepon:** Lihat README provinsi Papua-Barat-Daya untuk kode area.
 
-| Kecamatan | Kode Pos |
-|-----------|----------|
-| (lihat folder Kecamatan/) | - |
-
+| Kecamatan                 | Kode Pos |
+| ------------------------- | -------- |
+| (lihat folder Kecamatan/) | -        |

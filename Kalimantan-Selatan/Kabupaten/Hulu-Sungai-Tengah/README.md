@@ -34,7 +34,6 @@ Kabupaten Hulu Sungai Tengah adalah salah satu wilayah di Provinsi Kalimantan Se
 
 **Kode Telepon:** Lihat README provinsi Kalimantan-Selatan untuk kode area.
 
-| Kecamatan | Kode Pos |
-|-----------|----------|
-| (lihat folder Kecamatan/) | - |
-
+| Kecamatan                 | Kode Pos |
+| ------------------------- | -------- |
+| (lihat folder Kecamatan/) | -        |

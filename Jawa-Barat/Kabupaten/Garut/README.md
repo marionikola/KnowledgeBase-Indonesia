@@ -34,7 +34,6 @@ Kabupaten Garut adalah salah satu wilayah di Provinsi Jawa Barat.
 
 **Kode Telepon:** Lihat README provinsi Jawa-Barat untuk kode area.
 
-| Kecamatan | Kode Pos |
-|-----------|----------|
-| (lihat folder Kecamatan/) | - |
-
+| Kecamatan                 | Kode Pos |
+| ------------------------- | -------- |
+| (lihat folder Kecamatan/) | -        |
