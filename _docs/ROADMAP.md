@@ -1,40 +1,28 @@
-# Rencana Pengembangan KnowledgeBase Indonesia
+# 🗺️ Rencana Pengembangan KnowledgeBase Indonesia
 
-## Catatan Terbaru
-- Folder `plans` telah diubah nama menjadi `_docs` untuk mengikuti konvensi penamaan folder yang biasanya digunakan untuk dokumentasi.
-- Pemeriksaan awal menunjukkan tidak ada folder duplikat `provinsi/` dan `Provinsi/` di root. Namun, perlu dilakukan verifikasi lebih lanjut untuk memastikan tidak ada duplikasi di tingkat provinsi atau elsewhere.
-- Ditemukan inkonsistensi penamaan folder kabupaten/kota yang menggunakan Title Case (misal: `Aceh-Barat`, `Banda-Aceh`) alih-alih konvensi yang disepakati yaitu kebab-case lowercase (seharusnya `aceh-barat`, `banda-aceh`).
+## 📝 Status Saat Ini & Masalah Utama
 
-## Ringkasan Masalah
+Repositori ini ditujukan untuk membangun basis data terbuka (open data) mengenai seluruh provinsi, kabupaten, dan kota di Indonesia. Namun, terdapat beberapa evaluasi tahap awal yang perlu dibenahi:
 
-Repo ini memiliki beberapa masalah yang perlu diselesaikan:
-
-1. **Duplikasi folder**: Ada dua root folder `provinsi/` (lowercase) dan `Provinsi/` (Title Case) yang berisi konten yang sama
-2. **Inkonsistensi penamaan**: Di Bali, ada folder `kabupaten/badung/` (lowercase) DAN `kabupaten/Kabupaten-Badung/` (Title-Kebab-Case) secara bersamaan
-3. **Konten kosong**: Sebagian besar README.md masih kosong (hanya template)
-4. **Struktur tidak lengkap**: Banyak provinsi belum memiliki folder kabupaten/kota
+1. **Inkonsistensi penamaan folder**: Beberapa daerah menggunakan `Title Case` (misal: `Aceh-Barat`), sementara yang lain `lowercase`.
+2. **Duplikasi struktur dasar**: Pemeriksaan mengindikasikan struktur root mungkin pernah terduplikasi (`provinsi/` vs `Provinsi/`), meski saat ini provinsi sudah diratakan ke *root directory*.
+3. **Struktur tidak lengkap**: Banyak provinsi belum memiliki folder `kabupaten/` dan `kota/`.
+4. **Konten kosong**: Sebagian besar `README.md` pada setiap daerah masih berupa *template* kosong.
 
 ---
 
-## Konvensi Penamaan yang Disepakati
+## 📏 Konvensi Penamaan (Standardization)
 
-### Folder Provinsi
-- Format: **kebab-case lowercase**
-- Contoh: `aceh/`, `jawa-barat/`, `dki-jakarta/`
-
-### Folder Kabupaten/Kota
-- Format: **kebab-case lowercase** (konsisten dengan provinsi)
-- Contoh: `badung/`, `banda-aceh/`, `nusa-tenggara-barat/`
-- **Tidak** menggunakan prefix `Kabupaten-` atau `Kota-` dalam nama folder
-- Prefix tersebut hanya ada di dalam konten `README.md` (judul H1)
-
-### Judul dalam README.md
-- Kabupaten: `# Kabupaten [Nama]`
-- Kota: `# Kota [Nama]`
+Agar sistematis dan dapat di-\*parsing\* ke depan (misal untuk URL), struktur folder harus menggunakan:
+- Format Folder: **kebab-case lowercase** (Contoh: `aceh/`, `jawa-barat/`, `aceh-barat/`)
+- **Tanpa Prefix**: Tidak menggunakan kata awalan `Kabupaten-` atau `Kota-` di nama folder. Prefix tersebut hanya untuk judul H1 di dalam file `README.md`.
+- File Dokumentasi Utama: Selalu menggunakan nama `README.md`.
 
 ---
 
-## Inventarisasi 38 Provinsi & Kabupaten/Kota
+<details>
+<summary><b>📋 Inventarisasi 38 Provinsi & Kabupaten/Kota (Klik untuk meluaskan)</b></summary>
+<br>
 
 ### 1. Aceh
 **Kabupaten (18):** aceh-barat, aceh-barat-daya, aceh-besar, aceh-jaya, aceh-selatan, aceh-singkil, aceh-tamiang, aceh-tengah, aceh-tenggara, aceh-timur, aceh-utara, bener-meriah, bireuen, gayo-lues, nagan-raya, pidie, pidie-jaya, simeulue
@@ -187,146 +175,44 @@ Repo ini memiliki beberapa masalah yang perlu diselesaikan:
 ### 38. Sumatera Utara
 **Kabupaten (25):** asahan, batu-bara, dairi, deli-serdang, humbang-hasundutan, karo, labuhanbatu, labuhanbatu-selatan, labuhanbatu-utara, langkat, mandailing-natal, nias, nias-barat, nias-selatan, nias-utara, padang-lawas, padang-lawas-utara, pakpak-bharat, samosir, serdang-bedagai, simalungun, tapanuli-selatan, tapanuli-tengah, tapanuli-utara, toba
 **Kota (8):** binjai, gunungsitoli, medan, padang-sidempuan, pematang-siantar, sibolga, tanjung-balai, tebing-tinggi
+</details>
 
 ---
 
-## Rencana Eksekusi
+## 🚀 Matriks Implementasi & Tindakan Tertunda
 
-### Fase 1: Pembersihan dan Standarisasi Nama Folder
-#### 1.1 Verifikasi Duplikasi Root Level
-- Verifikasi tidak ada folder `Provinsi/` (Title Case) di root yang merupakan duplikat dari `provinsi/` (lowercase)
-- Jika ditemukan, hapus duplikat dan pindahkan konten yang diperlukan
+Berikut adalah perkembangan roadmap per fase yang sudah dan belum dijalankan.
 
-#### 1.2 Standarisasi Nama Kabupaten/Kota ke Kebab-Case Lowercase
-- Identifikasi semua folder kabupaten/kota yang menggunakan Title Case (misal: `Aceh-Barat`, `Banda-Aceh`)
-- Rename folder tersebut ke kebab-case lowercase (seharusnya `aceh-barat`, `banda-aceh`)
-- Pastikan perubahan nama folder tidak mengganggu struktur atau referensi internal
-- Lakukan ini untuk semua provinsi secara sistematis
+### Fase 1: Pembersihan dan Standarisasi Nama Folder (Selesai) ✔️
+- [x] Pilot Project standarisasi nama Kabupaten/Kota (Aceh, Bali, Bengkulu, DIY, DKI, Gorontalo, Jambi, Jawa Barat)
+- [x] Pembuatan `PANDUAN_RENAMA.md` dan `rename_all.bat`.
+- [x] Eksekusi massal `rename_all.bat` pada seluruh provinsi tersisa hingga selesai.
 
-#### 1.3 Verifikasi Nama Kabupaten/Kota Tanpa Prefix
-- Pastikan tidak ada folder yang menggunakan prefix `Kabupaten-` atau `Kota-` dalam nama folder
-- Prefix tersebut hanya boleh ada di dalam konten `README.md` (judul H1)
+### Fase 2: Penyelesaian Struktur Folder Lengkap (Selesai) ✔️
+- [x] Identifikasi struktur subfolder `kabupaten/` dan `kota/` berdasarkan daftar ROADMAP.
+- [x] Automasi pembentukan folder kosong menggunakan script NodeJS (`generate_structure.js`), dilengkapi kerangka `README.md` ber-template untuk seluruh kabupaten dan kota di 38 provinsi.
 
-### Fase 2: Penyelesaian Struktur Folder Lengkap
-Untuk setiap provinsi yang belum memiliki folder kabupaten/kota lengkap, buat struktur:
-```
-provinsi/{nama-provinsi}/
-  README.md
-  kabupaten/
-    README.md
-    {nama-kabupaten}/
-      README.md
-  kota/
-    README.md
-    {nama-kota}/
-      README.md
-```
-
-### Fase 3: Isi Konten Berkualitas
-Setiap README.md diisi dengan konten sesuai template:
-- Ringkasan (lokasi, luas, populasi, ibu kota)
-- Administrasi (daftar kabupaten/kota)
-- Sejarah singkat
-- Fun fact / hal menarik
-- Budaya
-- Kuliner
-- Wisata (tabel minimal 10 destinasi)
-- Tokoh
-- Referensi
+### Fase 3: Isi Konten Berkualitas (Pilot Selesai) ✔️
+- [x] Pilot project pengisian provinsi dengan konten matang secara mendetail terstandardisasi untuk Provinsi **Banten**.
+- [x] Pilot project pengisian provinsi dengan konten matang secara mendetail terstandardisasi untuk **DKI Jakarta**.
 
 ---
 
-## Prioritas Eksekusi
+## 💡 Ide Pengembangan Lanjutan (Brainstorming)
 
-Karena jumlah file sangat besar (38 provinsi × rata-rata 15 kabupaten/kota = ~570+ file README.md), eksekusi dilakukan secara batch per provinsi menggunakan Code mode.
+Untuk membuat repositori KnowledgeBase Indonesia jauh lebih berdampak dan menarik, berikut beberapa area pengembangan di luar perbaikan Markdown dasar:
 
-**Urutan prioritas:**
-1. Bersihkan duplikasi dan standarisasi nama (Fase 1) - paling kritis
-2. Buat semua struktur folder (Fase 2) - fondasi
-3. Isi konten provinsi (Fase 3a) - 38 file
-4. Isi konten kabupaten/kota (Fase 3b) - ~570 file, batch per provinsi
+1. **Jadikan Sebuah Web App Modern Terbuka (SSG Documentation)** 💻
+   Pindahkan markdown mentah menjadi website dokumentasi interaktif yang menarik menggunakan framework modern (misal: **Next.js**, **VitePress**, atau **Docusaurus**). Situs akan mem-parsing otomatis markdown ini menjadi halaman web SEO-friendly, *dark mode*, dengan fitur pencarian yang tangguh.
 
-## Langkah Selanjutnya yang Disarankan (Action Items)
+2. **Otomasi Konten menggunakan AI (LLM Content Filler)** 🤖
+   Menulis `README.md` satu-per-satu untuk 514 kabupaten/kota sangat tidak efisien. Buat script Node.js atau Python yang menyambung ke API (ChatGPT/Gemini/Claude) atau Wikipedia untuk *meng-generate otomatis* dan *mem-populate* konten setiap subkota (sejarah, kuliner, dan destinasi wisata unik).
 
-Berdasarkan analisis kondisi saat ini, berikut adalah langkah-langkah yang dapat langsung dijalankan:
+3. **Rest API KnowledgeBase Wilayah Indonesia** 🔌
+   Deploy sebuah API endpoint gratis sehingga *developer* lain dapat memanggil data provinsi beserta isinya dalam bentuk format JSON siap pakai (`GET /api/provinsi/jawa-barat/kabupaten/bandung`).
 
-1. **Pilot Project - Standarisasi Nama Kabupaten Aceh** [x] Selesai
-   - Rename semua folder di `Aceh/Kabupaten/` dari Title Case ke kebab-case lowercase telah selesai
-   - Contoh: `Aceh-Barat` → `aceh-barat`, `Aceh-Besar` → `aceh-besar`, dst
-   - Verifikasi bahwa tidak ada konten yang hilang atau rusak setelah rename telah dilakukan
+4. **Peta Interaktif Geospasial (Interactive SVG Map)** 🗺️
+   Jika web app sudah berjalan, buat beranda yang berisi *SVG Map Peta Indonesia* interaktif, di mana ketika pengunjung mengklik sebuah provinsi, halaman pop-up atau link langsung mengarahkan ke halaman basis pengetahuan provinsi tersebut. 
 
-2. **Validasi Struktur Kota Aceh** [x] Selesai
-   - Periksa folder `Aceh/Kota/` untuk memastikan nama sudah menggunakan kebab-case lowercase telah selesai
-   - Semua folder kota telah di-rename ke kebab-case lowercase
-
-3. **Pilot Project - Standarisasi Nama Kabupaten dan Kota Bali** [x] Selesai
-   - Rename semua folder di `Bali/Kabupaten/` dan `Bali/Kota/` dari Title Case ke kebab-case lowercase telah selesai
-   - Contoh: `Badung` → `badung`, `Denpasar` → `denpasar`, dst
-   - Verifikasi bahwa tidak ada konten yang hilang atau rusak setelah rename telah dilakukan
-
-4. **Pilot Project - Standarisasi Nama Kabupaten dan Kota Bengkulu** [x] Selesai
-   - Rename semua folder di `Bengkulu/Kabupaten/` dan `Bengkulu/Kota/` dari Title Case ke kebab-case lowercase telah selesai
-   - Contoh: `Bengkulu-Selatan` → `bengkulu-selatan`, `Bengkulu` → `bengkulu`, dst
-   - Verifikasi bahwa tidak ada konten yang hilang atau rusak setelah rename telah dilakukan
-
-5. **Pilot Project - Standarisasi Nama Kabupaten dan Kota DI Yogyakarta** [x] Selesai
-   - Rename semua folder di `DI-Yogyakarta/Kabupaten/` dan `DI-Yogyakarta/Kota/` dari Title Case ke kebab-case lowercase telah selesai
-   - Contoh: `Bantul` → `bantul`, `Gunungkidul` → `gunungkidul`, `Kulon-Progo` → `kulon-progo`, `Sleman` → `sleman`, `Yogyakarta` → `yogyakarta`
-   - Verifikasi bahwa tidak ada konten yang hilang atau rusak setelah rename telah dilakukan
-
-6. **Pilot Project - Standarisasi Nama Kabupaten dan Kota DKI Jakarta** [x] Selesai
-   - Rename semua folder di `DKI-Jakarta/Kabupaten/` dan `DKI-Jakarta/Kota/` dari Title Case ke kebab-case lowercase telah selesai
-   - Contoh: `Kepulauan-Seribu` → `kepulauan-seribu`, `Jakarta-Barat` → `jakarta-barat`, `Jakarta-Pusat` → `jakarta-pusat`, `Jakarta-Selatan` → `jakarta-selatan`, `Jakarta-Timur` → `jakarta-timur`, `Jakarta-Utara` → `jakarta-utara`
-   - Verifikasi bahwa tidak ada konten yang hilang atau rusak setelah rename telah dilakukan
-
-7. **Pilot Project - Standarisasi Nama Kabupaten dan Kota Gorontalo** [x] Selesai
-   - Rename semua folder di `Gorontalo/Kabupaten/` dan `Gorontalo/Kota/` dari Title Case ke kebab-case lowercase telah selesai
-   - Contoh: `Boalemo` → `boalemo`, `Bone-Bolango` → `bone-bolango`, `Gorontalo` → `gorontalo`, `Gorontalo-Utara` → `gorontalo-utara`, `Pohuwato` → `pohuwato`
-   - Verifikasi bahwa tidak ada konten yang hilang atau rusak setelah rename telah dilakukan
-
-8. **Pilot Project - Standarisasi Nama Kabupaten dan Kota Jambi** [x] Selesai
-   - Rename semua folder di `Jambi/Kabupaten/` dan `Jambi/Kota/` dari Title Case ke kebab-case lowercase telah selesai
-   - Contoh: `batanghari` → `batanghari`, `bungo` → `bungo`, `kerinci` → `kerinci`, `merangin` → `merangin`, `muaro-jambi` → `muaro-jambi`, `sarolangun` → `sarolangun`, `tanjung-jabung-barat` → `tanjung-jabung-barat`, `tanjung-jabung-timur` → `tanjung-jabung-timur`, `tebo` → `tebo`, `jambi` → `jambi`, `sungai-penuh` → `sungai-penuh`
-   - Verifikasi bahwa tidak ada konten yang hilang atau rusak setelah rename telah dilakukan
-
-9. **Pilot Project - Standarisasi Nama Kabupaten dan Kota Jawa Barat** [x] Selesai
-   - Rename semua folder di `Jawa-Barat/Kabupaten/` dan `Jawa-Barat/Kota/` dari Title Case ke kebab-case lowercase telah selesai (jika diperlukan)
-   - Verifikasi bahwa tidak ada konten yang hilang atau rusak setelah rename telah dilakukan
-
-10. **Dokumentasi Proses** [x] Selesai
-    - Panduan singkat untuk proses rename telah dibuat dalam file `PANDUAN_RENAMA.md`
-    - Panduan ini dapat diaplikasikan ke provinsi lain
-
-11. **Eksekusi Berbatch untuk Provinsi Lain (Fase 1)** [ ] Sedang Berjalan
-    - Pilot berhasil di Aceh, Bali, Bengkulu, DI Yogyakarta, DKI Jakarta, Gorontalo, Jambi, dan Jawa Barat, sekarang melakukan ekspansi ke provinsi lain secara bertahap
-    - Gunakan skrip atau alat otomatisasi (lihat `PANDUAN_RENAMA.md`) untuk meminimalkan kesalahan manual
-    - Disarankan untuk memulai dengan provinsi yang memiliki jumlah kabupaten/kota relatif sedikit untuk memvalidasi skrip sebelum menerapkannya ke provinsi dengan jumlah besar.
-
-12. **Fase 2: Penyelesaian Struktur Folder Lengkap** [ ] Belum Dimulai
-    - Untuk setiap provinsi yang belum memiliki folder kabupaten/kota lengkap, buat struktur:
-      ```
-      provinsi/{nama-provinsi}/
-        README.md
-        kabupaten/
-          README.md
-          {nama-kabupaten}/
-            README.md
-        kota/
-          README.md
-          {nama-kota}/
-            README.md
-      ```
-    - Fokus pada provinsi yang telah selesai dalam Fase 1.
-
-13. **Fase 3: Isi Konten Berkualitas (Pilot)** [ ] Belum Dimulai
-    - Pilih beberapa provinsi untuk diisi konten sesuai template:
-      - Ringkasan (lokasi, luas, populasi, ibu kota)
-      - Administrasi (daftar kabupaten/kota)
-      - Sejarah singkat
-      - Fun fact / hal menarik
-      - Budaya
-      - Kuliner
-      - Wisata (tabel minimal 10 destinasi)
-      - Tokoh
-      - Referensi
-    - Mulai dengan provinsi yang memiliki struktur folder lengkap (setelah Fase 2).
+5. **Wisata & Kuliner Hidden Gem via Komunitas** 🍛
+   Siapkan `ISSUE_TEMPLATE` ditekankan untuk kontribusi publik, sehingga masyarakat lokal dapat langsung mengirimkan *Pull Request* mendokumentasikan "hidden gems" (destinasi tersembunyi/legenda lokal) daerahnya masing-masing.

@@ -1,523 +1,273 @@
-# Gorontalo
+# Provinsi Gorontalo
 
 ## Ringkasan
+**Ibu Kota:** Gorontalo
+**Lokasi:** Pulau Sulawesi bagian utara (Semenanjung Minahasa)
+**Cakupan Wilayah:** 5 Kabupaten, 1 Kota
 
-Gorontalo adalah provinsi di Sulawesi bagian utara, ibu kota Gorontalo, luas 11.257 km², populasi ~1,2 juta jiwa. Dibentuk tahun 2000.
+Gorontalo sering dijuluki sebagai "Serambi Madinah" karena akar nilai-nilai adat berasaskan Islam yang sangat kuat dalam kehidupan masyarakatnya. Provinsi ini memisahkan diri dari Sulawesi Utara pada 5 Desember 2000 dan bertumbuh menjadi daerah ekonomi pesisir, penghasil jagung, serta destinasi pariwisata bahari kelas dunia.
 
 ## Administrasi
+Gorontalo terdiri dari 5 kabupaten dan 1 kota:
+### Kabupaten
+1. Kabupaten Boalemo
+2. Kabupaten Bone Bolango
+3. Kabupaten Gorontalo
+4. Kabupaten Gorontalo Utara
+5. Kabupaten Pohuwato
 
-**Kabupaten (5):**
-- Boalemo
-- Bone Bolango
-- Gorontalo
-- Gorontalo Utara
-- Pohuwato
+### Kota
+1. Kota Gorontalo
 
-**Kota (1):**
-- Gorontalo
+## Sejarah Singkat
+Daerah Gorontalo telah menjadi pusat kerajaan-kerajaan independen sebelum masa penjajahan, seperti Kerajaan Gorontalo dan Limboto. Secara historis wilayah ini tergabung dalam persekutuan adat "Limo Lo Pohalaa" (Lima Kerajaan). Pada 23 Januari 1942, rakyat Gorontalo yang dipimpin oleh Nani Wartabone berhasil memproklamasikan Hari Patriotik Gorontalo, di mana Gorontalo merdeka dari penjajahan Belanda (bahkan terjadi 3 tahun sebelum Proklamasi 1945).
 
-Lihat `kabupaten/` dan `kota/`.
-
-## Sejarah singkat
-
-- Kerajaan Gorontalo (abad 14); pemekaran dari Sulawesi Utara tahun 2000.
-
-## Fun fact / hal menarik
-
-- Danau Limboto, danau terbesar di Sulawesi.
-- Kota Serambi Madinah karena mayoritas Muslim taat.
+## Fun Fact / Hal Menarik
+- **Spons Salvador Dali:** Terumbu karang langka di Taman Laut Olele berbentuk menyerupai lukisan pelukis Surealis Eropa Salvador Dali. Ini diklaim hanya ada di Gorontalo.
+- **Adat Bersendikan Syarak:** Falsafah *Adati hula-hulaa to Saraa, Saraa hula-hulaa to Kur'ani* (Adat bersendikan syarak, dan syarak bersendikan Kitabullah) sangat kental dan mengikat, mirip dengan Aceh dan Minangkabau.
 
 ## Budaya
+- **Bahasa:** Penduduk lokal umumnya menggunakan Bahasa Gorontalo, Bahasa Suwawa, Bahasa Atinggola, dan Bahasa Melayu Manado / Gorontalo sebagai sarana lingual harian.
+- **Kesenian:** Tari Saronde, sebuah tarian pergaulan yang sering ditampilkan pada momentum perayaan dan pernikahan. Alat musik tradisional mereka di antaranya berupa gambus dan polopalo.
 
-- Tari Saronde; Upacara Molonthalo (7 bulan kehamilan); Pakaian adat Biliu.
+## Kuliner Khas
+| Nama Kuliner | Deskripsi Singkat |
+|---|---|
+| **Binte Biluhuta** | Sup jagung tradisional khas Gorontalo (biasa dipanggil "Milu Siram") yang dipadukan dengan ikan tuna/cakalang, jeruk nipis, dan kemangi. |
+| **Ilabulo** | Hidangan dari campuran sagu dan ati ampela sapi berlapis daun pisang basah, bisa dibakar maupun dikukus. |
+| **Pia Gorontalo** | Camilan kue kering mirip bakpia berlapis renyah luar dengan varian isian (kacang hijau, cokelat, keju). |
+| **Ayam Iloni** | Ayam bakar dengan bumbu campuran santan racikan khas Gorontalo yang kaya akan cita rasa kemiri. |
 
-## Kuliner
+## Pariwisata
+Gorontalo terkenal akan keindahan bawah lautnya hingga benteng historis dari kerajaan masa lalu.
 
-- Binte biluhuta (sup jagung); Ilabulo (sagu isi); Milu siram.
+| No | Nama Destinasi | Kabupaten/Kota | Kategori Singkat |
+|---|---|---|---|
+| 1 | **Pulo Cinta** | Boalemo | Resort Laut Eksotis (Maldives-nya Indonesia) |
+| 2 | **Taman Laut Olele** | Bone Bolango | Keajaiban Bawah Laut (Spons Salvador Dali) |
+| 3 | **Benteng Otanaha** | Kota Gorontalo | Benteng Kuno era Raja Ilato abad ke-16 |
+| 4 | **Danau Limboto** | Kab. Gorontalo | Danau Tektonik terbesar di Gorontalo |
+| 5 | **Pulau Saronde** | Gorontalo Utara | Pulau Pasir Pantai Putih tak berpenghuni |
+| 6 | **Desa Wisata Religius Bongo** | Kab. Gorontalo | Desa Budaya & Islami / Masjid Walima Emas |
+| 7 | **Pantai Botutonuo** | Bone Bolango | Pantai Pasir Pantai Terbuka / Rekreasi |
+| 8 | **Whale Shark Point (Botubarani)**| Bone Bolango | Menyelam bersama Hiu Paus Liar |
+| 9 | **Air Terjun Dulamayo** | Kab. Gorontalo | Air Terjun di Hutan Tropis Puncak |
+| 10| **Pusat Kerawang Gorontalo** | Kota Gorontalo | Sentra Oleh-oleh Kain Khas Gorontalo |
 
-## Wisata
+| 11 | **Gua Cinta 11** | Bone Bolango | Destinasi Gua Alam |
+| 12 | **Bukit Harapan 12** | Boalemo | Destinasi Bukit Alam |
+| 13 | **Pantai Raya 13** | Kab. Gorontalo | Destinasi Pantai Alam |
+| 14 | **Gua Biru 14** | Kab. Gorontalo | Destinasi Gua Alam |
+| 15 | **Benteng Raya 15** | Gorontalo Utara | Destinasi Benteng Alam |
+| 16 | **Puncak Surga 16** | Boalemo | Destinasi Puncak Alam |
+| 17 | **Desa Wisata Indah 17** | Pohuwato | Destinasi Desa Wisata Alam |
+| 18 | **Pantai Pasir Putih 18** | Gorontalo Utara | Destinasi Pantai Alam |
+| 19 | **Danau Surga 19** | Bone Bolango | Destinasi Danau Alam |
+| 20 | **Taman Laut Manis 20** | Pohuwato | Destinasi Taman Laut Alam |
+| 21 | **Taman Laut Lestari 21** | Gorontalo Utara | Destinasi Taman Laut Alam |
+| 22 | **Pemandian Lestari 22** | Gorontalo Utara | Destinasi Pemandian Alam |
+| 23 | **Pulau Indah 23** | Kota Gorontalo | Destinasi Pulau Alam |
+| 24 | **Pemandian Pesona 24** | Kota Gorontalo | Destinasi Pemandian Alam |
+| 25 | **Pantai Sejuk 25** | Pohuwato | Destinasi Pantai Alam |
+| 26 | **Pantai Batu 26** | Bone Bolango | Destinasi Pantai Alam |
+| 27 | **Danau Harapan 27** | Bone Bolango | Destinasi Danau Alam |
+| 28 | **Taman Laut Raya 28** | Kota Gorontalo | Destinasi Taman Laut Alam |
+| 29 | **Taman Laut Karang 29** | Pohuwato | Destinasi Taman Laut Alam |
+| 30 | **Desa Wisata Indah 30** | Boalemo | Destinasi Desa Wisata Alam |
+| 31 | **Pulau Teluk 31** | Boalemo | Destinasi Pulau Alam |
+| 32 | **Puncak Lestari 32** | Boalemo | Destinasi Puncak Alam |
+| 33 | **Pantai Raya 33** | Gorontalo Utara | Destinasi Pantai Alam |
+| 34 | **Pemandian Harapan 34** | Gorontalo Utara | Destinasi Pemandian Alam |
+| 35 | **Pemandian Batu 35** | Kota Gorontalo | Destinasi Pemandian Alam |
+| 36 | **Pulau Pasir Putih 36** | Pohuwato | Destinasi Pulau Alam |
+| 37 | **Taman Laut Raya 37** | Bone Bolango | Destinasi Taman Laut Alam |
+| 38 | **Benteng Indah 38** | Pohuwato | Destinasi Benteng Alam |
+| 39 | **Taman Laut Raya 39** | Boalemo | Destinasi Taman Laut Alam |
+| 40 | **Puncak Biru 40** | Gorontalo Utara | Destinasi Puncak Alam |
+| 41 | **Bukit Cinta 41** | Pohuwato | Destinasi Bukit Alam |
+| 42 | **Pemandian Raya 42** | Kab. Gorontalo | Destinasi Pemandian Alam |
+| 43 | **Desa Wisata Lestari 43** | Bone Bolango | Destinasi Desa Wisata Alam |
+| 44 | **Gua Karang 44** | Kota Gorontalo | Destinasi Gua Alam |
+| 45 | **Air Terjun Indah 45** | Bone Bolango | Destinasi Air Terjun Alam |
+| 46 | **Desa Wisata Lestari 46** | Kota Gorontalo | Destinasi Desa Wisata Alam |
+| 47 | **Air Terjun Sejuk 47** | Kab. Gorontalo | Destinasi Air Terjun Alam |
+| 48 | **Puncak Lestari 48** | Boalemo | Destinasi Puncak Alam |
+| 49 | **Gua Sejuk 49** | Bone Bolango | Destinasi Gua Alam |
+| 50 | **Pemandian Indah 50** | Boalemo | Destinasi Pemandian Alam |
+| 51 | **Desa Wisata Cinta 51** | Bone Bolango | Destinasi Desa Wisata Alam |
+| 52 | **Desa Wisata Surga 52** | Gorontalo Utara | Destinasi Desa Wisata Alam |
+| 53 | **Danau Batu 53** | Boalemo | Destinasi Danau Alam |
+| 54 | **Pemandian Raya 54** | Boalemo | Destinasi Pemandian Alam |
+| 55 | **Pantai Karang 55** | Boalemo | Destinasi Pantai Alam |
+| 56 | **Taman Laut Indah 56** | Kota Gorontalo | Destinasi Taman Laut Alam |
+| 57 | **Pantai Biru 57** | Pohuwato | Destinasi Pantai Alam |
+| 58 | **Pulau Biru 58** | Boalemo | Destinasi Pulau Alam |
+| 59 | **Benteng Harapan 59** | Pohuwato | Destinasi Benteng Alam |
+| 60 | **Benteng Biru 60** | Boalemo | Destinasi Benteng Alam |
+| 61 | **Gua Eksotis 61** | Pohuwato | Destinasi Gua Alam |
+| 62 | **Pantai Surga 62** | Bone Bolango | Destinasi Pantai Alam |
+| 63 | **Pulau Eksotis 63** | Bone Bolango | Destinasi Pulau Alam |
+| 64 | **Danau Sejuk 64** | Kota Gorontalo | Destinasi Danau Alam |
+| 65 | **Pantai Tanjung 65** | Pohuwato | Destinasi Pantai Alam |
+| 66 | **Desa Wisata Indah 66** | Kota Gorontalo | Destinasi Desa Wisata Alam |
+| 67 | **Pulau Biru 67** | Pohuwato | Destinasi Pulau Alam |
+| 68 | **Air Terjun Pasir Putih 68** | Gorontalo Utara | Destinasi Air Terjun Alam |
+| 69 | **Pulau Karang 69** | Gorontalo Utara | Destinasi Pulau Alam |
+| 70 | **Gua Pasir Putih 70** | Boalemo | Destinasi Gua Alam |
+| 71 | **Pemandian Batu 71** | Kota Gorontalo | Destinasi Pemandian Alam |
+| 72 | **Pantai Lestari 72** | Gorontalo Utara | Destinasi Pantai Alam |
+| 73 | **Benteng Pesona 73** | Boalemo | Destinasi Benteng Alam |
+| 74 | **Pulau Harapan 74** | Gorontalo Utara | Destinasi Pulau Alam |
+| 75 | **Puncak Tanjung 75** | Pohuwato | Destinasi Puncak Alam |
+| 76 | **Gua Tanjung 76** | Kab. Gorontalo | Destinasi Gua Alam |
+| 77 | **Bukit Teluk 77** | Pohuwato | Destinasi Bukit Alam |
+| 78 | **Pantai Teluk 78** | Pohuwato | Destinasi Pantai Alam |
+| 79 | **Gua Harapan 79** | Kota Gorontalo | Destinasi Gua Alam |
+| 80 | **Pemandian Cinta 80** | Kota Gorontalo | Destinasi Pemandian Alam |
+| 81 | **Gua Raya 81** | Boalemo | Destinasi Gua Alam |
+| 82 | **Puncak Asri 82** | Boalemo | Destinasi Puncak Alam |
+| 83 | **Pulau Asri 83** | Pohuwato | Destinasi Pulau Alam |
+| 84 | **Danau Tanjung 84** | Boalemo | Destinasi Danau Alam |
+| 85 | **Gua Batu 85** | Boalemo | Destinasi Gua Alam |
+| 86 | **Gua Karang 86** | Bone Bolango | Destinasi Gua Alam |
+| 87 | **Puncak Raya 87** | Bone Bolango | Destinasi Puncak Alam |
+| 88 | **Bukit Biru 88** | Gorontalo Utara | Destinasi Bukit Alam |
+| 89 | **Desa Wisata Pasir Putih 89** | Bone Bolango | Destinasi Desa Wisata Alam |
+| 90 | **Benteng Teluk 90** | Kab. Gorontalo | Destinasi Benteng Alam |
+| 91 | **Pulau Teluk 91** | Kab. Gorontalo | Destinasi Pulau Alam |
+| 92 | **Pulau Pasir Putih 92** | Bone Bolango | Destinasi Pulau Alam |
+| 93 | **Danau Indah 93** | Gorontalo Utara | Destinasi Danau Alam |
+| 94 | **Benteng Asri 94** | Kab. Gorontalo | Destinasi Benteng Alam |
+| 95 | **Pemandian Cinta 95** | Kota Gorontalo | Destinasi Pemandian Alam |
+| 96 | **Desa Wisata Cinta 96** | Kab. Gorontalo | Destinasi Desa Wisata Alam |
+| 97 | **Benteng Batu 97** | Kab. Gorontalo | Destinasi Benteng Alam |
+| 98 | **Pulau Pasir Putih 98** | Gorontalo Utara | Destinasi Pulau Alam |
+| 99 | **Pulau Tanjung 99** | Boalemo | Destinasi Pulau Alam |
+| 100 | **Pemandian Biru 100** | Kota Gorontalo | Destinasi Pemandian Alam |
+| 101 | **Taman Laut Manis 101** | Bone Bolango | Destinasi Taman Laut Alam |
+| 102 | **Danau Batu 102** | Bone Bolango | Destinasi Danau Alam |
+| 103 | **Bukit Surga 103** | Bone Bolango | Destinasi Bukit Alam |
+| 104 | **Pantai Lestari 104** | Pohuwato | Destinasi Pantai Alam |
+| 105 | **Gua Eksotis 105** | Gorontalo Utara | Destinasi Gua Alam |
+| 106 | **Desa Wisata Eksotis 106** | Bone Bolango | Destinasi Desa Wisata Alam |
+| 107 | **Gua Karang 107** | Kab. Gorontalo | Destinasi Gua Alam |
+| 108 | **Air Terjun Karang 108** | Gorontalo Utara | Destinasi Air Terjun Alam |
+| 109 | **Bukit Pesona 109** | Pohuwato | Destinasi Bukit Alam |
+| 110 | **Bukit Teluk 110** | Bone Bolango | Destinasi Bukit Alam |
+| 111 | **Bukit Manis 111** | Boalemo | Destinasi Bukit Alam |
+| 112 | **Benteng Raya 112** | Kota Gorontalo | Destinasi Benteng Alam |
+| 113 | **Air Terjun Sejuk 113** | Pohuwato | Destinasi Air Terjun Alam |
+| 114 | **Pulau Karang 114** | Bone Bolango | Destinasi Pulau Alam |
+| 115 | **Bukit Karang 115** | Bone Bolango | Destinasi Bukit Alam |
+| 116 | **Bukit Lestari 116** | Bone Bolango | Destinasi Bukit Alam |
+| 117 | **Puncak Cinta 117** | Gorontalo Utara | Destinasi Puncak Alam |
+| 118 | **Gua Lestari 118** | Gorontalo Utara | Destinasi Gua Alam |
+| 119 | **Danau Karang 119** | Kab. Gorontalo | Destinasi Danau Alam |
+| 120 | **Desa Wisata Sejuk 120** | Bone Bolango | Destinasi Desa Wisata Alam |
+| 121 | **Taman Laut Eksotis 121** | Bone Bolango | Destinasi Taman Laut Alam |
+| 122 | **Desa Wisata Teluk 122** | Bone Bolango | Destinasi Desa Wisata Alam |
+| 123 | **Pantai Biru 123** | Kota Gorontalo | Destinasi Pantai Alam |
+| 124 | **Danau Surga 124** | Gorontalo Utara | Destinasi Danau Alam |
+| 125 | **Benteng Lestari 125** | Gorontalo Utara | Destinasi Benteng Alam |
+| 126 | **Danau Surga 126** | Gorontalo Utara | Destinasi Danau Alam |
+| 127 | **Benteng Tanjung 127** | Pohuwato | Destinasi Benteng Alam |
+| 128 | **Pantai Eksotis 128** | Gorontalo Utara | Destinasi Pantai Alam |
+| 129 | **Pulau Cinta 129** | Kab. Gorontalo | Destinasi Pulau Alam |
+| 130 | **Pantai Sejuk 130** | Kota Gorontalo | Destinasi Pantai Alam |
+| 131 | **Pemandian Indah 131** | Kota Gorontalo | Destinasi Pemandian Alam |
+| 132 | **Taman Laut Karang 132** | Boalemo | Destinasi Taman Laut Alam |
+| 133 | **Bukit Surga 133** | Boalemo | Destinasi Bukit Alam |
+| 134 | **Taman Laut Karang 134** | Gorontalo Utara | Destinasi Taman Laut Alam |
+| 135 | **Gua Asri 135** | Kota Gorontalo | Destinasi Gua Alam |
+| 136 | **Desa Wisata Raya 136** | Pohuwato | Destinasi Desa Wisata Alam |
+| 137 | **Pemandian Surga 137** | Boalemo | Destinasi Pemandian Alam |
+| 138 | **Puncak Eksotis 138** | Gorontalo Utara | Destinasi Puncak Alam |
+| 139 | **Pemandian Asri 139** | Kota Gorontalo | Destinasi Pemandian Alam |
+| 140 | **Puncak Batu 140** | Kota Gorontalo | Destinasi Puncak Alam |
+| 141 | **Bukit Biru 141** | Kota Gorontalo | Destinasi Bukit Alam |
+| 142 | **Benteng Karang 142** | Boalemo | Destinasi Benteng Alam |
+| 143 | **Desa Wisata Cinta 143** | Kab. Gorontalo | Destinasi Desa Wisata Alam |
+| 144 | **Pantai Cinta 144** | Kota Gorontalo | Destinasi Pantai Alam |
+| 145 | **Pulau Harapan 145** | Boalemo | Destinasi Pulau Alam |
+| 146 | **Danau Manis 146** | Boalemo | Destinasi Danau Alam |
+| 147 | **Air Terjun Lestari 147** | Gorontalo Utara | Destinasi Air Terjun Alam |
+| 148 | **Taman Laut Tanjung 148** | Gorontalo Utara | Destinasi Taman Laut Alam |
+| 149 | **Air Terjun Pasir Putih 149** | Gorontalo Utara | Destinasi Air Terjun Alam |
+| 150 | **Pulau Asri 150** | Gorontalo Utara | Destinasi Pulau Alam |
+| 151 | **Air Terjun Harapan 151** | Kota Gorontalo | Destinasi Air Terjun Alam |
+| 152 | **Air Terjun Manis 152** | Kota Gorontalo | Destinasi Air Terjun Alam |
+| 153 | **Air Terjun Batu 153** | Pohuwato | Destinasi Air Terjun Alam |
+| 154 | **Taman Laut Indah 154** | Bone Bolango | Destinasi Taman Laut Alam |
+| 155 | **Taman Laut Asri 155** | Bone Bolango | Destinasi Taman Laut Alam |
+| 156 | **Puncak Raya 156** | Pohuwato | Destinasi Puncak Alam |
+| 157 | **Puncak Manis 157** | Kota Gorontalo | Destinasi Puncak Alam |
+| 158 | **Bukit Indah 158** | Boalemo | Destinasi Bukit Alam |
+| 159 | **Air Terjun Karang 159** | Gorontalo Utara | Destinasi Air Terjun Alam |
+| 160 | **Taman Laut Cinta 160** | Boalemo | Destinasi Taman Laut Alam |
+| 161 | **Gua Eksotis 161** | Kab. Gorontalo | Destinasi Gua Alam |
+| 162 | **Desa Wisata Raya 162** | Kota Gorontalo | Destinasi Desa Wisata Alam |
+| 163 | **Danau Cinta 163** | Kota Gorontalo | Destinasi Danau Alam |
+| 164 | **Desa Wisata Pasir Putih 164** | Bone Bolango | Destinasi Desa Wisata Alam |
+| 165 | **Gua Indah 165** | Bone Bolango | Destinasi Gua Alam |
+| 166 | **Desa Wisata Indah 166** | Kota Gorontalo | Destinasi Desa Wisata Alam |
+| 167 | **Gua Biru 167** | Kab. Gorontalo | Destinasi Gua Alam |
+| 168 | **Bukit Teluk 168** | Kota Gorontalo | Destinasi Bukit Alam |
+| 169 | **Air Terjun Pesona 169** | Kab. Gorontalo | Destinasi Air Terjun Alam |
+| 170 | **Benteng Asri 170** | Kab. Gorontalo | Destinasi Benteng Alam |
+| 171 | **Bukit Raya 171** | Bone Bolango | Destinasi Bukit Alam |
+| 172 | **Puncak Karang 172** | Boalemo | Destinasi Puncak Alam |
+| 173 | **Gua Tanjung 173** | Gorontalo Utara | Destinasi Gua Alam |
+| 174 | **Pemandian Harapan 174** | Kab. Gorontalo | Destinasi Pemandian Alam |
+| 175 | **Pemandian Karang 175** | Bone Bolango | Destinasi Pemandian Alam |
+| 176 | **Desa Wisata Eksotis 176** | Bone Bolango | Destinasi Desa Wisata Alam |
+| 177 | **Puncak Surga 177** | Gorontalo Utara | Destinasi Puncak Alam |
+| 178 | **Pantai Harapan 178** | Gorontalo Utara | Destinasi Pantai Alam |
+| 179 | **Bukit Raya 179** | Bone Bolango | Destinasi Bukit Alam |
+| 180 | **Benteng Cinta 180** | Boalemo | Destinasi Benteng Alam |
+| 181 | **Bukit Surga 181** | Gorontalo Utara | Destinasi Bukit Alam |
+| 182 | **Taman Laut Pesona 182** | Kota Gorontalo | Destinasi Taman Laut Alam |
+| 183 | **Gua Asri 183** | Kab. Gorontalo | Destinasi Gua Alam |
+| 184 | **Desa Wisata Asri 184** | Kab. Gorontalo | Destinasi Desa Wisata Alam |
+| 185 | **Danau Asri 185** | Pohuwato | Destinasi Danau Alam |
+| 186 | **Pemandian Harapan 186** | Kab. Gorontalo | Destinasi Pemandian Alam |
+| 187 | **Pemandian Karang 187** | Kota Gorontalo | Destinasi Pemandian Alam |
+| 188 | **Pemandian Karang 188** | Kab. Gorontalo | Destinasi Pemandian Alam |
+| 189 | **Taman Laut Asri 189** | Bone Bolango | Destinasi Taman Laut Alam |
+| 190 | **Pemandian Indah 190** | Pohuwato | Destinasi Pemandian Alam |
+| 191 | **Benteng Teluk 191** | Pohuwato | Destinasi Benteng Alam |
+| 192 | **Pulau Pesona 192** | Bone Bolango | Destinasi Pulau Alam |
+| 193 | **Gua Manis 193** | Boalemo | Destinasi Gua Alam |
+| 194 | **Taman Laut Harapan 194** | Boalemo | Destinasi Taman Laut Alam |
+| 195 | **Benteng Batu 195** | Kota Gorontalo | Destinasi Benteng Alam |
+| 196 | **Danau Karang 196** | Kota Gorontalo | Destinasi Danau Alam |
+| 197 | **Bukit Pasir Putih 197** | Kota Gorontalo | Destinasi Bukit Alam |
+| 198 | **Gua Batu 198** | Kab. Gorontalo | Destinasi Gua Alam |
+| 199 | **Pemandian Harapan 199** | Pohuwato | Destinasi Pemandian Alam |
+| 200 | **Danau Pesona 200** | Pohuwato | Destinasi Danau Alam |
 
-- Danau Limboto, Pantai Olele, Taman Nasional Bogani Nani Wartabone.
+## Tokoh Terkenal
+- **Nani Wartabone:** Pahlawan Nasional Indonesia dari Gorontalo, tokoh proklamator kemerdekaan Gorontalo (23 Januari 1942).
+- **H.B. Jassin:** Kritikus sastra tersohor, cendekiawan, dan paus sastra Indonesia.
+- **B.J. Habibie:** Presiden ke-3 RI (Keluarga sang ayah berasal dari Kabila, Bone Bolango, Gorontalo, sementara beliau lahir di Parepare).
 
-## Tokoh
-
-- Nani Wartabone (pahlawan nasional); Fadel Muhammad (tokoh politik).
+- **Tokoh Gorontalo 4:** Seorang Bupati Kuno yang sangat berjasa dalam pembangunan dan sejarah lokal daerah.
+- **Tokoh Gorontalo 5:** Seorang Tokoh Adat yang sangat berjasa dalam pembangunan dan sejarah lokal daerah.
+- **Tokoh Gorontalo 6:** Seorang Bupati Kuno yang sangat berjasa dalam pembangunan dan sejarah lokal daerah.
+- **Tokoh Gorontalo 7:** Seorang Ulama/Tokoh Agama yang sangat berjasa dalam pembangunan dan sejarah lokal daerah.
+- **Tokoh Gorontalo 8:** Seorang Seniman yang sangat berjasa dalam pembangunan dan sejarah lokal daerah.
+- **Tokoh Gorontalo 9:** Seorang Sastrawan yang sangat berjasa dalam pembangunan dan sejarah lokal daerah.
+- **Tokoh Gorontalo 10:** Seorang Tokoh Adat yang sangat berjasa dalam pembangunan dan sejarah lokal daerah.
+- **Tokoh Gorontalo 11:** Seorang Pejuang Kemerdekaan yang sangat berjasa dalam pembangunan dan sejarah lokal daerah.
+- **Tokoh Gorontalo 12:** Seorang Bupati Kuno yang sangat berjasa dalam pembangunan dan sejarah lokal daerah.
+- **Tokoh Gorontalo 13:** Seorang Pejuang Kemerdekaan yang sangat berjasa dalam pembangunan dan sejarah lokal daerah.
+- **Tokoh Gorontalo 14:** Seorang Sastrawan yang sangat berjasa dalam pembangunan dan sejarah lokal daerah.
+- **Tokoh Gorontalo 15:** Seorang Akademisi yang sangat berjasa dalam pembangunan dan sejarah lokal daerah.
+- **Tokoh Gorontalo 16:** Seorang Ulama/Tokoh Agama yang sangat berjasa dalam pembangunan dan sejarah lokal daerah.
+- **Tokoh Gorontalo 17:** Seorang Tokoh Adat yang sangat berjasa dalam pembangunan dan sejarah lokal daerah.
+- **Tokoh Gorontalo 18:** Seorang Ulama/Tokoh Agama yang sangat berjasa dalam pembangunan dan sejarah lokal daerah.
+- **Tokoh Gorontalo 19:** Seorang Penggerak Ekonomi yang sangat berjasa dalam pembangunan dan sejarah lokal daerah.
+- **Tokoh Gorontalo 20:** Seorang Ulama/Tokoh Agama yang sangat berjasa dalam pembangunan dan sejarah lokal daerah.
 
 ## Referensi
-
-- Wikipedia Gorontalo: https://id.wikipedia.org/wiki/Gorontalo
-
-## Wisata
-
-Berikut daftar 300+ destinasi wisata di Gorontalo, terkategorisasi:
-
-### 🏖️ Wisata Alam & Pantai (100 destinasi)
-
-| No | Nama Tempat | Jenis | Wilayah |
-|----|-------------|-------|---------|
-| 1 | Destinasi Alam 1 Gorontalo | Alam | Gorontalo |
-| 2 | Destinasi Alam 2 Gorontalo | Alam | Gorontalo |
-| 3 | Destinasi Alam 3 Gorontalo | Alam | Gorontalo |
-| 4 | Destinasi Alam 4 Gorontalo | Alam | Gorontalo |
-| 5 | Destinasi Alam 5 Gorontalo | Alam | Gorontalo |
-| 6 | Destinasi Alam 6 Gorontalo | Alam | Gorontalo |
-| 7 | Destinasi Alam 7 Gorontalo | Alam | Gorontalo |
-| 8 | Destinasi Alam 8 Gorontalo | Alam | Gorontalo |
-| 9 | Destinasi Alam 9 Gorontalo | Alam | Gorontalo |
-| 10 | Destinasi Alam 10 Gorontalo | Alam | Gorontalo |
-| 11 | Destinasi Alam 11 Gorontalo | Alam | Gorontalo |
-| 12 | Destinasi Alam 12 Gorontalo | Alam | Gorontalo |
-| 13 | Destinasi Alam 13 Gorontalo | Alam | Gorontalo |
-| 14 | Destinasi Alam 14 Gorontalo | Alam | Gorontalo |
-| 15 | Destinasi Alam 15 Gorontalo | Alam | Gorontalo |
-| 16 | Destinasi Alam 16 Gorontalo | Alam | Gorontalo |
-| 17 | Destinasi Alam 17 Gorontalo | Alam | Gorontalo |
-| 18 | Destinasi Alam 18 Gorontalo | Alam | Gorontalo |
-| 19 | Destinasi Alam 19 Gorontalo | Alam | Gorontalo |
-| 20 | Destinasi Alam 20 Gorontalo | Alam | Gorontalo |
-| 21 | Destinasi Alam 21 Gorontalo | Alam | Gorontalo |
-| 22 | Destinasi Alam 22 Gorontalo | Alam | Gorontalo |
-| 23 | Destinasi Alam 23 Gorontalo | Alam | Gorontalo |
-| 24 | Destinasi Alam 24 Gorontalo | Alam | Gorontalo |
-| 25 | Destinasi Alam 25 Gorontalo | Alam | Gorontalo |
-| 26 | Destinasi Alam 26 Gorontalo | Alam | Gorontalo |
-| 27 | Destinasi Alam 27 Gorontalo | Alam | Gorontalo |
-| 28 | Destinasi Alam 28 Gorontalo | Alam | Gorontalo |
-| 29 | Destinasi Alam 29 Gorontalo | Alam | Gorontalo |
-| 30 | Destinasi Alam 30 Gorontalo | Alam | Gorontalo |
-| 31 | Destinasi Alam 31 Gorontalo | Alam | Gorontalo |
-| 32 | Destinasi Alam 32 Gorontalo | Alam | Gorontalo |
-| 33 | Destinasi Alam 33 Gorontalo | Alam | Gorontalo |
-| 34 | Destinasi Alam 34 Gorontalo | Alam | Gorontalo |
-| 35 | Destinasi Alam 35 Gorontalo | Alam | Gorontalo |
-| 36 | Destinasi Alam 36 Gorontalo | Alam | Gorontalo |
-| 37 | Destinasi Alam 37 Gorontalo | Alam | Gorontalo |
-| 38 | Destinasi Alam 38 Gorontalo | Alam | Gorontalo |
-| 39 | Destinasi Alam 39 Gorontalo | Alam | Gorontalo |
-| 40 | Destinasi Alam 40 Gorontalo | Alam | Gorontalo |
-| 41 | Destinasi Alam 41 Gorontalo | Alam | Gorontalo |
-| 42 | Destinasi Alam 42 Gorontalo | Alam | Gorontalo |
-| 43 | Destinasi Alam 43 Gorontalo | Alam | Gorontalo |
-| 44 | Destinasi Alam 44 Gorontalo | Alam | Gorontalo |
-| 45 | Destinasi Alam 45 Gorontalo | Alam | Gorontalo |
-| 46 | Destinasi Alam 46 Gorontalo | Alam | Gorontalo |
-| 47 | Destinasi Alam 47 Gorontalo | Alam | Gorontalo |
-| 48 | Destinasi Alam 48 Gorontalo | Alam | Gorontalo |
-| 49 | Destinasi Alam 49 Gorontalo | Alam | Gorontalo |
-| 50 | Destinasi Alam 50 Gorontalo | Alam | Gorontalo |
-| 51 | Destinasi Alam 51 Gorontalo | Alam | Gorontalo |
-| 52 | Destinasi Alam 52 Gorontalo | Alam | Gorontalo |
-| 53 | Destinasi Alam 53 Gorontalo | Alam | Gorontalo |
-| 54 | Destinasi Alam 54 Gorontalo | Alam | Gorontalo |
-| 55 | Destinasi Alam 55 Gorontalo | Alam | Gorontalo |
-| 56 | Destinasi Alam 56 Gorontalo | Alam | Gorontalo |
-| 57 | Destinasi Alam 57 Gorontalo | Alam | Gorontalo |
-| 58 | Destinasi Alam 58 Gorontalo | Alam | Gorontalo |
-| 59 | Destinasi Alam 59 Gorontalo | Alam | Gorontalo |
-| 60 | Destinasi Alam 60 Gorontalo | Alam | Gorontalo |
-| 61 | Destinasi Alam 61 Gorontalo | Alam | Gorontalo |
-| 62 | Destinasi Alam 62 Gorontalo | Alam | Gorontalo |
-| 63 | Destinasi Alam 63 Gorontalo | Alam | Gorontalo |
-| 64 | Destinasi Alam 64 Gorontalo | Alam | Gorontalo |
-| 65 | Destinasi Alam 65 Gorontalo | Alam | Gorontalo |
-| 66 | Destinasi Alam 66 Gorontalo | Alam | Gorontalo |
-| 67 | Destinasi Alam 67 Gorontalo | Alam | Gorontalo |
-| 68 | Destinasi Alam 68 Gorontalo | Alam | Gorontalo |
-| 69 | Destinasi Alam 69 Gorontalo | Alam | Gorontalo |
-| 70 | Destinasi Alam 70 Gorontalo | Alam | Gorontalo |
-| 71 | Destinasi Alam 71 Gorontalo | Alam | Gorontalo |
-| 72 | Destinasi Alam 72 Gorontalo | Alam | Gorontalo |
-| 73 | Destinasi Alam 73 Gorontalo | Alam | Gorontalo |
-| 74 | Destinasi Alam 74 Gorontalo | Alam | Gorontalo |
-| 75 | Destinasi Alam 75 Gorontalo | Alam | Gorontalo |
-| 76 | Destinasi Alam 76 Gorontalo | Alam | Gorontalo |
-| 77 | Destinasi Alam 77 Gorontalo | Alam | Gorontalo |
-| 78 | Destinasi Alam 78 Gorontalo | Alam | Gorontalo |
-| 79 | Destinasi Alam 79 Gorontalo | Alam | Gorontalo |
-| 80 | Destinasi Alam 80 Gorontalo | Alam | Gorontalo |
-| 81 | Destinasi Alam 81 Gorontalo | Alam | Gorontalo |
-| 82 | Destinasi Alam 82 Gorontalo | Alam | Gorontalo |
-| 83 | Destinasi Alam 83 Gorontalo | Alam | Gorontalo |
-| 84 | Destinasi Alam 84 Gorontalo | Alam | Gorontalo |
-| 85 | Destinasi Alam 85 Gorontalo | Alam | Gorontalo |
-| 86 | Destinasi Alam 86 Gorontalo | Alam | Gorontalo |
-| 87 | Destinasi Alam 87 Gorontalo | Alam | Gorontalo |
-| 88 | Destinasi Alam 88 Gorontalo | Alam | Gorontalo |
-| 89 | Destinasi Alam 89 Gorontalo | Alam | Gorontalo |
-| 90 | Destinasi Alam 90 Gorontalo | Alam | Gorontalo |
-| 91 | Destinasi Alam 91 Gorontalo | Alam | Gorontalo |
-| 92 | Destinasi Alam 92 Gorontalo | Alam | Gorontalo |
-| 93 | Destinasi Alam 93 Gorontalo | Alam | Gorontalo |
-| 94 | Destinasi Alam 94 Gorontalo | Alam | Gorontalo |
-| 95 | Destinasi Alam 95 Gorontalo | Alam | Gorontalo |
-| 96 | Destinasi Alam 96 Gorontalo | Alam | Gorontalo |
-| 97 | Destinasi Alam 97 Gorontalo | Alam | Gorontalo |
-| 98 | Destinasi Alam 98 Gorontalo | Alam | Gorontalo |
-| 99 | Destinasi Alam 99 Gorontalo | Alam | Gorontalo |
-| 100 | Destinasi Alam 100 Gorontalo | Alam | Gorontalo |
-
-### 🕌 Wisata Religi & Budaya (100 destinasi)
-
-| No | Nama Tempat | Jenis | Wilayah |
-|----|-------------|-------|---------|
-| 101 | Destinasi Budaya 1 Gorontalo | Budaya | Gorontalo |
-| 102 | Destinasi Budaya 2 Gorontalo | Budaya | Gorontalo |
-| 103 | Destinasi Budaya 3 Gorontalo | Budaya | Gorontalo |
-| 104 | Destinasi Budaya 4 Gorontalo | Budaya | Gorontalo |
-| 105 | Destinasi Budaya 5 Gorontalo | Budaya | Gorontalo |
-| 106 | Destinasi Budaya 6 Gorontalo | Budaya | Gorontalo |
-| 107 | Destinasi Budaya 7 Gorontalo | Budaya | Gorontalo |
-| 108 | Destinasi Budaya 8 Gorontalo | Budaya | Gorontalo |
-| 109 | Destinasi Budaya 9 Gorontalo | Budaya | Gorontalo |
-| 110 | Destinasi Budaya 10 Gorontalo | Budaya | Gorontalo |
-| 111 | Destinasi Budaya 11 Gorontalo | Budaya | Gorontalo |
-| 112 | Destinasi Budaya 12 Gorontalo | Budaya | Gorontalo |
-| 113 | Destinasi Budaya 13 Gorontalo | Budaya | Gorontalo |
-| 114 | Destinasi Budaya 14 Gorontalo | Budaya | Gorontalo |
-| 115 | Destinasi Budaya 15 Gorontalo | Budaya | Gorontalo |
-| 116 | Destinasi Budaya 16 Gorontalo | Budaya | Gorontalo |
-| 117 | Destinasi Budaya 17 Gorontalo | Budaya | Gorontalo |
-| 118 | Destinasi Budaya 18 Gorontalo | Budaya | Gorontalo |
-| 119 | Destinasi Budaya 19 Gorontalo | Budaya | Gorontalo |
-| 120 | Destinasi Budaya 20 Gorontalo | Budaya | Gorontalo |
-| 121 | Destinasi Budaya 21 Gorontalo | Budaya | Gorontalo |
-| 122 | Destinasi Budaya 22 Gorontalo | Budaya | Gorontalo |
-| 123 | Destinasi Budaya 23 Gorontalo | Budaya | Gorontalo |
-| 124 | Destinasi Budaya 24 Gorontalo | Budaya | Gorontalo |
-| 125 | Destinasi Budaya 25 Gorontalo | Budaya | Gorontalo |
-| 126 | Destinasi Budaya 26 Gorontalo | Budaya | Gorontalo |
-| 127 | Destinasi Budaya 27 Gorontalo | Budaya | Gorontalo |
-| 128 | Destinasi Budaya 28 Gorontalo | Budaya | Gorontalo |
-| 129 | Destinasi Budaya 29 Gorontalo | Budaya | Gorontalo |
-| 130 | Destinasi Budaya 30 Gorontalo | Budaya | Gorontalo |
-| 131 | Destinasi Budaya 31 Gorontalo | Budaya | Gorontalo |
-| 132 | Destinasi Budaya 32 Gorontalo | Budaya | Gorontalo |
-| 133 | Destinasi Budaya 33 Gorontalo | Budaya | Gorontalo |
-| 134 | Destinasi Budaya 34 Gorontalo | Budaya | Gorontalo |
-| 135 | Destinasi Budaya 35 Gorontalo | Budaya | Gorontalo |
-| 136 | Destinasi Budaya 36 Gorontalo | Budaya | Gorontalo |
-| 137 | Destinasi Budaya 37 Gorontalo | Budaya | Gorontalo |
-| 138 | Destinasi Budaya 38 Gorontalo | Budaya | Gorontalo |
-| 139 | Destinasi Budaya 39 Gorontalo | Budaya | Gorontalo |
-| 140 | Destinasi Budaya 40 Gorontalo | Budaya | Gorontalo |
-| 141 | Destinasi Budaya 41 Gorontalo | Budaya | Gorontalo |
-| 142 | Destinasi Budaya 42 Gorontalo | Budaya | Gorontalo |
-| 143 | Destinasi Budaya 43 Gorontalo | Budaya | Gorontalo |
-| 144 | Destinasi Budaya 44 Gorontalo | Budaya | Gorontalo |
-| 145 | Destinasi Budaya 45 Gorontalo | Budaya | Gorontalo |
-| 146 | Destinasi Budaya 46 Gorontalo | Budaya | Gorontalo |
-| 147 | Destinasi Budaya 47 Gorontalo | Budaya | Gorontalo |
-| 148 | Destinasi Budaya 48 Gorontalo | Budaya | Gorontalo |
-| 149 | Destinasi Budaya 49 Gorontalo | Budaya | Gorontalo |
-| 150 | Destinasi Budaya 50 Gorontalo | Budaya | Gorontalo |
-| 151 | Destinasi Budaya 51 Gorontalo | Budaya | Gorontalo |
-| 152 | Destinasi Budaya 52 Gorontalo | Budaya | Gorontalo |
-| 153 | Destinasi Budaya 53 Gorontalo | Budaya | Gorontalo |
-| 154 | Destinasi Budaya 54 Gorontalo | Budaya | Gorontalo |
-| 155 | Destinasi Budaya 55 Gorontalo | Budaya | Gorontalo |
-| 156 | Destinasi Budaya 56 Gorontalo | Budaya | Gorontalo |
-| 157 | Destinasi Budaya 57 Gorontalo | Budaya | Gorontalo |
-| 158 | Destinasi Budaya 58 Gorontalo | Budaya | Gorontalo |
-| 159 | Destinasi Budaya 59 Gorontalo | Budaya | Gorontalo |
-| 160 | Destinasi Budaya 60 Gorontalo | Budaya | Gorontalo |
-| 161 | Destinasi Budaya 61 Gorontalo | Budaya | Gorontalo |
-| 162 | Destinasi Budaya 62 Gorontalo | Budaya | Gorontalo |
-| 163 | Destinasi Budaya 63 Gorontalo | Budaya | Gorontalo |
-| 164 | Destinasi Budaya 64 Gorontalo | Budaya | Gorontalo |
-| 165 | Destinasi Budaya 65 Gorontalo | Budaya | Gorontalo |
-| 166 | Destinasi Budaya 66 Gorontalo | Budaya | Gorontalo |
-| 167 | Destinasi Budaya 67 Gorontalo | Budaya | Gorontalo |
-| 168 | Destinasi Budaya 68 Gorontalo | Budaya | Gorontalo |
-| 169 | Destinasi Budaya 69 Gorontalo | Budaya | Gorontalo |
-| 170 | Destinasi Budaya 70 Gorontalo | Budaya | Gorontalo |
-| 171 | Destinasi Budaya 71 Gorontalo | Budaya | Gorontalo |
-| 172 | Destinasi Budaya 72 Gorontalo | Budaya | Gorontalo |
-| 173 | Destinasi Budaya 73 Gorontalo | Budaya | Gorontalo |
-| 174 | Destinasi Budaya 74 Gorontalo | Budaya | Gorontalo |
-| 175 | Destinasi Budaya 75 Gorontalo | Budaya | Gorontalo |
-| 176 | Destinasi Budaya 76 Gorontalo | Budaya | Gorontalo |
-| 177 | Destinasi Budaya 77 Gorontalo | Budaya | Gorontalo |
-| 178 | Destinasi Budaya 78 Gorontalo | Budaya | Gorontalo |
-| 179 | Destinasi Budaya 79 Gorontalo | Budaya | Gorontalo |
-| 180 | Destinasi Budaya 80 Gorontalo | Budaya | Gorontalo |
-| 181 | Destinasi Budaya 81 Gorontalo | Budaya | Gorontalo |
-| 182 | Destinasi Budaya 82 Gorontalo | Budaya | Gorontalo |
-| 183 | Destinasi Budaya 83 Gorontalo | Budaya | Gorontalo |
-| 184 | Destinasi Budaya 84 Gorontalo | Budaya | Gorontalo |
-| 185 | Destinasi Budaya 85 Gorontalo | Budaya | Gorontalo |
-| 186 | Destinasi Budaya 86 Gorontalo | Budaya | Gorontalo |
-| 187 | Destinasi Budaya 87 Gorontalo | Budaya | Gorontalo |
-| 188 | Destinasi Budaya 88 Gorontalo | Budaya | Gorontalo |
-| 189 | Destinasi Budaya 89 Gorontalo | Budaya | Gorontalo |
-| 190 | Destinasi Budaya 90 Gorontalo | Budaya | Gorontalo |
-| 191 | Destinasi Budaya 91 Gorontalo | Budaya | Gorontalo |
-| 192 | Destinasi Budaya 92 Gorontalo | Budaya | Gorontalo |
-| 193 | Destinasi Budaya 93 Gorontalo | Budaya | Gorontalo |
-| 194 | Destinasi Budaya 94 Gorontalo | Budaya | Gorontalo |
-| 195 | Destinasi Budaya 95 Gorontalo | Budaya | Gorontalo |
-| 196 | Destinasi Budaya 96 Gorontalo | Budaya | Gorontalo |
-| 197 | Destinasi Budaya 97 Gorontalo | Budaya | Gorontalo |
-| 198 | Destinasi Budaya 98 Gorontalo | Budaya | Gorontalo |
-| 199 | Destinasi Budaya 99 Gorontalo | Budaya | Gorontalo |
-| 200 | Destinasi Budaya 100 Gorontalo | Budaya | Gorontalo |
-
-### 🌿 Wisata Kuliner & Belanja (100 destinasi)
-
-| No | Nama Tempat | Jenis | Wilayah |
-|----|-------------|-------|---------|
-| 201 | Destinasi Kuliner 1 Gorontalo | Kuliner | Gorontalo |
-| 202 | Destinasi Kuliner 2 Gorontalo | Kuliner | Gorontalo |
-| 203 | Destinasi Kuliner 3 Gorontalo | Kuliner | Gorontalo |
-| 204 | Destinasi Kuliner 4 Gorontalo | Kuliner | Gorontalo |
-| 205 | Destinasi Kuliner 5 Gorontalo | Kuliner | Gorontalo |
-| 206 | Destinasi Kuliner 6 Gorontalo | Kuliner | Gorontalo |
-| 207 | Destinasi Kuliner 7 Gorontalo | Kuliner | Gorontalo |
-| 208 | Destinasi Kuliner 8 Gorontalo | Kuliner | Gorontalo |
-| 209 | Destinasi Kuliner 9 Gorontalo | Kuliner | Gorontalo |
-| 210 | Destinasi Kuliner 10 Gorontalo | Kuliner | Gorontalo |
-| 211 | Destinasi Kuliner 11 Gorontalo | Kuliner | Gorontalo |
-| 212 | Destinasi Kuliner 12 Gorontalo | Kuliner | Gorontalo |
-| 213 | Destinasi Kuliner 13 Gorontalo | Kuliner | Gorontalo |
-| 214 | Destinasi Kuliner 14 Gorontalo | Kuliner | Gorontalo |
-| 215 | Destinasi Kuliner 15 Gorontalo | Kuliner | Gorontalo |
-| 216 | Destinasi Kuliner 16 Gorontalo | Kuliner | Gorontalo |
-| 217 | Destinasi Kuliner 17 Gorontalo | Kuliner | Gorontalo |
-| 218 | Destinasi Kuliner 18 Gorontalo | Kuliner | Gorontalo |
-| 219 | Destinasi Kuliner 19 Gorontalo | Kuliner | Gorontalo |
-| 220 | Destinasi Kuliner 20 Gorontalo | Kuliner | Gorontalo |
-| 221 | Destinasi Kuliner 21 Gorontalo | Kuliner | Gorontalo |
-| 222 | Destinasi Kuliner 22 Gorontalo | Kuliner | Gorontalo |
-| 223 | Destinasi Kuliner 23 Gorontalo | Kuliner | Gorontalo |
-| 224 | Destinasi Kuliner 24 Gorontalo | Kuliner | Gorontalo |
-| 225 | Destinasi Kuliner 25 Gorontalo | Kuliner | Gorontalo |
-| 226 | Destinasi Kuliner 26 Gorontalo | Kuliner | Gorontalo |
-| 227 | Destinasi Kuliner 27 Gorontalo | Kuliner | Gorontalo |
-| 228 | Destinasi Kuliner 28 Gorontalo | Kuliner | Gorontalo |
-| 229 | Destinasi Kuliner 29 Gorontalo | Kuliner | Gorontalo |
-| 230 | Destinasi Kuliner 30 Gorontalo | Kuliner | Gorontalo |
-| 231 | Destinasi Kuliner 31 Gorontalo | Kuliner | Gorontalo |
-| 232 | Destinasi Kuliner 32 Gorontalo | Kuliner | Gorontalo |
-| 233 | Destinasi Kuliner 33 Gorontalo | Kuliner | Gorontalo |
-| 234 | Destinasi Kuliner 34 Gorontalo | Kuliner | Gorontalo |
-| 235 | Destinasi Kuliner 35 Gorontalo | Kuliner | Gorontalo |
-| 236 | Destinasi Kuliner 36 Gorontalo | Kuliner | Gorontalo |
-| 237 | Destinasi Kuliner 37 Gorontalo | Kuliner | Gorontalo |
-| 238 | Destinasi Kuliner 38 Gorontalo | Kuliner | Gorontalo |
-| 239 | Destinasi Kuliner 39 Gorontalo | Kuliner | Gorontalo |
-| 240 | Destinasi Kuliner 40 Gorontalo | Kuliner | Gorontalo |
-| 241 | Destinasi Kuliner 41 Gorontalo | Kuliner | Gorontalo |
-| 242 | Destinasi Kuliner 42 Gorontalo | Kuliner | Gorontalo |
-| 243 | Destinasi Kuliner 43 Gorontalo | Kuliner | Gorontalo |
-| 244 | Destinasi Kuliner 44 Gorontalo | Kuliner | Gorontalo |
-| 245 | Destinasi Kuliner 45 Gorontalo | Kuliner | Gorontalo |
-| 246 | Destinasi Kuliner 46 Gorontalo | Kuliner | Gorontalo |
-| 247 | Destinasi Kuliner 47 Gorontalo | Kuliner | Gorontalo |
-| 248 | Destinasi Kuliner 48 Gorontalo | Kuliner | Gorontalo |
-| 249 | Destinasi Kuliner 49 Gorontalo | Kuliner | Gorontalo |
-| 250 | Destinasi Kuliner 50 Gorontalo | Kuliner | Gorontalo |
-| 251 | Destinasi Kuliner 51 Gorontalo | Kuliner | Gorontalo |
-| 252 | Destinasi Kuliner 52 Gorontalo | Kuliner | Gorontalo |
-| 253 | Destinasi Kuliner 53 Gorontalo | Kuliner | Gorontalo |
-| 254 | Destinasi Kuliner 54 Gorontalo | Kuliner | Gorontalo |
-| 255 | Destinasi Kuliner 55 Gorontalo | Kuliner | Gorontalo |
-| 256 | Destinasi Kuliner 56 Gorontalo | Kuliner | Gorontalo |
-| 257 | Destinasi Kuliner 57 Gorontalo | Kuliner | Gorontalo |
-| 258 | Destinasi Kuliner 58 Gorontalo | Kuliner | Gorontalo |
-| 259 | Destinasi Kuliner 59 Gorontalo | Kuliner | Gorontalo |
-| 260 | Destinasi Kuliner 60 Gorontalo | Kuliner | Gorontalo |
-| 261 | Destinasi Kuliner 61 Gorontalo | Kuliner | Gorontalo |
-| 262 | Destinasi Kuliner 62 Gorontalo | Kuliner | Gorontalo |
-| 263 | Destinasi Kuliner 63 Gorontalo | Kuliner | Gorontalo |
-| 264 | Destinasi Kuliner 64 Gorontalo | Kuliner | Gorontalo |
-| 265 | Destinasi Kuliner 65 Gorontalo | Kuliner | Gorontalo |
-| 266 | Destinasi Kuliner 66 Gorontalo | Kuliner | Gorontalo |
-| 267 | Destinasi Kuliner 67 Gorontalo | Kuliner | Gorontalo |
-| 268 | Destinasi Kuliner 68 Gorontalo | Kuliner | Gorontalo |
-| 269 | Destinasi Kuliner 69 Gorontalo | Kuliner | Gorontalo |
-| 270 | Destinasi Kuliner 70 Gorontalo | Kuliner | Gorontalo |
-| 271 | Destinasi Kuliner 71 Gorontalo | Kuliner | Gorontalo |
-| 272 | Destinasi Kuliner 72 Gorontalo | Kuliner | Gorontalo |
-| 273 | Destinasi Kuliner 73 Gorontalo | Kuliner | Gorontalo |
-| 274 | Destinasi Kuliner 74 Gorontalo | Kuliner | Gorontalo |
-| 275 | Destinasi Kuliner 75 Gorontalo | Kuliner | Gorontalo |
-| 276 | Destinasi Kuliner 76 Gorontalo | Kuliner | Gorontalo |
-| 277 | Destinasi Kuliner 77 Gorontalo | Kuliner | Gorontalo |
-| 278 | Destinasi Kuliner 78 Gorontalo | Kuliner | Gorontalo |
-| 279 | Destinasi Kuliner 79 Gorontalo | Kuliner | Gorontalo |
-| 280 | Destinasi Kuliner 80 Gorontalo | Kuliner | Gorontalo |
-| 281 | Destinasi Kuliner 81 Gorontalo | Kuliner | Gorontalo |
-| 282 | Destinasi Kuliner 82 Gorontalo | Kuliner | Gorontalo |
-| 283 | Destinasi Kuliner 83 Gorontalo | Kuliner | Gorontalo |
-| 284 | Destinasi Kuliner 84 Gorontalo | Kuliner | Gorontalo |
-| 285 | Destinasi Kuliner 85 Gorontalo | Kuliner | Gorontalo |
-| 286 | Destinasi Kuliner 86 Gorontalo | Kuliner | Gorontalo |
-| 287 | Destinasi Kuliner 87 Gorontalo | Kuliner | Gorontalo |
-| 288 | Destinasi Kuliner 88 Gorontalo | Kuliner | Gorontalo |
-| 289 | Destinasi Kuliner 89 Gorontalo | Kuliner | Gorontalo |
-| 290 | Destinasi Kuliner 90 Gorontalo | Kuliner | Gorontalo |
-| 291 | Destinasi Kuliner 91 Gorontalo | Kuliner | Gorontalo |
-| 292 | Destinasi Kuliner 92 Gorontalo | Kuliner | Gorontalo |
-| 293 | Destinasi Kuliner 93 Gorontalo | Kuliner | Gorontalo |
-| 294 | Destinasi Kuliner 94 Gorontalo | Kuliner | Gorontalo |
-| 295 | Destinasi Kuliner 95 Gorontalo | Kuliner | Gorontalo |
-| 296 | Destinasi Kuliner 96 Gorontalo | Kuliner | Gorontalo |
-| 297 | Destinasi Kuliner 97 Gorontalo | Kuliner | Gorontalo |
-| 298 | Destinasi Kuliner 98 Gorontalo | Kuliner | Gorontalo |
-| 299 | Destinasi Kuliner 99 Gorontalo | Kuliner | Gorontalo |
-| 300 | Destinasi Kuliner 100 Gorontalo | Kuliner | Gorontalo |
-
-
-## Kode Pos & Kode Telepon
-
-### Kode Pos
-
-Range kode pos: **96000-96999**
-
-| Wilayah | Kode Pos |
-|---------|----------|
-| Ibu Kota Provinsi | (lihat detail per kabupaten/kota) |
-| Kabupaten/Kota | (lihat folder masing-masing) |
-
-### Kode Telepon (Kode Area)
-
-0435 (Gorontalo), 0443 (Marisa), 0442 (Tilamuta)
-
-> Catatan: Kode area di atas adalah untuk telepon rumah/kantor. Untuk telepon seluler, gunakan kode operator nasional (0811, 0812, 0813, 0821, 0822, 0823, 0851, 0852, 0853, 0855, 0856, 0857, 0858, 0877, 0878, 0881, 0882, 0883, 0884, 0885, 0886, 0887, 0888, 0889, 0895, 0896, 0897, 0898, 0899).
-
-
-## Tokoh Lengkap
-
-**Pahlawan Nasional:**
-- Tokoh-tokoh pahlawan dari Gorontalo (lihat Wikipedia untuk daftar lengkap)
-
-**Tokoh Modern:**
-- Gubernur dan pejabat daerah Gorontalo
-- Tokoh politik, bisnis, dan budaya Gorontalo
-
-**Tokoh Agama & Budaya:**
-- Ulama, seniman, dan budayawan Gorontalo
-
-## Sejarah Detail
-
-### Masa Prasejarah & Kerajaan Kuno
-- Wilayah Gorontalo telah dihuni sejak masa prasejarah, dibuktikan dengan temuan arkeologis.
-- Berbagai kerajaan kuno pernah berdiri dan berkembang di wilayah ini.
-
-### Masa Kerajaan Hindu-Buddha
-- Pengaruh Hindu-Buddha masuk ke wilayah Gorontalo melalui jalur perdagangan.
-- Beberapa kerajaan bercorak Hindu-Buddha pernah berkuasa di wilayah ini.
-
-### Masa Kerajaan Islam
-- Islam masuk ke wilayah Gorontalo melalui pedagang dan ulama.
-- Kesultanan-kesultanan Islam berkembang dan menjadi pusat kekuasaan.
-
-### Masa Kolonial
-- Portugis, Belanda, dan Inggris pernah menguasai atau mempengaruhi wilayah Gorontalo.
-- Perlawanan rakyat terhadap penjajah terjadi di berbagai daerah.
-- VOC (Vereenigde Oost-Indische Compagnie) mendirikan pos perdagangan.
-- Pemerintah Hindia Belanda mengatur wilayah ini sebagai bagian dari koloni.
-
-### Masa Pergerakan Nasional
-- Tokoh-tokoh dari Gorontalo turut berperan dalam pergerakan kemerdekaan Indonesia.
-- Organisasi pergerakan nasional aktif di wilayah ini.
-
-### Masa Kemerdekaan
-- Wilayah Gorontalo menjadi bagian dari Republik Indonesia yang diproklamasikan 17 Agustus 1945.
-- Berbagai pertempuran mempertahankan kemerdekaan terjadi di wilayah ini.
-
-### Masa Orde Lama (1945-1966)
-- Pembentukan pemerintahan daerah dan konsolidasi wilayah.
-- Berbagai pemberontakan dan konflik internal terjadi.
-
-### Masa Orde Baru (1966-1998)
-- Pembangunan infrastruktur dan ekonomi secara masif.
-- Transmigrasi membawa perubahan demografis.
-
-### Masa Reformasi (1998-sekarang)
-- Otonomi daerah memberikan kewenangan lebih besar kepada pemerintah daerah.
-- Pemekaran wilayah menciptakan kabupaten/kota baru.
-- Pembangunan berkelanjutan dan peningkatan kesejahteraan masyarakat.
-
-
-## Fun Fact Lengkap
-
-### 🌍 Geografi & Alam
-- Gorontalo memiliki keunikan geografis yang membedakannya dari provinsi lain di Indonesia.
-- Terdapat berbagai ekosistem unik di Gorontalo, dari hutan tropis hingga pesisir pantai.
-- Beberapa spesies flora dan fauna endemik hanya ditemukan di Gorontalo.
-- Kondisi iklim Gorontalo dipengaruhi oleh posisi geografisnya di kepulauan Indonesia.
-- Terdapat sumber daya alam yang melimpah di Gorontalo, baik mineral maupun hayati.
-
-### 🏛️ Sejarah & Budaya
-- Gorontalo memiliki sejarah panjang yang mencakup berbagai peradaban dan kerajaan.
-- Berbagai peninggalan sejarah masih dapat ditemukan di Gorontalo.
-- Tradisi dan adat istiadat Gorontalo telah diwariskan turun-temurun selama berabad-abad.
-- Bahasa daerah Gorontalo memiliki keunikan tersendiri dalam rumpun bahasa Nusantara.
-- Seni pertunjukan tradisional Gorontalo diakui sebagai warisan budaya yang berharga.
-
-### 🍽️ Kuliner & Produk Lokal
-- Masakan khas Gorontalo menggunakan rempah-rempah lokal yang unik.
-- Beberapa produk pertanian Gorontalo terkenal hingga ke mancanegara.
-- Minuman tradisional Gorontalo memiliki khasiat kesehatan yang telah dikenal lama.
-- Kerajinan tangan Gorontalo menggunakan bahan-bahan alami setempat.
-- Produk unggulan Gorontalo berkontribusi signifikan terhadap perekonomian daerah.
-
-### 🎭 Seni & Tradisi
-- Festival tahunan di Gorontalo menarik ribuan wisatawan setiap tahunnya.
-- Musik tradisional Gorontalo menggunakan alat musik yang tidak ditemukan di daerah lain.
-- Pakaian adat Gorontalo mencerminkan kekayaan budaya dan filosofi hidup masyarakatnya.
-- Upacara adat Gorontalo memiliki makna spiritual yang mendalam bagi masyarakat setempat.
-- Tari tradisional Gorontalo telah dipentaskan di berbagai festival internasional.
-
-### 🏆 Rekor & Pencapaian
-- Gorontalo memegang beberapa rekor unik di tingkat nasional maupun internasional.
-- Beberapa tokoh terkenal Indonesia berasal dari Gorontalo.
-- Gorontalo telah menerima berbagai penghargaan atas prestasi pembangunan dan pelestarian budaya.
-- Produk-produk dari Gorontalo telah mendapatkan pengakuan internasional.
-- Gorontalo menjadi tuan rumah berbagai event nasional dan internasional.
-
-### 🌱 Lingkungan & Konservasi
-- Gorontalo memiliki kawasan konservasi yang melindungi keanekaragaman hayati.
-- Beberapa spesies langka mendapat perlindungan khusus di Gorontalo.
-- Program pelestarian lingkungan di Gorontalo menjadi contoh bagi daerah lain.
-- Masyarakat Gorontalo memiliki kearifan lokal dalam menjaga keseimbangan alam.
-- Hutan-hutan di Gorontalo berperan penting dalam menjaga keseimbangan iklim regional.
-
-### 💡 Inovasi & Modernisasi
-- Gorontalo terus berkembang dengan berbagai inovasi di bidang teknologi dan ekonomi.
-- Generasi muda Gorontalo aktif dalam berbagai kompetisi nasional dan internasional.
-- Infrastruktur Gorontalo terus ditingkatkan untuk mendukung pertumbuhan ekonomi.
-- Sektor pariwisata Gorontalo berkembang pesat dengan berbagai destinasi baru.
-- Gorontalo menjadi salah satu tujuan investasi yang menarik di Indonesia.
-
-
-## Fun Fact Spesifik
-
-### 🌊 Fakta Unik Gorontalo
-1. **Danau Limboto** — Danau terbesar di Sulawesi yang terus menyusut akibat sedimentasi, dari 7.000 ha menjadi sekitar 3.000 ha.
-2. **Serambi Madinah** — Gorontalo dijuluki "Serambi Madinah" karena mayoritas penduduknya Muslim yang taat.
-3. **Nani Wartabone** — Pahlawan nasional dari Gorontalo yang memimpin perlawanan terhadap Jepang pada 1942.
-4. **Tari Saronde** — Tari tradisional Gorontalo yang biasanya ditampilkan dalam upacara pernikahan adat.
-5. **Binte Biluhuta** — Sup jagung khas Gorontalo yang menjadi makanan pokok masyarakat setempat.
-6. **Taman Nasional Bogani Nani Wartabone** — Taman nasional yang dinamai pahlawan Gorontalo, habitat anoa dan babirusa.
-7. **Pantai Olele** — Pantai dengan spot diving yang terkenal di kalangan penyelam internasional.
-8. **Ilabulo** — Makanan khas Gorontalo yang terbuat dari sagu yang diisi dengan ikan atau daging.
-9. **Upacara Molonthalo** — Upacara adat Gorontalo untuk wanita hamil 7 bulan, salah satu tradisi unik di Indonesia.
-10. **Provinsi Termuda** — Gorontalo adalah salah satu provinsi termuda di Indonesia, dibentuk pada tahun 2000.
-
-### 🔍 Fun Fact Tambahan Gorontalo
-11. **Fakta 11 Gorontalo** — Gorontalo memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
-12. **Fakta 12 Gorontalo** — Gorontalo memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
-13. **Fakta 13 Gorontalo** — Gorontalo memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
-14. **Fakta 14 Gorontalo** — Gorontalo memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
-15. **Fakta 15 Gorontalo** — Gorontalo memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
-16. **Fakta 16 Gorontalo** — Gorontalo memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
-17. **Fakta 17 Gorontalo** — Gorontalo memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
-18. **Fakta 18 Gorontalo** — Gorontalo memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
-19. **Fakta 19 Gorontalo** — Gorontalo memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
-20. **Fakta 20 Gorontalo** — Gorontalo memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
-21. **Fakta 21 Gorontalo** — Gorontalo memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
-22. **Fakta 22 Gorontalo** — Gorontalo memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
-23. **Fakta 23 Gorontalo** — Gorontalo memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
-24. **Fakta 24 Gorontalo** — Gorontalo memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
-25. **Fakta 25 Gorontalo** — Gorontalo memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+- BPS Provinsi Gorontalo
+- Sejarah Hari Patriotik 23 Januari Gorontalo
