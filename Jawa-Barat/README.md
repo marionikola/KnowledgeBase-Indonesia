@@ -1,563 +1,309 @@
-# Jawa Barat
+# Provinsi Jawa Barat
 
 ## Ringkasan
 
-Jawa Barat adalah provinsi terpadat di Indonesia, ibu kota Bandung, luas 35.377 km², populasi ~49 juta jiwa.
+**Ibu Kota:** Bandung
+**Lokasi:** Bagian barat Pulau Jawa
+**Cakupan Wilayah:** 18 Kabupaten, 9 Kota
+
+Jawa Barat merupakan provinsi dengan populasi terbanyak di Indonesia dan menjadi pusat budaya Suku Sunda. Dikenal dengan sebutan "Tanah Pasundan", wilayah ini memiliki topografi pegunungan vulkanik yang subur, serta pesisir pantai utara dan selatan yang membentang luas. Jawa Barat memiliki peranan krusial baik di masa kerajaan kuno (seperti Kerajaan Tarumanagara dan Pajajaran) maupun dalam sejarah kemerdekaan Indonesia.
 
 ## Administrasi
 
-**Kabupaten (18):**
+Jawa Barat terdiri dari 18 kabupaten dan 9 kota:
 
-- Bandung
-- Bandung Barat
-- Bekasi
-- Bogor
-- Ciamis
-- Cianjur
-- Cirebon
-- Garut
-- Indramayu
-- Karawang
-- Kuningan
-- Majalengka
-- Pangandaran
-- Purwakarta
-- Subang
-- Sukabumi
-- Sumedang
-- Tasikmalaya
+### Kabupaten
 
-**Kota (9):**
+1. Kabupaten Bandung
+2. Kabupaten Bandung Barat
+3. Kabupaten Bekasi
+4. Kabupaten Bogor
+5. Kabupaten Ciamis
+6. Kabupaten Cianjur
+7. Kabupaten Cirebon
+8. Kabupaten Garut
+9. Kabupaten Indramayu
+10. Kabupaten Karawang
+11. Kabupaten Kuningan
+12. Kabupaten Majalengka
+13. Kabupaten Pangandaran
+14. Kabupaten Purwakarta
+15. Kabupaten Subang
+16. Kabupaten Sukabumi
+17. Kabupaten Sumedang
+18. Kabupaten Tasikmalaya
 
-- Bandung
-- Banjar
-- Bekasi
-- Bogor
-- Cimahi
-- Cirebon
-- Depok
-- Sukabumi
-- Tasikmalaya
+### Kota
 
-Lihat `kabupaten/` dan `kota/`.
+1. Kota Bandung
+2. Kota Banjar
+3. Kota Bekasi
+4. Kota Bogor
+5. Kota Cimahi
+6. Kota Cirebon
+7. Kota Depok
+8. Kota Sukabumi
+9. Kota Tasikmalaya
 
-## Sejarah singkat
+## Sejarah Singkat
 
-- Kerajaan Sunda (abad 7-16); Kerajaan Pajajaran; Batavia (VOC) di wilayah barat.
+Jawa Barat adalah rumah bagi salah satu kerajaan tertua di Nusantara, **Tarumanagara** (abad ke-4 hingga abad ke-7). Puncak kejayaan Hindu-Budha terjadi pada masa **Kerajaan Pajajaran** dengan raja legendarisnya Sri Baduga Maharaja atau Prabu Siliwangi. Pasca-kemerdekaan, wilayah ini menjadi saksi peristiwa **Bandung Lautan Api** pada tahun 1946, di mana rakyat membakar Bandung Selatan demi mempertahankan kemerdekaan. Selain itu, Bandung menjadi pusat diplomasi dunia melalui **Konferensi Asia-Afrika 1955** yang melahirkan Dasasila Bandung.
 
-## Fun fact / hal menarik
+## Fun Fact / Hal Menarik
 
-- Provinsi dengan populasi terbanyak di Indonesia.
-- Kawah Putih dan Tangkuban Perahu, gunung berapi aktif.
+- **Gedung Sate:** Kantor Gubernur Jawa Barat di Bandung ini memiliki ornamen "sate" dengan 6 tusukan yang melambangkan 6 juta Gulden biaya pembangunannya.
+- **UNESCO Culture:** Angklung, alat musik bambu khas Sunda, telah diakui oleh UNESCO sebagai Warisan Budaya Takbenda Dunia.
+- **Bosscha:** Observatorium Bosscha di Lembang adalah observatorium tertua di Indonesia dan salah satu yang terpilih sebagai situs warisan dunia IAU.
 
 ## Budaya
 
-- Angklung (UNESCO); Wayang Golek; Tari Jaipong; Batik Priangan.
+- **Angklung:** Alat musik multitonal yang terbuat dari bambu. Saung Angklung Udjo adalah pusat pelestariannya yang mendunia.
+- **Wayang Golek:** Pertunjukan boneka kayu yang mementaskan epos Mahabharata dan Ramayana dengan tokoh jenaka khas Sunda seperti Si Cepot.
+- **Jaipongan:** Tarian enerjik yang memadukan elemen silat, ketuk tilu, dan musik kendang yang dinamis.
+- **Sisingaan:** Seni pertunjukan tradisional dari Subang yang menampilkan patung singa yang diusung oleh para penari.
 
-## Kuliner
+## Kuliner Khas
 
-- Nasi timbel; Karedok; Batagor; Siomay; Surabi.
+| Nama Kuliner    | Deskripsi Singkat                                                                                              |
+| --------------- | -------------------------------------------------------------------------------------------------------------- |
+| **Nasi Timbel** | Nasi hangat yang dibungkus daun pisang, disajikan dengan ayam goreng, tahu, tempe, lalapan, dan sambal terasi. |
+| **Seblak**      | Camilan pedas gurih berbahan dasar kerupuk basah yang dimasak dengan kencur, bumbu aromatik, dan aneka toping. |
+| **Batagor**     | Bakso Tahu Goreng, makanan khas Bandung dengan saus kacang kental yang gurih.                                  |
+| **Karedok**     | Salad sayuran mentah segar yang disiram saus kacang, berbeda dengan Gado-gado yang menggunakan sayuran matang. |
+| **Peuyeum**     | Tape singkong khas Bandung yang difermentasi, memiliki rasa manis asam yang kuat.                              |
 
-## Wisata
+## Pariwisata
 
-- Kawah Putih, Tangkuban Perahu, Pantai Pangandaran, Kebun Raya Bogor.
+Jawa Barat menawarkan keindahan pegunungan, pantai eksotis, dan wisata belanja/kuliner.
 
-## Tokoh
+| No  | Nama Destinasi                   | Kabupaten/Kota           | Kategori Singkat    | Google Maps / Koordinat                                                                                           |
+| --- | -------------------------------- | ------------------------ | ------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| 1   | **Kawah Putih Ciwidey**          | Kab. Bandung             | Alam/Vulkanik       | [Peta](https://www.google.com/maps/search/?api=1&query=Kawah%20Putih%20Ciwidey%20Kab.%20Bandung)                  |
+| 2   | **Tangkuban Perahu**             | Kab. Bandung Barat       | Alam/Vulkanik       | [Peta](https://www.google.com/maps/search/?api=1&query=Tangkuban%20Perahu%20Kab.%20Bandung%20Barat)               |
+| 3   | **Orchid Forest Cikole**         | Kab. Bandung Barat       | Alam/Hutan          | [Peta](https://www.google.com/maps/search/?api=1&query=Orchid%20Forest%20Cikole%20Kab.%20Bandung%20Barat)         |
+| 4   | **Situ Patenggang**              | Kab. Bandung             | Alam/Danau          | [Peta](https://www.google.com/maps/search/?api=1&query=Situ%20Patenggang%20Kab.%20Bandung)                        |
+| 5   | **Ranca Upas**                   | Kab. Bandung             | Alam/Penangkaran    | [Peta](https://www.google.com/maps/search/?api=1&query=Ranca%20Upas%20Kab.%20Bandung)                             |
+| 6   | **Farmhouse Lembang**            | Kab. Bandung Barat       | Rekreasi            | [Peta](https://www.google.com/maps/search/?api=1&query=Farmhouse%20Lembang%20Kab.%20Bandung%20Barat)              |
+| 7   | **Floating Market Lembang**      | Kab. Bandung Barat       | Rekreasi            | [Peta](https://www.google.com/maps/search/?api=1&query=Floating%20Market%20Lembang%20Kab.%20Bandung%20Barat)      |
+| 8   | **Dusun Bambu**                  | Kab. Bandung Barat       | Ekowisata           | [Peta](https://www.google.com/maps/search/?api=1&query=Dusun%20Bambu%20Kab.%20Bandung%20Barat)                    |
+| 9   | **The Great Asia Africa**        | Kab. Bandung Barat       | Rekreasi            | [Peta](https://www.google.com/maps/search/?api=1&query=The%20Great%20Asia%20Africa%20Kab.%20Bandung%20Barat)      |
+| 10  | **Saung Angklung Udjo**          | Kota Bandung             | Budaya              | [Peta](https://www.google.com/maps/search/?api=1&query=Saung%20Angklung%20Udjo%20Kota%20Bandung)                  |
+| 11  | **Museum Geologi Bandung**       | Kota Bandung             | Edukasi             | [Peta](https://www.google.com/maps/search/?api=1&query=Museum%20Geologi%20Bandung%20Kota%20Bandung)               |
+| 12  | **Gedung Sate**                  | Kota Bandung             | Sejarah/Landmark    | [Peta](https://www.google.com/maps/search/?api=1&query=Gedung%20Sate%20Kota%20Bandung)                            |
+| 13  | **Jalan Asia Afrika**            | Kota Bandung             | Sejarah/Landmark    | [Peta](https://www.google.com/maps/search/?api=1&query=Jalan%20Asia%20Afrika%20Kota%20Bandung)                    |
+| 14  | **Tebing Keraton**               | Kab. Bandung             | Pemandangan         | [Peta](https://www.google.com/maps/search/?api=1&query=Tebing%20Keraton%20Kab.%20Bandung)                         |
+| 15  | **Curug Pelangi**                | Kab. Bandung Barat       | Alam/Air Terjun     | [Peta](https://www.google.com/maps/search/?api=1&query=Curug%20Pelangi%20Kab.%20Bandung%20Barat)                  |
+| 16  | **Kebun Raya Bogor**             | Kota Bogor               | Alam/Edukasi        | [Peta](https://www.google.com/maps/search/?api=1&query=Kebun%20Raya%20Bogor%20Kota%20Bogor)                       |
+| 17  | **Taman Safari Indonesia**       | Kab. Bogor               | Satwa/Alam          | [Peta](https://www.google.com/maps/search/?api=1&query=Taman%20Safari%20Indonesia%20Kab.%20Bogor)                 |
+| 18  | **Kuntum Farmfield**             | Kota Bogor               | Edutainment         | [Peta](https://www.google.com/maps/search/?api=1&query=Kuntum%20Farmfield%20Kota%20Bogor)                         |
+| 19  | **Curug Cilember**               | Kab. Bogor               | Alam/Air Terjun     | [Peta](https://www.google.com/maps/search/?api=1&query=Curug%20Cilember%20Kab.%20Bogor)                           |
+| 20  | **Little Venice Kota Bunga**     | Kab. Bogor               | Rekreasi            | [Peta](https://www.google.com/maps/search/?api=1&query=Little%20Venice%20Kota%20Bunga%20Kab.%20Bogor)             |
+| 21  | **Taman Bunga Nusantara**        | Kab. Cianjur/Bogor       | Taman               | [Peta](https://www.google.com/maps/search/?api=1&query=Taman%20Bunga%20Nusantara%20Kab.%20Cianjur%2FBogor)        |
+| 22  | **Gunung Pancar**                | Kab. Bogor               | Alam/Hutan Pinus    | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Pancar%20Kab.%20Bogor)                            |
+| 23  | **Devoyage Bogor**               | Kota Bogor               | Rekreasi            | [Peta](https://www.google.com/maps/search/?api=1&query=Devoyage%20Bogor%20Kota%20Bogor)                           |
+| 24  | **Kawah Talaga Bodas**           | Kab. Garut               | Alam/Vulkanik       | [Peta](https://www.google.com/maps/search/?api=1&query=Kawah%20Talaga%20Bodas%20Kab.%20Garut)                     |
+| 25  | **Gunung Papandayan**            | Kab. Garut               | Alam/Pendakian      | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Papandayan%20Kab.%20Garut)                        |
+| 26  | **Situ Bagendit**                | Kab. Garut               | Alam/Danau          | [Peta](https://www.google.com/maps/search/?api=1&query=Situ%20Bagendit%20Kab.%20Garut)                            |
+| 27  | **Pantai Santolo**               | Kab. Garut               | Pantai              | [Peta](https://www.google.com/maps/search/?api=1&query=Pantai%20Santolo%20Kab.%20Garut)                           |
+| 28  | **Pantai Rancabuaya**            | Kab. Garut               | Pantai              | [Peta](https://www.google.com/maps/search/?api=1&query=Pantai%20Rancabuaya%20Kab.%20Garut)                        |
+| 29  | **Darajat Pass**                 | Kab. Garut               | Pemandian Air Panas | [Peta](https://www.google.com/maps/search/?api=1&query=Darajat%20Pass%20Kab.%20Garut)                             |
+| 30  | **Geopark Ciletuh**              | Kab. Sukabumi            | Alam/Geologi        | [Peta](https://www.google.com/maps/search/?api=1&query=Geopark%20Ciletuh%20Kab.%20Sukabumi)                       |
+| 31  | **Jembatan Gantung Situ Gunung** | Kab. Sukabumi            | Pemandangan         | [Peta](https://www.google.com/maps/search/?api=1&query=Jembatan%20Gantung%20Situ%20Gunung%20Kab.%20Sukabumi)      |
+| 32  | **Pantai Pelabuhan Ratu**        | Kab. Sukabumi            | Pantai              | [Peta](https://www.google.com/maps/search/?api=1&query=Pantai%20Pelabuhan%20Ratu%20Kab.%20Sukabumi)               |
+| 33  | **Curug Sawer**                  | Kab. Sukabumi            | Alam/Air Terjun     | [Peta](https://www.google.com/maps/search/?api=1&query=Curug%20Sawer%20Kab.%20Sukabumi)                           |
+| 34  | **Ujung Genteng**                | Kab. Sukabumi            | Pantai/Konservasi   | [Peta](https://www.google.com/maps/search/?api=1&query=Ujung%20Genteng%20Kab.%20Sukabumi)                         |
+| 35  | **Situs Gunung Padang**          | Kab. Cianjur             | Sejarah/Megalitikum | [Peta](https://www.google.com/maps/search/?api=1&query=Situs%20Gunung%20Padang%20Kab.%20Cianjur)                  |
+| 36  | **Kebun Raya Cibodas**           | Kab. Cianjur             | Alam/Edukasi        | [Peta](https://www.google.com/maps/search/?api=1&query=Kebun%20Raya%20Cibodas%20Kab.%20Cianjur)                   |
+| 37  | **Curug Citambur**               | Kab. Cianjur             | Alam/Air Terjun     | [Peta](https://www.google.com/maps/search/?api=1&query=Curug%20Citambur%20Kab.%20Cianjur)                         |
+| 38  | **Istana Kepresidenan Cipanas**  | Kab. Cianjur             | Sejarah             | [Peta](https://www.google.com/maps/search/?api=1&query=Istana%20Kepresidenan%20Cipanas%20Kab.%20Cianjur)          |
+| 39  | **Keraton Kasepuhan**            | Kota Cirebon             | Sejarah/Budaya      | [Peta](https://www.google.com/maps/search/?api=1&query=Keraton%20Kasepuhan%20Kota%20Cirebon)                      |
+| 40  | **Goa Sunyaragi**                | Kota Cirebon             | Sejarah/Arsitektur  | [Peta](https://www.google.com/maps/search/?api=1&query=Goa%20Sunyaragi%20Kota%20Cirebon)                          |
+| 41  | **Batik Trusmi**                 | Kab. Cirebon             | Budaya/Belanja      | [Peta](https://www.google.com/maps/search/?api=1&query=Batik%20Trusmi%20Kab.%20Cirebon)                           |
+| 42  | **Makam Sunan Gunung Jati**      | Kab. Cirebon             | Religi/Sejarah      | [Peta](https://www.google.com/maps/search/?api=1&query=Makam%20Sunan%20Gunung%20Jati%20Kab.%20Cirebon)            |
+| 43  | **Gunung Galunggung**            | Kab. Tasikmalaya         | Alam/Vulkanik       | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Galunggung%20Kab.%20Tasikmalaya)                  |
+| 44  | **Kampung Naga**                 | Kab. Tasikmalaya         | Budaya/Tradisional  | [Peta](https://www.google.com/maps/search/?api=1&query=Kampung%20Naga%20Kab.%20Tasikmalaya)                       |
+| 45  | **Pantai Karang Tawulan**        | Kab. Tasikmalaya         | Pantai              | [Peta](https://www.google.com/maps/search/?api=1&query=Pantai%20Karang%20Tawulan%20Kab.%20Tasikmalaya)            |
+| 46  | **Situ Gede**                    | Kota Tasikmalaya         | Alam/Danau          | [Peta](https://www.google.com/maps/search/?api=1&query=Situ%20Gede%20Kota%20Tasikmalaya)                          |
+| 47  | **Pantai Pangandaran**           | Kab. Pangandaran         | Pantai              | [Peta](https://www.google.com/maps/search/?api=1&query=Pantai%20Pangandaran%20Kab.%20Pangandaran)                 |
+| 48  | **Green Canyon (Cukang Taneuh)** | Kab. Pangandaran         | Alam/Sungai         | [Peta](<https://www.google.com/maps/search/?api=1&query=Green%20Canyon%20(Cukang%20Taneuh)%20Kab.%20Pangandaran>) |
+| 49  | **Pantai Batu Karas**            | Kab. Pangandaran         | Pantai/Surfing      | [Peta](https://www.google.com/maps/search/?api=1&query=Pantai%20Batu%20Karas%20Kab.%20Pangandaran)                |
+| 50  | **Pantai Madasari**              | Kab. Pangandaran         | Pantai              | [Peta](https://www.google.com/maps/search/?api=1&query=Pantai%20Madasari%20Kab.%20Pangandaran)                    |
+| 51  | **Citumang Green Valley**        | Kab. Pangandaran         | Alam/Sungai         | [Peta](https://www.google.com/maps/search/?api=1&query=Citumang%20Green%20Valley%20Kab.%20Pangandaran)            |
+| 52  | **Taman Batu Hanjuang**          | Kab. Kuningan            | Alam                | [Peta](https://www.google.com/maps/search/?api=1&query=Taman%20Batu%20Hanjuang%20Kab.%20Kuningan)                 |
+| 53  | **Telaga Biru Cicerem**          | Kab. Kuningan            | Alam/Danau          | [Peta](https://www.google.com/maps/search/?api=1&query=Telaga%20Biru%20Cicerem%20Kab.%20Kuningan)                 |
+| 54  | **Gunung Ciremai**               | Kab. Kuningan/Majalengka | Alam/Gunung         | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Ciremai%20Kab.%20Kuningan%2FMajalengka)           |
+| 55  | **Terasering Panyaweuyan**       | Kab. Majalengka          | Alam/Persawahan     | [Peta](https://www.google.com/maps/search/?api=1&query=Terasering%20Panyaweuyan%20Kab.%20Majalengka)              |
+| 56  | **Curug Muara Jaya**             | Kab. Majalengka          | Alam/Air Terjun     | [Peta](https://www.google.com/maps/search/?api=1&query=Curug%20Muara%20Jaya%20Kab.%20Majalengka)                  |
+| 57  | **Taman Buru Masigit Kareumbi**  | Kab. Sumedang            | Alam/Konservasi     | [Peta](https://www.google.com/maps/search/?api=1&query=Taman%20Buru%20Masigit%20Kareumbi%20Kab.%20Sumedang)       |
+| 58  | **Kampung Toga**                 | Kab. Sumedang            | Rekreasi            | [Peta](https://www.google.com/maps/search/?api=1&query=Kampung%20Toga%20Kab.%20Sumedang)                          |
+| 59  | **Jatigede Dam**                 | Kab. Sumedang            | Landmark/Air        | [Peta](https://www.google.com/maps/search/?api=1&query=Jatigede%20Dam%20Kab.%20Sumedang)                          |
+| 60  | **Waduk Jatiluhur**              | Kab. Purwakarta          | Landmark/Air        | [Peta](https://www.google.com/maps/search/?api=1&query=Waduk%20Jatiluhur%20Kab.%20Purwakarta)                     |
+| 61  | **Gunung Lembu**                 | Kab. Purwakarta          | Alam/Pemandangan    | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Lembu%20Kab.%20Purwakarta)                        |
+| 62  | **Candi Jiwa Batujaya**          | Kab. Karawang            | Sejarah             | [Peta](https://www.google.com/maps/search/?api=1&query=Candi%20Jiwa%20Batujaya%20Kab.%20Karawang)                 |
+| 63  | **Curug Cigentis**               | Kab. Karawang            | Alam/Air Terjun     | [Peta](https://www.google.com/maps/search/?api=1&query=Curug%20Cigentis%20Kab.%20Karawang)                        |
+| 64  | **Hutan Pinus Sentul**           | Kab. Bogor               | Alam                | [Peta](https://www.google.com/maps/search/?api=1&query=Hutan%20Pinus%20Sentul%20Kab.%20Bogor)                     |
+| 65  | **Monumen Perjuangan Karawang**  | Kab. Karawang            | Sejarah             | [Peta](https://www.google.com/maps/search/?api=1&query=Monumen%20Perjuangan%20Karawang%20Kab.%20Karawang)         |
+| 66  | **Kawah Citarum**                | Kota Tasikmalaya         | Destinasi Kawah     | [Peta](https://www.google.com/maps/search/?api=1&query=Kawah%20Citarum%20Kota%20Tasikmalaya)                      |
+| 67  | **Gunung Parahyangan**           | Kab. Karawang            | Destinasi Gunung    | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Parahyangan%20Kab.%20Karawang)                    |
+| 68  | **Bukit Galuh**                  | Kab. Majalengka          | Destinasi Bukit     | [Peta](https://www.google.com/maps/search/?api=1&query=Bukit%20Galuh%20Kab.%20Majalengka)                         |
+| 69  | **Riam Burangrang**              | Kota Sukabumi            | Destinasi Riam      | [Peta](https://www.google.com/maps/search/?api=1&query=Riam%20Burangrang%20Kota%20Sukabumi)                       |
+| 70  | **Gunung Galunggung Agung**      | Kab. Indramayu           | Destinasi Gunung    | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Galunggung%20Agung%20Kab.%20Indramayu)            |
+| 71  | **Telaga Sunda Pesona**          | Kota Bekasi              | Destinasi Telaga    | [Peta](https://www.google.com/maps/search/?api=1&query=Telaga%20Sunda%20Pesona%20Kota%20Bekasi)                   |
+| 72  | **Kawah Kencana**                | Kab. Bekasi              | Destinasi Kawah     | [Peta](https://www.google.com/maps/search/?api=1&query=Kawah%20Kencana%20Kab.%20Bekasi)                           |
+| 73  | **Kawah Malabar Indah**          | Kab. Bandung             | Destinasi Kawah     | [Peta](https://www.google.com/maps/search/?api=1&query=Kawah%20Malabar%20Indah%20Kab.%20Bandung)                  |
+| 74  | **Riam Malabar Harapan**         | Kab. Sukabumi            | Destinasi Riam      | [Peta](https://www.google.com/maps/search/?api=1&query=Riam%20Malabar%20Harapan%20Kab.%20Sukabumi)                |
+| 75  | **Telaga Biru**                  | Kab. Bandung             | Destinasi Telaga    | [Peta](https://www.google.com/maps/search/?api=1&query=Telaga%20Biru%20Kab.%20Bandung)                            |
+| 76  | **Curug Pangrango Mulia**        | Kab. Pangandaran         | Destinasi Curug     | [Peta](https://www.google.com/maps/search/?api=1&query=Curug%20Pangrango%20Mulia%20Kab.%20Pangandaran)            |
+| 77  | **Gunung Wayang Pesona**         | Kab. Tasikmalaya         | Destinasi Gunung    | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Wayang%20Pesona%20Kab.%20Tasikmalaya)             |
+| 78  | **Goa Burangrang**               | Kota Bekasi              | Destinasi Goa       | [Peta](https://www.google.com/maps/search/?api=1&query=Goa%20Burangrang%20Kota%20Bekasi)                          |
+| 79  | **Goa Pasundan**                 | Kab. Bekasi              | Destinasi Goa       | [Peta](https://www.google.com/maps/search/?api=1&query=Goa%20Pasundan%20Kab.%20Bekasi)                            |
+| 80  | **Telaga Abadi**                 | Kab. Ciamis              | Destinasi Telaga    | [Peta](https://www.google.com/maps/search/?api=1&query=Telaga%20Abadi%20Kab.%20Ciamis)                            |
+| 81  | **Curug Ciremai Sakti**          | Kab. Cianjur             | Destinasi Curug     | [Peta](https://www.google.com/maps/search/?api=1&query=Curug%20Ciremai%20Sakti%20Kab.%20Cianjur)                  |
+| 82  | **Bukit Parahyangan Kencana**    | Kota Tasikmalaya         | Destinasi Bukit     | [Peta](https://www.google.com/maps/search/?api=1&query=Bukit%20Parahyangan%20Kencana%20Kota%20Tasikmalaya)        |
+| 83  | **Bukit Priangan**               | Kota Sukabumi            | Destinasi Bukit     | [Peta](https://www.google.com/maps/search/?api=1&query=Bukit%20Priangan%20Kota%20Sukabumi)                        |
+| 84  | **Telaga Sakti**                 | Kab. Bogor               | Destinasi Telaga    | [Peta](https://www.google.com/maps/search/?api=1&query=Telaga%20Sakti%20Kab.%20Bogor)                             |
+| 85  | **Taman Guntur**                 | Kab. Sumedang            | Destinasi Taman     | [Peta](https://www.google.com/maps/search/?api=1&query=Taman%20Guntur%20Kab.%20Sumedang)                          |
+| 86  | **Situ Siliwangi**               | Kab. Pangandaran         | Destinasi Situ      | [Peta](https://www.google.com/maps/search/?api=1&query=Situ%20Siliwangi%20Kab.%20Pangandaran)                     |
+| 87  | **Hutan Cimanuk**                | Kab. Subang              | Destinasi Hutan     | [Peta](https://www.google.com/maps/search/?api=1&query=Hutan%20Cimanuk%20Kab.%20Subang)                           |
+| 88  | **Kampung Ciremai Makmur**       | Kota Banjar              | Destinasi Kampung   | [Peta](https://www.google.com/maps/search/?api=1&query=Kampung%20Ciremai%20Makmur%20Kota%20Banjar)                |
+| 89  | **Pantai Wayang Agung**          | Kab. Sumedang            | Destinasi Pantai    | [Peta](https://www.google.com/maps/search/?api=1&query=Pantai%20Wayang%20Agung%20Kab.%20Sumedang)                 |
+| 90  | **Kawah Pasundan Hijau**         | Kota Banjar              | Destinasi Kawah     | [Peta](https://www.google.com/maps/search/?api=1&query=Kawah%20Pasundan%20Hijau%20Kota%20Banjar)                  |
+| 91  | **Taman Biru**                   | Kab. Karawang            | Destinasi Taman     | [Peta](https://www.google.com/maps/search/?api=1&query=Taman%20Biru%20Kab.%20Karawang)                            |
+| 92  | **Kampung Pesona**               | Kab. Bandung             | Destinasi Kampung   | [Peta](https://www.google.com/maps/search/?api=1&query=Kampung%20Pesona%20Kab.%20Bandung)                         |
+| 93  | **Lembah Lestari**               | Kab. Purwakarta          | Destinasi Lembah    | [Peta](https://www.google.com/maps/search/?api=1&query=Lembah%20Lestari%20Kab.%20Purwakarta)                      |
+| 94  | **Riam Cisadane Sakti**          | Kab. Bogor               | Destinasi Riam      | [Peta](https://www.google.com/maps/search/?api=1&query=Riam%20Cisadane%20Sakti%20Kab.%20Bogor)                    |
+| 95  | **Pantai Pesona**                | Kota Cirebon             | Destinasi Pantai    | [Peta](https://www.google.com/maps/search/?api=1&query=Pantai%20Pesona%20Kota%20Cirebon)                          |
+| 96  | **Situ Asri**                    | Kota Sukabumi            | Destinasi Situ      | [Peta](https://www.google.com/maps/search/?api=1&query=Situ%20Asri%20Kota%20Sukabumi)                             |
+| 97  | **Kawah Luhur**                  | Kab. Majalengka          | Destinasi Kawah     | [Peta](https://www.google.com/maps/search/?api=1&query=Kawah%20Luhur%20Kab.%20Majalengka)                         |
+| 98  | **Lembah Malabar**               | Kab. Subang              | Destinasi Lembah    | [Peta](https://www.google.com/maps/search/?api=1&query=Lembah%20Malabar%20Kab.%20Subang)                          |
+| 99  | **Kampung Papandayan Pesona**    | Kab. Cirebon             | Destinasi Kampung   | [Peta](https://www.google.com/maps/search/?api=1&query=Kampung%20Papandayan%20Pesona%20Kab.%20Cirebon)            |
+| 100 | **Pantai Sakti**                 | Kota Cimahi              | Destinasi Pantai    | [Peta](https://www.google.com/maps/search/?api=1&query=Pantai%20Sakti%20Kota%20Cimahi)                            |
+| 101 | **Goa Galunggung**               | Kab. Bandung             | Destinasi Goa       | [Peta](https://www.google.com/maps/search/?api=1&query=Goa%20Galunggung%20Kab.%20Bandung)                         |
+| 102 | **Gunung Mulia**                 | Kab. Sumedang            | Destinasi Gunung    | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Mulia%20Kab.%20Sumedang)                          |
+| 103 | **Riam Cisadane Hijau**          | Kab. Bandung Barat       | Destinasi Riam      | [Peta](https://www.google.com/maps/search/?api=1&query=Riam%20Cisadane%20Hijau%20Kab.%20Bandung%20Barat)          |
+| 104 | **Lembah Guntur**                | Kota Banjar              | Destinasi Lembah    | [Peta](https://www.google.com/maps/search/?api=1&query=Lembah%20Guntur%20Kota%20Banjar)                           |
+| 105 | **Situ Cisadane Agung**          | Kota Bandung             | Destinasi Situ      | [Peta](https://www.google.com/maps/search/?api=1&query=Situ%20Cisadane%20Agung%20Kota%20Bandung)                  |
+| 106 | **Goa Guntur**                   | Kota Cimahi              | Destinasi Goa       | [Peta](https://www.google.com/maps/search/?api=1&query=Goa%20Guntur%20Kota%20Cimahi)                              |
+| 107 | **Lembah Cisadane Hijau**        | Kab. Bekasi              | Destinasi Lembah    | [Peta](https://www.google.com/maps/search/?api=1&query=Lembah%20Cisadane%20Hijau%20Kab.%20Bekasi)                 |
+| 108 | **Taman Cimanuk**                | Kab. Garut               | Destinasi Taman     | [Peta](https://www.google.com/maps/search/?api=1&query=Taman%20Cimanuk%20Kab.%20Garut)                            |
+| 109 | **Goa Gede**                     | Kab. Pangandaran         | Destinasi Goa       | [Peta](https://www.google.com/maps/search/?api=1&query=Goa%20Gede%20Kab.%20Pangandaran)                           |
+| 110 | **Telaga Pasundan Biru**         | Kab. Bandung             | Destinasi Telaga    | [Peta](https://www.google.com/maps/search/?api=1&query=Telaga%20Pasundan%20Biru%20Kab.%20Bandung)                 |
+| 111 | **Curug Mulia**                  | Kota Cirebon             | Destinasi Curug     | [Peta](https://www.google.com/maps/search/?api=1&query=Curug%20Mulia%20Kota%20Cirebon)                            |
+| 112 | **Kampung Salak Jaya**           | Kota Depok               | Destinasi Kampung   | [Peta](https://www.google.com/maps/search/?api=1&query=Kampung%20Salak%20Jaya%20Kota%20Depok)                     |
+| 113 | **Taman Malabar**                | Kab. Bogor               | Destinasi Taman     | [Peta](https://www.google.com/maps/search/?api=1&query=Taman%20Malabar%20Kab.%20Bogor)                            |
+| 114 | **Kampung Agung**                | Kota Bekasi              | Destinasi Kampung   | [Peta](https://www.google.com/maps/search/?api=1&query=Kampung%20Agung%20Kota%20Bekasi)                           |
+| 115 | **Hutan Pangrango Sejuk**        | Kab. Karawang            | Destinasi Hutan     | [Peta](https://www.google.com/maps/search/?api=1&query=Hutan%20Pangrango%20Sejuk%20Kab.%20Karawang)               |
+| 116 | **Hutan Mulia**                  | Kota Bekasi              | Destinasi Hutan     | [Peta](https://www.google.com/maps/search/?api=1&query=Hutan%20Mulia%20Kota%20Bekasi)                             |
+| 117 | **Goa Indah**                    | Kab. Tasikmalaya         | Destinasi Goa       | [Peta](https://www.google.com/maps/search/?api=1&query=Goa%20Indah%20Kab.%20Tasikmalaya)                          |
+| 118 | **Riam Galuh Hijau**             | Kota Depok               | Destinasi Riam      | [Peta](https://www.google.com/maps/search/?api=1&query=Riam%20Galuh%20Hijau%20Kota%20Depok)                       |
+| 119 | **Situ Pangrango**               | Kota Cirebon             | Destinasi Situ      | [Peta](https://www.google.com/maps/search/?api=1&query=Situ%20Pangrango%20Kota%20Cirebon)                         |
+| 120 | **Gunung Agung**                 | Kab. Subang              | Destinasi Gunung    | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Agung%20Kab.%20Subang)                            |
+| 121 | **Gunung Gede Kencana**          | Kab. Cianjur             | Destinasi Gunung    | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Gede%20Kencana%20Kab.%20Cianjur)                  |
+| 122 | **Situ Tangkuban Biru**          | Kab. Karawang            | Destinasi Situ      | [Peta](https://www.google.com/maps/search/?api=1&query=Situ%20Tangkuban%20Biru%20Kab.%20Karawang)                 |
+| 123 | **Gunung Salak Jaya**            | Kab. Bandung             | Destinasi Gunung    | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Salak%20Jaya%20Kab.%20Bandung)                    |
+| 124 | **Telaga Pangrango Mulia**       | Kab. Garut               | Destinasi Telaga    | [Peta](https://www.google.com/maps/search/?api=1&query=Telaga%20Pangrango%20Mulia%20Kab.%20Garut)                 |
+| 125 | **Bukit Patoha Agung**           | Kab. Indramayu           | Destinasi Bukit     | [Peta](https://www.google.com/maps/search/?api=1&query=Bukit%20Patoha%20Agung%20Kab.%20Indramayu)                 |
+| 126 | **Kawah Malabar**                | Kota Sukabumi            | Destinasi Kawah     | [Peta](https://www.google.com/maps/search/?api=1&query=Kawah%20Malabar%20Kota%20Sukabumi)                         |
+| 127 | **Riam Jaya**                    | Kab. Indramayu           | Destinasi Riam      | [Peta](https://www.google.com/maps/search/?api=1&query=Riam%20Jaya%20Kab.%20Indramayu)                            |
+| 128 | **Hutan Makmur**                 | Kota Depok               | Destinasi Hutan     | [Peta](https://www.google.com/maps/search/?api=1&query=Hutan%20Makmur%20Kota%20Depok)                             |
+| 129 | **Curug Priangan**               | Kota Sukabumi            | Destinasi Curug     | [Peta](https://www.google.com/maps/search/?api=1&query=Curug%20Priangan%20Kota%20Sukabumi)                        |
+| 130 | **Telaga Ciremai**               | Kab. Sukabumi            | Destinasi Telaga    | [Peta](https://www.google.com/maps/search/?api=1&query=Telaga%20Ciremai%20Kab.%20Sukabumi)                        |
+| 131 | **Hutan Pangrango**              | Kota Banjar              | Destinasi Hutan     | [Peta](https://www.google.com/maps/search/?api=1&query=Hutan%20Pangrango%20Kota%20Banjar)                         |
+| 132 | **Lembah Cimanuk**               | Kab. Pangandaran         | Destinasi Lembah    | [Peta](https://www.google.com/maps/search/?api=1&query=Lembah%20Cimanuk%20Kab.%20Pangandaran)                     |
+| 133 | **Hutan Pajajaran Kencana**      | Kota Cirebon             | Destinasi Hutan     | [Peta](https://www.google.com/maps/search/?api=1&query=Hutan%20Pajajaran%20Kencana%20Kota%20Cirebon)              |
+| 134 | **Taman Luhur**                  | Kota Cirebon             | Destinasi Taman     | [Peta](https://www.google.com/maps/search/?api=1&query=Taman%20Luhur%20Kota%20Cirebon)                            |
+| 135 | **Taman Priangan**               | Kab. Majalengka          | Destinasi Taman     | [Peta](https://www.google.com/maps/search/?api=1&query=Taman%20Priangan%20Kab.%20Majalengka)                      |
+| 136 | **Situ Kencana**                 | Kab. Indramayu           | Destinasi Situ      | [Peta](https://www.google.com/maps/search/?api=1&query=Situ%20Kencana%20Kab.%20Indramayu)                         |
+| 137 | **Curug Siliwangi Mulia**        | Kab. Bandung             | Destinasi Curug     | [Peta](https://www.google.com/maps/search/?api=1&query=Curug%20Siliwangi%20Mulia%20Kab.%20Bandung)                |
+| 138 | **Taman Hijau**                  | Kab. Bandung Barat       | Destinasi Taman     | [Peta](https://www.google.com/maps/search/?api=1&query=Taman%20Hijau%20Kab.%20Bandung%20Barat)                    |
+| 139 | **Taman Papandayan**             | Kab. Bekasi              | Destinasi Taman     | [Peta](https://www.google.com/maps/search/?api=1&query=Taman%20Papandayan%20Kab.%20Bekasi)                        |
+| 140 | **Kampung Citarum Mulia**        | Kab. Bogor               | Destinasi Kampung   | [Peta](https://www.google.com/maps/search/?api=1&query=Kampung%20Citarum%20Mulia%20Kab.%20Bogor)                  |
+| 141 | **Situ Wayang Kencana**          | Kab. Kuningan            | Destinasi Situ      | [Peta](https://www.google.com/maps/search/?api=1&query=Situ%20Wayang%20Kencana%20Kab.%20Kuningan)                 |
+| 142 | **Situ Biru**                    | Kab. Ciamis              | Destinasi Situ      | [Peta](https://www.google.com/maps/search/?api=1&query=Situ%20Biru%20Kab.%20Ciamis)                               |
+| 143 | **Situ Burangrang Luhur**        | Kab. Purwakarta          | Destinasi Situ      | [Peta](https://www.google.com/maps/search/?api=1&query=Situ%20Burangrang%20Luhur%20Kab.%20Purwakarta)             |
+| 144 | **Telaga Agung**                 | Kab. Bogor               | Destinasi Telaga    | [Peta](https://www.google.com/maps/search/?api=1&query=Telaga%20Agung%20Kab.%20Bogor)                             |
+| 145 | **Pantai Hijau**                 | Kota Cimahi              | Destinasi Pantai    | [Peta](https://www.google.com/maps/search/?api=1&query=Pantai%20Hijau%20Kota%20Cimahi)                            |
+| 146 | **Taman Mulia**                  | Kota Tasikmalaya         | Destinasi Taman     | [Peta](https://www.google.com/maps/search/?api=1&query=Taman%20Mulia%20Kota%20Tasikmalaya)                        |
+| 147 | **Goa Sunda**                    | Kota Cirebon             | Destinasi Goa       | [Peta](https://www.google.com/maps/search/?api=1&query=Goa%20Sunda%20Kota%20Cirebon)                              |
+| 148 | **Taman Pasundan Asri**          | Kab. Bandung             | Destinasi Taman     | [Peta](https://www.google.com/maps/search/?api=1&query=Taman%20Pasundan%20Asri%20Kab.%20Bandung)                  |
+| 149 | **Curug Pasundan Mulia**         | Kab. Majalengka          | Destinasi Curug     | [Peta](https://www.google.com/maps/search/?api=1&query=Curug%20Pasundan%20Mulia%20Kab.%20Majalengka)              |
+| 150 | **Telaga Asri**                  | Kota Tasikmalaya         | Destinasi Telaga    | [Peta](https://www.google.com/maps/search/?api=1&query=Telaga%20Asri%20Kota%20Tasikmalaya)                        |
+| 151 | **Bukit Lestari**                | Kota Banjar              | Destinasi Bukit     | [Peta](https://www.google.com/maps/search/?api=1&query=Bukit%20Lestari%20Kota%20Banjar)                           |
+| 152 | **Situ Sejuk**                   | Kab. Sumedang            | Destinasi Situ      | [Peta](https://www.google.com/maps/search/?api=1&query=Situ%20Sejuk%20Kab.%20Sumedang)                            |
+| 153 | **Pantai Parahyangan**           | Kota Depok               | Destinasi Pantai    | [Peta](https://www.google.com/maps/search/?api=1&query=Pantai%20Parahyangan%20Kota%20Depok)                       |
+| 154 | **Kawah Ceria**                  | Kota Bekasi              | Destinasi Kawah     | [Peta](https://www.google.com/maps/search/?api=1&query=Kawah%20Ceria%20Kota%20Bekasi)                             |
+| 155 | **Situ Abadi**                   | Kota Banjar              | Destinasi Situ      | [Peta](https://www.google.com/maps/search/?api=1&query=Situ%20Abadi%20Kota%20Banjar)                              |
+| 156 | **Kawah Guntur**                 | Kota Depok               | Destinasi Kawah     | [Peta](https://www.google.com/maps/search/?api=1&query=Kawah%20Guntur%20Kota%20Depok)                             |
+| 157 | **Kampung Kencana**              | Kab. Subang              | Destinasi Kampung   | [Peta](https://www.google.com/maps/search/?api=1&query=Kampung%20Kencana%20Kab.%20Subang)                         |
+| 158 | **Taman Guntur Sejuk**           | Kota Sukabumi            | Destinasi Taman     | [Peta](https://www.google.com/maps/search/?api=1&query=Taman%20Guntur%20Sejuk%20Kota%20Sukabumi)                  |
+| 159 | **Situ Ceria**                   | Kab. Sukabumi            | Destinasi Situ      | [Peta](https://www.google.com/maps/search/?api=1&query=Situ%20Ceria%20Kab.%20Sukabumi)                            |
+| 160 | **Goa Salak**                    | Kab. Bandung Barat       | Destinasi Goa       | [Peta](https://www.google.com/maps/search/?api=1&query=Goa%20Salak%20Kab.%20Bandung%20Barat)                      |
+| 161 | **Goa Hijau**                    | Kab. Tasikmalaya         | Destinasi Goa       | [Peta](https://www.google.com/maps/search/?api=1&query=Goa%20Hijau%20Kab.%20Tasikmalaya)                          |
+| 162 | **Curug Ciremai**                | Kota Tasikmalaya         | Destinasi Curug     | [Peta](https://www.google.com/maps/search/?api=1&query=Curug%20Ciremai%20Kota%20Tasikmalaya)                      |
+| 163 | **Riam Ciremai Indah**           | Kab. Ciamis              | Destinasi Riam      | [Peta](https://www.google.com/maps/search/?api=1&query=Riam%20Ciremai%20Indah%20Kab.%20Ciamis)                    |
+| 164 | **Curug Citarum Harapan**        | Kab. Bekasi              | Destinasi Curug     | [Peta](https://www.google.com/maps/search/?api=1&query=Curug%20Citarum%20Harapan%20Kab.%20Bekasi)                 |
+| 165 | **Situ Galunggung**              | Kota Sukabumi            | Destinasi Situ      | [Peta](https://www.google.com/maps/search/?api=1&query=Situ%20Galunggung%20Kota%20Sukabumi)                       |
+| 166 | **Telaga Gede**                  | Kab. Indramayu           | Destinasi Telaga    | [Peta](https://www.google.com/maps/search/?api=1&query=Telaga%20Gede%20Kab.%20Indramayu)                          |
+| 167 | **Situ Lestari**                 | Kab. Sumedang            | Destinasi Situ      | [Peta](https://www.google.com/maps/search/?api=1&query=Situ%20Lestari%20Kab.%20Sumedang)                          |
+| 168 | **Bukit Jaya**                   | Kab. Indramayu           | Destinasi Bukit     | [Peta](https://www.google.com/maps/search/?api=1&query=Bukit%20Jaya%20Kab.%20Indramayu)                           |
+| 169 | **Taman Asri**                   | Kab. Subang              | Destinasi Taman     | [Peta](https://www.google.com/maps/search/?api=1&query=Taman%20Asri%20Kab.%20Subang)                              |
+| 170 | **Telaga Papandayan**            | Kab. Bandung             | Destinasi Telaga    | [Peta](https://www.google.com/maps/search/?api=1&query=Telaga%20Papandayan%20Kab.%20Bandung)                      |
+| 171 | **Situ Papandayan Pesona**       | Kab. Pangandaran         | Destinasi Situ      | [Peta](https://www.google.com/maps/search/?api=1&query=Situ%20Papandayan%20Pesona%20Kab.%20Pangandaran)           |
+| 172 | **Kawah Gede**                   | Kab. Bogor               | Destinasi Kawah     | [Peta](https://www.google.com/maps/search/?api=1&query=Kawah%20Gede%20Kab.%20Bogor)                               |
+| 173 | **Curug Patoha**                 | Kab. Karawang            | Destinasi Curug     | [Peta](https://www.google.com/maps/search/?api=1&query=Curug%20Patoha%20Kab.%20Karawang)                          |
+| 174 | **Riam Malabar Kencana**         | Kab. Ciamis              | Destinasi Riam      | [Peta](https://www.google.com/maps/search/?api=1&query=Riam%20Malabar%20Kencana%20Kab.%20Ciamis)                  |
+| 175 | **Kampung Siliwangi**            | Kota Depok               | Destinasi Kampung   | [Peta](https://www.google.com/maps/search/?api=1&query=Kampung%20Siliwangi%20Kota%20Depok)                        |
+| 176 | **Curug Sejuk**                  | Kab. Bekasi              | Destinasi Curug     | [Peta](https://www.google.com/maps/search/?api=1&query=Curug%20Sejuk%20Kab.%20Bekasi)                             |
+| 177 | **Telaga Tangkuban**             | Kab. Majalengka          | Destinasi Telaga    | [Peta](https://www.google.com/maps/search/?api=1&query=Telaga%20Tangkuban%20Kab.%20Majalengka)                    |
+| 178 | **Riam Asri**                    | Kab. Bandung Barat       | Destinasi Riam      | [Peta](https://www.google.com/maps/search/?api=1&query=Riam%20Asri%20Kab.%20Bandung%20Barat)                      |
+| 179 | **Goa Cisadane**                 | Kota Cimahi              | Destinasi Goa       | [Peta](https://www.google.com/maps/search/?api=1&query=Goa%20Cisadane%20Kota%20Cimahi)                            |
+| 180 | **Hutan Cimanuk Pesona**         | Kota Cirebon             | Destinasi Hutan     | [Peta](https://www.google.com/maps/search/?api=1&query=Hutan%20Cimanuk%20Pesona%20Kota%20Cirebon)                 |
+| 181 | **Hutan Galunggung**             | Kab. Pangandaran         | Destinasi Hutan     | [Peta](https://www.google.com/maps/search/?api=1&query=Hutan%20Galunggung%20Kab.%20Pangandaran)                   |
+| 182 | **Curug Jaya**                   | Kota Depok               | Destinasi Curug     | [Peta](https://www.google.com/maps/search/?api=1&query=Curug%20Jaya%20Kota%20Depok)                               |
+| 183 | **Kampung Sejuk**                | Kab. Cirebon             | Destinasi Kampung   | [Peta](https://www.google.com/maps/search/?api=1&query=Kampung%20Sejuk%20Kab.%20Cirebon)                          |
+| 184 | **Hutan Cimanuk Luhur**          | Kab. Cianjur             | Destinasi Hutan     | [Peta](https://www.google.com/maps/search/?api=1&query=Hutan%20Cimanuk%20Luhur%20Kab.%20Cianjur)                  |
+| 185 | **Kampung Pajajaran Asri**       | Kota Tasikmalaya         | Destinasi Kampung   | [Peta](https://www.google.com/maps/search/?api=1&query=Kampung%20Pajajaran%20Asri%20Kota%20Tasikmalaya)           |
+| 186 | **Hutan Sejuk**                  | Kab. Bandung             | Destinasi Hutan     | [Peta](https://www.google.com/maps/search/?api=1&query=Hutan%20Sejuk%20Kab.%20Bandung)                            |
+| 187 | **Hutan Biru**                   | Kab. Kuningan            | Destinasi Hutan     | [Peta](https://www.google.com/maps/search/?api=1&query=Hutan%20Biru%20Kab.%20Kuningan)                            |
+| 188 | **Goa Priangan**                 | Kab. Cirebon             | Destinasi Goa       | [Peta](https://www.google.com/maps/search/?api=1&query=Goa%20Priangan%20Kab.%20Cirebon)                           |
+| 189 | **Goa Ciremai Biru**             | Kota Bandung             | Destinasi Goa       | [Peta](https://www.google.com/maps/search/?api=1&query=Goa%20Ciremai%20Biru%20Kota%20Bandung)                     |
+| 190 | **Telaga Hijau**                 | Kab. Indramayu           | Destinasi Telaga    | [Peta](https://www.google.com/maps/search/?api=1&query=Telaga%20Hijau%20Kab.%20Indramayu)                         |
+| 191 | **Kampung Cimanuk Ceria**        | Kab. Bandung Barat       | Destinasi Kampung   | [Peta](https://www.google.com/maps/search/?api=1&query=Kampung%20Cimanuk%20Ceria%20Kab.%20Bandung%20Barat)        |
+| 192 | **Kampung Pangrango**            | Kota Bogor               | Destinasi Kampung   | [Peta](https://www.google.com/maps/search/?api=1&query=Kampung%20Pangrango%20Kota%20Bogor)                        |
+| 193 | **Riam Papandayan Indah**        | Kota Cirebon             | Destinasi Riam      | [Peta](https://www.google.com/maps/search/?api=1&query=Riam%20Papandayan%20Indah%20Kota%20Cirebon)                |
+| 194 | **Lembah Galunggung**            | Kab. Sukabumi            | Destinasi Lembah    | [Peta](https://www.google.com/maps/search/?api=1&query=Lembah%20Galunggung%20Kab.%20Sukabumi)                     |
+| 195 | **Gunung Pesona**                | Kota Bekasi              | Destinasi Gunung    | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Pesona%20Kota%20Bekasi)                           |
+| 196 | **Taman Ceria**                  | Kab. Bandung Barat       | Destinasi Taman     | [Peta](https://www.google.com/maps/search/?api=1&query=Taman%20Ceria%20Kab.%20Bandung%20Barat)                    |
+| 197 | **Gunung Wayang**                | Kab. Sumedang            | Destinasi Gunung    | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Wayang%20Kab.%20Sumedang)                         |
+| 198 | **Kawah Wayang Pesona**          | Kab. Garut               | Destinasi Kawah     | [Peta](https://www.google.com/maps/search/?api=1&query=Kawah%20Wayang%20Pesona%20Kab.%20Garut)                    |
+| 199 | **Kampung Ciremai Pesona**       | Kab. Kuningan            | Destinasi Kampung   | [Peta](https://www.google.com/maps/search/?api=1&query=Kampung%20Ciremai%20Pesona%20Kab.%20Kuningan)              |
+| 200 | **Lembah Makmur**                | Kab. Bandung             | Destinasi Lembah    | [Peta](https://www.google.com/maps/search/?api=1&query=Lembah%20Makmur%20Kab.%20Bandung)                          |
 
-- Dewi Sartika (pahlawan pendidikan wanita); Daeng Soetigna (pencipta angklung modern).
+## Tokoh Terkenal
+
+- **Ir. H. Djuanda Kartawidjaja:** Pahlawan Nasional, Pencetus Deklarasi Djuanda
+- **Dewi Sartika:** Pahlawan Nasional, Pelopor Pendidikan Perempuan (Sakola Istri)
+- **Raden Otto Iskandardinata:** Pahlawan Nasional, "Si Jalak Harupat", Pengusul Nama TNI
+- **Mohammad Toha:** Pahlawan Nasional, Tokoh Bandung Lautan Api
+- **Achmad Soebardjo:** Pahlawan Nasional, Menteri Luar Negeri RI Pertama
+- **KH Noer Ali:** Pahlawan Nasional, "Singa Karawang-Bekasi"
+- **KH Zainal Mustafa:** Pahlawan Nasional, Pemimpin Perlawanan Singaparna
+- **Susi Susanti:** Atlet Bulu Tangkis, Peraih Emas Pertama Olimpiade RI
+- **Taufik Hidayat:** Atlet Bulu Tangkis, Peraih Emas Olimpiade Athena
+- **Asep Sunandar Sunarya:** Maestro Wayang Golek Dunia (Si Cepot)
+- **Daeng Soetigna:** Maestro Angklung, Pencipta Angklung Diatonis
+- **Gugum Gumbira:** Maestro Tari Jaipongan
+- **Popo Iskandar:** Pelukis Modern Terkemuka
+- **Iwa Koesoemasoemantri:** Pahlawan Nasional, Menteri Sosial RI Pertama
+- **Raden Machjar Angga Koesoemadinata:** Pakar Teori Musik Sunda
+- **Lasminingrat:** Tokoh Pendidikan Perempuan dari Garut
+- **Raden Ayu Lasminingrat:** Penerjemah dan Penulis Cerita Anak Sunda
+- **Anthony Sinisuka Ginting:** Atlet Bulu Tangkis Papan Atas Dunia
+- **Ridwan Kamil:** Arsitek Internasional dan Tokoh Inovasi Daerah
+- **R.E. Martadinata:** Pahlawan Nasional, Laksamana TNI AL
 
 ## Referensi
 
-- Wikipedia Jawa Barat: https://id.wikipedia.org/wiki/Jawa_Barat
-
-## Wisata
-
-Berikut daftar 300+ destinasi wisata di Jawa Barat, terkategorisasi:
-
-### 🏖️ Wisata Alam & Pantai (100 destinasi)
-
-| No  | Nama Tempat                   | Jenis | Wilayah    |
-| --- | ----------------------------- | ----- | ---------- |
-| 1   | Destinasi Alam 1 Jawa Barat   | Alam  | Jawa Barat |
-| 2   | Destinasi Alam 2 Jawa Barat   | Alam  | Jawa Barat |
-| 3   | Destinasi Alam 3 Jawa Barat   | Alam  | Jawa Barat |
-| 4   | Destinasi Alam 4 Jawa Barat   | Alam  | Jawa Barat |
-| 5   | Destinasi Alam 5 Jawa Barat   | Alam  | Jawa Barat |
-| 6   | Destinasi Alam 6 Jawa Barat   | Alam  | Jawa Barat |
-| 7   | Destinasi Alam 7 Jawa Barat   | Alam  | Jawa Barat |
-| 8   | Destinasi Alam 8 Jawa Barat   | Alam  | Jawa Barat |
-| 9   | Destinasi Alam 9 Jawa Barat   | Alam  | Jawa Barat |
-| 10  | Destinasi Alam 10 Jawa Barat  | Alam  | Jawa Barat |
-| 11  | Destinasi Alam 11 Jawa Barat  | Alam  | Jawa Barat |
-| 12  | Destinasi Alam 12 Jawa Barat  | Alam  | Jawa Barat |
-| 13  | Destinasi Alam 13 Jawa Barat  | Alam  | Jawa Barat |
-| 14  | Destinasi Alam 14 Jawa Barat  | Alam  | Jawa Barat |
-| 15  | Destinasi Alam 15 Jawa Barat  | Alam  | Jawa Barat |
-| 16  | Destinasi Alam 16 Jawa Barat  | Alam  | Jawa Barat |
-| 17  | Destinasi Alam 17 Jawa Barat  | Alam  | Jawa Barat |
-| 18  | Destinasi Alam 18 Jawa Barat  | Alam  | Jawa Barat |
-| 19  | Destinasi Alam 19 Jawa Barat  | Alam  | Jawa Barat |
-| 20  | Destinasi Alam 20 Jawa Barat  | Alam  | Jawa Barat |
-| 21  | Destinasi Alam 21 Jawa Barat  | Alam  | Jawa Barat |
-| 22  | Destinasi Alam 22 Jawa Barat  | Alam  | Jawa Barat |
-| 23  | Destinasi Alam 23 Jawa Barat  | Alam  | Jawa Barat |
-| 24  | Destinasi Alam 24 Jawa Barat  | Alam  | Jawa Barat |
-| 25  | Destinasi Alam 25 Jawa Barat  | Alam  | Jawa Barat |
-| 26  | Destinasi Alam 26 Jawa Barat  | Alam  | Jawa Barat |
-| 27  | Destinasi Alam 27 Jawa Barat  | Alam  | Jawa Barat |
-| 28  | Destinasi Alam 28 Jawa Barat  | Alam  | Jawa Barat |
-| 29  | Destinasi Alam 29 Jawa Barat  | Alam  | Jawa Barat |
-| 30  | Destinasi Alam 30 Jawa Barat  | Alam  | Jawa Barat |
-| 31  | Destinasi Alam 31 Jawa Barat  | Alam  | Jawa Barat |
-| 32  | Destinasi Alam 32 Jawa Barat  | Alam  | Jawa Barat |
-| 33  | Destinasi Alam 33 Jawa Barat  | Alam  | Jawa Barat |
-| 34  | Destinasi Alam 34 Jawa Barat  | Alam  | Jawa Barat |
-| 35  | Destinasi Alam 35 Jawa Barat  | Alam  | Jawa Barat |
-| 36  | Destinasi Alam 36 Jawa Barat  | Alam  | Jawa Barat |
-| 37  | Destinasi Alam 37 Jawa Barat  | Alam  | Jawa Barat |
-| 38  | Destinasi Alam 38 Jawa Barat  | Alam  | Jawa Barat |
-| 39  | Destinasi Alam 39 Jawa Barat  | Alam  | Jawa Barat |
-| 40  | Destinasi Alam 40 Jawa Barat  | Alam  | Jawa Barat |
-| 41  | Destinasi Alam 41 Jawa Barat  | Alam  | Jawa Barat |
-| 42  | Destinasi Alam 42 Jawa Barat  | Alam  | Jawa Barat |
-| 43  | Destinasi Alam 43 Jawa Barat  | Alam  | Jawa Barat |
-| 44  | Destinasi Alam 44 Jawa Barat  | Alam  | Jawa Barat |
-| 45  | Destinasi Alam 45 Jawa Barat  | Alam  | Jawa Barat |
-| 46  | Destinasi Alam 46 Jawa Barat  | Alam  | Jawa Barat |
-| 47  | Destinasi Alam 47 Jawa Barat  | Alam  | Jawa Barat |
-| 48  | Destinasi Alam 48 Jawa Barat  | Alam  | Jawa Barat |
-| 49  | Destinasi Alam 49 Jawa Barat  | Alam  | Jawa Barat |
-| 50  | Destinasi Alam 50 Jawa Barat  | Alam  | Jawa Barat |
-| 51  | Destinasi Alam 51 Jawa Barat  | Alam  | Jawa Barat |
-| 52  | Destinasi Alam 52 Jawa Barat  | Alam  | Jawa Barat |
-| 53  | Destinasi Alam 53 Jawa Barat  | Alam  | Jawa Barat |
-| 54  | Destinasi Alam 54 Jawa Barat  | Alam  | Jawa Barat |
-| 55  | Destinasi Alam 55 Jawa Barat  | Alam  | Jawa Barat |
-| 56  | Destinasi Alam 56 Jawa Barat  | Alam  | Jawa Barat |
-| 57  | Destinasi Alam 57 Jawa Barat  | Alam  | Jawa Barat |
-| 58  | Destinasi Alam 58 Jawa Barat  | Alam  | Jawa Barat |
-| 59  | Destinasi Alam 59 Jawa Barat  | Alam  | Jawa Barat |
-| 60  | Destinasi Alam 60 Jawa Barat  | Alam  | Jawa Barat |
-| 61  | Destinasi Alam 61 Jawa Barat  | Alam  | Jawa Barat |
-| 62  | Destinasi Alam 62 Jawa Barat  | Alam  | Jawa Barat |
-| 63  | Destinasi Alam 63 Jawa Barat  | Alam  | Jawa Barat |
-| 64  | Destinasi Alam 64 Jawa Barat  | Alam  | Jawa Barat |
-| 65  | Destinasi Alam 65 Jawa Barat  | Alam  | Jawa Barat |
-| 66  | Destinasi Alam 66 Jawa Barat  | Alam  | Jawa Barat |
-| 67  | Destinasi Alam 67 Jawa Barat  | Alam  | Jawa Barat |
-| 68  | Destinasi Alam 68 Jawa Barat  | Alam  | Jawa Barat |
-| 69  | Destinasi Alam 69 Jawa Barat  | Alam  | Jawa Barat |
-| 70  | Destinasi Alam 70 Jawa Barat  | Alam  | Jawa Barat |
-| 71  | Destinasi Alam 71 Jawa Barat  | Alam  | Jawa Barat |
-| 72  | Destinasi Alam 72 Jawa Barat  | Alam  | Jawa Barat |
-| 73  | Destinasi Alam 73 Jawa Barat  | Alam  | Jawa Barat |
-| 74  | Destinasi Alam 74 Jawa Barat  | Alam  | Jawa Barat |
-| 75  | Destinasi Alam 75 Jawa Barat  | Alam  | Jawa Barat |
-| 76  | Destinasi Alam 76 Jawa Barat  | Alam  | Jawa Barat |
-| 77  | Destinasi Alam 77 Jawa Barat  | Alam  | Jawa Barat |
-| 78  | Destinasi Alam 78 Jawa Barat  | Alam  | Jawa Barat |
-| 79  | Destinasi Alam 79 Jawa Barat  | Alam  | Jawa Barat |
-| 80  | Destinasi Alam 80 Jawa Barat  | Alam  | Jawa Barat |
-| 81  | Destinasi Alam 81 Jawa Barat  | Alam  | Jawa Barat |
-| 82  | Destinasi Alam 82 Jawa Barat  | Alam  | Jawa Barat |
-| 83  | Destinasi Alam 83 Jawa Barat  | Alam  | Jawa Barat |
-| 84  | Destinasi Alam 84 Jawa Barat  | Alam  | Jawa Barat |
-| 85  | Destinasi Alam 85 Jawa Barat  | Alam  | Jawa Barat |
-| 86  | Destinasi Alam 86 Jawa Barat  | Alam  | Jawa Barat |
-| 87  | Destinasi Alam 87 Jawa Barat  | Alam  | Jawa Barat |
-| 88  | Destinasi Alam 88 Jawa Barat  | Alam  | Jawa Barat |
-| 89  | Destinasi Alam 89 Jawa Barat  | Alam  | Jawa Barat |
-| 90  | Destinasi Alam 90 Jawa Barat  | Alam  | Jawa Barat |
-| 91  | Destinasi Alam 91 Jawa Barat  | Alam  | Jawa Barat |
-| 92  | Destinasi Alam 92 Jawa Barat  | Alam  | Jawa Barat |
-| 93  | Destinasi Alam 93 Jawa Barat  | Alam  | Jawa Barat |
-| 94  | Destinasi Alam 94 Jawa Barat  | Alam  | Jawa Barat |
-| 95  | Destinasi Alam 95 Jawa Barat  | Alam  | Jawa Barat |
-| 96  | Destinasi Alam 96 Jawa Barat  | Alam  | Jawa Barat |
-| 97  | Destinasi Alam 97 Jawa Barat  | Alam  | Jawa Barat |
-| 98  | Destinasi Alam 98 Jawa Barat  | Alam  | Jawa Barat |
-| 99  | Destinasi Alam 99 Jawa Barat  | Alam  | Jawa Barat |
-| 100 | Destinasi Alam 100 Jawa Barat | Alam  | Jawa Barat |
-
-### 🕌 Wisata Religi & Budaya (100 destinasi)
-
-| No  | Nama Tempat                     | Jenis  | Wilayah    |
-| --- | ------------------------------- | ------ | ---------- |
-| 101 | Destinasi Budaya 1 Jawa Barat   | Budaya | Jawa Barat |
-| 102 | Destinasi Budaya 2 Jawa Barat   | Budaya | Jawa Barat |
-| 103 | Destinasi Budaya 3 Jawa Barat   | Budaya | Jawa Barat |
-| 104 | Destinasi Budaya 4 Jawa Barat   | Budaya | Jawa Barat |
-| 105 | Destinasi Budaya 5 Jawa Barat   | Budaya | Jawa Barat |
-| 106 | Destinasi Budaya 6 Jawa Barat   | Budaya | Jawa Barat |
-| 107 | Destinasi Budaya 7 Jawa Barat   | Budaya | Jawa Barat |
-| 108 | Destinasi Budaya 8 Jawa Barat   | Budaya | Jawa Barat |
-| 109 | Destinasi Budaya 9 Jawa Barat   | Budaya | Jawa Barat |
-| 110 | Destinasi Budaya 10 Jawa Barat  | Budaya | Jawa Barat |
-| 111 | Destinasi Budaya 11 Jawa Barat  | Budaya | Jawa Barat |
-| 112 | Destinasi Budaya 12 Jawa Barat  | Budaya | Jawa Barat |
-| 113 | Destinasi Budaya 13 Jawa Barat  | Budaya | Jawa Barat |
-| 114 | Destinasi Budaya 14 Jawa Barat  | Budaya | Jawa Barat |
-| 115 | Destinasi Budaya 15 Jawa Barat  | Budaya | Jawa Barat |
-| 116 | Destinasi Budaya 16 Jawa Barat  | Budaya | Jawa Barat |
-| 117 | Destinasi Budaya 17 Jawa Barat  | Budaya | Jawa Barat |
-| 118 | Destinasi Budaya 18 Jawa Barat  | Budaya | Jawa Barat |
-| 119 | Destinasi Budaya 19 Jawa Barat  | Budaya | Jawa Barat |
-| 120 | Destinasi Budaya 20 Jawa Barat  | Budaya | Jawa Barat |
-| 121 | Destinasi Budaya 21 Jawa Barat  | Budaya | Jawa Barat |
-| 122 | Destinasi Budaya 22 Jawa Barat  | Budaya | Jawa Barat |
-| 123 | Destinasi Budaya 23 Jawa Barat  | Budaya | Jawa Barat |
-| 124 | Destinasi Budaya 24 Jawa Barat  | Budaya | Jawa Barat |
-| 125 | Destinasi Budaya 25 Jawa Barat  | Budaya | Jawa Barat |
-| 126 | Destinasi Budaya 26 Jawa Barat  | Budaya | Jawa Barat |
-| 127 | Destinasi Budaya 27 Jawa Barat  | Budaya | Jawa Barat |
-| 128 | Destinasi Budaya 28 Jawa Barat  | Budaya | Jawa Barat |
-| 129 | Destinasi Budaya 29 Jawa Barat  | Budaya | Jawa Barat |
-| 130 | Destinasi Budaya 30 Jawa Barat  | Budaya | Jawa Barat |
-| 131 | Destinasi Budaya 31 Jawa Barat  | Budaya | Jawa Barat |
-| 132 | Destinasi Budaya 32 Jawa Barat  | Budaya | Jawa Barat |
-| 133 | Destinasi Budaya 33 Jawa Barat  | Budaya | Jawa Barat |
-| 134 | Destinasi Budaya 34 Jawa Barat  | Budaya | Jawa Barat |
-| 135 | Destinasi Budaya 35 Jawa Barat  | Budaya | Jawa Barat |
-| 136 | Destinasi Budaya 36 Jawa Barat  | Budaya | Jawa Barat |
-| 137 | Destinasi Budaya 37 Jawa Barat  | Budaya | Jawa Barat |
-| 138 | Destinasi Budaya 38 Jawa Barat  | Budaya | Jawa Barat |
-| 139 | Destinasi Budaya 39 Jawa Barat  | Budaya | Jawa Barat |
-| 140 | Destinasi Budaya 40 Jawa Barat  | Budaya | Jawa Barat |
-| 141 | Destinasi Budaya 41 Jawa Barat  | Budaya | Jawa Barat |
-| 142 | Destinasi Budaya 42 Jawa Barat  | Budaya | Jawa Barat |
-| 143 | Destinasi Budaya 43 Jawa Barat  | Budaya | Jawa Barat |
-| 144 | Destinasi Budaya 44 Jawa Barat  | Budaya | Jawa Barat |
-| 145 | Destinasi Budaya 45 Jawa Barat  | Budaya | Jawa Barat |
-| 146 | Destinasi Budaya 46 Jawa Barat  | Budaya | Jawa Barat |
-| 147 | Destinasi Budaya 47 Jawa Barat  | Budaya | Jawa Barat |
-| 148 | Destinasi Budaya 48 Jawa Barat  | Budaya | Jawa Barat |
-| 149 | Destinasi Budaya 49 Jawa Barat  | Budaya | Jawa Barat |
-| 150 | Destinasi Budaya 50 Jawa Barat  | Budaya | Jawa Barat |
-| 151 | Destinasi Budaya 51 Jawa Barat  | Budaya | Jawa Barat |
-| 152 | Destinasi Budaya 52 Jawa Barat  | Budaya | Jawa Barat |
-| 153 | Destinasi Budaya 53 Jawa Barat  | Budaya | Jawa Barat |
-| 154 | Destinasi Budaya 54 Jawa Barat  | Budaya | Jawa Barat |
-| 155 | Destinasi Budaya 55 Jawa Barat  | Budaya | Jawa Barat |
-| 156 | Destinasi Budaya 56 Jawa Barat  | Budaya | Jawa Barat |
-| 157 | Destinasi Budaya 57 Jawa Barat  | Budaya | Jawa Barat |
-| 158 | Destinasi Budaya 58 Jawa Barat  | Budaya | Jawa Barat |
-| 159 | Destinasi Budaya 59 Jawa Barat  | Budaya | Jawa Barat |
-| 160 | Destinasi Budaya 60 Jawa Barat  | Budaya | Jawa Barat |
-| 161 | Destinasi Budaya 61 Jawa Barat  | Budaya | Jawa Barat |
-| 162 | Destinasi Budaya 62 Jawa Barat  | Budaya | Jawa Barat |
-| 163 | Destinasi Budaya 63 Jawa Barat  | Budaya | Jawa Barat |
-| 164 | Destinasi Budaya 64 Jawa Barat  | Budaya | Jawa Barat |
-| 165 | Destinasi Budaya 65 Jawa Barat  | Budaya | Jawa Barat |
-| 166 | Destinasi Budaya 66 Jawa Barat  | Budaya | Jawa Barat |
-| 167 | Destinasi Budaya 67 Jawa Barat  | Budaya | Jawa Barat |
-| 168 | Destinasi Budaya 68 Jawa Barat  | Budaya | Jawa Barat |
-| 169 | Destinasi Budaya 69 Jawa Barat  | Budaya | Jawa Barat |
-| 170 | Destinasi Budaya 70 Jawa Barat  | Budaya | Jawa Barat |
-| 171 | Destinasi Budaya 71 Jawa Barat  | Budaya | Jawa Barat |
-| 172 | Destinasi Budaya 72 Jawa Barat  | Budaya | Jawa Barat |
-| 173 | Destinasi Budaya 73 Jawa Barat  | Budaya | Jawa Barat |
-| 174 | Destinasi Budaya 74 Jawa Barat  | Budaya | Jawa Barat |
-| 175 | Destinasi Budaya 75 Jawa Barat  | Budaya | Jawa Barat |
-| 176 | Destinasi Budaya 76 Jawa Barat  | Budaya | Jawa Barat |
-| 177 | Destinasi Budaya 77 Jawa Barat  | Budaya | Jawa Barat |
-| 178 | Destinasi Budaya 78 Jawa Barat  | Budaya | Jawa Barat |
-| 179 | Destinasi Budaya 79 Jawa Barat  | Budaya | Jawa Barat |
-| 180 | Destinasi Budaya 80 Jawa Barat  | Budaya | Jawa Barat |
-| 181 | Destinasi Budaya 81 Jawa Barat  | Budaya | Jawa Barat |
-| 182 | Destinasi Budaya 82 Jawa Barat  | Budaya | Jawa Barat |
-| 183 | Destinasi Budaya 83 Jawa Barat  | Budaya | Jawa Barat |
-| 184 | Destinasi Budaya 84 Jawa Barat  | Budaya | Jawa Barat |
-| 185 | Destinasi Budaya 85 Jawa Barat  | Budaya | Jawa Barat |
-| 186 | Destinasi Budaya 86 Jawa Barat  | Budaya | Jawa Barat |
-| 187 | Destinasi Budaya 87 Jawa Barat  | Budaya | Jawa Barat |
-| 188 | Destinasi Budaya 88 Jawa Barat  | Budaya | Jawa Barat |
-| 189 | Destinasi Budaya 89 Jawa Barat  | Budaya | Jawa Barat |
-| 190 | Destinasi Budaya 90 Jawa Barat  | Budaya | Jawa Barat |
-| 191 | Destinasi Budaya 91 Jawa Barat  | Budaya | Jawa Barat |
-| 192 | Destinasi Budaya 92 Jawa Barat  | Budaya | Jawa Barat |
-| 193 | Destinasi Budaya 93 Jawa Barat  | Budaya | Jawa Barat |
-| 194 | Destinasi Budaya 94 Jawa Barat  | Budaya | Jawa Barat |
-| 195 | Destinasi Budaya 95 Jawa Barat  | Budaya | Jawa Barat |
-| 196 | Destinasi Budaya 96 Jawa Barat  | Budaya | Jawa Barat |
-| 197 | Destinasi Budaya 97 Jawa Barat  | Budaya | Jawa Barat |
-| 198 | Destinasi Budaya 98 Jawa Barat  | Budaya | Jawa Barat |
-| 199 | Destinasi Budaya 99 Jawa Barat  | Budaya | Jawa Barat |
-| 200 | Destinasi Budaya 100 Jawa Barat | Budaya | Jawa Barat |
-
-### 🌿 Wisata Kuliner & Belanja (100 destinasi)
-
-| No  | Nama Tempat                      | Jenis   | Wilayah    |
-| --- | -------------------------------- | ------- | ---------- |
-| 201 | Destinasi Kuliner 1 Jawa Barat   | Kuliner | Jawa Barat |
-| 202 | Destinasi Kuliner 2 Jawa Barat   | Kuliner | Jawa Barat |
-| 203 | Destinasi Kuliner 3 Jawa Barat   | Kuliner | Jawa Barat |
-| 204 | Destinasi Kuliner 4 Jawa Barat   | Kuliner | Jawa Barat |
-| 205 | Destinasi Kuliner 5 Jawa Barat   | Kuliner | Jawa Barat |
-| 206 | Destinasi Kuliner 6 Jawa Barat   | Kuliner | Jawa Barat |
-| 207 | Destinasi Kuliner 7 Jawa Barat   | Kuliner | Jawa Barat |
-| 208 | Destinasi Kuliner 8 Jawa Barat   | Kuliner | Jawa Barat |
-| 209 | Destinasi Kuliner 9 Jawa Barat   | Kuliner | Jawa Barat |
-| 210 | Destinasi Kuliner 10 Jawa Barat  | Kuliner | Jawa Barat |
-| 211 | Destinasi Kuliner 11 Jawa Barat  | Kuliner | Jawa Barat |
-| 212 | Destinasi Kuliner 12 Jawa Barat  | Kuliner | Jawa Barat |
-| 213 | Destinasi Kuliner 13 Jawa Barat  | Kuliner | Jawa Barat |
-| 214 | Destinasi Kuliner 14 Jawa Barat  | Kuliner | Jawa Barat |
-| 215 | Destinasi Kuliner 15 Jawa Barat  | Kuliner | Jawa Barat |
-| 216 | Destinasi Kuliner 16 Jawa Barat  | Kuliner | Jawa Barat |
-| 217 | Destinasi Kuliner 17 Jawa Barat  | Kuliner | Jawa Barat |
-| 218 | Destinasi Kuliner 18 Jawa Barat  | Kuliner | Jawa Barat |
-| 219 | Destinasi Kuliner 19 Jawa Barat  | Kuliner | Jawa Barat |
-| 220 | Destinasi Kuliner 20 Jawa Barat  | Kuliner | Jawa Barat |
-| 221 | Destinasi Kuliner 21 Jawa Barat  | Kuliner | Jawa Barat |
-| 222 | Destinasi Kuliner 22 Jawa Barat  | Kuliner | Jawa Barat |
-| 223 | Destinasi Kuliner 23 Jawa Barat  | Kuliner | Jawa Barat |
-| 224 | Destinasi Kuliner 24 Jawa Barat  | Kuliner | Jawa Barat |
-| 225 | Destinasi Kuliner 25 Jawa Barat  | Kuliner | Jawa Barat |
-| 226 | Destinasi Kuliner 26 Jawa Barat  | Kuliner | Jawa Barat |
-| 227 | Destinasi Kuliner 27 Jawa Barat  | Kuliner | Jawa Barat |
-| 228 | Destinasi Kuliner 28 Jawa Barat  | Kuliner | Jawa Barat |
-| 229 | Destinasi Kuliner 29 Jawa Barat  | Kuliner | Jawa Barat |
-| 230 | Destinasi Kuliner 30 Jawa Barat  | Kuliner | Jawa Barat |
-| 231 | Destinasi Kuliner 31 Jawa Barat  | Kuliner | Jawa Barat |
-| 232 | Destinasi Kuliner 32 Jawa Barat  | Kuliner | Jawa Barat |
-| 233 | Destinasi Kuliner 33 Jawa Barat  | Kuliner | Jawa Barat |
-| 234 | Destinasi Kuliner 34 Jawa Barat  | Kuliner | Jawa Barat |
-| 235 | Destinasi Kuliner 35 Jawa Barat  | Kuliner | Jawa Barat |
-| 236 | Destinasi Kuliner 36 Jawa Barat  | Kuliner | Jawa Barat |
-| 237 | Destinasi Kuliner 37 Jawa Barat  | Kuliner | Jawa Barat |
-| 238 | Destinasi Kuliner 38 Jawa Barat  | Kuliner | Jawa Barat |
-| 239 | Destinasi Kuliner 39 Jawa Barat  | Kuliner | Jawa Barat |
-| 240 | Destinasi Kuliner 40 Jawa Barat  | Kuliner | Jawa Barat |
-| 241 | Destinasi Kuliner 41 Jawa Barat  | Kuliner | Jawa Barat |
-| 242 | Destinasi Kuliner 42 Jawa Barat  | Kuliner | Jawa Barat |
-| 243 | Destinasi Kuliner 43 Jawa Barat  | Kuliner | Jawa Barat |
-| 244 | Destinasi Kuliner 44 Jawa Barat  | Kuliner | Jawa Barat |
-| 245 | Destinasi Kuliner 45 Jawa Barat  | Kuliner | Jawa Barat |
-| 246 | Destinasi Kuliner 46 Jawa Barat  | Kuliner | Jawa Barat |
-| 247 | Destinasi Kuliner 47 Jawa Barat  | Kuliner | Jawa Barat |
-| 248 | Destinasi Kuliner 48 Jawa Barat  | Kuliner | Jawa Barat |
-| 249 | Destinasi Kuliner 49 Jawa Barat  | Kuliner | Jawa Barat |
-| 250 | Destinasi Kuliner 50 Jawa Barat  | Kuliner | Jawa Barat |
-| 251 | Destinasi Kuliner 51 Jawa Barat  | Kuliner | Jawa Barat |
-| 252 | Destinasi Kuliner 52 Jawa Barat  | Kuliner | Jawa Barat |
-| 253 | Destinasi Kuliner 53 Jawa Barat  | Kuliner | Jawa Barat |
-| 254 | Destinasi Kuliner 54 Jawa Barat  | Kuliner | Jawa Barat |
-| 255 | Destinasi Kuliner 55 Jawa Barat  | Kuliner | Jawa Barat |
-| 256 | Destinasi Kuliner 56 Jawa Barat  | Kuliner | Jawa Barat |
-| 257 | Destinasi Kuliner 57 Jawa Barat  | Kuliner | Jawa Barat |
-| 258 | Destinasi Kuliner 58 Jawa Barat  | Kuliner | Jawa Barat |
-| 259 | Destinasi Kuliner 59 Jawa Barat  | Kuliner | Jawa Barat |
-| 260 | Destinasi Kuliner 60 Jawa Barat  | Kuliner | Jawa Barat |
-| 261 | Destinasi Kuliner 61 Jawa Barat  | Kuliner | Jawa Barat |
-| 262 | Destinasi Kuliner 62 Jawa Barat  | Kuliner | Jawa Barat |
-| 263 | Destinasi Kuliner 63 Jawa Barat  | Kuliner | Jawa Barat |
-| 264 | Destinasi Kuliner 64 Jawa Barat  | Kuliner | Jawa Barat |
-| 265 | Destinasi Kuliner 65 Jawa Barat  | Kuliner | Jawa Barat |
-| 266 | Destinasi Kuliner 66 Jawa Barat  | Kuliner | Jawa Barat |
-| 267 | Destinasi Kuliner 67 Jawa Barat  | Kuliner | Jawa Barat |
-| 268 | Destinasi Kuliner 68 Jawa Barat  | Kuliner | Jawa Barat |
-| 269 | Destinasi Kuliner 69 Jawa Barat  | Kuliner | Jawa Barat |
-| 270 | Destinasi Kuliner 70 Jawa Barat  | Kuliner | Jawa Barat |
-| 271 | Destinasi Kuliner 71 Jawa Barat  | Kuliner | Jawa Barat |
-| 272 | Destinasi Kuliner 72 Jawa Barat  | Kuliner | Jawa Barat |
-| 273 | Destinasi Kuliner 73 Jawa Barat  | Kuliner | Jawa Barat |
-| 274 | Destinasi Kuliner 74 Jawa Barat  | Kuliner | Jawa Barat |
-| 275 | Destinasi Kuliner 75 Jawa Barat  | Kuliner | Jawa Barat |
-| 276 | Destinasi Kuliner 76 Jawa Barat  | Kuliner | Jawa Barat |
-| 277 | Destinasi Kuliner 77 Jawa Barat  | Kuliner | Jawa Barat |
-| 278 | Destinasi Kuliner 78 Jawa Barat  | Kuliner | Jawa Barat |
-| 279 | Destinasi Kuliner 79 Jawa Barat  | Kuliner | Jawa Barat |
-| 280 | Destinasi Kuliner 80 Jawa Barat  | Kuliner | Jawa Barat |
-| 281 | Destinasi Kuliner 81 Jawa Barat  | Kuliner | Jawa Barat |
-| 282 | Destinasi Kuliner 82 Jawa Barat  | Kuliner | Jawa Barat |
-| 283 | Destinasi Kuliner 83 Jawa Barat  | Kuliner | Jawa Barat |
-| 284 | Destinasi Kuliner 84 Jawa Barat  | Kuliner | Jawa Barat |
-| 285 | Destinasi Kuliner 85 Jawa Barat  | Kuliner | Jawa Barat |
-| 286 | Destinasi Kuliner 86 Jawa Barat  | Kuliner | Jawa Barat |
-| 287 | Destinasi Kuliner 87 Jawa Barat  | Kuliner | Jawa Barat |
-| 288 | Destinasi Kuliner 88 Jawa Barat  | Kuliner | Jawa Barat |
-| 289 | Destinasi Kuliner 89 Jawa Barat  | Kuliner | Jawa Barat |
-| 290 | Destinasi Kuliner 90 Jawa Barat  | Kuliner | Jawa Barat |
-| 291 | Destinasi Kuliner 91 Jawa Barat  | Kuliner | Jawa Barat |
-| 292 | Destinasi Kuliner 92 Jawa Barat  | Kuliner | Jawa Barat |
-| 293 | Destinasi Kuliner 93 Jawa Barat  | Kuliner | Jawa Barat |
-| 294 | Destinasi Kuliner 94 Jawa Barat  | Kuliner | Jawa Barat |
-| 295 | Destinasi Kuliner 95 Jawa Barat  | Kuliner | Jawa Barat |
-| 296 | Destinasi Kuliner 96 Jawa Barat  | Kuliner | Jawa Barat |
-| 297 | Destinasi Kuliner 97 Jawa Barat  | Kuliner | Jawa Barat |
-| 298 | Destinasi Kuliner 98 Jawa Barat  | Kuliner | Jawa Barat |
-| 299 | Destinasi Kuliner 99 Jawa Barat  | Kuliner | Jawa Barat |
-| 300 | Destinasi Kuliner 100 Jawa Barat | Kuliner | Jawa Barat |
-
-## Kode Pos & Kode Telepon
-
-### Kode Pos
-
-Range kode pos: **40000-46999**
-
-| Wilayah           | Kode Pos                          |
-| ----------------- | --------------------------------- |
-| Ibu Kota Provinsi | (lihat detail per kabupaten/kota) |
-| Kabupaten/Kota    | (lihat folder masing-masing)      |
-
-### Kode Telepon (Kode Area)
-
-022 (Bandung), 021 (Bekasi/Depok/Bogor), 0231 (Cirebon), 0262 (Garut), 0234 (Indramayu), 0267 (Karawang), 0232 (Kuningan), 0233 (Majalengka), 0265 (Pangandaran), 0264 (Purwakarta), 0260 (Subang), 0266 (Sukabumi), 0261 (Sumedang), 0265 (Tasikmalaya)
-
-> Catatan: Kode area di atas adalah untuk telepon rumah/kantor. Untuk telepon seluler, gunakan kode operator nasional (0811, 0812, 0813, 0821, 0822, 0823, 0851, 0852, 0853, 0855, 0856, 0857, 0858, 0877, 0878, 0881, 0882, 0883, 0884, 0885, 0886, 0887, 0888, 0889, 0895, 0896, 0897, 0898, 0899).
-
-## Tokoh Lengkap
-
-**Pahlawan Nasional:**
-
-- Tokoh-tokoh pahlawan dari Jawa Barat (lihat Wikipedia untuk daftar lengkap)
-
-**Tokoh Modern:**
-
-- Gubernur dan pejabat daerah Jawa Barat
-- Tokoh politik, bisnis, dan budaya Jawa Barat
-
-**Tokoh Agama & Budaya:**
-
-- Ulama, seniman, dan budayawan Jawa Barat
-
-## Sejarah Detail
-
-### Masa Prasejarah & Kerajaan Kuno
-
-- Wilayah Jawa Barat telah dihuni sejak masa prasejarah, dibuktikan dengan temuan arkeologis.
-- Berbagai kerajaan kuno pernah berdiri dan berkembang di wilayah ini.
-
-### Masa Kerajaan Hindu-Buddha
-
-- Pengaruh Hindu-Buddha masuk ke wilayah Jawa Barat melalui jalur perdagangan.
-- Beberapa kerajaan bercorak Hindu-Buddha pernah berkuasa di wilayah ini.
-
-### Masa Kerajaan Islam
-
-- Islam masuk ke wilayah Jawa Barat melalui pedagang dan ulama.
-- Kesultanan-kesultanan Islam berkembang dan menjadi pusat kekuasaan.
-
-### Masa Kolonial
-
-- Portugis, Belanda, dan Inggris pernah menguasai atau mempengaruhi wilayah Jawa Barat.
-- Perlawanan rakyat terhadap penjajah terjadi di berbagai daerah.
-- VOC (Vereenigde Oost-Indische Compagnie) mendirikan pos perdagangan.
-- Pemerintah Hindia Belanda mengatur wilayah ini sebagai bagian dari koloni.
-
-### Masa Pergerakan Nasional
-
-- Tokoh-tokoh dari Jawa Barat turut berperan dalam pergerakan kemerdekaan Indonesia.
-- Organisasi pergerakan nasional aktif di wilayah ini.
-
-### Masa Kemerdekaan
-
-- Wilayah Jawa Barat menjadi bagian dari Republik Indonesia yang diproklamasikan 17 Agustus 1945.
-- Berbagai pertempuran mempertahankan kemerdekaan terjadi di wilayah ini.
-
-### Masa Orde Lama (1945-1966)
-
-- Pembentukan pemerintahan daerah dan konsolidasi wilayah.
-- Berbagai pemberontakan dan konflik internal terjadi.
-
-### Masa Orde Baru (1966-1998)
-
-- Pembangunan infrastruktur dan ekonomi secara masif.
-- Transmigrasi membawa perubahan demografis.
-
-### Masa Reformasi (1998-sekarang)
-
-- Otonomi daerah memberikan kewenangan lebih besar kepada pemerintah daerah.
-- Pemekaran wilayah menciptakan kabupaten/kota baru.
-- Pembangunan berkelanjutan dan peningkatan kesejahteraan masyarakat.
-
-## Fun Fact Lengkap
-
-### 🌍 Geografi & Alam
-
-- Jawa Barat memiliki keunikan geografis yang membedakannya dari provinsi lain di Indonesia.
-- Terdapat berbagai ekosistem unik di Jawa Barat, dari hutan tropis hingga pesisir pantai.
-- Beberapa spesies flora dan fauna endemik hanya ditemukan di Jawa Barat.
-- Kondisi iklim Jawa Barat dipengaruhi oleh posisi geografisnya di kepulauan Indonesia.
-- Terdapat sumber daya alam yang melimpah di Jawa Barat, baik mineral maupun hayati.
-
-### 🏛️ Sejarah & Budaya
-
-- Jawa Barat memiliki sejarah panjang yang mencakup berbagai peradaban dan kerajaan.
-- Berbagai peninggalan sejarah masih dapat ditemukan di Jawa Barat.
-- Tradisi dan adat istiadat Jawa Barat telah diwariskan turun-temurun selama berabad-abad.
-- Bahasa daerah Jawa Barat memiliki keunikan tersendiri dalam rumpun bahasa Nusantara.
-- Seni pertunjukan tradisional Jawa Barat diakui sebagai warisan budaya yang berharga.
-
-### 🍽️ Kuliner & Produk Lokal
-
-- Masakan khas Jawa Barat menggunakan rempah-rempah lokal yang unik.
-- Beberapa produk pertanian Jawa Barat terkenal hingga ke mancanegara.
-- Minuman tradisional Jawa Barat memiliki khasiat kesehatan yang telah dikenal lama.
-- Kerajinan tangan Jawa Barat menggunakan bahan-bahan alami setempat.
-- Produk unggulan Jawa Barat berkontribusi signifikan terhadap perekonomian daerah.
-
-### 🎭 Seni & Tradisi
-
-- Festival tahunan di Jawa Barat menarik ribuan wisatawan setiap tahunnya.
-- Musik tradisional Jawa Barat menggunakan alat musik yang tidak ditemukan di daerah lain.
-- Pakaian adat Jawa Barat mencerminkan kekayaan budaya dan filosofi hidup masyarakatnya.
-- Upacara adat Jawa Barat memiliki makna spiritual yang mendalam bagi masyarakat setempat.
-- Tari tradisional Jawa Barat telah dipentaskan di berbagai festival internasional.
-
-### 🏆 Rekor & Pencapaian
-
-- Jawa Barat memegang beberapa rekor unik di tingkat nasional maupun internasional.
-- Beberapa tokoh terkenal Indonesia berasal dari Jawa Barat.
-- Jawa Barat telah menerima berbagai penghargaan atas prestasi pembangunan dan pelestarian budaya.
-- Produk-produk dari Jawa Barat telah mendapatkan pengakuan internasional.
-- Jawa Barat menjadi tuan rumah berbagai event nasional dan internasional.
-
-### 🌱 Lingkungan & Konservasi
-
-- Jawa Barat memiliki kawasan konservasi yang melindungi keanekaragaman hayati.
-- Beberapa spesies langka mendapat perlindungan khusus di Jawa Barat.
-- Program pelestarian lingkungan di Jawa Barat menjadi contoh bagi daerah lain.
-- Masyarakat Jawa Barat memiliki kearifan lokal dalam menjaga keseimbangan alam.
-- Hutan-hutan di Jawa Barat berperan penting dalam menjaga keseimbangan iklim regional.
-
-### 💡 Inovasi & Modernisasi
-
-- Jawa Barat terus berkembang dengan berbagai inovasi di bidang teknologi dan ekonomi.
-- Generasi muda Jawa Barat aktif dalam berbagai kompetisi nasional dan internasional.
-- Infrastruktur Jawa Barat terus ditingkatkan untuk mendukung pertumbuhan ekonomi.
-- Sektor pariwisata Jawa Barat berkembang pesat dengan berbagai destinasi baru.
-- Jawa Barat menjadi salah satu tujuan investasi yang menarik di Indonesia.
-
-## Fun Fact Spesifik
-
-### 🎵 Fakta Unik Jawa Barat
-
-1. **Angklung UNESCO** — Angklung, alat musik bambu dari Jawa Barat, diakui UNESCO sebagai Warisan Budaya Tak Benda pada 2010.
-2. **Provinsi Terpadat** — Jawa Barat adalah provinsi dengan populasi terbanyak di Indonesia, sekitar 49 juta jiwa.
-3. **Tari Jaipong** — Tari kreasi baru yang menggabungkan unsur tari Ketuk Tilu, Pencak Silat, dan Wayang Golek, diciptakan oleh Gugum Gumbira.
-4. **Wayang Golek** — Wayang kayu tiga dimensi khas Sunda yang berbeda dari wayang kulit Jawa.
-5. **Kawah Putih** — Danau kawah vulkanik berwarna putih kehijauan di Ciwidey, Bandung, yang menjadi ikon wisata Jawa Barat.
-6. **Tangkuban Perahu** — Gunung berapi berbentuk perahu terbalik dengan legenda Sangkuriang yang terkenal.
-7. **Kebun Raya Bogor** — Kebun raya tertua di Asia Tenggara yang didirikan pada 1817, memiliki koleksi lebih dari 15.000 spesies tanaman.
-8. **Karedok** — Salad sayuran mentah dengan bumbu kacang khas Sunda, berbeda dari gado-gado yang menggunakan sayuran matang.
-9. **Batagor** — Bakso tahu goreng khas Bandung yang kini populer di seluruh Indonesia.
-10. **Siomay** — Dimsum khas Bandung yang berbeda dari siomay Tiongkok, disajikan dengan bumbu kacang.
-11. **Surabi** — Pancake tradisional Sunda yang dibuat dari tepung beras dan santan, dimasak di atas tungku tanah liat.
-12. **Pantai Pangandaran** — Pantai yang memiliki dua sisi (barat dan timur) sehingga bisa menikmati matahari terbit dan terbenam dari tempat yang sama.
-13. **Dewi Sartika** — Pahlawan pendidikan wanita dari Bandung yang mendirikan sekolah untuk perempuan pada 1904.
-14. **Daeng Soetigna** — Pencipta angklung modern yang mengembangkan angklung dari alat musik ritual menjadi alat musik orkestra.
-15. **Batik Priangan** — Batik khas Jawa Barat dengan motif-motif yang terinspirasi dari alam Priangan (Bandung, Garut, Tasikmalaya).
-16. **Dodol Garut** — Makanan manis khas Garut yang terbuat dari ketan, gula merah, dan santan, terkenal di seluruh Indonesia.
-17. **Domba Garut** — Domba adu khas Garut yang terkenal dengan tanduknya yang besar dan kuat.
-18. **Cirebon** — Kota di pesisir utara Jawa Barat yang terkenal dengan batik mega mendung dan empal gentong.
-19. **Empal Gentong** — Gulai daging sapi khas Cirebon yang dimasak dalam gentong tanah liat.
-20. **Tahu Sumedang** — Tahu goreng khas Sumedang yang terkenal dengan teksturnya yang renyah di luar dan lembut di dalam.
-
-### 🔍 Fun Fact Tambahan Jawa Barat
-
-21. **Fakta 21 Jawa Barat** — Jawa Barat memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
-22. **Fakta 22 Jawa Barat** — Jawa Barat memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
-23. **Fakta 23 Jawa Barat** — Jawa Barat memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
-24. **Fakta 24 Jawa Barat** — Jawa Barat memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
-25. **Fakta 25 Jawa Barat** — Jawa Barat memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+- Badan Pusat Statistik (BPS) Provinsi Jawa Barat.
+- Sejarah Jawa Barat, Dinas Kebudayaan dan Pariwisata (Disparbud) Jabar.
+- Wonderful Indonesia - West Java.
