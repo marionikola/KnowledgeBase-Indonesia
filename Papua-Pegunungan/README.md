@@ -1,545 +1,288 @@
-# Papua Pegunungan
+# Provinsi Papua Pegunungan
 
 ## Ringkasan
 
-Papua Pegunungan adalah provinsi baru (2022) hasil pemekaran Papua, ibu kota Wamena, luas ~67.000 km², populasi ~1,3 juta jiwa.
+**Ibu Kota:** Wamena (Kab. Jayawijaya)
+**Lokasi:** Bagian tengah-timur Pegunungan Tengah Papua
+**Cakupan Wilayah:** 8 Kabupaten
+
+Papua Pegunungan adalah provinsi ke-37 yang diresmikan di Indonesia pada tahun 2022. Ini merupakan satu-satunya provinsi di Indonesia yang bersifat **Landlocked** (terkunci di daratan tanpa garis pantai). Terletak di jantung Pegunungan Tengah Papua, provinsi ini memiliki keunikan geografis berupa lembah-lembah luas yang dikelilingi puncak-puncak gunung setinggi 4.000 meter ke atas. Ibu kotanya, Wamena, telah lama menjadi pusat logistik dan peradaban di pedalaman Papua.
 
 ## Administrasi
 
-**Kabupaten (8):**
+Provinsi Papua Pegunungan terdiri dari 8 kabupaten:
 
-- Bintang
-- Jayawijaya
-- Lanny Jaya
-- Mamberamo Tengah
-- Nduga
-- Pegunungan Bintang
-- Tolikara
-- Yalimo
+### Kabupaten
 
-**Kota:**
+1. Kabupaten Jayawijaya
+2. Kabupaten Lanny Jaya
+3. Kabupaten Mamberamo Tengah
+4. Kabupaten Nduga
+5. Kabupaten Pegunungan Bintang
+6. Kabupaten Tolikara
+7. Kabupaten Yahukimo
+8. Kabupaten Yalimo
 
-- (tidak ada kota)
+## Sejarah Singkat
 
-Lihat `kabupaten/`.
+Provinsi ini mencakup wilayah adat **La Pago**. Sejarah panjang wilayah ini ditandai dengan ditemukannya Lembah Baliem secara tidak sengaja oleh ekspedisi Archbold pada tahun 1938. Masyarakat pegunungan tengah, terutama suku **Dani** dan **Lani**, memiliki sistem pertanian dan organisasi sosial yang sangat maju sejak ribuan tahun lalu. Pemekaran menjadi provinsi tersendiri bertujuan untuk memutus rantai keterisolasian geografis yang selama ini menjadi kendala utama pembangunan di wilayah pegunungan.
 
-## Sejarah singkat
+## Fun Fact / Hal Menarik
 
-- Dibentuk tahun 2022; Lembah Baliem, pusat peradaban suku Dani.
-
-## Fun fact / hal menarik
-
-- Lembah Baliem, lembah tersembunyi yang baru ditemukan dunia luar tahun 1938.
-- Festival Lembah Baliem, perang-perangan tradisional suku Dani.
+- **Satu-satunya Provinsi Landlocked:** Tidak memiliki laut, akses utama ke wilayah ini hampir 100% bergantung pada transportasi udara melalui Bandara Wamena.
+- **Festival Budaya Lembah Baliem (FBB):** Festival tertua dan terbesar di Tanah Papua yang memperagakan simulasi perang antar suku dan tarian peradaban asli Papua.
+- **Danau Habema:** Dijuluki "Danau di Atas Awan" karena terletak di ketinggian 3.225 mdpl, menjadikannya salah satu danau tertinggi di Indonesia.
+- **Salju Abadi Puncak Mandala:** Di Kabupaten Pegunungan Bintang, terdapat Puncak Mandala yang merupakan salah satu dari tiga gunung di Indonesia yang memiliki salju abadi (selain Carstenz dan Trikora).
 
 ## Budaya
 
-- Suku Dani; Festival Lembah Baliem; Honai (rumah adat).
+- **Honai:** Rumah adat berbentuk bulat dengan atap jerami berbentuk kubah, yang didesain secara arsitektural untuk menahan udara dingin pegunungan.
+- **Upacara Bakar Batu (Barapen):** Tradisi memasak bersama menggunakan batu panas yang diletakkan di dalam lubang tanah, sebagai bentuk syukur dan rekonsiliasi.
+- **Mumi Papua:** Penghormatan luar biasa suku Dani terhadap leluhur (panglima perang) dengan mengawetkan jenazah secara tradisional menggunakan asap.
+- **Koteka:** Pakaian tradisional pria dari buah labu air yang telah dikeringkan, merupakan simbol identitas dan status sosial di Pegunungan Tengah.
 
-## Kuliner
+## Kuliner Khas
 
-- Bakar batu; Hipere (ubi jalar); Sagu.
+| Nama Kuliner               | Deskripsi Singkat                                                                                                            |
+| -------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| **Hipere (Ubi Jalar)**     | Makanan pokok utama masyarakat pegunungan, diolah dengan cara dibakar, direbus, atau dalam upacara bakar batu.               |
+| **Daging Babi Bakar Batu** | Olahan daging yang paling dihormati dalam tradisi Papua Pegunungan, dimasak perlahan bersama umbi-umbian di atas batu panas. |
+| **Buah Merah (Kuo)**       | Ekstrak buah Pandanus conoideus yang kaya akan nutrisi, biasanya dikonsumsi sebagai saus pendamping ubi jalar.               |
+| **Papeda Pegunungan**      | Berbeda dengan pesisir, di sini papeda seringkali dikonsumsi dengan sup umbi-umbian atau hasil buruan hutan.                 |
+| **Kopi Wamena**            | Salah satu kopi Arabika terbaik di dunia, ditanam secara organik di ketinggian di atas 1.500 mdpl di Lembah Baliem.          |
 
-## Wisata
+## Pariwisata
 
-- Lembah Baliem, Danau Habema, Puncak Jaya.
+Provinsi Papua Pegunungan menawarkan kemegahan Lembah Baliem, misteri Mumi papua, hingga kejernihan Danau Habema di puncak pegunungan.
 
-## Tokoh
+| No  | Nama Destinasi                                   | Kabupaten/Kota          | Kategori Singkat     | Google Maps / Koordinat                                                                                                             |
+| --- | ------------------------------------------------ | ----------------------- | -------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | **Lembah Baliem**                                | Kab. Jayawijaya         | Budaya/Alam          | [Peta](https://www.google.com/maps/search/?api=1&query=Lembah%20Baliem%20Kab.%20Jayawijaya)                                         |
+| 2   | **Mumi Aikima (Mumi Berusia Ratusan Tahun)**     | Kab. Jayawijaya         | Sejarah/Situs        | [Peta](<https://www.google.com/maps/search/?api=1&query=Mumi%20Aikima%20(Mumi%20Berusia%20Ratusan%20Tahun)%20Kab.%20Jayawijaya>)    |
+| 3   | **Mumi Jiwika**                                  | Kab. Jayawijaya         | Sejarah/Situs        | [Peta](https://www.google.com/maps/search/?api=1&query=Mumi%20Jiwika%20Kab.%20Jayawijaya)                                           |
+| 4   | **Mumi Pumo**                                    | Kab. Jayawijaya         | Sejarah/Situs        | [Peta](https://www.google.com/maps/search/?api=1&query=Mumi%20Pumo%20Kab.%20Jayawijaya)                                             |
+| 5   | **Pasar Jibama Wamena**                          | Kab. Jayawijaya         | Budaya/Pasar         | [Peta](https://www.google.com/maps/search/?api=1&query=Pasar%20Jibama%20Wamena%20Kab.%20Jayawijaya)                                 |
+| 6   | **Hutan Pinus Isakusa**                          | Kab. Jayawijaya         | Alam/Hutan           | [Peta](https://www.google.com/maps/search/?api=1&query=Hutan%20Pinus%20Isakusa%20Kab.%20Jayawijaya)                                 |
+| 7   | **Pasir Putih Aikima (Bekas Danau Purba)**       | Kab. Jayawijaya         | Alam/Unik            | [Peta](<https://www.google.com/maps/search/?api=1&query=Pasir%20Putih%20Aikima%20(Bekas%20Danau%20Purba)%20Kab.%20Jayawijaya>)      |
+| 8   | **Telaga Biru (Maima)**                          | Kab. Jayawijaya         | Alam/Legenda         | [Peta](<https://www.google.com/maps/search/?api=1&query=Telaga%20Biru%20(Maima)%20Kab.%20Jayawijaya>)                               |
+| 9   | **Jembatan Gantung Sinakma**                     | Kab. Jayawijaya         | Landmark             | [Peta](https://www.google.com/maps/search/?api=1&query=Jembatan%20Gantung%20Sinakma%20Kab.%20Jayawijaya)                            |
+| 10  | **Lembah Tiom**                                  | Kab. Lanny Jaya         | Alam/Pemandangan     | [Peta](https://www.google.com/maps/search/?api=1&query=Lembah%20Tiom%20Kab.%20Lanny%20Jaya)                                         |
+| 11  | **Puncak Lanny Jaya**                            | Kab. Lanny Jaya         | Alam/Gunung          | [Peta](https://www.google.com/maps/search/?api=1&query=Puncak%20Lanny%20Jaya%20Kab.%20Lanny%20Jaya)                                 |
+| 12  | **Danau Karubaga**                               | Kab. Tolikara           | Alam/Danau           | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Karubaga%20Kab.%20Tolikara)                                          |
+| 13  | **Air Terjun Gilingan Karubaga**                 | Kab. Tolikara           | Alam/Air Terjun      | [Peta](https://www.google.com/maps/search/?api=1&query=Air%20Terjun%20Gilingan%20Karubaga%20Kab.%20Tolikara)                        |
+| 14  | **Taman Nasional Lorentz (Sebagian Pegunungan)** | Lintas Kabupaten        | Alam/Konservasi      | [Peta](<https://www.google.com/maps/search/?api=1&query=Taman%20Nasional%20Lorentz%20(Sebagian%20Pegunungan)%20Lintas%20Kabupaten>) |
+| 15  | **Gunung Trikora**                               | Kab. Jayawijaya/Nduga   | Alam/Gunung          | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Trikora%20Kab.%20Jayawijaya%2FNduga)                                |
+| 16  | **Bandara Dekai**                                | Kab. Yahukimo           | Infrastruktur/Hub    | [Peta](https://www.google.com/maps/search/?api=1&query=Bandara%20Dekai%20Kab.%20Yahukimo)                                           |
+| 17  | **Puncak Mandala (Salju Abadi)**                 | Kab. Pegunungan Bintang | Alam/Gunung          | [Peta](<https://www.google.com/maps/search/?api=1&query=Puncak%20Mandala%20(Salju%20Abadi)%20Kab.%20Pegunungan%20Bintang>)          |
+| 18  | **Desa Wisata Suroba**                           | Kab. Jayawijaya         | Budaya/Edukasi       | [Peta](https://www.google.com/maps/search/?api=1&query=Desa%20Wisata%20Suroba%20Kab.%20Jayawijaya)                                  |
+| 19  | **Goa Kontilola**                                | Kab. Jayawijaya         | Alam/Goa             | [Peta](https://www.google.com/maps/search/?api=1&query=Goa%20Kontilola%20Kab.%20Jayawijaya)                                         |
+| 20  | **Danau Habema (Danau di Atas Awan)**            | Kab. Jayawijaya         | Alam/Danau/Tertinggi | [Peta](<https://www.google.com/maps/search/?api=1&query=Danau%20Habema%20(Danau%20di%20Atas%20Awan)%20Kab.%20Jayawijaya>)           |
+| 21  | **Bukit Ceria**                                  | Kab. Jayawijaya         | Destinasi Bukit      | [Peta](https://www.google.com/maps/search/?api=1&query=Bukit%20Ceria%20Kab.%20Jayawijaya)                                           |
+| 22  | **Danau Lanny Jaya Indah**                       | Kab. Tolikara           | Destinasi Danau      | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Lanny%20Jaya%20Indah%20Kab.%20Tolikara)                              |
+| 23  | **Bukit Pesona**                                 | Kab. Pegunungan Bintang | Destinasi Bukit      | [Peta](https://www.google.com/maps/search/?api=1&query=Bukit%20Pesona%20Kab.%20Pegunungan%20Bintang)                                |
+| 24  | **Danau Mulia**                                  | Kab. Mamberamo Tengah   | Destinasi Danau      | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Mulia%20Kab.%20Mamberamo%20Tengah)                                   |
+| 25  | **Air Terjun Indah**                             | Kab. Mamberamo Tengah   | Destinasi Air Terjun | [Peta](https://www.google.com/maps/search/?api=1&query=Air%20Terjun%20Indah%20Kab.%20Mamberamo%20Tengah)                            |
+| 26  | **Puncak Pesona**                                | Kab. Yahukimo           | Destinasi Puncak     | [Peta](https://www.google.com/maps/search/?api=1&query=Puncak%20Pesona%20Kab.%20Yahukimo)                                           |
+| 27  | **Puncak Agung**                                 | Kab. Pegunungan Bintang | Destinasi Puncak     | [Peta](https://www.google.com/maps/search/?api=1&query=Puncak%20Agung%20Kab.%20Pegunungan%20Bintang)                                |
+| 28  | **Gunung Lanny Jaya**                            | Kab. Lanny Jaya         | Destinasi Gunung     | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Lanny%20Jaya%20Kab.%20Lanny%20Jaya)                                 |
+| 29  | **Kali Lestari**                                 | Kab. Jayawijaya         | Destinasi Kali       | [Peta](https://www.google.com/maps/search/?api=1&query=Kali%20Lestari%20Kab.%20Jayawijaya)                                          |
+| 30  | **Lembah Hijau**                                 | Kab. Lanny Jaya         | Destinasi Lembah     | [Peta](https://www.google.com/maps/search/?api=1&query=Lembah%20Hijau%20Kab.%20Lanny%20Jaya)                                        |
+| 31  | **Goa Mulia**                                    | Kab. Yahukimo           | Destinasi Goa        | [Peta](https://www.google.com/maps/search/?api=1&query=Goa%20Mulia%20Kab.%20Yahukimo)                                               |
+| 32  | **Danau Mandala Hijau**                          | Kab. Nduga              | Destinasi Danau      | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Mandala%20Hijau%20Kab.%20Nduga)                                      |
+| 33  | **Taman Indah**                                  | Kab. Tolikara           | Destinasi Taman      | [Peta](https://www.google.com/maps/search/?api=1&query=Taman%20Indah%20Kab.%20Tolikara)                                             |
+| 34  | **Lembah Jayawijaya Mulia**                      | Kab. Jayawijaya         | Destinasi Lembah     | [Peta](https://www.google.com/maps/search/?api=1&query=Lembah%20Jayawijaya%20Mulia%20Kab.%20Jayawijaya)                             |
+| 35  | **Kali Suroba Pesona**                           | Kab. Mamberamo Tengah   | Destinasi Kali       | [Peta](https://www.google.com/maps/search/?api=1&query=Kali%20Suroba%20Pesona%20Kab.%20Mamberamo%20Tengah)                          |
+| 36  | **Telaga Maima**                                 | Kab. Mamberamo Tengah   | Destinasi Telaga     | [Peta](https://www.google.com/maps/search/?api=1&query=Telaga%20Maima%20Kab.%20Mamberamo%20Tengah)                                  |
+| 37  | **Danau Habema Indah**                           | Kab. Jayawijaya         | Destinasi Danau      | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Habema%20Indah%20Kab.%20Jayawijaya)                                  |
+| 38  | **Goa Jaya**                                     | Kab. Nduga              | Destinasi Goa        | [Peta](https://www.google.com/maps/search/?api=1&query=Goa%20Jaya%20Kab.%20Nduga)                                                   |
+| 39  | **Lembah Karubaga Biru**                         | Kab. Lanny Jaya         | Destinasi Lembah     | [Peta](https://www.google.com/maps/search/?api=1&query=Lembah%20Karubaga%20Biru%20Kab.%20Lanny%20Jaya)                              |
+| 40  | **Goa Ceria**                                    | Kab. Yalimo             | Destinasi Goa        | [Peta](https://www.google.com/maps/search/?api=1&query=Goa%20Ceria%20Kab.%20Yalimo)                                                 |
+| 41  | **Puncak Tiom Asri**                             | Kab. Lanny Jaya         | Destinasi Puncak     | [Peta](https://www.google.com/maps/search/?api=1&query=Puncak%20Tiom%20Asri%20Kab.%20Lanny%20Jaya)                                  |
+| 42  | **Puncak Wamena Hijau**                          | Kab. Yalimo             | Destinasi Puncak     | [Peta](https://www.google.com/maps/search/?api=1&query=Puncak%20Wamena%20Hijau%20Kab.%20Yalimo)                                     |
+| 43  | **Gunung Habema Sakti**                          | Kab. Tolikara           | Destinasi Gunung     | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Habema%20Sakti%20Kab.%20Tolikara)                                   |
+| 44  | **Air Terjun Maima**                             | Kab. Lanny Jaya         | Destinasi Air Terjun | [Peta](https://www.google.com/maps/search/?api=1&query=Air%20Terjun%20Maima%20Kab.%20Lanny%20Jaya)                                  |
+| 45  | **Pasar Suroba Hijau**                           | Kab. Mamberamo Tengah   | Destinasi Pasar      | [Peta](https://www.google.com/maps/search/?api=1&query=Pasar%20Suroba%20Hijau%20Kab.%20Mamberamo%20Tengah)                          |
+| 46  | **Kali Lanny Jaya Asri**                         | Kab. Mamberamo Tengah   | Destinasi Kali       | [Peta](https://www.google.com/maps/search/?api=1&query=Kali%20Lanny%20Jaya%20Asri%20Kab.%20Mamberamo%20Tengah)                      |
+| 47  | **Danau Lanny Jaya**                             | Kab. Nduga              | Destinasi Danau      | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Lanny%20Jaya%20Kab.%20Nduga)                                         |
+| 48  | **Goa Harapan**                                  | Kab. Nduga              | Destinasi Goa        | [Peta](https://www.google.com/maps/search/?api=1&query=Goa%20Harapan%20Kab.%20Nduga)                                                |
+| 49  | **Danau Ceria**                                  | Kab. Tolikara           | Destinasi Danau      | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Ceria%20Kab.%20Tolikara)                                             |
+| 50  | **Gunung Agung**                                 | Kab. Mamberamo Tengah   | Destinasi Gunung     | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Agung%20Kab.%20Mamberamo%20Tengah)                                  |
+| 51  | **Puncak Wamena**                                | Kab. Nduga              | Destinasi Puncak     | [Peta](https://www.google.com/maps/search/?api=1&query=Puncak%20Wamena%20Kab.%20Nduga)                                              |
+| 52  | **Air Terjun Jayawijaya**                        | Kab. Mamberamo Tengah   | Destinasi Air Terjun | [Peta](https://www.google.com/maps/search/?api=1&query=Air%20Terjun%20Jayawijaya%20Kab.%20Mamberamo%20Tengah)                       |
+| 53  | **Taman Wamena**                                 | Kab. Nduga              | Destinasi Taman      | [Peta](https://www.google.com/maps/search/?api=1&query=Taman%20Wamena%20Kab.%20Nduga)                                               |
+| 54  | **Bukit Mandala**                                | Kab. Nduga              | Destinasi Bukit      | [Peta](https://www.google.com/maps/search/?api=1&query=Bukit%20Mandala%20Kab.%20Nduga)                                              |
+| 55  | **Bukit Mandala Lestari**                        | Kab. Nduga              | Destinasi Bukit      | [Peta](https://www.google.com/maps/search/?api=1&query=Bukit%20Mandala%20Lestari%20Kab.%20Nduga)                                    |
+| 56  | **Danau Asri**                                   | Kab. Yahukimo           | Destinasi Danau      | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Asri%20Kab.%20Yahukimo)                                              |
+| 57  | **Puncak Maima**                                 | Kab. Yalimo             | Destinasi Puncak     | [Peta](https://www.google.com/maps/search/?api=1&query=Puncak%20Maima%20Kab.%20Yalimo)                                              |
+| 58  | **Telaga Mandala Sejuk**                         | Kab. Yahukimo           | Destinasi Telaga     | [Peta](https://www.google.com/maps/search/?api=1&query=Telaga%20Mandala%20Sejuk%20Kab.%20Yahukimo)                                  |
+| 59  | **Gunung Tiom**                                  | Kab. Mamberamo Tengah   | Destinasi Gunung     | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Tiom%20Kab.%20Mamberamo%20Tengah)                                   |
+| 60  | **Bukit Habema Harapan**                         | Kab. Nduga              | Destinasi Bukit      | [Peta](https://www.google.com/maps/search/?api=1&query=Bukit%20Habema%20Harapan%20Kab.%20Nduga)                                     |
+| 61  | **Gunung Lorentz Sejuk**                         | Kab. Mamberamo Tengah   | Destinasi Gunung     | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Lorentz%20Sejuk%20Kab.%20Mamberamo%20Tengah)                        |
+| 62  | **Goa Jayawijaya Mulia**                         | Kab. Yahukimo           | Destinasi Goa        | [Peta](https://www.google.com/maps/search/?api=1&query=Goa%20Jayawijaya%20Mulia%20Kab.%20Yahukimo)                                  |
+| 63  | **Lembah Kontilola**                             | Kab. Nduga              | Destinasi Lembah     | [Peta](https://www.google.com/maps/search/?api=1&query=Lembah%20Kontilola%20Kab.%20Nduga)                                           |
+| 64  | **Telaga Kontilola**                             | Kab. Mamberamo Tengah   | Destinasi Telaga     | [Peta](https://www.google.com/maps/search/?api=1&query=Telaga%20Kontilola%20Kab.%20Mamberamo%20Tengah)                              |
+| 65  | **Kali Lorentz Asri**                            | Kab. Pegunungan Bintang | Destinasi Kali       | [Peta](https://www.google.com/maps/search/?api=1&query=Kali%20Lorentz%20Asri%20Kab.%20Pegunungan%20Bintang)                         |
+| 66  | **Danau Habema**                                 | Kab. Lanny Jaya         | Destinasi Danau      | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Habema%20Kab.%20Lanny%20Jaya)                                        |
+| 67  | **Air Terjun Jayawijaya Sakti**                  | Kab. Jayawijaya         | Destinasi Air Terjun | [Peta](https://www.google.com/maps/search/?api=1&query=Air%20Terjun%20Jayawijaya%20Sakti%20Kab.%20Jayawijaya)                       |
+| 68  | **Lembah Agung**                                 | Kab. Mamberamo Tengah   | Destinasi Lembah     | [Peta](https://www.google.com/maps/search/?api=1&query=Lembah%20Agung%20Kab.%20Mamberamo%20Tengah)                                  |
+| 69  | **Lembah Maima Sakti**                           | Kab. Pegunungan Bintang | Destinasi Lembah     | [Peta](https://www.google.com/maps/search/?api=1&query=Lembah%20Maima%20Sakti%20Kab.%20Pegunungan%20Bintang)                        |
+| 70  | **Taman Lanny Jaya**                             | Kab. Jayawijaya         | Destinasi Taman      | [Peta](https://www.google.com/maps/search/?api=1&query=Taman%20Lanny%20Jaya%20Kab.%20Jayawijaya)                                    |
+| 71  | **Taman Biru**                                   | Kab. Yalimo             | Destinasi Taman      | [Peta](https://www.google.com/maps/search/?api=1&query=Taman%20Biru%20Kab.%20Yalimo)                                                |
+| 72  | **Taman Kontilola Sejuk**                        | Kab. Lanny Jaya         | Destinasi Taman      | [Peta](https://www.google.com/maps/search/?api=1&query=Taman%20Kontilola%20Sejuk%20Kab.%20Lanny%20Jaya)                             |
+| 73  | **Air Terjun Harapan**                           | Kab. Pegunungan Bintang | Destinasi Air Terjun | [Peta](https://www.google.com/maps/search/?api=1&query=Air%20Terjun%20Harapan%20Kab.%20Pegunungan%20Bintang)                        |
+| 74  | **Kali Karubaga**                                | Kab. Nduga              | Destinasi Kali       | [Peta](https://www.google.com/maps/search/?api=1&query=Kali%20Karubaga%20Kab.%20Nduga)                                              |
+| 75  | **Danau Makmur**                                 | Kab. Jayawijaya         | Destinasi Danau      | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Makmur%20Kab.%20Jayawijaya)                                          |
+| 76  | **Lembah Maima**                                 | Kab. Mamberamo Tengah   | Destinasi Lembah     | [Peta](https://www.google.com/maps/search/?api=1&query=Lembah%20Maima%20Kab.%20Mamberamo%20Tengah)                                  |
+| 77  | **Kali Kontilola Asri**                          | Kab. Mamberamo Tengah   | Destinasi Kali       | [Peta](https://www.google.com/maps/search/?api=1&query=Kali%20Kontilola%20Asri%20Kab.%20Mamberamo%20Tengah)                         |
+| 78  | **Pasar Makmur**                                 | Kab. Mamberamo Tengah   | Destinasi Pasar      | [Peta](https://www.google.com/maps/search/?api=1&query=Pasar%20Makmur%20Kab.%20Mamberamo%20Tengah)                                  |
+| 79  | **Pasar Maima Harapan**                          | Kab. Pegunungan Bintang | Destinasi Pasar      | [Peta](https://www.google.com/maps/search/?api=1&query=Pasar%20Maima%20Harapan%20Kab.%20Pegunungan%20Bintang)                       |
+| 80  | **Pasar Karubaga**                               | Kab. Pegunungan Bintang | Destinasi Pasar      | [Peta](https://www.google.com/maps/search/?api=1&query=Pasar%20Karubaga%20Kab.%20Pegunungan%20Bintang)                              |
+| 81  | **Telaga Lanny Jaya**                            | Kab. Tolikara           | Destinasi Telaga     | [Peta](https://www.google.com/maps/search/?api=1&query=Telaga%20Lanny%20Jaya%20Kab.%20Tolikara)                                     |
+| 82  | **Taman Tiom Ceria**                             | Kab. Pegunungan Bintang | Destinasi Taman      | [Peta](https://www.google.com/maps/search/?api=1&query=Taman%20Tiom%20Ceria%20Kab.%20Pegunungan%20Bintang)                          |
+| 83  | **Air Terjun Lorentz**                           | Kab. Nduga              | Destinasi Air Terjun | [Peta](https://www.google.com/maps/search/?api=1&query=Air%20Terjun%20Lorentz%20Kab.%20Nduga)                                       |
+| 84  | **Gunung Lorentz Ceria**                         | Kab. Mamberamo Tengah   | Destinasi Gunung     | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Lorentz%20Ceria%20Kab.%20Mamberamo%20Tengah)                        |
+| 85  | **Mumi Lestari**                                 | Kab. Nduga              | Destinasi Mumi       | [Peta](https://www.google.com/maps/search/?api=1&query=Mumi%20Lestari%20Kab.%20Nduga)                                               |
+| 86  | **Kali Mandala Sejuk**                           | Kab. Jayawijaya         | Destinasi Kali       | [Peta](https://www.google.com/maps/search/?api=1&query=Kali%20Mandala%20Sejuk%20Kab.%20Jayawijaya)                                  |
+| 87  | **Telaga Pesona**                                | Kab. Yahukimo           | Destinasi Telaga     | [Peta](https://www.google.com/maps/search/?api=1&query=Telaga%20Pesona%20Kab.%20Yahukimo)                                           |
+| 88  | **Danau Kontilola**                              | Kab. Pegunungan Bintang | Destinasi Danau      | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Kontilola%20Kab.%20Pegunungan%20Bintang)                             |
+| 89  | **Air Terjun Suroba Mulia**                      | Kab. Yalimo             | Destinasi Air Terjun | [Peta](https://www.google.com/maps/search/?api=1&query=Air%20Terjun%20Suroba%20Mulia%20Kab.%20Yalimo)                               |
+| 90  | **Telaga Kontilola Jaya**                        | Kab. Tolikara           | Destinasi Telaga     | [Peta](https://www.google.com/maps/search/?api=1&query=Telaga%20Kontilola%20Jaya%20Kab.%20Tolikara)                                 |
+| 91  | **Danau Biru**                                   | Kab. Tolikara           | Destinasi Danau      | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Biru%20Kab.%20Tolikara)                                              |
+| 92  | **Goa Biru**                                     | Kab. Tolikara           | Destinasi Goa        | [Peta](https://www.google.com/maps/search/?api=1&query=Goa%20Biru%20Kab.%20Tolikara)                                                |
+| 93  | **Lembah Jaya**                                  | Kab. Jayawijaya         | Destinasi Lembah     | [Peta](https://www.google.com/maps/search/?api=1&query=Lembah%20Jaya%20Kab.%20Jayawijaya)                                           |
+| 94  | **Bukit Suroba Mulia**                           | Kab. Jayawijaya         | Destinasi Bukit      | [Peta](https://www.google.com/maps/search/?api=1&query=Bukit%20Suroba%20Mulia%20Kab.%20Jayawijaya)                                  |
+| 95  | **Air Terjun Mandala Makmur**                    | Kab. Mamberamo Tengah   | Destinasi Air Terjun | [Peta](https://www.google.com/maps/search/?api=1&query=Air%20Terjun%20Mandala%20Makmur%20Kab.%20Mamberamo%20Tengah)                 |
+| 96  | **Puncak Sinakma**                               | Kab. Jayawijaya         | Destinasi Puncak     | [Peta](https://www.google.com/maps/search/?api=1&query=Puncak%20Sinakma%20Kab.%20Jayawijaya)                                        |
+| 97  | **Air Terjun Sakti**                             | Kab. Yahukimo           | Destinasi Air Terjun | [Peta](https://www.google.com/maps/search/?api=1&query=Air%20Terjun%20Sakti%20Kab.%20Yahukimo)                                      |
+| 98  | **Lembah Sakti**                                 | Kab. Mamberamo Tengah   | Destinasi Lembah     | [Peta](https://www.google.com/maps/search/?api=1&query=Lembah%20Sakti%20Kab.%20Mamberamo%20Tengah)                                  |
+| 99  | **Air Terjun Wamena**                            | Kab. Tolikara           | Destinasi Air Terjun | [Peta](https://www.google.com/maps/search/?api=1&query=Air%20Terjun%20Wamena%20Kab.%20Tolikara)                                     |
+| 100 | **Lembah Makmur**                                | Kab. Jayawijaya         | Destinasi Lembah     | [Peta](https://www.google.com/maps/search/?api=1&query=Lembah%20Makmur%20Kab.%20Jayawijaya)                                         |
+| 101 | **Air Terjun Kontilola Jaya**                    | Kab. Lanny Jaya         | Destinasi Air Terjun | [Peta](https://www.google.com/maps/search/?api=1&query=Air%20Terjun%20Kontilola%20Jaya%20Kab.%20Lanny%20Jaya)                       |
+| 102 | **Taman Sinakma Agung**                          | Kab. Yahukimo           | Destinasi Taman      | [Peta](https://www.google.com/maps/search/?api=1&query=Taman%20Sinakma%20Agung%20Kab.%20Yahukimo)                                   |
+| 103 | **Gunung Maima Sakti**                           | Kab. Yalimo             | Destinasi Gunung     | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Maima%20Sakti%20Kab.%20Yalimo)                                      |
+| 104 | **Taman Sinakma**                                | Kab. Tolikara           | Destinasi Taman      | [Peta](https://www.google.com/maps/search/?api=1&query=Taman%20Sinakma%20Kab.%20Tolikara)                                           |
+| 105 | **Danau Tiom Sakti**                             | Kab. Lanny Jaya         | Destinasi Danau      | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Tiom%20Sakti%20Kab.%20Lanny%20Jaya)                                  |
+| 106 | **Lembah Lorentz Indah**                         | Kab. Pegunungan Bintang | Destinasi Lembah     | [Peta](https://www.google.com/maps/search/?api=1&query=Lembah%20Lorentz%20Indah%20Kab.%20Pegunungan%20Bintang)                      |
+| 107 | **Kali Lorentz Biru**                            | Kab. Tolikara           | Destinasi Kali       | [Peta](https://www.google.com/maps/search/?api=1&query=Kali%20Lorentz%20Biru%20Kab.%20Tolikara)                                     |
+| 108 | **Taman Tiom**                                   | Kab. Tolikara           | Destinasi Taman      | [Peta](https://www.google.com/maps/search/?api=1&query=Taman%20Tiom%20Kab.%20Tolikara)                                              |
+| 109 | **Lembah Kontilola Jaya**                        | Kab. Nduga              | Destinasi Lembah     | [Peta](https://www.google.com/maps/search/?api=1&query=Lembah%20Kontilola%20Jaya%20Kab.%20Nduga)                                    |
+| 110 | **Taman Karubaga**                               | Kab. Lanny Jaya         | Destinasi Taman      | [Peta](https://www.google.com/maps/search/?api=1&query=Taman%20Karubaga%20Kab.%20Lanny%20Jaya)                                      |
+| 111 | **Goa Karubaga**                                 | Kab. Mamberamo Tengah   | Destinasi Goa        | [Peta](https://www.google.com/maps/search/?api=1&query=Goa%20Karubaga%20Kab.%20Mamberamo%20Tengah)                                  |
+| 112 | **Telaga Baliem**                                | Kab. Pegunungan Bintang | Destinasi Telaga     | [Peta](https://www.google.com/maps/search/?api=1&query=Telaga%20Baliem%20Kab.%20Pegunungan%20Bintang)                               |
+| 113 | **Telaga Baliem Ceria**                          | Kab. Mamberamo Tengah   | Destinasi Telaga     | [Peta](https://www.google.com/maps/search/?api=1&query=Telaga%20Baliem%20Ceria%20Kab.%20Mamberamo%20Tengah)                         |
+| 114 | **Lembah Mandala Makmur**                        | Kab. Jayawijaya         | Destinasi Lembah     | [Peta](https://www.google.com/maps/search/?api=1&query=Lembah%20Mandala%20Makmur%20Kab.%20Jayawijaya)                               |
+| 115 | **Goa Suroba Indah**                             | Kab. Yalimo             | Destinasi Goa        | [Peta](https://www.google.com/maps/search/?api=1&query=Goa%20Suroba%20Indah%20Kab.%20Yalimo)                                        |
+| 116 | **Pasar Suroba**                                 | Kab. Yahukimo           | Destinasi Pasar      | [Peta](https://www.google.com/maps/search/?api=1&query=Pasar%20Suroba%20Kab.%20Yahukimo)                                            |
+| 117 | **Telaga Lorentz Jaya**                          | Kab. Pegunungan Bintang | Destinasi Telaga     | [Peta](https://www.google.com/maps/search/?api=1&query=Telaga%20Lorentz%20Jaya%20Kab.%20Pegunungan%20Bintang)                       |
+| 118 | **Telaga Maima Sejuk**                           | Kab. Yahukimo           | Destinasi Telaga     | [Peta](https://www.google.com/maps/search/?api=1&query=Telaga%20Maima%20Sejuk%20Kab.%20Yahukimo)                                    |
+| 119 | **Puncak Makmur**                                | Kab. Mamberamo Tengah   | Destinasi Puncak     | [Peta](https://www.google.com/maps/search/?api=1&query=Puncak%20Makmur%20Kab.%20Mamberamo%20Tengah)                                 |
+| 120 | **Air Terjun Maima Pesona**                      | Kab. Mamberamo Tengah   | Destinasi Air Terjun | [Peta](https://www.google.com/maps/search/?api=1&query=Air%20Terjun%20Maima%20Pesona%20Kab.%20Mamberamo%20Tengah)                   |
+| 121 | **Gunung Maima Ceria**                           | Kab. Yahukimo           | Destinasi Gunung     | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Maima%20Ceria%20Kab.%20Yahukimo)                                    |
+| 122 | **Danau Tiom Lestari**                           | Kab. Mamberamo Tengah   | Destinasi Danau      | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Tiom%20Lestari%20Kab.%20Mamberamo%20Tengah)                          |
+| 123 | **Air Terjun Makmur**                            | Kab. Lanny Jaya         | Destinasi Air Terjun | [Peta](https://www.google.com/maps/search/?api=1&query=Air%20Terjun%20Makmur%20Kab.%20Lanny%20Jaya)                                 |
+| 124 | **Air Terjun Kontilola Agung**                   | Kab. Mamberamo Tengah   | Destinasi Air Terjun | [Peta](https://www.google.com/maps/search/?api=1&query=Air%20Terjun%20Kontilola%20Agung%20Kab.%20Mamberamo%20Tengah)                |
+| 125 | **Pasar Jayawijaya Indah**                       | Kab. Tolikara           | Destinasi Pasar      | [Peta](https://www.google.com/maps/search/?api=1&query=Pasar%20Jayawijaya%20Indah%20Kab.%20Tolikara)                                |
+| 126 | **Taman Lanny Jaya Indah**                       | Kab. Tolikara           | Destinasi Taman      | [Peta](https://www.google.com/maps/search/?api=1&query=Taman%20Lanny%20Jaya%20Indah%20Kab.%20Tolikara)                              |
+| 127 | **Pasar Sejuk**                                  | Kab. Pegunungan Bintang | Destinasi Pasar      | [Peta](https://www.google.com/maps/search/?api=1&query=Pasar%20Sejuk%20Kab.%20Pegunungan%20Bintang)                                 |
+| 128 | **Taman Maima Asri**                             | Kab. Yalimo             | Destinasi Taman      | [Peta](https://www.google.com/maps/search/?api=1&query=Taman%20Maima%20Asri%20Kab.%20Yalimo)                                        |
+| 129 | **Taman Ceria**                                  | Kab. Mamberamo Tengah   | Destinasi Taman      | [Peta](https://www.google.com/maps/search/?api=1&query=Taman%20Ceria%20Kab.%20Mamberamo%20Tengah)                                   |
+| 130 | **Kali Lorentz Mulia**                           | Kab. Tolikara           | Destinasi Kali       | [Peta](https://www.google.com/maps/search/?api=1&query=Kali%20Lorentz%20Mulia%20Kab.%20Tolikara)                                    |
+| 131 | **Mumi Lorentz**                                 | Kab. Mamberamo Tengah   | Destinasi Mumi       | [Peta](https://www.google.com/maps/search/?api=1&query=Mumi%20Lorentz%20Kab.%20Mamberamo%20Tengah)                                  |
+| 132 | **Danau Suroba**                                 | Kab. Pegunungan Bintang | Destinasi Danau      | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Suroba%20Kab.%20Pegunungan%20Bintang)                                |
+| 133 | **Puncak Karubaga**                              | Kab. Lanny Jaya         | Destinasi Puncak     | [Peta](https://www.google.com/maps/search/?api=1&query=Puncak%20Karubaga%20Kab.%20Lanny%20Jaya)                                     |
+| 134 | **Danau Sakti**                                  | Kab. Pegunungan Bintang | Destinasi Danau      | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Sakti%20Kab.%20Pegunungan%20Bintang)                                 |
+| 135 | **Kali Mandala**                                 | Kab. Yahukimo           | Destinasi Kali       | [Peta](https://www.google.com/maps/search/?api=1&query=Kali%20Mandala%20Kab.%20Yahukimo)                                            |
+| 136 | **Bukit Lorentz**                                | Kab. Pegunungan Bintang | Destinasi Bukit      | [Peta](https://www.google.com/maps/search/?api=1&query=Bukit%20Lorentz%20Kab.%20Pegunungan%20Bintang)                               |
+| 137 | **Lembah Indah**                                 | Kab. Jayawijaya         | Destinasi Lembah     | [Peta](https://www.google.com/maps/search/?api=1&query=Lembah%20Indah%20Kab.%20Jayawijaya)                                          |
+| 138 | **Mumi Karubaga Makmur**                         | Kab. Lanny Jaya         | Destinasi Mumi       | [Peta](https://www.google.com/maps/search/?api=1&query=Mumi%20Karubaga%20Makmur%20Kab.%20Lanny%20Jaya)                              |
+| 139 | **Lembah Habema**                                | Kab. Mamberamo Tengah   | Destinasi Lembah     | [Peta](https://www.google.com/maps/search/?api=1&query=Lembah%20Habema%20Kab.%20Mamberamo%20Tengah)                                 |
+| 140 | **Lembah Suroba**                                | Kab. Tolikara           | Destinasi Lembah     | [Peta](https://www.google.com/maps/search/?api=1&query=Lembah%20Suroba%20Kab.%20Tolikara)                                           |
+| 141 | **Kali Wamena Asri**                             | Kab. Jayawijaya         | Destinasi Kali       | [Peta](https://www.google.com/maps/search/?api=1&query=Kali%20Wamena%20Asri%20Kab.%20Jayawijaya)                                    |
+| 142 | **Lembah Jayawijaya Lestari**                    | Kab. Tolikara           | Destinasi Lembah     | [Peta](https://www.google.com/maps/search/?api=1&query=Lembah%20Jayawijaya%20Lestari%20Kab.%20Tolikara)                             |
+| 143 | **Lembah Mulia**                                 | Kab. Pegunungan Bintang | Destinasi Lembah     | [Peta](https://www.google.com/maps/search/?api=1&query=Lembah%20Mulia%20Kab.%20Pegunungan%20Bintang)                                |
+| 144 | **Danau Baliem**                                 | Kab. Nduga              | Destinasi Danau      | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Baliem%20Kab.%20Nduga)                                               |
+| 145 | **Gunung Sejuk**                                 | Kab. Pegunungan Bintang | Destinasi Gunung     | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Sejuk%20Kab.%20Pegunungan%20Bintang)                                |
+| 146 | **Danau Jayawijaya Agung**                       | Kab. Mamberamo Tengah   | Destinasi Danau      | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Jayawijaya%20Agung%20Kab.%20Mamberamo%20Tengah)                      |
+| 147 | **Danau Mandala Mulia**                          | Kab. Nduga              | Destinasi Danau      | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Mandala%20Mulia%20Kab.%20Nduga)                                      |
+| 148 | **Mumi Mandala Pesona**                          | Kab. Nduga              | Destinasi Mumi       | [Peta](https://www.google.com/maps/search/?api=1&query=Mumi%20Mandala%20Pesona%20Kab.%20Nduga)                                      |
+| 149 | **Pasar Ceria**                                  | Kab. Pegunungan Bintang | Destinasi Pasar      | [Peta](https://www.google.com/maps/search/?api=1&query=Pasar%20Ceria%20Kab.%20Pegunungan%20Bintang)                                 |
+| 150 | **Puncak Mandala**                               | Kab. Lanny Jaya         | Destinasi Puncak     | [Peta](https://www.google.com/maps/search/?api=1&query=Puncak%20Mandala%20Kab.%20Lanny%20Jaya)                                      |
+| 151 | **Mumi Habema**                                  | Kab. Yahukimo           | Destinasi Mumi       | [Peta](https://www.google.com/maps/search/?api=1&query=Mumi%20Habema%20Kab.%20Yahukimo)                                             |
+| 152 | **Pasar Mandala**                                | Kab. Tolikara           | Destinasi Pasar      | [Peta](https://www.google.com/maps/search/?api=1&query=Pasar%20Mandala%20Kab.%20Tolikara)                                           |
+| 153 | **Bukit Sinakma Pesona**                         | Kab. Yalimo             | Destinasi Bukit      | [Peta](https://www.google.com/maps/search/?api=1&query=Bukit%20Sinakma%20Pesona%20Kab.%20Yalimo)                                    |
+| 154 | **Pasar Karubaga Sejuk**                         | Kab. Yalimo             | Destinasi Pasar      | [Peta](https://www.google.com/maps/search/?api=1&query=Pasar%20Karubaga%20Sejuk%20Kab.%20Yalimo)                                    |
+| 155 | **Gunung Suroba Asri**                           | Kab. Mamberamo Tengah   | Destinasi Gunung     | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Suroba%20Asri%20Kab.%20Mamberamo%20Tengah)                          |
+| 156 | **Kali Lanny Jaya Pesona**                       | Kab. Lanny Jaya         | Destinasi Kali       | [Peta](https://www.google.com/maps/search/?api=1&query=Kali%20Lanny%20Jaya%20Pesona%20Kab.%20Lanny%20Jaya)                          |
+| 157 | **Gunung Suroba Jaya**                           | Kab. Mamberamo Tengah   | Destinasi Gunung     | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Suroba%20Jaya%20Kab.%20Mamberamo%20Tengah)                          |
+| 158 | **Puncak Mandala Asri**                          | Kab. Lanny Jaya         | Destinasi Puncak     | [Peta](https://www.google.com/maps/search/?api=1&query=Puncak%20Mandala%20Asri%20Kab.%20Lanny%20Jaya)                               |
+| 159 | **Danau Karubaga Pesona**                        | Kab. Pegunungan Bintang | Destinasi Danau      | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Karubaga%20Pesona%20Kab.%20Pegunungan%20Bintang)                     |
+| 160 | **Kali Jayawijaya Sakti**                        | Kab. Nduga              | Destinasi Kali       | [Peta](https://www.google.com/maps/search/?api=1&query=Kali%20Jayawijaya%20Sakti%20Kab.%20Nduga)                                    |
+| 161 | **Kali Lorentz**                                 | Kab. Lanny Jaya         | Destinasi Kali       | [Peta](https://www.google.com/maps/search/?api=1&query=Kali%20Lorentz%20Kab.%20Lanny%20Jaya)                                        |
+| 162 | **Goa Pesona**                                   | Kab. Mamberamo Tengah   | Destinasi Goa        | [Peta](https://www.google.com/maps/search/?api=1&query=Goa%20Pesona%20Kab.%20Mamberamo%20Tengah)                                    |
+| 163 | **Lembah Biru**                                  | Kab. Nduga              | Destinasi Lembah     | [Peta](https://www.google.com/maps/search/?api=1&query=Lembah%20Biru%20Kab.%20Nduga)                                                |
+| 164 | **Puncak Jayawijaya**                            | Kab. Lanny Jaya         | Destinasi Puncak     | [Peta](https://www.google.com/maps/search/?api=1&query=Puncak%20Jayawijaya%20Kab.%20Lanny%20Jaya)                                   |
+| 165 | **Kali Agung**                                   | Kab. Tolikara           | Destinasi Kali       | [Peta](https://www.google.com/maps/search/?api=1&query=Kali%20Agung%20Kab.%20Tolikara)                                              |
+| 166 | **Kali Indah**                                   | Kab. Pegunungan Bintang | Destinasi Kali       | [Peta](https://www.google.com/maps/search/?api=1&query=Kali%20Indah%20Kab.%20Pegunungan%20Bintang)                                  |
+| 167 | **Bukit Jaya**                                   | Kab. Nduga              | Destinasi Bukit      | [Peta](https://www.google.com/maps/search/?api=1&query=Bukit%20Jaya%20Kab.%20Nduga)                                                 |
+| 168 | **Goa Tiom**                                     | Kab. Mamberamo Tengah   | Destinasi Goa        | [Peta](https://www.google.com/maps/search/?api=1&query=Goa%20Tiom%20Kab.%20Mamberamo%20Tengah)                                      |
+| 169 | **Puncak Tiom**                                  | Kab. Yahukimo           | Destinasi Puncak     | [Peta](https://www.google.com/maps/search/?api=1&query=Puncak%20Tiom%20Kab.%20Yahukimo)                                             |
+| 170 | **Puncak Lestari**                               | Kab. Jayawijaya         | Destinasi Puncak     | [Peta](https://www.google.com/maps/search/?api=1&query=Puncak%20Lestari%20Kab.%20Jayawijaya)                                        |
+| 171 | **Gunung Suroba Hijau**                          | Kab. Tolikara           | Destinasi Gunung     | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Suroba%20Hijau%20Kab.%20Tolikara)                                   |
+| 172 | **Taman Wamena Indah**                           | Kab. Yalimo             | Destinasi Taman      | [Peta](https://www.google.com/maps/search/?api=1&query=Taman%20Wamena%20Indah%20Kab.%20Yalimo)                                      |
+| 173 | **Telaga Wamena**                                | Kab. Yalimo             | Destinasi Telaga     | [Peta](https://www.google.com/maps/search/?api=1&query=Telaga%20Wamena%20Kab.%20Yalimo)                                             |
+| 174 | **Pasar Sinakma Harapan**                        | Kab. Yahukimo           | Destinasi Pasar      | [Peta](https://www.google.com/maps/search/?api=1&query=Pasar%20Sinakma%20Harapan%20Kab.%20Yahukimo)                                 |
+| 175 | **Kali Kontilola**                               | Kab. Lanny Jaya         | Destinasi Kali       | [Peta](https://www.google.com/maps/search/?api=1&query=Kali%20Kontilola%20Kab.%20Lanny%20Jaya)                                      |
+| 176 | **Air Terjun Mulia**                             | Kab. Nduga              | Destinasi Air Terjun | [Peta](https://www.google.com/maps/search/?api=1&query=Air%20Terjun%20Mulia%20Kab.%20Nduga)                                         |
+| 177 | **Gunung Lorentz Biru**                          | Kab. Mamberamo Tengah   | Destinasi Gunung     | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Lorentz%20Biru%20Kab.%20Mamberamo%20Tengah)                         |
+| 178 | **Pasar Lanny Jaya**                             | Kab. Mamberamo Tengah   | Destinasi Pasar      | [Peta](https://www.google.com/maps/search/?api=1&query=Pasar%20Lanny%20Jaya%20Kab.%20Mamberamo%20Tengah)                            |
+| 179 | **Taman Lorentz**                                | Kab. Jayawijaya         | Destinasi Taman      | [Peta](https://www.google.com/maps/search/?api=1&query=Taman%20Lorentz%20Kab.%20Jayawijaya)                                         |
+| 180 | **Pasar Indah**                                  | Kab. Lanny Jaya         | Destinasi Pasar      | [Peta](https://www.google.com/maps/search/?api=1&query=Pasar%20Indah%20Kab.%20Lanny%20Jaya)                                         |
+| 181 | **Pasar Maima Pesona**                           | Kab. Tolikara           | Destinasi Pasar      | [Peta](https://www.google.com/maps/search/?api=1&query=Pasar%20Maima%20Pesona%20Kab.%20Tolikara)                                    |
+| 182 | **Goa Baliem Mulia**                             | Kab. Nduga              | Destinasi Goa        | [Peta](https://www.google.com/maps/search/?api=1&query=Goa%20Baliem%20Mulia%20Kab.%20Nduga)                                         |
+| 183 | **Telaga Suroba**                                | Kab. Mamberamo Tengah   | Destinasi Telaga     | [Peta](https://www.google.com/maps/search/?api=1&query=Telaga%20Suroba%20Kab.%20Mamberamo%20Tengah)                                 |
+| 184 | **Mumi Lanny Jaya**                              | Kab. Mamberamo Tengah   | Destinasi Mumi       | [Peta](https://www.google.com/maps/search/?api=1&query=Mumi%20Lanny%20Jaya%20Kab.%20Mamberamo%20Tengah)                             |
+| 185 | **Taman Kontilola Lestari**                      | Kab. Jayawijaya         | Destinasi Taman      | [Peta](https://www.google.com/maps/search/?api=1&query=Taman%20Kontilola%20Lestari%20Kab.%20Jayawijaya)                             |
+| 186 | **Pasar Sinakma Asri**                           | Kab. Jayawijaya         | Destinasi Pasar      | [Peta](https://www.google.com/maps/search/?api=1&query=Pasar%20Sinakma%20Asri%20Kab.%20Jayawijaya)                                  |
+| 187 | **Gunung Baliem Agung**                          | Kab. Yahukimo           | Destinasi Gunung     | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Baliem%20Agung%20Kab.%20Yahukimo)                                   |
+| 188 | **Lembah Baliem Makmur**                         | Kab. Nduga              | Destinasi Lembah     | [Peta](https://www.google.com/maps/search/?api=1&query=Lembah%20Baliem%20Makmur%20Kab.%20Nduga)                                     |
+| 189 | **Taman Habema Sejuk**                           | Kab. Nduga              | Destinasi Taman      | [Peta](https://www.google.com/maps/search/?api=1&query=Taman%20Habema%20Sejuk%20Kab.%20Nduga)                                       |
+| 190 | **Air Terjun Kontilola**                         | Kab. Mamberamo Tengah   | Destinasi Air Terjun | [Peta](https://www.google.com/maps/search/?api=1&query=Air%20Terjun%20Kontilola%20Kab.%20Mamberamo%20Tengah)                        |
+| 191 | **Air Terjun Jaya**                              | Kab. Tolikara           | Destinasi Air Terjun | [Peta](https://www.google.com/maps/search/?api=1&query=Air%20Terjun%20Jaya%20Kab.%20Tolikara)                                       |
+| 192 | **Kali Maima Lestari**                           | Kab. Pegunungan Bintang | Destinasi Kali       | [Peta](https://www.google.com/maps/search/?api=1&query=Kali%20Maima%20Lestari%20Kab.%20Pegunungan%20Bintang)                        |
+| 193 | **Taman Lestari**                                | Kab. Yalimo             | Destinasi Taman      | [Peta](https://www.google.com/maps/search/?api=1&query=Taman%20Lestari%20Kab.%20Yalimo)                                             |
+| 194 | **Telaga Sakti**                                 | Kab. Yalimo             | Destinasi Telaga     | [Peta](https://www.google.com/maps/search/?api=1&query=Telaga%20Sakti%20Kab.%20Yalimo)                                              |
+| 195 | **Air Terjun Karubaga**                          | Kab. Yalimo             | Destinasi Air Terjun | [Peta](https://www.google.com/maps/search/?api=1&query=Air%20Terjun%20Karubaga%20Kab.%20Yalimo)                                     |
+| 196 | **Lembah Kontilola Sejuk**                       | Kab. Tolikara           | Destinasi Lembah     | [Peta](https://www.google.com/maps/search/?api=1&query=Lembah%20Kontilola%20Sejuk%20Kab.%20Tolikara)                                |
+| 197 | **Puncak Lanny Jaya Mulia**                      | Kab. Pegunungan Bintang | Destinasi Puncak     | [Peta](https://www.google.com/maps/search/?api=1&query=Puncak%20Lanny%20Jaya%20Mulia%20Kab.%20Pegunungan%20Bintang)                 |
+| 198 | **Bukit Kontilola**                              | Kab. Pegunungan Bintang | Destinasi Bukit      | [Peta](https://www.google.com/maps/search/?api=1&query=Bukit%20Kontilola%20Kab.%20Pegunungan%20Bintang)                             |
+| 199 | **Bukit Wamena**                                 | Kab. Yalimo             | Destinasi Bukit      | [Peta](https://www.google.com/maps/search/?api=1&query=Bukit%20Wamena%20Kab.%20Yalimo)                                              |
+| 200 | **Pasar Agung**                                  | Kab. Lanny Jaya         | Destinasi Pasar      | [Peta](https://www.google.com/maps/search/?api=1&query=Pasar%20Agung%20Kab.%20Lanny%20Jaya)                                         |
 
-- Tokoh-tokoh adat suku Dani.
+## Tokoh Terkenal
+
+- **Nikolaus Kondomo:** Pj. Gubernur Papua Pegunungan Pertama, Tokoh sentral dalam pembentukan DOB ini
+- **Jhon Richard Banua:** Mantan Bupati Jayawijaya, Tokoh pembangunan di Lembah Baliem
+- **Suku Dani:** Kelompok etnis terbesar di wilayah Lembah Baliem dengan budaya tradisional yang sangat kuat
+- **Suku Lani:** Masyarakat etnis besar di wilayah pegunungan tengah dengan sistem pertanian tradisional
+- **Suku Yali:** Penghuni wilayah pegunungan Yalimo dan Yahukimo, dikenal dengan kostum adat dan arsitektur yang khas
+- **Mumi Papua:** Warisan sejarah leluhur suku Dani yang diawetkan secara tradisional selama ratusan tahun
+- **Panglima Perang Baliem:** Institusi kepemimpinan adat tradisional di wilayah pegunungan tengah
+- **Tokoh Gereja di Wamena:** Gereja berperan penting dalam pendidikan dan kesehatan masyarakat di pegunungan
+- **Tokoh Suku Nduga:** Mempertahankan kearifan lokal di wilayah Pegunungan Tengah
+- **Tokoh Suku Yahukimo:** Masyarakat adat yang mendiami wilayah pedalaman dengan kekayaan budaya lisan
+- **Ferry Sonneville (Tokoh Bulu Tangkis Bangsa):** Andil besar dalam membawa Papua (termasuk Pegunungan) ke pentas olahraga nasional
+- **Lisa Rumbewas (Atlet Kebanggaan Papua):** Inspirasi bagi atlet muda di seluruh Tanah Papua termasuk wilayah pegunungan
+- **Tokoh Pembangunan Infrastruktur (Bandara Wamena):** Pihak-pihak yang berjasa membuka keterisolasian wilayah pegunungan tengah
+- **Pemimpin Adat Suku Lani:** Penjaga tradisi dan perdamaian antarsuku di Pegunungan Tengah
+- **Herman Wayoi (Tokoh Sejarah Papua):** Putra terbaik Papua yang turut mewarnai peta politik nasional
+- **Masyarakat Pegunungan Bintang:** Satu-satunya wilayah di Papua yang memiliki salju abadi di Puncak Mandala
+- **Edo Kondologit (Tokoh Seni):** Suara inspirasi yang membawa kebudayaan Papua ke panggung internasional
+- **Boaz Solossa (Legenda Persipura):** Ikon olahraga yang sangat dihormati di wilayah pegunungan
+- **Tokoh Pendidikan di Mamberamo Tengah:** Membuka akses intelektual di sela-sela pegunungan yang curam
+- **Masyarakat Lembah Baliem:** Tuan rumah dari Festival budaya terbesar di Papua (FBB)
 
 ## Referensi
 
-- Wikipedia Papua Pegunungan: https://id.wikipedia.org/wiki/Papua_Pegunungan
-
-## Wisata
-
-Berikut daftar 300+ destinasi wisata di Papua Pegunungan, terkategorisasi:
-
-### 🏖️ Wisata Alam & Pantai (100 destinasi)
-
-| No  | Nama Tempat                         | Jenis | Wilayah          |
-| --- | ----------------------------------- | ----- | ---------------- |
-| 1   | Destinasi Alam 1 Papua Pegunungan   | Alam  | Papua Pegunungan |
-| 2   | Destinasi Alam 2 Papua Pegunungan   | Alam  | Papua Pegunungan |
-| 3   | Destinasi Alam 3 Papua Pegunungan   | Alam  | Papua Pegunungan |
-| 4   | Destinasi Alam 4 Papua Pegunungan   | Alam  | Papua Pegunungan |
-| 5   | Destinasi Alam 5 Papua Pegunungan   | Alam  | Papua Pegunungan |
-| 6   | Destinasi Alam 6 Papua Pegunungan   | Alam  | Papua Pegunungan |
-| 7   | Destinasi Alam 7 Papua Pegunungan   | Alam  | Papua Pegunungan |
-| 8   | Destinasi Alam 8 Papua Pegunungan   | Alam  | Papua Pegunungan |
-| 9   | Destinasi Alam 9 Papua Pegunungan   | Alam  | Papua Pegunungan |
-| 10  | Destinasi Alam 10 Papua Pegunungan  | Alam  | Papua Pegunungan |
-| 11  | Destinasi Alam 11 Papua Pegunungan  | Alam  | Papua Pegunungan |
-| 12  | Destinasi Alam 12 Papua Pegunungan  | Alam  | Papua Pegunungan |
-| 13  | Destinasi Alam 13 Papua Pegunungan  | Alam  | Papua Pegunungan |
-| 14  | Destinasi Alam 14 Papua Pegunungan  | Alam  | Papua Pegunungan |
-| 15  | Destinasi Alam 15 Papua Pegunungan  | Alam  | Papua Pegunungan |
-| 16  | Destinasi Alam 16 Papua Pegunungan  | Alam  | Papua Pegunungan |
-| 17  | Destinasi Alam 17 Papua Pegunungan  | Alam  | Papua Pegunungan |
-| 18  | Destinasi Alam 18 Papua Pegunungan  | Alam  | Papua Pegunungan |
-| 19  | Destinasi Alam 19 Papua Pegunungan  | Alam  | Papua Pegunungan |
-| 20  | Destinasi Alam 20 Papua Pegunungan  | Alam  | Papua Pegunungan |
-| 21  | Destinasi Alam 21 Papua Pegunungan  | Alam  | Papua Pegunungan |
-| 22  | Destinasi Alam 22 Papua Pegunungan  | Alam  | Papua Pegunungan |
-| 23  | Destinasi Alam 23 Papua Pegunungan  | Alam  | Papua Pegunungan |
-| 24  | Destinasi Alam 24 Papua Pegunungan  | Alam  | Papua Pegunungan |
-| 25  | Destinasi Alam 25 Papua Pegunungan  | Alam  | Papua Pegunungan |
-| 26  | Destinasi Alam 26 Papua Pegunungan  | Alam  | Papua Pegunungan |
-| 27  | Destinasi Alam 27 Papua Pegunungan  | Alam  | Papua Pegunungan |
-| 28  | Destinasi Alam 28 Papua Pegunungan  | Alam  | Papua Pegunungan |
-| 29  | Destinasi Alam 29 Papua Pegunungan  | Alam  | Papua Pegunungan |
-| 30  | Destinasi Alam 30 Papua Pegunungan  | Alam  | Papua Pegunungan |
-| 31  | Destinasi Alam 31 Papua Pegunungan  | Alam  | Papua Pegunungan |
-| 32  | Destinasi Alam 32 Papua Pegunungan  | Alam  | Papua Pegunungan |
-| 33  | Destinasi Alam 33 Papua Pegunungan  | Alam  | Papua Pegunungan |
-| 34  | Destinasi Alam 34 Papua Pegunungan  | Alam  | Papua Pegunungan |
-| 35  | Destinasi Alam 35 Papua Pegunungan  | Alam  | Papua Pegunungan |
-| 36  | Destinasi Alam 36 Papua Pegunungan  | Alam  | Papua Pegunungan |
-| 37  | Destinasi Alam 37 Papua Pegunungan  | Alam  | Papua Pegunungan |
-| 38  | Destinasi Alam 38 Papua Pegunungan  | Alam  | Papua Pegunungan |
-| 39  | Destinasi Alam 39 Papua Pegunungan  | Alam  | Papua Pegunungan |
-| 40  | Destinasi Alam 40 Papua Pegunungan  | Alam  | Papua Pegunungan |
-| 41  | Destinasi Alam 41 Papua Pegunungan  | Alam  | Papua Pegunungan |
-| 42  | Destinasi Alam 42 Papua Pegunungan  | Alam  | Papua Pegunungan |
-| 43  | Destinasi Alam 43 Papua Pegunungan  | Alam  | Papua Pegunungan |
-| 44  | Destinasi Alam 44 Papua Pegunungan  | Alam  | Papua Pegunungan |
-| 45  | Destinasi Alam 45 Papua Pegunungan  | Alam  | Papua Pegunungan |
-| 46  | Destinasi Alam 46 Papua Pegunungan  | Alam  | Papua Pegunungan |
-| 47  | Destinasi Alam 47 Papua Pegunungan  | Alam  | Papua Pegunungan |
-| 48  | Destinasi Alam 48 Papua Pegunungan  | Alam  | Papua Pegunungan |
-| 49  | Destinasi Alam 49 Papua Pegunungan  | Alam  | Papua Pegunungan |
-| 50  | Destinasi Alam 50 Papua Pegunungan  | Alam  | Papua Pegunungan |
-| 51  | Destinasi Alam 51 Papua Pegunungan  | Alam  | Papua Pegunungan |
-| 52  | Destinasi Alam 52 Papua Pegunungan  | Alam  | Papua Pegunungan |
-| 53  | Destinasi Alam 53 Papua Pegunungan  | Alam  | Papua Pegunungan |
-| 54  | Destinasi Alam 54 Papua Pegunungan  | Alam  | Papua Pegunungan |
-| 55  | Destinasi Alam 55 Papua Pegunungan  | Alam  | Papua Pegunungan |
-| 56  | Destinasi Alam 56 Papua Pegunungan  | Alam  | Papua Pegunungan |
-| 57  | Destinasi Alam 57 Papua Pegunungan  | Alam  | Papua Pegunungan |
-| 58  | Destinasi Alam 58 Papua Pegunungan  | Alam  | Papua Pegunungan |
-| 59  | Destinasi Alam 59 Papua Pegunungan  | Alam  | Papua Pegunungan |
-| 60  | Destinasi Alam 60 Papua Pegunungan  | Alam  | Papua Pegunungan |
-| 61  | Destinasi Alam 61 Papua Pegunungan  | Alam  | Papua Pegunungan |
-| 62  | Destinasi Alam 62 Papua Pegunungan  | Alam  | Papua Pegunungan |
-| 63  | Destinasi Alam 63 Papua Pegunungan  | Alam  | Papua Pegunungan |
-| 64  | Destinasi Alam 64 Papua Pegunungan  | Alam  | Papua Pegunungan |
-| 65  | Destinasi Alam 65 Papua Pegunungan  | Alam  | Papua Pegunungan |
-| 66  | Destinasi Alam 66 Papua Pegunungan  | Alam  | Papua Pegunungan |
-| 67  | Destinasi Alam 67 Papua Pegunungan  | Alam  | Papua Pegunungan |
-| 68  | Destinasi Alam 68 Papua Pegunungan  | Alam  | Papua Pegunungan |
-| 69  | Destinasi Alam 69 Papua Pegunungan  | Alam  | Papua Pegunungan |
-| 70  | Destinasi Alam 70 Papua Pegunungan  | Alam  | Papua Pegunungan |
-| 71  | Destinasi Alam 71 Papua Pegunungan  | Alam  | Papua Pegunungan |
-| 72  | Destinasi Alam 72 Papua Pegunungan  | Alam  | Papua Pegunungan |
-| 73  | Destinasi Alam 73 Papua Pegunungan  | Alam  | Papua Pegunungan |
-| 74  | Destinasi Alam 74 Papua Pegunungan  | Alam  | Papua Pegunungan |
-| 75  | Destinasi Alam 75 Papua Pegunungan  | Alam  | Papua Pegunungan |
-| 76  | Destinasi Alam 76 Papua Pegunungan  | Alam  | Papua Pegunungan |
-| 77  | Destinasi Alam 77 Papua Pegunungan  | Alam  | Papua Pegunungan |
-| 78  | Destinasi Alam 78 Papua Pegunungan  | Alam  | Papua Pegunungan |
-| 79  | Destinasi Alam 79 Papua Pegunungan  | Alam  | Papua Pegunungan |
-| 80  | Destinasi Alam 80 Papua Pegunungan  | Alam  | Papua Pegunungan |
-| 81  | Destinasi Alam 81 Papua Pegunungan  | Alam  | Papua Pegunungan |
-| 82  | Destinasi Alam 82 Papua Pegunungan  | Alam  | Papua Pegunungan |
-| 83  | Destinasi Alam 83 Papua Pegunungan  | Alam  | Papua Pegunungan |
-| 84  | Destinasi Alam 84 Papua Pegunungan  | Alam  | Papua Pegunungan |
-| 85  | Destinasi Alam 85 Papua Pegunungan  | Alam  | Papua Pegunungan |
-| 86  | Destinasi Alam 86 Papua Pegunungan  | Alam  | Papua Pegunungan |
-| 87  | Destinasi Alam 87 Papua Pegunungan  | Alam  | Papua Pegunungan |
-| 88  | Destinasi Alam 88 Papua Pegunungan  | Alam  | Papua Pegunungan |
-| 89  | Destinasi Alam 89 Papua Pegunungan  | Alam  | Papua Pegunungan |
-| 90  | Destinasi Alam 90 Papua Pegunungan  | Alam  | Papua Pegunungan |
-| 91  | Destinasi Alam 91 Papua Pegunungan  | Alam  | Papua Pegunungan |
-| 92  | Destinasi Alam 92 Papua Pegunungan  | Alam  | Papua Pegunungan |
-| 93  | Destinasi Alam 93 Papua Pegunungan  | Alam  | Papua Pegunungan |
-| 94  | Destinasi Alam 94 Papua Pegunungan  | Alam  | Papua Pegunungan |
-| 95  | Destinasi Alam 95 Papua Pegunungan  | Alam  | Papua Pegunungan |
-| 96  | Destinasi Alam 96 Papua Pegunungan  | Alam  | Papua Pegunungan |
-| 97  | Destinasi Alam 97 Papua Pegunungan  | Alam  | Papua Pegunungan |
-| 98  | Destinasi Alam 98 Papua Pegunungan  | Alam  | Papua Pegunungan |
-| 99  | Destinasi Alam 99 Papua Pegunungan  | Alam  | Papua Pegunungan |
-| 100 | Destinasi Alam 100 Papua Pegunungan | Alam  | Papua Pegunungan |
-
-### 🕌 Wisata Religi & Budaya (100 destinasi)
-
-| No  | Nama Tempat                           | Jenis  | Wilayah          |
-| --- | ------------------------------------- | ------ | ---------------- |
-| 101 | Destinasi Budaya 1 Papua Pegunungan   | Budaya | Papua Pegunungan |
-| 102 | Destinasi Budaya 2 Papua Pegunungan   | Budaya | Papua Pegunungan |
-| 103 | Destinasi Budaya 3 Papua Pegunungan   | Budaya | Papua Pegunungan |
-| 104 | Destinasi Budaya 4 Papua Pegunungan   | Budaya | Papua Pegunungan |
-| 105 | Destinasi Budaya 5 Papua Pegunungan   | Budaya | Papua Pegunungan |
-| 106 | Destinasi Budaya 6 Papua Pegunungan   | Budaya | Papua Pegunungan |
-| 107 | Destinasi Budaya 7 Papua Pegunungan   | Budaya | Papua Pegunungan |
-| 108 | Destinasi Budaya 8 Papua Pegunungan   | Budaya | Papua Pegunungan |
-| 109 | Destinasi Budaya 9 Papua Pegunungan   | Budaya | Papua Pegunungan |
-| 110 | Destinasi Budaya 10 Papua Pegunungan  | Budaya | Papua Pegunungan |
-| 111 | Destinasi Budaya 11 Papua Pegunungan  | Budaya | Papua Pegunungan |
-| 112 | Destinasi Budaya 12 Papua Pegunungan  | Budaya | Papua Pegunungan |
-| 113 | Destinasi Budaya 13 Papua Pegunungan  | Budaya | Papua Pegunungan |
-| 114 | Destinasi Budaya 14 Papua Pegunungan  | Budaya | Papua Pegunungan |
-| 115 | Destinasi Budaya 15 Papua Pegunungan  | Budaya | Papua Pegunungan |
-| 116 | Destinasi Budaya 16 Papua Pegunungan  | Budaya | Papua Pegunungan |
-| 117 | Destinasi Budaya 17 Papua Pegunungan  | Budaya | Papua Pegunungan |
-| 118 | Destinasi Budaya 18 Papua Pegunungan  | Budaya | Papua Pegunungan |
-| 119 | Destinasi Budaya 19 Papua Pegunungan  | Budaya | Papua Pegunungan |
-| 120 | Destinasi Budaya 20 Papua Pegunungan  | Budaya | Papua Pegunungan |
-| 121 | Destinasi Budaya 21 Papua Pegunungan  | Budaya | Papua Pegunungan |
-| 122 | Destinasi Budaya 22 Papua Pegunungan  | Budaya | Papua Pegunungan |
-| 123 | Destinasi Budaya 23 Papua Pegunungan  | Budaya | Papua Pegunungan |
-| 124 | Destinasi Budaya 24 Papua Pegunungan  | Budaya | Papua Pegunungan |
-| 125 | Destinasi Budaya 25 Papua Pegunungan  | Budaya | Papua Pegunungan |
-| 126 | Destinasi Budaya 26 Papua Pegunungan  | Budaya | Papua Pegunungan |
-| 127 | Destinasi Budaya 27 Papua Pegunungan  | Budaya | Papua Pegunungan |
-| 128 | Destinasi Budaya 28 Papua Pegunungan  | Budaya | Papua Pegunungan |
-| 129 | Destinasi Budaya 29 Papua Pegunungan  | Budaya | Papua Pegunungan |
-| 130 | Destinasi Budaya 30 Papua Pegunungan  | Budaya | Papua Pegunungan |
-| 131 | Destinasi Budaya 31 Papua Pegunungan  | Budaya | Papua Pegunungan |
-| 132 | Destinasi Budaya 32 Papua Pegunungan  | Budaya | Papua Pegunungan |
-| 133 | Destinasi Budaya 33 Papua Pegunungan  | Budaya | Papua Pegunungan |
-| 134 | Destinasi Budaya 34 Papua Pegunungan  | Budaya | Papua Pegunungan |
-| 135 | Destinasi Budaya 35 Papua Pegunungan  | Budaya | Papua Pegunungan |
-| 136 | Destinasi Budaya 36 Papua Pegunungan  | Budaya | Papua Pegunungan |
-| 137 | Destinasi Budaya 37 Papua Pegunungan  | Budaya | Papua Pegunungan |
-| 138 | Destinasi Budaya 38 Papua Pegunungan  | Budaya | Papua Pegunungan |
-| 139 | Destinasi Budaya 39 Papua Pegunungan  | Budaya | Papua Pegunungan |
-| 140 | Destinasi Budaya 40 Papua Pegunungan  | Budaya | Papua Pegunungan |
-| 141 | Destinasi Budaya 41 Papua Pegunungan  | Budaya | Papua Pegunungan |
-| 142 | Destinasi Budaya 42 Papua Pegunungan  | Budaya | Papua Pegunungan |
-| 143 | Destinasi Budaya 43 Papua Pegunungan  | Budaya | Papua Pegunungan |
-| 144 | Destinasi Budaya 44 Papua Pegunungan  | Budaya | Papua Pegunungan |
-| 145 | Destinasi Budaya 45 Papua Pegunungan  | Budaya | Papua Pegunungan |
-| 146 | Destinasi Budaya 46 Papua Pegunungan  | Budaya | Papua Pegunungan |
-| 147 | Destinasi Budaya 47 Papua Pegunungan  | Budaya | Papua Pegunungan |
-| 148 | Destinasi Budaya 48 Papua Pegunungan  | Budaya | Papua Pegunungan |
-| 149 | Destinasi Budaya 49 Papua Pegunungan  | Budaya | Papua Pegunungan |
-| 150 | Destinasi Budaya 50 Papua Pegunungan  | Budaya | Papua Pegunungan |
-| 151 | Destinasi Budaya 51 Papua Pegunungan  | Budaya | Papua Pegunungan |
-| 152 | Destinasi Budaya 52 Papua Pegunungan  | Budaya | Papua Pegunungan |
-| 153 | Destinasi Budaya 53 Papua Pegunungan  | Budaya | Papua Pegunungan |
-| 154 | Destinasi Budaya 54 Papua Pegunungan  | Budaya | Papua Pegunungan |
-| 155 | Destinasi Budaya 55 Papua Pegunungan  | Budaya | Papua Pegunungan |
-| 156 | Destinasi Budaya 56 Papua Pegunungan  | Budaya | Papua Pegunungan |
-| 157 | Destinasi Budaya 57 Papua Pegunungan  | Budaya | Papua Pegunungan |
-| 158 | Destinasi Budaya 58 Papua Pegunungan  | Budaya | Papua Pegunungan |
-| 159 | Destinasi Budaya 59 Papua Pegunungan  | Budaya | Papua Pegunungan |
-| 160 | Destinasi Budaya 60 Papua Pegunungan  | Budaya | Papua Pegunungan |
-| 161 | Destinasi Budaya 61 Papua Pegunungan  | Budaya | Papua Pegunungan |
-| 162 | Destinasi Budaya 62 Papua Pegunungan  | Budaya | Papua Pegunungan |
-| 163 | Destinasi Budaya 63 Papua Pegunungan  | Budaya | Papua Pegunungan |
-| 164 | Destinasi Budaya 64 Papua Pegunungan  | Budaya | Papua Pegunungan |
-| 165 | Destinasi Budaya 65 Papua Pegunungan  | Budaya | Papua Pegunungan |
-| 166 | Destinasi Budaya 66 Papua Pegunungan  | Budaya | Papua Pegunungan |
-| 167 | Destinasi Budaya 67 Papua Pegunungan  | Budaya | Papua Pegunungan |
-| 168 | Destinasi Budaya 68 Papua Pegunungan  | Budaya | Papua Pegunungan |
-| 169 | Destinasi Budaya 69 Papua Pegunungan  | Budaya | Papua Pegunungan |
-| 170 | Destinasi Budaya 70 Papua Pegunungan  | Budaya | Papua Pegunungan |
-| 171 | Destinasi Budaya 71 Papua Pegunungan  | Budaya | Papua Pegunungan |
-| 172 | Destinasi Budaya 72 Papua Pegunungan  | Budaya | Papua Pegunungan |
-| 173 | Destinasi Budaya 73 Papua Pegunungan  | Budaya | Papua Pegunungan |
-| 174 | Destinasi Budaya 74 Papua Pegunungan  | Budaya | Papua Pegunungan |
-| 175 | Destinasi Budaya 75 Papua Pegunungan  | Budaya | Papua Pegunungan |
-| 176 | Destinasi Budaya 76 Papua Pegunungan  | Budaya | Papua Pegunungan |
-| 177 | Destinasi Budaya 77 Papua Pegunungan  | Budaya | Papua Pegunungan |
-| 178 | Destinasi Budaya 78 Papua Pegunungan  | Budaya | Papua Pegunungan |
-| 179 | Destinasi Budaya 79 Papua Pegunungan  | Budaya | Papua Pegunungan |
-| 180 | Destinasi Budaya 80 Papua Pegunungan  | Budaya | Papua Pegunungan |
-| 181 | Destinasi Budaya 81 Papua Pegunungan  | Budaya | Papua Pegunungan |
-| 182 | Destinasi Budaya 82 Papua Pegunungan  | Budaya | Papua Pegunungan |
-| 183 | Destinasi Budaya 83 Papua Pegunungan  | Budaya | Papua Pegunungan |
-| 184 | Destinasi Budaya 84 Papua Pegunungan  | Budaya | Papua Pegunungan |
-| 185 | Destinasi Budaya 85 Papua Pegunungan  | Budaya | Papua Pegunungan |
-| 186 | Destinasi Budaya 86 Papua Pegunungan  | Budaya | Papua Pegunungan |
-| 187 | Destinasi Budaya 87 Papua Pegunungan  | Budaya | Papua Pegunungan |
-| 188 | Destinasi Budaya 88 Papua Pegunungan  | Budaya | Papua Pegunungan |
-| 189 | Destinasi Budaya 89 Papua Pegunungan  | Budaya | Papua Pegunungan |
-| 190 | Destinasi Budaya 90 Papua Pegunungan  | Budaya | Papua Pegunungan |
-| 191 | Destinasi Budaya 91 Papua Pegunungan  | Budaya | Papua Pegunungan |
-| 192 | Destinasi Budaya 92 Papua Pegunungan  | Budaya | Papua Pegunungan |
-| 193 | Destinasi Budaya 93 Papua Pegunungan  | Budaya | Papua Pegunungan |
-| 194 | Destinasi Budaya 94 Papua Pegunungan  | Budaya | Papua Pegunungan |
-| 195 | Destinasi Budaya 95 Papua Pegunungan  | Budaya | Papua Pegunungan |
-| 196 | Destinasi Budaya 96 Papua Pegunungan  | Budaya | Papua Pegunungan |
-| 197 | Destinasi Budaya 97 Papua Pegunungan  | Budaya | Papua Pegunungan |
-| 198 | Destinasi Budaya 98 Papua Pegunungan  | Budaya | Papua Pegunungan |
-| 199 | Destinasi Budaya 99 Papua Pegunungan  | Budaya | Papua Pegunungan |
-| 200 | Destinasi Budaya 100 Papua Pegunungan | Budaya | Papua Pegunungan |
-
-### 🌿 Wisata Kuliner & Belanja (100 destinasi)
-
-| No  | Nama Tempat                            | Jenis   | Wilayah          |
-| --- | -------------------------------------- | ------- | ---------------- |
-| 201 | Destinasi Kuliner 1 Papua Pegunungan   | Kuliner | Papua Pegunungan |
-| 202 | Destinasi Kuliner 2 Papua Pegunungan   | Kuliner | Papua Pegunungan |
-| 203 | Destinasi Kuliner 3 Papua Pegunungan   | Kuliner | Papua Pegunungan |
-| 204 | Destinasi Kuliner 4 Papua Pegunungan   | Kuliner | Papua Pegunungan |
-| 205 | Destinasi Kuliner 5 Papua Pegunungan   | Kuliner | Papua Pegunungan |
-| 206 | Destinasi Kuliner 6 Papua Pegunungan   | Kuliner | Papua Pegunungan |
-| 207 | Destinasi Kuliner 7 Papua Pegunungan   | Kuliner | Papua Pegunungan |
-| 208 | Destinasi Kuliner 8 Papua Pegunungan   | Kuliner | Papua Pegunungan |
-| 209 | Destinasi Kuliner 9 Papua Pegunungan   | Kuliner | Papua Pegunungan |
-| 210 | Destinasi Kuliner 10 Papua Pegunungan  | Kuliner | Papua Pegunungan |
-| 211 | Destinasi Kuliner 11 Papua Pegunungan  | Kuliner | Papua Pegunungan |
-| 212 | Destinasi Kuliner 12 Papua Pegunungan  | Kuliner | Papua Pegunungan |
-| 213 | Destinasi Kuliner 13 Papua Pegunungan  | Kuliner | Papua Pegunungan |
-| 214 | Destinasi Kuliner 14 Papua Pegunungan  | Kuliner | Papua Pegunungan |
-| 215 | Destinasi Kuliner 15 Papua Pegunungan  | Kuliner | Papua Pegunungan |
-| 216 | Destinasi Kuliner 16 Papua Pegunungan  | Kuliner | Papua Pegunungan |
-| 217 | Destinasi Kuliner 17 Papua Pegunungan  | Kuliner | Papua Pegunungan |
-| 218 | Destinasi Kuliner 18 Papua Pegunungan  | Kuliner | Papua Pegunungan |
-| 219 | Destinasi Kuliner 19 Papua Pegunungan  | Kuliner | Papua Pegunungan |
-| 220 | Destinasi Kuliner 20 Papua Pegunungan  | Kuliner | Papua Pegunungan |
-| 221 | Destinasi Kuliner 21 Papua Pegunungan  | Kuliner | Papua Pegunungan |
-| 222 | Destinasi Kuliner 22 Papua Pegunungan  | Kuliner | Papua Pegunungan |
-| 223 | Destinasi Kuliner 23 Papua Pegunungan  | Kuliner | Papua Pegunungan |
-| 224 | Destinasi Kuliner 24 Papua Pegunungan  | Kuliner | Papua Pegunungan |
-| 225 | Destinasi Kuliner 25 Papua Pegunungan  | Kuliner | Papua Pegunungan |
-| 226 | Destinasi Kuliner 26 Papua Pegunungan  | Kuliner | Papua Pegunungan |
-| 227 | Destinasi Kuliner 27 Papua Pegunungan  | Kuliner | Papua Pegunungan |
-| 228 | Destinasi Kuliner 28 Papua Pegunungan  | Kuliner | Papua Pegunungan |
-| 229 | Destinasi Kuliner 29 Papua Pegunungan  | Kuliner | Papua Pegunungan |
-| 230 | Destinasi Kuliner 30 Papua Pegunungan  | Kuliner | Papua Pegunungan |
-| 231 | Destinasi Kuliner 31 Papua Pegunungan  | Kuliner | Papua Pegunungan |
-| 232 | Destinasi Kuliner 32 Papua Pegunungan  | Kuliner | Papua Pegunungan |
-| 233 | Destinasi Kuliner 33 Papua Pegunungan  | Kuliner | Papua Pegunungan |
-| 234 | Destinasi Kuliner 34 Papua Pegunungan  | Kuliner | Papua Pegunungan |
-| 235 | Destinasi Kuliner 35 Papua Pegunungan  | Kuliner | Papua Pegunungan |
-| 236 | Destinasi Kuliner 36 Papua Pegunungan  | Kuliner | Papua Pegunungan |
-| 237 | Destinasi Kuliner 37 Papua Pegunungan  | Kuliner | Papua Pegunungan |
-| 238 | Destinasi Kuliner 38 Papua Pegunungan  | Kuliner | Papua Pegunungan |
-| 239 | Destinasi Kuliner 39 Papua Pegunungan  | Kuliner | Papua Pegunungan |
-| 240 | Destinasi Kuliner 40 Papua Pegunungan  | Kuliner | Papua Pegunungan |
-| 241 | Destinasi Kuliner 41 Papua Pegunungan  | Kuliner | Papua Pegunungan |
-| 242 | Destinasi Kuliner 42 Papua Pegunungan  | Kuliner | Papua Pegunungan |
-| 243 | Destinasi Kuliner 43 Papua Pegunungan  | Kuliner | Papua Pegunungan |
-| 244 | Destinasi Kuliner 44 Papua Pegunungan  | Kuliner | Papua Pegunungan |
-| 245 | Destinasi Kuliner 45 Papua Pegunungan  | Kuliner | Papua Pegunungan |
-| 246 | Destinasi Kuliner 46 Papua Pegunungan  | Kuliner | Papua Pegunungan |
-| 247 | Destinasi Kuliner 47 Papua Pegunungan  | Kuliner | Papua Pegunungan |
-| 248 | Destinasi Kuliner 48 Papua Pegunungan  | Kuliner | Papua Pegunungan |
-| 249 | Destinasi Kuliner 49 Papua Pegunungan  | Kuliner | Papua Pegunungan |
-| 250 | Destinasi Kuliner 50 Papua Pegunungan  | Kuliner | Papua Pegunungan |
-| 251 | Destinasi Kuliner 51 Papua Pegunungan  | Kuliner | Papua Pegunungan |
-| 252 | Destinasi Kuliner 52 Papua Pegunungan  | Kuliner | Papua Pegunungan |
-| 253 | Destinasi Kuliner 53 Papua Pegunungan  | Kuliner | Papua Pegunungan |
-| 254 | Destinasi Kuliner 54 Papua Pegunungan  | Kuliner | Papua Pegunungan |
-| 255 | Destinasi Kuliner 55 Papua Pegunungan  | Kuliner | Papua Pegunungan |
-| 256 | Destinasi Kuliner 56 Papua Pegunungan  | Kuliner | Papua Pegunungan |
-| 257 | Destinasi Kuliner 57 Papua Pegunungan  | Kuliner | Papua Pegunungan |
-| 258 | Destinasi Kuliner 58 Papua Pegunungan  | Kuliner | Papua Pegunungan |
-| 259 | Destinasi Kuliner 59 Papua Pegunungan  | Kuliner | Papua Pegunungan |
-| 260 | Destinasi Kuliner 60 Papua Pegunungan  | Kuliner | Papua Pegunungan |
-| 261 | Destinasi Kuliner 61 Papua Pegunungan  | Kuliner | Papua Pegunungan |
-| 262 | Destinasi Kuliner 62 Papua Pegunungan  | Kuliner | Papua Pegunungan |
-| 263 | Destinasi Kuliner 63 Papua Pegunungan  | Kuliner | Papua Pegunungan |
-| 264 | Destinasi Kuliner 64 Papua Pegunungan  | Kuliner | Papua Pegunungan |
-| 265 | Destinasi Kuliner 65 Papua Pegunungan  | Kuliner | Papua Pegunungan |
-| 266 | Destinasi Kuliner 66 Papua Pegunungan  | Kuliner | Papua Pegunungan |
-| 267 | Destinasi Kuliner 67 Papua Pegunungan  | Kuliner | Papua Pegunungan |
-| 268 | Destinasi Kuliner 68 Papua Pegunungan  | Kuliner | Papua Pegunungan |
-| 269 | Destinasi Kuliner 69 Papua Pegunungan  | Kuliner | Papua Pegunungan |
-| 270 | Destinasi Kuliner 70 Papua Pegunungan  | Kuliner | Papua Pegunungan |
-| 271 | Destinasi Kuliner 71 Papua Pegunungan  | Kuliner | Papua Pegunungan |
-| 272 | Destinasi Kuliner 72 Papua Pegunungan  | Kuliner | Papua Pegunungan |
-| 273 | Destinasi Kuliner 73 Papua Pegunungan  | Kuliner | Papua Pegunungan |
-| 274 | Destinasi Kuliner 74 Papua Pegunungan  | Kuliner | Papua Pegunungan |
-| 275 | Destinasi Kuliner 75 Papua Pegunungan  | Kuliner | Papua Pegunungan |
-| 276 | Destinasi Kuliner 76 Papua Pegunungan  | Kuliner | Papua Pegunungan |
-| 277 | Destinasi Kuliner 77 Papua Pegunungan  | Kuliner | Papua Pegunungan |
-| 278 | Destinasi Kuliner 78 Papua Pegunungan  | Kuliner | Papua Pegunungan |
-| 279 | Destinasi Kuliner 79 Papua Pegunungan  | Kuliner | Papua Pegunungan |
-| 280 | Destinasi Kuliner 80 Papua Pegunungan  | Kuliner | Papua Pegunungan |
-| 281 | Destinasi Kuliner 81 Papua Pegunungan  | Kuliner | Papua Pegunungan |
-| 282 | Destinasi Kuliner 82 Papua Pegunungan  | Kuliner | Papua Pegunungan |
-| 283 | Destinasi Kuliner 83 Papua Pegunungan  | Kuliner | Papua Pegunungan |
-| 284 | Destinasi Kuliner 84 Papua Pegunungan  | Kuliner | Papua Pegunungan |
-| 285 | Destinasi Kuliner 85 Papua Pegunungan  | Kuliner | Papua Pegunungan |
-| 286 | Destinasi Kuliner 86 Papua Pegunungan  | Kuliner | Papua Pegunungan |
-| 287 | Destinasi Kuliner 87 Papua Pegunungan  | Kuliner | Papua Pegunungan |
-| 288 | Destinasi Kuliner 88 Papua Pegunungan  | Kuliner | Papua Pegunungan |
-| 289 | Destinasi Kuliner 89 Papua Pegunungan  | Kuliner | Papua Pegunungan |
-| 290 | Destinasi Kuliner 90 Papua Pegunungan  | Kuliner | Papua Pegunungan |
-| 291 | Destinasi Kuliner 91 Papua Pegunungan  | Kuliner | Papua Pegunungan |
-| 292 | Destinasi Kuliner 92 Papua Pegunungan  | Kuliner | Papua Pegunungan |
-| 293 | Destinasi Kuliner 93 Papua Pegunungan  | Kuliner | Papua Pegunungan |
-| 294 | Destinasi Kuliner 94 Papua Pegunungan  | Kuliner | Papua Pegunungan |
-| 295 | Destinasi Kuliner 95 Papua Pegunungan  | Kuliner | Papua Pegunungan |
-| 296 | Destinasi Kuliner 96 Papua Pegunungan  | Kuliner | Papua Pegunungan |
-| 297 | Destinasi Kuliner 97 Papua Pegunungan  | Kuliner | Papua Pegunungan |
-| 298 | Destinasi Kuliner 98 Papua Pegunungan  | Kuliner | Papua Pegunungan |
-| 299 | Destinasi Kuliner 99 Papua Pegunungan  | Kuliner | Papua Pegunungan |
-| 300 | Destinasi Kuliner 100 Papua Pegunungan | Kuliner | Papua Pegunungan |
-
-## Kode Pos & Kode Telepon
-
-### Kode Pos
-
-Range kode pos: **99300-99499**
-
-| Wilayah           | Kode Pos                          |
-| ----------------- | --------------------------------- |
-| Ibu Kota Provinsi | (lihat detail per kabupaten/kota) |
-| Kabupaten/Kota    | (lihat folder masing-masing)      |
-
-### Kode Telepon (Kode Area)
-
-0969 (Wamena/Jayawijaya), 0969 (Lanny Jaya), 0969 (Mamberamo Tengah), 0969 (Nduga), 0969 (Tolikara), 0969 (Yalimo), 0969 (Pegunungan Bintang), 0969 (Bintang)
-
-> Catatan: Kode area di atas adalah untuk telepon rumah/kantor. Untuk telepon seluler, gunakan kode operator nasional (0811, 0812, 0813, 0821, 0822, 0823, 0851, 0852, 0853, 0855, 0856, 0857, 0858, 0877, 0878, 0881, 0882, 0883, 0884, 0885, 0886, 0887, 0888, 0889, 0895, 0896, 0897, 0898, 0899).
-
-## Tokoh Lengkap
-
-**Pahlawan Nasional:**
-
-- Tokoh-tokoh pahlawan dari Papua Pegunungan (lihat Wikipedia untuk daftar lengkap)
-
-**Tokoh Modern:**
-
-- Gubernur dan pejabat daerah Papua Pegunungan
-- Tokoh politik, bisnis, dan budaya Papua Pegunungan
-
-**Tokoh Agama & Budaya:**
-
-- Ulama, seniman, dan budayawan Papua Pegunungan
-
-## Sejarah Detail
-
-### Masa Prasejarah & Kerajaan Kuno
-
-- Wilayah Papua Pegunungan telah dihuni sejak masa prasejarah, dibuktikan dengan temuan arkeologis.
-- Berbagai kerajaan kuno pernah berdiri dan berkembang di wilayah ini.
-
-### Masa Kerajaan Hindu-Buddha
-
-- Pengaruh Hindu-Buddha masuk ke wilayah Papua Pegunungan melalui jalur perdagangan.
-- Beberapa kerajaan bercorak Hindu-Buddha pernah berkuasa di wilayah ini.
-
-### Masa Kerajaan Islam
-
-- Islam masuk ke wilayah Papua Pegunungan melalui pedagang dan ulama.
-- Kesultanan-kesultanan Islam berkembang dan menjadi pusat kekuasaan.
-
-### Masa Kolonial
-
-- Portugis, Belanda, dan Inggris pernah menguasai atau mempengaruhi wilayah Papua Pegunungan.
-- Perlawanan rakyat terhadap penjajah terjadi di berbagai daerah.
-- VOC (Vereenigde Oost-Indische Compagnie) mendirikan pos perdagangan.
-- Pemerintah Hindia Belanda mengatur wilayah ini sebagai bagian dari koloni.
-
-### Masa Pergerakan Nasional
-
-- Tokoh-tokoh dari Papua Pegunungan turut berperan dalam pergerakan kemerdekaan Indonesia.
-- Organisasi pergerakan nasional aktif di wilayah ini.
-
-### Masa Kemerdekaan
-
-- Wilayah Papua Pegunungan menjadi bagian dari Republik Indonesia yang diproklamasikan 17 Agustus 1945.
-- Berbagai pertempuran mempertahankan kemerdekaan terjadi di wilayah ini.
-
-### Masa Orde Lama (1945-1966)
-
-- Pembentukan pemerintahan daerah dan konsolidasi wilayah.
-- Berbagai pemberontakan dan konflik internal terjadi.
-
-### Masa Orde Baru (1966-1998)
-
-- Pembangunan infrastruktur dan ekonomi secara masif.
-- Transmigrasi membawa perubahan demografis.
-
-### Masa Reformasi (1998-sekarang)
-
-- Otonomi daerah memberikan kewenangan lebih besar kepada pemerintah daerah.
-- Pemekaran wilayah menciptakan kabupaten/kota baru.
-- Pembangunan berkelanjutan dan peningkatan kesejahteraan masyarakat.
-
-## Fun Fact Lengkap
-
-### 🌍 Geografi & Alam
-
-- Papua Pegunungan memiliki keunikan geografis yang membedakannya dari provinsi lain di Indonesia.
-- Terdapat berbagai ekosistem unik di Papua Pegunungan, dari hutan tropis hingga pesisir pantai.
-- Beberapa spesies flora dan fauna endemik hanya ditemukan di Papua Pegunungan.
-- Kondisi iklim Papua Pegunungan dipengaruhi oleh posisi geografisnya di kepulauan Indonesia.
-- Terdapat sumber daya alam yang melimpah di Papua Pegunungan, baik mineral maupun hayati.
-
-### 🏛️ Sejarah & Budaya
-
-- Papua Pegunungan memiliki sejarah panjang yang mencakup berbagai peradaban dan kerajaan.
-- Berbagai peninggalan sejarah masih dapat ditemukan di Papua Pegunungan.
-- Tradisi dan adat istiadat Papua Pegunungan telah diwariskan turun-temurun selama berabad-abad.
-- Bahasa daerah Papua Pegunungan memiliki keunikan tersendiri dalam rumpun bahasa Nusantara.
-- Seni pertunjukan tradisional Papua Pegunungan diakui sebagai warisan budaya yang berharga.
-
-### 🍽️ Kuliner & Produk Lokal
-
-- Masakan khas Papua Pegunungan menggunakan rempah-rempah lokal yang unik.
-- Beberapa produk pertanian Papua Pegunungan terkenal hingga ke mancanegara.
-- Minuman tradisional Papua Pegunungan memiliki khasiat kesehatan yang telah dikenal lama.
-- Kerajinan tangan Papua Pegunungan menggunakan bahan-bahan alami setempat.
-- Produk unggulan Papua Pegunungan berkontribusi signifikan terhadap perekonomian daerah.
-
-### 🎭 Seni & Tradisi
-
-- Festival tahunan di Papua Pegunungan menarik ribuan wisatawan setiap tahunnya.
-- Musik tradisional Papua Pegunungan menggunakan alat musik yang tidak ditemukan di daerah lain.
-- Pakaian adat Papua Pegunungan mencerminkan kekayaan budaya dan filosofi hidup masyarakatnya.
-- Upacara adat Papua Pegunungan memiliki makna spiritual yang mendalam bagi masyarakat setempat.
-- Tari tradisional Papua Pegunungan telah dipentaskan di berbagai festival internasional.
-
-### 🏆 Rekor & Pencapaian
-
-- Papua Pegunungan memegang beberapa rekor unik di tingkat nasional maupun internasional.
-- Beberapa tokoh terkenal Indonesia berasal dari Papua Pegunungan.
-- Papua Pegunungan telah menerima berbagai penghargaan atas prestasi pembangunan dan pelestarian budaya.
-- Produk-produk dari Papua Pegunungan telah mendapatkan pengakuan internasional.
-- Papua Pegunungan menjadi tuan rumah berbagai event nasional dan internasional.
-
-### 🌱 Lingkungan & Konservasi
-
-- Papua Pegunungan memiliki kawasan konservasi yang melindungi keanekaragaman hayati.
-- Beberapa spesies langka mendapat perlindungan khusus di Papua Pegunungan.
-- Program pelestarian lingkungan di Papua Pegunungan menjadi contoh bagi daerah lain.
-- Masyarakat Papua Pegunungan memiliki kearifan lokal dalam menjaga keseimbangan alam.
-- Hutan-hutan di Papua Pegunungan berperan penting dalam menjaga keseimbangan iklim regional.
-
-### 💡 Inovasi & Modernisasi
-
-- Papua Pegunungan terus berkembang dengan berbagai inovasi di bidang teknologi dan ekonomi.
-- Generasi muda Papua Pegunungan aktif dalam berbagai kompetisi nasional dan internasional.
-- Infrastruktur Papua Pegunungan terus ditingkatkan untuk mendukung pertumbuhan ekonomi.
-- Sektor pariwisata Papua Pegunungan berkembang pesat dengan berbagai destinasi baru.
-- Papua Pegunungan menjadi salah satu tujuan investasi yang menarik di Indonesia.
-
-## Fun Fact Spesifik
-
-### 🏔️ Fakta Unik Papua Pegunungan
-
-1. **Lembah Baliem** — Lembah tersembunyi yang baru ditemukan dunia luar pada 1938 oleh Richard Archbold.
-2. **Suku Dani** — Suku yang mendiami Lembah Baliem, terkenal dengan tradisi perang-perangan dan koteka.
-3. **Festival Lembah Baliem** — Festival tahunan yang menampilkan perang-perangan tradisional suku Dani, Lani, dan Yali.
-4. **Danau Habema** — Danau di ketinggian 3.225 m yang menjadi salah satu danau tertinggi di Indonesia.
-5. **Puncak Jaya** — Carstensz Pyramid (4.884 m) adalah puncak tertinggi di Indonesia dan Oceania.
-6. **Salju Abadi** — Papua Pegunungan memiliki salju abadi di puncak-puncak tertingginya, fenomena langka di daerah tropis.
-7. **Koteka** — Pakaian adat pria Papua berupa penutup kemaluan dari labu yang menjadi simbol identitas budaya.
-8. **Honai** — Rumah adat Papua berbentuk bulat dengan atap jerami yang berfungsi sebagai penghangat di dataran tinggi.
-9. **Hipere** — Ubi jalar yang menjadi makanan pokok masyarakat dataran tinggi Papua.
-10. **Suku Yali** — Suku yang tinggal di pegunungan terpencil Papua, terkenal dengan busur dan panah tradisional.
-
-### 🔍 Fun Fact Tambahan Papua Pegunungan
-
-11. **Fakta 11 Papua Pegunungan** — Papua Pegunungan memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
-12. **Fakta 12 Papua Pegunungan** — Papua Pegunungan memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
-13. **Fakta 13 Papua Pegunungan** — Papua Pegunungan memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
-14. **Fakta 14 Papua Pegunungan** — Papua Pegunungan memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
-15. **Fakta 15 Papua Pegunungan** — Papua Pegunungan memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
-16. **Fakta 16 Papua Pegunungan** — Papua Pegunungan memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
-17. **Fakta 17 Papua Pegunungan** — Papua Pegunungan memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
-18. **Fakta 18 Papua Pegunungan** — Papua Pegunungan memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
-19. **Fakta 19 Papua Pegunungan** — Papua Pegunungan memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
-20. **Fakta 20 Papua Pegunungan** — Papua Pegunungan memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
-21. **Fakta 21 Papua Pegunungan** — Papua Pegunungan memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
-22. **Fakta 22 Papua Pegunungan** — Papua Pegunungan memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
-23. **Fakta 23 Papua Pegunungan** — Papua Pegunungan memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
-24. **Fakta 24 Papua Pegunungan** — Papua Pegunungan memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
-25. **Fakta 25 Papua Pegunungan** — Papua Pegunungan memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+- Badan Pusat Statistik (BPS) Provinsi Papua Pegunungan.
+- Dinas Pariwisata & Kebudayaan Papua Pegunungan.
+- "The Hidden Valley: Discovery of Baliem" by various researchers.

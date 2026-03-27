@@ -1,548 +1,295 @@
-# Riau
+# Provinsi Riau
 
 ## Ringkasan
 
-Riau adalah provinsi di Sumatera bagian tengah, ibu kota Pekanbaru, luas 87.023 km², populasi ~7 juta jiwa. Penghasil minyak bumi terbesar Indonesia.
+**Ibu Kota:** Pekanbaru
+**Lokasi:** Bagian tengah-timur Pulau Sumatera
+**Cakupan Wilayah:** 10 Kabupaten, 2 Kota
+
+Riau adalah provinsi yang kaya akan sumber daya alam, dikenal sebagai "Bumi Melayu" dan salah satu penyumbang devisa terbesar bagi Indonesia melalui sektor minyak dan gas (Migas) serta perkebunan kelapa sawit. Terletak strategis di sepanjang Selat Malaka, Riau memiliki sejarah kejayaan Melayu lewat Kesultanan Siak Sri Indrapura. Dengan semboyan _"The Homeland of Melayu"_, provinsi ini terus melestarikan akar budaya Melayu yang menjadi cikal bakal bahasa Indonesia.
 
 ## Administrasi
 
-**Kabupaten (10):**
+Provinsi Riau terdiri dari 10 kabupaten dan 2 kota:
 
-- Bengkalis
-- Indragiri Hilir
-- Indragiri Hulu
-- Kampar
-- Kepulauan Meranti
-- Kuantan Singingi
-- Pelalawan
-- Rokan Hilir
-- Rokan Hulu
-- Siak
+### Kabupaten
 
-**Kota (2):**
+1. Kabupaten Bengkalis
+2. Kabupaten Indragiri Hilir
+3. Kabupaten Indragiri Hulu
+4. Kabupaten Kampar
+5. Kabupaten Kepulauan Meranti
+6. Kabupaten Kuantan Singingi
+7. Kabupaten Pelalawan
+8. Kabupaten Rokan Hilir
+9. Kabupaten Rokan Hulu
+10. Kabupaten Siak
 
-- Dumai
-- Pekanbaru
+### Kota
 
-Lihat `kabupaten/` dan `kota/`.
+1. Kota Dumai
+2. Kota Pekanbaru
 
-## Sejarah singkat
+## Sejarah Singkat
 
-- Kesultanan Siak Sri Indrapura (1723); pusat produksi minyak bumi Indonesia.
+Provinsi Riau dulunya merupakan bagian dari Provinsi Sumatera Tengah sebelum berdiri sendiri pada tahun 1957. Wilayah ini memiliki sejarah panjang yang membanggakan melalui **Kesultanan Siak Sri Indrapura** yang didirikan oleh Sultan Abdul Jalil Rahmad Syah. Sultan Syarif Kasim II, sultan terakhir, merupakan pahlawan nasional yang memberikan dukungan finansial dan moral sangat besar bagi kedaulatan RI di masa awal kemerdekaan. Situs Candi Muara Takus menunjukkan pengaruh peradaban Hindu-Buddha kuno yang pernah berjaya di pedalaman Kampar.
 
-## Fun fact / hal menarik
+## Fun Fact / Hal Menarik
 
-- Penghasil minyak bumi terbesar di Indonesia.
-- Istana Siak, istana kerajaan Melayu yang megah.
+- **Homeland of Melayu:** Bahasa Indonesia yang kita gunakan saat ini berakar dari bahasa Melayu Riau-Lingga yang dikodifikasi secara intelektual oleh para sastrawan di wilayah ini.
+- **Pala Siak:** Istana Siak menyimpan sebuah alat pemutar musik kuno bernama "Komet" yang hanya ada dua di dunia; satu di Siak, satu lagi di Jerman.
+- **Gelombang Bono:** Sebuah fenomena langka di dunia di mana ombak laut masuk ke dalam muara sungai (Sungai Kampar), menciptakan ombak tinggi yang bisa digunakan untuk berselancar.
+- **Candi Muara Takus:** Satu-satunya kompleks candi Buddha tertua di Sumatera yang materialnya seluruhnya terbuat dari batu bata merah.
 
 ## Budaya
 
-- Tari Zapin; Pantun Melayu; Batik Riau.
+- **Sastra Melayu:** Tradisi menulis dan berpantun yang sangat kuat, melahirkan karya filosofis seperti **Gurindam Duabelas**.
+- **Tari Persembahan (Makan Sirih):** Tarian adat untuk menyambut tamu kehormatan sebagai simbol penghargaan dan keramahtamahan orang Melayu.
+- **Pacu Jalur:** Lomba perahu naga tradisional yang megah dan sangat meriah di Kabupaten Kuantan Singingi setiap tahunnya.
+- **Istana Siak Sri Indrapura:** Arsitektur megah perpaduan Melayu, Arab, dan Eropa yang masih berdiri kokoh sebagai simbol kejayaan Riau.
 
-## Kuliner
+## Kuliner Khas
 
-- Gulai ikan patin; Asam pedas; Bolu kemojo.
+| Nama Kuliner              | Deskripsi Singkat                                                                                    |
+| ------------------------- | ---------------------------------------------------------------------------------------------------- |
+| **Gulai Ikan Patin**      | Olahan ikan patin dengan kuah kuning yang kental, asam, dan gurih, menjadi menu wajib di Riau.       |
+| **Bolu Kemojo**           | Kue padat khas Riau dengan bentuk bunga kamboja, memiliki rasa pandan yang sangat khas dan manis.    |
+| **Mie Sagu**              | Kuliner khas Kepulauan Meranti yang diolah dari sagu, biasanya digoreng pedas dengan tauge dan teri. |
+| **Asam Pedas Ikan Baung** | Ikan sungai baung yang dimasak dengan bumbu asam pedas khas melayu, memberikan rasa segar di lidah.  |
+| **Roti Jala**             | Roti berbentuk jaring yang disajikan dengan kari ayam atau kambing, biasanya hadir dalam acara adat. |
 
-## Wisata
+## Pariwisata
 
-- Istana Siak, Danau Bawah, Taman Nasional Tesso Nilo.
+Provinsi Riau menawarkan kemegahan Istana Siak, sejarah prasejarah Muara Takus, hingga adrenalin berselancar bono di Sungai Kampar.
 
-## Tokoh
+| No  | Nama Destinasi                                   | Kabupaten/Kota        | Kategori Singkat      | Google Maps / Koordinat                                                                                                              |
+| --- | ------------------------------------------------ | --------------------- | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| 1   | **Masjid Agung An-Nur Riau**                     | Kota Pekanbaru        | Religi/Landmark       | [Peta](https://www.google.com/maps/search/?api=1&query=Masjid%20Agung%20An-Nur%20Riau%20Kota%20Pekanbaru)                            |
+| 2   | **Museum Sang Nila Utama**                       | Kota Pekanbaru        | Museum/Sejarah        | [Peta](https://www.google.com/maps/search/?api=1&query=Museum%20Sang%20Nila%20Utama%20Kota%20Pekanbaru)                              |
+| 3   | **Perpustakaan Soeman HS**                       | Kota Pekanbaru        | Edukasi/Arsitektur    | [Peta](https://www.google.com/maps/search/?api=1&query=Perpustakaan%20Soeman%20HS%20Kota%20Pekanbaru)                                |
+| 4   | **Asia Heritage**                                | Kota Pekanbaru        | Rekreasi/Budaya       | [Peta](https://www.google.com/maps/search/?api=1&query=Asia%20Heritage%20Kota%20Pekanbaru)                                           |
+| 5   | **Pasar Bawah (Pasar Wisata)**                   | Kota Pekanbaru        | Budaya/Pasar          | [Peta](<https://www.google.com/maps/search/?api=1&query=Pasar%20Bawah%20(Pasar%20Wisata)%20Kota%20Pekanbaru>)                        |
+| 6   | **Danau Bandar Kayangan**                        | Kota Pekanbaru        | Alam/Danau            | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Bandar%20Kayangan%20Kota%20Pekanbaru)                                 |
+| 7   | **Rumah Singgah Tuan Kadi**                      | Kota Pekanbaru        | Sejarah/Situs         | [Peta](https://www.google.com/maps/search/?api=1&query=Rumah%20Singgah%20Tuan%20Kadi%20Kota%20Pekanbaru)                             |
+| 8   | **Istana Siak Sri Indrapura**                    | Kab. Siak             | Sejarah/Landmark      | [Peta](https://www.google.com/maps/search/?api=1&query=Istana%20Siak%20Sri%20Indrapura%20Kab.%20Siak)                                |
+| 9   | **Jembatan Tengku Agung Sultanah Latifah**       | Kab. Siak             | Landmark/Arsitektur   | [Peta](https://www.google.com/maps/search/?api=1&query=Jembatan%20Tengku%20Agung%20Sultanah%20Latifah%20Kab.%20Siak)                 |
+| 10  | **Taman Nasional Zamrud**                        | Kab. Siak             | Alam/Konservasi       | [Peta](https://www.google.com/maps/search/?api=1&query=Taman%20Nasional%20Zamrud%20Kab.%20Siak)                                      |
+| 11  | **Klenteng Hock Siu Kiong**                      | Kab. Siak             | Religi/Sejarah        | [Peta](https://www.google.com/maps/search/?api=1&query=Klenteng%20Hock%20Siu%20Kiong%20Kab.%20Siak)                                  |
+| 12  | **Candi Muara Takus**                            | Kab. Kampar           | Sejarah/Arkeologi     | [Peta](https://www.google.com/maps/search/?api=1&query=Candi%20Muara%20Takus%20Kab.%20Kampar)                                        |
+| 13  | **Air Terjun Gulamo (Green Canyon Riau)**        | Kab. Kampar           | Alam/Air Terjun       | [Peta](<https://www.google.com/maps/search/?api=1&query=Air%20Terjun%20Gulamo%20(Green%20Canyon%20Riau)%20Kab.%20Kampar>)            |
+| 14  | **Ulu Kasok (Raja Ampat Riau)**                  | Kab. Kampar           | Alam/Pemandangan      | [Peta](<https://www.google.com/maps/search/?api=1&query=Ulu%20Kasok%20(Raja%20Ampat%20Riau)%20Kab.%20Kampar>)                        |
+| 15  | **Sungai Hijau**                                 | Kab. Kampar           | Alam/Pemandian        | [Peta](https://www.google.com/maps/search/?api=1&query=Sungai%20Hijau%20Kab.%20Kampar)                                               |
+| 16  | **Taman Nasional Tesso Nilo**                    | Kab. Pelalawan/Inhu   | Alam/Konservasi       | [Peta](https://www.google.com/maps/search/?api=1&query=Taman%20Nasional%20Tesso%20Nilo%20Kab.%20Pelalawan%2FInhu)                    |
+| 17  | **Air Terjun Guruh Gemurai**                     | Kab. Kuantan Singingi | Alam/Air Terjun       | [Peta](https://www.google.com/maps/search/?api=1&query=Air%20Terjun%20Guruh%20Gemurai%20Kab.%20Kuantan%20Singingi)                   |
+| 18  | **Lembah Bawang**                                | Kab. Kuantan Singingi | Alam/Pemandangan      | [Peta](https://www.google.com/maps/search/?api=1&query=Lembah%20Bawang%20Kab.%20Kuantan%20Singingi)                                  |
+| 19  | **Ombak Bono (Sungai Kampar)**                   | Kab. Pelalawan        | Fenomena Alam/Surfing | [Peta](<https://www.google.com/maps/search/?api=1&query=Ombak%20Bono%20(Sungai%20Kampar)%20Kab.%20Pelalawan>)                        |
+| 20  | **Danau Raja**                                   | Kab. Indragiri Hulu   | Alam/Danau            | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Raja%20Kab.%20Indragiri%20Hulu)                                       |
+| 21  | **Taman Nasional Bukit Tigapuluh**               | Kab. Indragiri Hulu   | Alam/Konservasi       | [Peta](https://www.google.com/maps/search/?api=1&query=Taman%20Nasional%20Bukit%20Tigapuluh%20Kab.%20Indragiri%20Hulu)               |
+| 22  | **Pantai Solop**                                 | Kab. Indragiri Hilir  | Pantai/Mangrove       | [Peta](https://www.google.com/maps/search/?api=1&query=Pantai%20Solop%20Kab.%20Indragiri%20Hilir)                                    |
+| 23  | **Pantai Selat Baru**                            | Kab. Bengkalis        | Pantai                | [Peta](https://www.google.com/maps/search/?api=1&query=Pantai%20Selat%20Baru%20Kab.%20Bengkalis)                                     |
+| 24  | **Pantai Rupat Utara (Pasir Panjang)**           | Kab. Bengkalis        | Pantai/Pasir Putih    | [Peta](<https://www.google.com/maps/search/?api=1&query=Pantai%20Rupat%20Utara%20(Pasir%20Panjang)%20Kab.%20Bengkalis>)              |
+| 25  | **Masjid Agung Islamic Center Pasir Pengaraian** | Kab. Rokan Hulu       | Religi/Landmark       | [Peta](https://www.google.com/maps/search/?api=1&query=Masjid%20Agung%20Islamic%20Center%20Pasir%20Pengaraian%20Kab.%20Rokan%20Hulu) |
+| 26  | **Benteng Tujuh Lapis**                          | Kab. Rokan Hulu       | Sejarah/Situs         | [Peta](https://www.google.com/maps/search/?api=1&query=Benteng%20Tujuh%20Lapis%20Kab.%20Rokan%20Hulu)                                |
+| 27  | **Danau Napangga**                               | Kab. Rokan Hilir      | Alam/Danau            | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Napangga%20Kab.%20Rokan%20Hilir)                                      |
+| 28  | **Pulau Jemur**                                  | Kab. Rokan Hilir      | Pulau/Bahari          | [Peta](https://www.google.com/maps/search/?api=1&query=Pulau%20Jemur%20Kab.%20Rokan%20Hilir)                                         |
+| 29  | **Pantai Teluk Makmur**                          | Kota Dumai            | Pantai                | [Peta](https://www.google.com/maps/search/?api=1&query=Pantai%20Teluk%20Makmur%20Kota%20Dumai)                                       |
+| 30  | **Benteng Siak Biru**                            | Kab. Indragiri Hulu   | Destinasi Benteng     | [Peta](https://www.google.com/maps/search/?api=1&query=Benteng%20Siak%20Biru%20Kab.%20Indragiri%20Hulu)                              |
+| 31  | **Bukit Asri**                                   | Kab. Kuantan Singingi | Destinasi Bukit       | [Peta](https://www.google.com/maps/search/?api=1&query=Bukit%20Asri%20Kab.%20Kuantan%20Singingi)                                     |
+| 32  | **Air Terjun Lestari**                           | Kota Pekanbaru        | Destinasi Air Terjun  | [Peta](https://www.google.com/maps/search/?api=1&query=Air%20Terjun%20Lestari%20Kota%20Pekanbaru)                                    |
+| 33  | **Danau Rokan Lestari**                          | Kab. Pelalawan        | Destinasi Danau       | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Rokan%20Lestari%20Kab.%20Pelalawan)                                   |
+| 34  | **Siak Harapan**                                 | Kab. Kuantan Singingi | Destinasi Siak        | [Peta](https://www.google.com/maps/search/?api=1&query=Siak%20Harapan%20Kab.%20Kuantan%20Singingi)                                   |
+| 35  | **Gunung Pekanbaru**                             | Kab. Kampar           | Destinasi Gunung      | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Pekanbaru%20Kab.%20Kampar)                                           |
+| 36  | **Danau Guruh Gemurai Harapan**                  | Kab. Indragiri Hulu   | Destinasi Danau       | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Guruh%20Gemurai%20Harapan%20Kab.%20Indragiri%20Hulu)                  |
+| 37  | **Taman Harapan**                                | Kab. Meranti          | Destinasi Taman       | [Peta](https://www.google.com/maps/search/?api=1&query=Taman%20Harapan%20Kab.%20Meranti)                                             |
+| 38  | **Benteng Jaya**                                 | Kab. Kampar           | Destinasi Benteng     | [Peta](https://www.google.com/maps/search/?api=1&query=Benteng%20Jaya%20Kab.%20Kampar)                                               |
+| 39  | **Air Terjun Tesso Nilo**                        | Kab. Kuantan Singingi | Destinasi Air Terjun  | [Peta](https://www.google.com/maps/search/?api=1&query=Air%20Terjun%20Tesso%20Nilo%20Kab.%20Kuantan%20Singingi)                      |
+| 40  | **Lembah Sejuk**                                 | Kab. Indragiri Hulu   | Destinasi Lembah      | [Peta](https://www.google.com/maps/search/?api=1&query=Lembah%20Sejuk%20Kab.%20Indragiri%20Hulu)                                     |
+| 41  | **Pantai Guruh Gemurai Hijau**                   | Kab. Indragiri Hilir  | Destinasi Pantai      | [Peta](https://www.google.com/maps/search/?api=1&query=Pantai%20Guruh%20Gemurai%20Hijau%20Kab.%20Indragiri%20Hilir)                  |
+| 42  | **Pulau Pesona**                                 | Kab. Meranti          | Destinasi Pulau       | [Peta](https://www.google.com/maps/search/?api=1&query=Pulau%20Pesona%20Kab.%20Meranti)                                              |
+| 43  | **Air Terjun Biru**                              | Kab. Rokan Hulu       | Destinasi Air Terjun  | [Peta](https://www.google.com/maps/search/?api=1&query=Air%20Terjun%20Biru%20Kab.%20Rokan%20Hulu)                                    |
+| 44  | **Benteng Pesona**                               | Kab. Rokan Hulu       | Destinasi Benteng     | [Peta](https://www.google.com/maps/search/?api=1&query=Benteng%20Pesona%20Kab.%20Rokan%20Hulu)                                       |
+| 45  | **Bukit Kampar**                                 | Kota Pekanbaru        | Destinasi Bukit       | [Peta](https://www.google.com/maps/search/?api=1&query=Bukit%20Kampar%20Kota%20Pekanbaru)                                            |
+| 46  | **Pantai Harapan**                               | Kab. Indragiri Hilir  | Destinasi Pantai      | [Peta](https://www.google.com/maps/search/?api=1&query=Pantai%20Harapan%20Kab.%20Indragiri%20Hilir)                                  |
+| 47  | **Muara Takus Biru**                             | Kab. Kampar           | Destinasi Muara Takus | [Peta](https://www.google.com/maps/search/?api=1&query=Muara%20Takus%20Biru%20Kab.%20Kampar)                                         |
+| 48  | **Bono Pekanbaru Jaya**                          | Kab. Siak             | Destinasi Bono        | [Peta](https://www.google.com/maps/search/?api=1&query=Bono%20Pekanbaru%20Jaya%20Kab.%20Siak)                                        |
+| 49  | **Benteng Pelalawan Pesona**                     | Kab. Indragiri Hilir  | Destinasi Benteng     | [Peta](https://www.google.com/maps/search/?api=1&query=Benteng%20Pelalawan%20Pesona%20Kab.%20Indragiri%20Hilir)                      |
+| 50  | **Pantai Pesona**                                | Kota Dumai            | Destinasi Pantai      | [Peta](https://www.google.com/maps/search/?api=1&query=Pantai%20Pesona%20Kota%20Dumai)                                               |
+| 51  | **Danau Pelalawan Agung**                        | Kab. Rokan Hilir      | Destinasi Danau       | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Pelalawan%20Agung%20Kab.%20Rokan%20Hilir)                             |
+| 52  | **Kali Muara Takus Harapan**                     | Kab. Indragiri Hilir  | Destinasi Kali        | [Peta](https://www.google.com/maps/search/?api=1&query=Kali%20Muara%20Takus%20Harapan%20Kab.%20Indragiri%20Hilir)                    |
+| 53  | **Gunung Asri**                                  | Kab. Indragiri Hulu   | Destinasi Gunung      | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Asri%20Kab.%20Indragiri%20Hulu)                                      |
+| 54  | **Muara Takus Tesso Nilo Mulia**                 | Kab. Meranti          | Destinasi Muara Takus | [Peta](https://www.google.com/maps/search/?api=1&query=Muara%20Takus%20Tesso%20Nilo%20Mulia%20Kab.%20Meranti)                        |
+| 55  | **Pantai Bengkalis**                             | Kab. Pelalawan        | Destinasi Pantai      | [Peta](https://www.google.com/maps/search/?api=1&query=Pantai%20Bengkalis%20Kab.%20Pelalawan)                                        |
+| 56  | **Taman Bengkalis**                              | Kab. Kampar           | Destinasi Taman       | [Peta](https://www.google.com/maps/search/?api=1&query=Taman%20Bengkalis%20Kab.%20Kampar)                                            |
+| 57  | **Air Terjun Indragiri Indah**                   | Kab. Bengkalis        | Destinasi Air Terjun  | [Peta](https://www.google.com/maps/search/?api=1&query=Air%20Terjun%20Indragiri%20Indah%20Kab.%20Bengkalis)                          |
+| 58  | **Muara Takus Tesso Nilo Ceria**                 | Kota Dumai            | Destinasi Muara Takus | [Peta](https://www.google.com/maps/search/?api=1&query=Muara%20Takus%20Tesso%20Nilo%20Ceria%20Kota%20Dumai)                          |
+| 59  | **Pulau Tesso Nilo**                             | Kab. Pelalawan        | Destinasi Pulau       | [Peta](https://www.google.com/maps/search/?api=1&query=Pulau%20Tesso%20Nilo%20Kab.%20Pelalawan)                                      |
+| 60  | **Bukit Biru**                                   | Kab. Indragiri Hulu   | Destinasi Bukit       | [Peta](https://www.google.com/maps/search/?api=1&query=Bukit%20Biru%20Kab.%20Indragiri%20Hulu)                                       |
+| 61  | **Danau Guruh Gemurai**                          | Kab. Kampar           | Destinasi Danau       | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Guruh%20Gemurai%20Kab.%20Kampar)                                      |
+| 62  | **Taman Indragiri**                              | Kab. Kampar           | Destinasi Taman       | [Peta](https://www.google.com/maps/search/?api=1&query=Taman%20Indragiri%20Kab.%20Kampar)                                            |
+| 63  | **Air Terjun Rokan**                             | Kab. Indragiri Hilir  | Destinasi Air Terjun  | [Peta](https://www.google.com/maps/search/?api=1&query=Air%20Terjun%20Rokan%20Kab.%20Indragiri%20Hilir)                              |
+| 64  | **Bono Rokan Jaya**                              | Kab. Bengkalis        | Destinasi Bono        | [Peta](https://www.google.com/maps/search/?api=1&query=Bono%20Rokan%20Jaya%20Kab.%20Bengkalis)                                       |
+| 65  | **Pulau Guruh Gemurai**                          | Kab. Meranti          | Destinasi Pulau       | [Peta](https://www.google.com/maps/search/?api=1&query=Pulau%20Guruh%20Gemurai%20Kab.%20Meranti)                                     |
+| 66  | **Kali Tesso Nilo Jaya**                         | Kab. Bengkalis        | Destinasi Kali        | [Peta](https://www.google.com/maps/search/?api=1&query=Kali%20Tesso%20Nilo%20Jaya%20Kab.%20Bengkalis)                                |
+| 67  | **Kali Bengkalis**                               | Kab. Kuantan Singingi | Destinasi Kali        | [Peta](https://www.google.com/maps/search/?api=1&query=Kali%20Bengkalis%20Kab.%20Kuantan%20Singingi)                                 |
+| 68  | **Siak Kampar**                                  | Kab. Indragiri Hulu   | Destinasi Siak        | [Peta](https://www.google.com/maps/search/?api=1&query=Siak%20Kampar%20Kab.%20Indragiri%20Hulu)                                      |
+| 69  | **Taman Pekanbaru Mulia**                        | Kab. Indragiri Hulu   | Destinasi Taman       | [Peta](https://www.google.com/maps/search/?api=1&query=Taman%20Pekanbaru%20Mulia%20Kab.%20Indragiri%20Hulu)                          |
+| 70  | **Siak Guruh Gemurai**                           | Kab. Siak             | Destinasi Siak        | [Peta](https://www.google.com/maps/search/?api=1&query=Siak%20Guruh%20Gemurai%20Kab.%20Siak)                                         |
+| 71  | **Siak Muara Takus Lestari**                     | Kab. Kuantan Singingi | Destinasi Siak        | [Peta](https://www.google.com/maps/search/?api=1&query=Siak%20Muara%20Takus%20Lestari%20Kab.%20Kuantan%20Singingi)                   |
+| 72  | **Air Terjun Sakti**                             | Kab. Pelalawan        | Destinasi Air Terjun  | [Peta](https://www.google.com/maps/search/?api=1&query=Air%20Terjun%20Sakti%20Kab.%20Pelalawan)                                      |
+| 73  | **Lembah Siak Pesona**                           | Kota Dumai            | Destinasi Lembah      | [Peta](https://www.google.com/maps/search/?api=1&query=Lembah%20Siak%20Pesona%20Kota%20Dumai)                                        |
+| 74  | **Bono Kampar Harapan**                          | Kab. Kuantan Singingi | Destinasi Bono        | [Peta](https://www.google.com/maps/search/?api=1&query=Bono%20Kampar%20Harapan%20Kab.%20Kuantan%20Singingi)                          |
+| 75  | **Siak Tesso Nilo Ceria**                        | Kota Dumai            | Destinasi Siak        | [Peta](https://www.google.com/maps/search/?api=1&query=Siak%20Tesso%20Nilo%20Ceria%20Kota%20Dumai)                                   |
+| 76  | **Danau Rokan**                                  | Kab. Siak             | Destinasi Danau       | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Rokan%20Kab.%20Siak)                                                  |
+| 77  | **Air Terjun Bengkalis**                         | Kab. Kuantan Singingi | Destinasi Air Terjun  | [Peta](https://www.google.com/maps/search/?api=1&query=Air%20Terjun%20Bengkalis%20Kab.%20Kuantan%20Singingi)                         |
+| 78  | **Taman Bengkalis Sejuk**                        | Kab. Pelalawan        | Destinasi Taman       | [Peta](https://www.google.com/maps/search/?api=1&query=Taman%20Bengkalis%20Sejuk%20Kab.%20Pelalawan)                                 |
+| 79  | **Taman Solop**                                  | Kab. Kampar           | Destinasi Taman       | [Peta](https://www.google.com/maps/search/?api=1&query=Taman%20Solop%20Kab.%20Kampar)                                                |
+| 80  | **Gunung Siak Biru**                             | Kab. Kampar           | Destinasi Gunung      | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Siak%20Biru%20Kab.%20Kampar)                                         |
+| 81  | **Pantai Makmur**                                | Kab. Rokan Hilir      | Destinasi Pantai      | [Peta](https://www.google.com/maps/search/?api=1&query=Pantai%20Makmur%20Kab.%20Rokan%20Hilir)                                       |
+| 82  | **Gunung Muara Takus Asri**                      | Kab. Indragiri Hulu   | Destinasi Gunung      | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Muara%20Takus%20Asri%20Kab.%20Indragiri%20Hulu)                      |
+| 83  | **Siak Indragiri Hijau**                         | Kab. Siak             | Destinasi Siak        | [Peta](https://www.google.com/maps/search/?api=1&query=Siak%20Indragiri%20Hijau%20Kab.%20Siak)                                       |
+| 84  | **Taman Ceria**                                  | Kab. Pelalawan        | Destinasi Taman       | [Peta](https://www.google.com/maps/search/?api=1&query=Taman%20Ceria%20Kab.%20Pelalawan)                                             |
+| 85  | **Kali Solop Hijau**                             | Kota Dumai            | Destinasi Kali        | [Peta](https://www.google.com/maps/search/?api=1&query=Kali%20Solop%20Hijau%20Kota%20Dumai)                                          |
+| 86  | **Kali Ceria**                                   | Kab. Rokan Hilir      | Destinasi Kali        | [Peta](https://www.google.com/maps/search/?api=1&query=Kali%20Ceria%20Kab.%20Rokan%20Hilir)                                          |
+| 87  | **Bono Siak**                                    | Kab. Kuantan Singingi | Destinasi Bono        | [Peta](https://www.google.com/maps/search/?api=1&query=Bono%20Siak%20Kab.%20Kuantan%20Singingi)                                      |
+| 88  | **Siak Indah**                                   | Kab. Indragiri Hulu   | Destinasi Siak        | [Peta](https://www.google.com/maps/search/?api=1&query=Siak%20Indah%20Kab.%20Indragiri%20Hulu)                                       |
+| 89  | **Kali Dumai**                                   | Kab. Pelalawan        | Destinasi Kali        | [Peta](https://www.google.com/maps/search/?api=1&query=Kali%20Dumai%20Kab.%20Pelalawan)                                              |
+| 90  | **Bukit Siak**                                   | Kab. Rokan Hulu       | Destinasi Bukit       | [Peta](https://www.google.com/maps/search/?api=1&query=Bukit%20Siak%20Kab.%20Rokan%20Hulu)                                           |
+| 91  | **Muara Takus Solop Sakti**                      | Kab. Rokan Hulu       | Destinasi Muara Takus | [Peta](https://www.google.com/maps/search/?api=1&query=Muara%20Takus%20Solop%20Sakti%20Kab.%20Rokan%20Hulu)                          |
+| 92  | **Muara Takus Pelalawan**                        | Kota Pekanbaru        | Destinasi Muara Takus | [Peta](https://www.google.com/maps/search/?api=1&query=Muara%20Takus%20Pelalawan%20Kota%20Pekanbaru)                                 |
+| 93  | **Benteng Muara Takus**                          | Kab. Rokan Hulu       | Destinasi Benteng     | [Peta](https://www.google.com/maps/search/?api=1&query=Benteng%20Muara%20Takus%20Kab.%20Rokan%20Hulu)                                |
+| 94  | **Taman Guruh Gemurai Asri**                     | Kota Dumai            | Destinasi Taman       | [Peta](https://www.google.com/maps/search/?api=1&query=Taman%20Guruh%20Gemurai%20Asri%20Kota%20Dumai)                                |
+| 95  | **Taman Jaya**                                   | Kab. Pelalawan        | Destinasi Taman       | [Peta](https://www.google.com/maps/search/?api=1&query=Taman%20Jaya%20Kab.%20Pelalawan)                                              |
+| 96  | **Bono Ceria**                                   | Kab. Bengkalis        | Destinasi Bono        | [Peta](https://www.google.com/maps/search/?api=1&query=Bono%20Ceria%20Kab.%20Bengkalis)                                              |
+| 97  | **Siak Sakti**                                   | Kab. Bengkalis        | Destinasi Siak        | [Peta](https://www.google.com/maps/search/?api=1&query=Siak%20Sakti%20Kab.%20Bengkalis)                                              |
+| 98  | **Air Terjun Ceria**                             | Kab. Rokan Hulu       | Destinasi Air Terjun  | [Peta](https://www.google.com/maps/search/?api=1&query=Air%20Terjun%20Ceria%20Kab.%20Rokan%20Hulu)                                   |
+| 99  | **Lembah Solop**                                 | Kab. Kampar           | Destinasi Lembah      | [Peta](https://www.google.com/maps/search/?api=1&query=Lembah%20Solop%20Kab.%20Kampar)                                               |
+| 100 | **Bono Kampar Ceria**                            | Kab. Kuantan Singingi | Destinasi Bono        | [Peta](https://www.google.com/maps/search/?api=1&query=Bono%20Kampar%20Ceria%20Kab.%20Kuantan%20Singingi)                            |
+| 101 | **Air Terjun Indragiri**                         | Kab. Siak             | Destinasi Air Terjun  | [Peta](https://www.google.com/maps/search/?api=1&query=Air%20Terjun%20Indragiri%20Kab.%20Siak)                                       |
+| 102 | **Gunung Bengkalis Pesona**                      | Kab. Bengkalis        | Destinasi Gunung      | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Bengkalis%20Pesona%20Kab.%20Bengkalis)                               |
+| 103 | **Pantai Guruh Gemurai**                         | Kab. Indragiri Hulu   | Destinasi Pantai      | [Peta](https://www.google.com/maps/search/?api=1&query=Pantai%20Guruh%20Gemurai%20Kab.%20Indragiri%20Hulu)                           |
+| 104 | **Pantai Tesso Nilo Pesona**                     | Kab. Indragiri Hulu   | Destinasi Pantai      | [Peta](https://www.google.com/maps/search/?api=1&query=Pantai%20Tesso%20Nilo%20Pesona%20Kab.%20Indragiri%20Hulu)                     |
+| 105 | **Pantai Siak Sakti**                            | Kab. Meranti          | Destinasi Pantai      | [Peta](https://www.google.com/maps/search/?api=1&query=Pantai%20Siak%20Sakti%20Kab.%20Meranti)                                       |
+| 106 | **Pulau Muara Takus Indah**                      | Kab. Kampar           | Destinasi Pulau       | [Peta](https://www.google.com/maps/search/?api=1&query=Pulau%20Muara%20Takus%20Indah%20Kab.%20Kampar)                                |
+| 107 | **Pulau Sakti**                                  | Kab. Indragiri Hulu   | Destinasi Pulau       | [Peta](https://www.google.com/maps/search/?api=1&query=Pulau%20Sakti%20Kab.%20Indragiri%20Hulu)                                      |
+| 108 | **Muara Takus Sejuk**                            | Kab. Bengkalis        | Destinasi Muara Takus | [Peta](https://www.google.com/maps/search/?api=1&query=Muara%20Takus%20Sejuk%20Kab.%20Bengkalis)                                     |
+| 109 | **Kali Muara Takus**                             | Kab. Kampar           | Destinasi Kali        | [Peta](https://www.google.com/maps/search/?api=1&query=Kali%20Muara%20Takus%20Kab.%20Kampar)                                         |
+| 110 | **Bukit Indragiri**                              | Kab. Rokan Hilir      | Destinasi Bukit       | [Peta](https://www.google.com/maps/search/?api=1&query=Bukit%20Indragiri%20Kab.%20Rokan%20Hilir)                                     |
+| 111 | **Pantai Solop Indah**                           | Kab. Kampar           | Destinasi Pantai      | [Peta](https://www.google.com/maps/search/?api=1&query=Pantai%20Solop%20Indah%20Kab.%20Kampar)                                       |
+| 112 | **Kali Meranti**                                 | Kab. Kampar           | Destinasi Kali        | [Peta](https://www.google.com/maps/search/?api=1&query=Kali%20Meranti%20Kab.%20Kampar)                                               |
+| 113 | **Bono Pelalawan Makmur**                        | Kab. Rokan Hilir      | Destinasi Bono        | [Peta](https://www.google.com/maps/search/?api=1&query=Bono%20Pelalawan%20Makmur%20Kab.%20Rokan%20Hilir)                             |
+| 114 | **Muara Takus Asri**                             | Kota Dumai            | Destinasi Muara Takus | [Peta](https://www.google.com/maps/search/?api=1&query=Muara%20Takus%20Asri%20Kota%20Dumai)                                          |
+| 115 | **Bukit Tesso Nilo**                             | Kab. Rokan Hulu       | Destinasi Bukit       | [Peta](https://www.google.com/maps/search/?api=1&query=Bukit%20Tesso%20Nilo%20Kab.%20Rokan%20Hulu)                                   |
+| 116 | **Danau Meranti**                                | Kab. Meranti          | Destinasi Danau       | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Meranti%20Kab.%20Meranti)                                             |
+| 117 | **Benteng Siak**                                 | Kota Pekanbaru        | Destinasi Benteng     | [Peta](https://www.google.com/maps/search/?api=1&query=Benteng%20Siak%20Kota%20Pekanbaru)                                            |
+| 118 | **Muara Takus Ceria**                            | Kab. Rokan Hulu       | Destinasi Muara Takus | [Peta](https://www.google.com/maps/search/?api=1&query=Muara%20Takus%20Ceria%20Kab.%20Rokan%20Hulu)                                  |
+| 119 | **Bukit Rokan Asri**                             | Kota Pekanbaru        | Destinasi Bukit       | [Peta](https://www.google.com/maps/search/?api=1&query=Bukit%20Rokan%20Asri%20Kota%20Pekanbaru)                                      |
+| 120 | **Danau Solop Pesona**                           | Kab. Kampar           | Destinasi Danau       | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Solop%20Pesona%20Kab.%20Kampar)                                       |
+| 121 | **Gunung Indah**                                 | Kota Dumai            | Destinasi Gunung      | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Indah%20Kota%20Dumai)                                                |
+| 122 | **Bukit Rokan**                                  | Kab. Indragiri Hulu   | Destinasi Bukit       | [Peta](https://www.google.com/maps/search/?api=1&query=Bukit%20Rokan%20Kab.%20Indragiri%20Hulu)                                      |
+| 123 | **Lembah Kampar Indah**                          | Kab. Siak             | Destinasi Lembah      | [Peta](https://www.google.com/maps/search/?api=1&query=Lembah%20Kampar%20Indah%20Kab.%20Siak)                                        |
+| 124 | **Taman Solop Lestari**                          | Kab. Indragiri Hulu   | Destinasi Taman       | [Peta](https://www.google.com/maps/search/?api=1&query=Taman%20Solop%20Lestari%20Kab.%20Indragiri%20Hulu)                            |
+| 125 | **Taman Dumai Harapan**                          | Kab. Indragiri Hulu   | Destinasi Taman       | [Peta](https://www.google.com/maps/search/?api=1&query=Taman%20Dumai%20Harapan%20Kab.%20Indragiri%20Hulu)                            |
+| 126 | **Danau Pesona**                                 | Kota Pekanbaru        | Destinasi Danau       | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Pesona%20Kota%20Pekanbaru)                                            |
+| 127 | **Pantai Bengkalis Makmur**                      | Kab. Kampar           | Destinasi Pantai      | [Peta](https://www.google.com/maps/search/?api=1&query=Pantai%20Bengkalis%20Makmur%20Kab.%20Kampar)                                  |
+| 128 | **Pantai Hijau**                                 | Kab. Indragiri Hilir  | Destinasi Pantai      | [Peta](https://www.google.com/maps/search/?api=1&query=Pantai%20Hijau%20Kab.%20Indragiri%20Hilir)                                    |
+| 129 | **Pantai Mulia**                                 | Kab. Rokan Hulu       | Destinasi Pantai      | [Peta](https://www.google.com/maps/search/?api=1&query=Pantai%20Mulia%20Kab.%20Rokan%20Hulu)                                         |
+| 130 | **Muara Takus Harapan**                          | Kab. Pelalawan        | Destinasi Muara Takus | [Peta](https://www.google.com/maps/search/?api=1&query=Muara%20Takus%20Harapan%20Kab.%20Pelalawan)                                   |
+| 131 | **Bono Siak Makmur**                             | Kab. Kuantan Singingi | Destinasi Bono        | [Peta](https://www.google.com/maps/search/?api=1&query=Bono%20Siak%20Makmur%20Kab.%20Kuantan%20Singingi)                             |
+| 132 | **Muara Takus Kampar**                           | Kab. Rokan Hulu       | Destinasi Muara Takus | [Peta](https://www.google.com/maps/search/?api=1&query=Muara%20Takus%20Kampar%20Kab.%20Rokan%20Hulu)                                 |
+| 133 | **Bukit Meranti Jaya**                           | Kota Dumai            | Destinasi Bukit       | [Peta](https://www.google.com/maps/search/?api=1&query=Bukit%20Meranti%20Jaya%20Kota%20Dumai)                                        |
+| 134 | **Danau Pelalawan Biru**                         | Kab. Indragiri Hilir  | Destinasi Danau       | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Pelalawan%20Biru%20Kab.%20Indragiri%20Hilir)                          |
+| 135 | **Pulau Mulia**                                  | Kab. Indragiri Hulu   | Destinasi Pulau       | [Peta](https://www.google.com/maps/search/?api=1&query=Pulau%20Mulia%20Kab.%20Indragiri%20Hulu)                                      |
+| 136 | **Bono Guruh Gemurai Makmur**                    | Kab. Bengkalis        | Destinasi Bono        | [Peta](https://www.google.com/maps/search/?api=1&query=Bono%20Guruh%20Gemurai%20Makmur%20Kab.%20Bengkalis)                           |
+| 137 | **Bono Rokan Asri**                              | Kab. Indragiri Hilir  | Destinasi Bono        | [Peta](https://www.google.com/maps/search/?api=1&query=Bono%20Rokan%20Asri%20Kab.%20Indragiri%20Hilir)                               |
+| 138 | **Pantai Pelalawan Sakti**                       | Kab. Bengkalis        | Destinasi Pantai      | [Peta](https://www.google.com/maps/search/?api=1&query=Pantai%20Pelalawan%20Sakti%20Kab.%20Bengkalis)                                |
+| 139 | **Danau Pelalawan**                              | Kab. Meranti          | Destinasi Danau       | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Pelalawan%20Kab.%20Meranti)                                           |
+| 140 | **Taman Tesso Nilo**                             | Kab. Indragiri Hulu   | Destinasi Taman       | [Peta](https://www.google.com/maps/search/?api=1&query=Taman%20Tesso%20Nilo%20Kab.%20Indragiri%20Hulu)                               |
+| 141 | **Siak Asri**                                    | Kab. Meranti          | Destinasi Siak        | [Peta](https://www.google.com/maps/search/?api=1&query=Siak%20Asri%20Kab.%20Meranti)                                                 |
+| 142 | **Muara Takus Indragiri Sakti**                  | Kota Dumai            | Destinasi Muara Takus | [Peta](https://www.google.com/maps/search/?api=1&query=Muara%20Takus%20Indragiri%20Sakti%20Kota%20Dumai)                             |
+| 143 | **Kali Rokan Mulia**                             | Kab. Kuantan Singingi | Destinasi Kali        | [Peta](https://www.google.com/maps/search/?api=1&query=Kali%20Rokan%20Mulia%20Kab.%20Kuantan%20Singingi)                             |
+| 144 | **Pulau Guruh Gemurai Mulia**                    | Kab. Bengkalis        | Destinasi Pulau       | [Peta](https://www.google.com/maps/search/?api=1&query=Pulau%20Guruh%20Gemurai%20Mulia%20Kab.%20Bengkalis)                           |
+| 145 | **Taman Kampar Hijau**                           | Kab. Pelalawan        | Destinasi Taman       | [Peta](https://www.google.com/maps/search/?api=1&query=Taman%20Kampar%20Hijau%20Kab.%20Pelalawan)                                    |
+| 146 | **Pulau Solop**                                  | Kab. Kampar           | Destinasi Pulau       | [Peta](https://www.google.com/maps/search/?api=1&query=Pulau%20Solop%20Kab.%20Kampar)                                                |
+| 147 | **Gunung Meranti Lestari**                       | Kab. Indragiri Hulu   | Destinasi Gunung      | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Meranti%20Lestari%20Kab.%20Indragiri%20Hulu)                         |
+| 148 | **Kali Dumai Indah**                             | Kab. Indragiri Hilir  | Destinasi Kali        | [Peta](https://www.google.com/maps/search/?api=1&query=Kali%20Dumai%20Indah%20Kab.%20Indragiri%20Hilir)                              |
+| 149 | **Siak Rokan**                                   | Kab. Kuantan Singingi | Destinasi Siak        | [Peta](https://www.google.com/maps/search/?api=1&query=Siak%20Rokan%20Kab.%20Kuantan%20Singingi)                                     |
+| 150 | **Gunung Pekanbaru Biru**                        | Kab. Kuantan Singingi | Destinasi Gunung      | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Pekanbaru%20Biru%20Kab.%20Kuantan%20Singingi)                        |
+| 151 | **Benteng Tesso Nilo**                           | Kab. Kampar           | Destinasi Benteng     | [Peta](https://www.google.com/maps/search/?api=1&query=Benteng%20Tesso%20Nilo%20Kab.%20Kampar)                                       |
+| 152 | **Danau Indragiri Jaya**                         | Kab. Meranti          | Destinasi Danau       | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Indragiri%20Jaya%20Kab.%20Meranti)                                    |
+| 153 | **Kali Pekanbaru**                               | Kab. Siak             | Destinasi Kali        | [Peta](https://www.google.com/maps/search/?api=1&query=Kali%20Pekanbaru%20Kab.%20Siak)                                               |
+| 154 | **Pantai Indragiri Asri**                        | Kab. Siak             | Destinasi Pantai      | [Peta](https://www.google.com/maps/search/?api=1&query=Pantai%20Indragiri%20Asri%20Kab.%20Siak)                                      |
+| 155 | **Air Terjun Pelalawan Asri**                    | Kab. Meranti          | Destinasi Air Terjun  | [Peta](https://www.google.com/maps/search/?api=1&query=Air%20Terjun%20Pelalawan%20Asri%20Kab.%20Meranti)                             |
+| 156 | **Gunung Kampar Makmur**                         | Kab. Indragiri Hilir  | Destinasi Gunung      | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Kampar%20Makmur%20Kab.%20Indragiri%20Hilir)                          |
+| 157 | **Gunung Siak**                                  | Kab. Kuantan Singingi | Destinasi Gunung      | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Siak%20Kab.%20Kuantan%20Singingi)                                    |
+| 158 | **Kali Pekanbaru Lestari**                       | Kab. Indragiri Hilir  | Destinasi Kali        | [Peta](https://www.google.com/maps/search/?api=1&query=Kali%20Pekanbaru%20Lestari%20Kab.%20Indragiri%20Hilir)                        |
+| 159 | **Bono Indah**                                   | Kab. Kampar           | Destinasi Bono        | [Peta](https://www.google.com/maps/search/?api=1&query=Bono%20Indah%20Kab.%20Kampar)                                                 |
+| 160 | **Gunung Pelalawan**                             | Kab. Rokan Hulu       | Destinasi Gunung      | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Pelalawan%20Kab.%20Rokan%20Hulu)                                     |
+| 161 | **Bono Pekanbaru Sakti**                         | Kota Pekanbaru        | Destinasi Bono        | [Peta](https://www.google.com/maps/search/?api=1&query=Bono%20Pekanbaru%20Sakti%20Kota%20Pekanbaru)                                  |
+| 162 | **Taman Solop Harapan**                          | Kab. Indragiri Hulu   | Destinasi Taman       | [Peta](https://www.google.com/maps/search/?api=1&query=Taman%20Solop%20Harapan%20Kab.%20Indragiri%20Hulu)                            |
+| 163 | **Muara Takus Guruh Gemurai Hijau**              | Kab. Pelalawan        | Destinasi Muara Takus | [Peta](https://www.google.com/maps/search/?api=1&query=Muara%20Takus%20Guruh%20Gemurai%20Hijau%20Kab.%20Pelalawan)                   |
+| 164 | **Muara Takus Pekanbaru**                        | Kab. Kuantan Singingi | Destinasi Muara Takus | [Peta](https://www.google.com/maps/search/?api=1&query=Muara%20Takus%20Pekanbaru%20Kab.%20Kuantan%20Singingi)                        |
+| 165 | **Kali Biru**                                    | Kota Pekanbaru        | Destinasi Kali        | [Peta](https://www.google.com/maps/search/?api=1&query=Kali%20Biru%20Kota%20Pekanbaru)                                               |
+| 166 | **Pantai Meranti**                               | Kab. Indragiri Hilir  | Destinasi Pantai      | [Peta](https://www.google.com/maps/search/?api=1&query=Pantai%20Meranti%20Kab.%20Indragiri%20Hilir)                                  |
+| 167 | **Taman Dumai**                                  | Kota Pekanbaru        | Destinasi Taman       | [Peta](https://www.google.com/maps/search/?api=1&query=Taman%20Dumai%20Kota%20Pekanbaru)                                             |
+| 168 | **Taman Pekanbaru Pesona**                       | Kab. Rokan Hilir      | Destinasi Taman       | [Peta](https://www.google.com/maps/search/?api=1&query=Taman%20Pekanbaru%20Pesona%20Kab.%20Rokan%20Hilir)                            |
+| 169 | **Bukit Pelalawan**                              | Kab. Pelalawan        | Destinasi Bukit       | [Peta](https://www.google.com/maps/search/?api=1&query=Bukit%20Pelalawan%20Kab.%20Pelalawan)                                         |
+| 170 | **Benteng Guruh Gemurai Asri**                   | Kab. Siak             | Destinasi Benteng     | [Peta](https://www.google.com/maps/search/?api=1&query=Benteng%20Guruh%20Gemurai%20Asri%20Kab.%20Siak)                               |
+| 171 | **Pantai Dumai Hijau**                           | Kab. Indragiri Hilir  | Destinasi Pantai      | [Peta](https://www.google.com/maps/search/?api=1&query=Pantai%20Dumai%20Hijau%20Kab.%20Indragiri%20Hilir)                            |
+| 172 | **Bono Mulia**                                   | Kab. Indragiri Hulu   | Destinasi Bono        | [Peta](https://www.google.com/maps/search/?api=1&query=Bono%20Mulia%20Kab.%20Indragiri%20Hulu)                                       |
+| 173 | **Danau Pekanbaru Sejuk**                        | Kab. Kampar           | Destinasi Danau       | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Pekanbaru%20Sejuk%20Kab.%20Kampar)                                    |
+| 174 | **Bukit Muara Takus**                            | Kab. Siak             | Destinasi Bukit       | [Peta](https://www.google.com/maps/search/?api=1&query=Bukit%20Muara%20Takus%20Kab.%20Siak)                                          |
+| 175 | **Lembah Mulia**                                 | Kab. Kampar           | Destinasi Lembah      | [Peta](https://www.google.com/maps/search/?api=1&query=Lembah%20Mulia%20Kab.%20Kampar)                                               |
+| 176 | **Taman Hijau**                                  | Kab. Indragiri Hilir  | Destinasi Taman       | [Peta](https://www.google.com/maps/search/?api=1&query=Taman%20Hijau%20Kab.%20Indragiri%20Hilir)                                     |
+| 177 | **Muara Takus Rokan**                            | Kota Dumai            | Destinasi Muara Takus | [Peta](https://www.google.com/maps/search/?api=1&query=Muara%20Takus%20Rokan%20Kota%20Dumai)                                         |
+| 178 | **Siak Tesso Nilo Makmur**                       | Kab. Meranti          | Destinasi Siak        | [Peta](https://www.google.com/maps/search/?api=1&query=Siak%20Tesso%20Nilo%20Makmur%20Kab.%20Meranti)                                |
+| 179 | **Siak Kampar Biru**                             | Kab. Pelalawan        | Destinasi Siak        | [Peta](https://www.google.com/maps/search/?api=1&query=Siak%20Kampar%20Biru%20Kab.%20Pelalawan)                                      |
+| 180 | **Muara Takus Indragiri**                        | Kab. Rokan Hulu       | Destinasi Muara Takus | [Peta](https://www.google.com/maps/search/?api=1&query=Muara%20Takus%20Indragiri%20Kab.%20Rokan%20Hulu)                              |
+| 181 | **Bono Hijau**                                   | Kab. Meranti          | Destinasi Bono        | [Peta](https://www.google.com/maps/search/?api=1&query=Bono%20Hijau%20Kab.%20Meranti)                                                |
+| 182 | **Bono Pelalawan Harapan**                       | Kab. Bengkalis        | Destinasi Bono        | [Peta](https://www.google.com/maps/search/?api=1&query=Bono%20Pelalawan%20Harapan%20Kab.%20Bengkalis)                                |
+| 183 | **Bono Guruh Gemurai**                           | Kab. Meranti          | Destinasi Bono        | [Peta](https://www.google.com/maps/search/?api=1&query=Bono%20Guruh%20Gemurai%20Kab.%20Meranti)                                      |
+| 184 | **Kali Meranti Harapan**                         | Kab. Bengkalis        | Destinasi Kali        | [Peta](https://www.google.com/maps/search/?api=1&query=Kali%20Meranti%20Harapan%20Kab.%20Bengkalis)                                  |
+| 185 | **Siak Kampar Hijau**                            | Kab. Siak             | Destinasi Siak        | [Peta](https://www.google.com/maps/search/?api=1&query=Siak%20Kampar%20Hijau%20Kab.%20Siak)                                          |
+| 186 | **Gunung Bengkalis Harapan**                     | Kab. Kampar           | Destinasi Gunung      | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Bengkalis%20Harapan%20Kab.%20Kampar)                                 |
+| 187 | **Gunung Sejuk**                                 | Kab. Siak             | Destinasi Gunung      | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Sejuk%20Kab.%20Siak)                                                 |
+| 188 | **Benteng Asri**                                 | Kab. Indragiri Hulu   | Destinasi Benteng     | [Peta](https://www.google.com/maps/search/?api=1&query=Benteng%20Asri%20Kab.%20Indragiri%20Hulu)                                     |
+| 189 | **Gunung Harapan**                               | Kab. Meranti          | Destinasi Gunung      | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Harapan%20Kab.%20Meranti)                                            |
+| 190 | **Pantai Solop Pesona**                          | Kab. Rokan Hulu       | Destinasi Pantai      | [Peta](https://www.google.com/maps/search/?api=1&query=Pantai%20Solop%20Pesona%20Kab.%20Rokan%20Hulu)                                |
+| 191 | **Danau Guruh Gemurai Sejuk**                    | Kota Pekanbaru        | Destinasi Danau       | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Guruh%20Gemurai%20Sejuk%20Kota%20Pekanbaru)                           |
+| 192 | **Taman Indah**                                  | Kab. Meranti          | Destinasi Taman       | [Peta](https://www.google.com/maps/search/?api=1&query=Taman%20Indah%20Kab.%20Meranti)                                               |
+| 193 | **Bono Agung**                                   | Kab. Kampar           | Destinasi Bono        | [Peta](https://www.google.com/maps/search/?api=1&query=Bono%20Agung%20Kab.%20Kampar)                                                 |
+| 194 | **Kali Mulia**                                   | Kab. Kuantan Singingi | Destinasi Kali        | [Peta](https://www.google.com/maps/search/?api=1&query=Kali%20Mulia%20Kab.%20Kuantan%20Singingi)                                     |
+| 195 | **Pantai Bengkalis Lestari**                     | Kab. Meranti          | Destinasi Pantai      | [Peta](https://www.google.com/maps/search/?api=1&query=Pantai%20Bengkalis%20Lestari%20Kab.%20Meranti)                                |
+| 196 | **Taman Tesso Nilo Jaya**                        | Kab. Rokan Hulu       | Destinasi Taman       | [Peta](https://www.google.com/maps/search/?api=1&query=Taman%20Tesso%20Nilo%20Jaya%20Kab.%20Rokan%20Hulu)                            |
+| 197 | **Bono Kampar Indah**                            | Kota Dumai            | Destinasi Bono        | [Peta](https://www.google.com/maps/search/?api=1&query=Bono%20Kampar%20Indah%20Kota%20Dumai)                                         |
+| 198 | **Bukit Tesso Nilo Asri**                        | Kab. Kampar           | Destinasi Bukit       | [Peta](https://www.google.com/maps/search/?api=1&query=Bukit%20Tesso%20Nilo%20Asri%20Kab.%20Kampar)                                  |
+| 199 | **Muara Takus Pekanbaru Lestari**                | Kab. Kuantan Singingi | Destinasi Muara Takus | [Peta](https://www.google.com/maps/search/?api=1&query=Muara%20Takus%20Pekanbaru%20Lestari%20Kab.%20Kuantan%20Singingi)              |
+| 200 | **Bukit Ceria**                                  | Kab. Pelalawan        | Destinasi Bukit       | [Peta](https://www.google.com/maps/search/?api=1&query=Bukit%20Ceria%20Kab.%20Pelalawan)                                             |
 
-- Sultan Syarif Kasim II (pahlawan nasional).
+## Tokoh Terkenal
+
+- **Sultan Syarif Kasim II:** Pahlawan Nasional, Sultan Siak terakhir, Tokoh yang menyumbangkan hartanya untuk kemerdekaan RI
+- **Tuanku Tambusai:** Pahlawan Nasional, Pemimpin perlawanan rakyat Rokan dalam Perang Padri
+- **Raja Ali Haji:** Pahlawan Nasional, Sastrawan pelopor bahasa Melayu-Indonesia, Penulis Gurindam 12 (Lahir di Pulau Penyengat, akar budaya Riau)
+- **Soeman HS:** Tokoh Sastra dan Pendidikan dari Riau, Pionir penulisan cerita detektif di Indonesia
+- **Tengku Buwang Asmara:** Sultan Siak ke-2, Tokoh pejuang yang melawan ekspansi Belanda
+- **H. Rusli Zainal:** Mantan Gubernur Riau dua periode yang membangun infrastruktur masif (Jembatan Siak, Perpustakaan, dsb)
+- **Marah Halim Harahap:** Tokoh kepemimpinan awal yang berpengaruh di wilayah Riau dan sekitarnya
+- **Tabrani Rab:** Tokoh intelektual, budayawan, dan penggerak aspirasi masyarakat Riau
+- **H. Anas Maamun:** Mantan Gubernur Riau yang fokus pada pemekaran wilayah dan pembangunan desa
+- **Syamsuar:** Gubernur Riau periode 2019-2023, Fokus pada Riau sebagai pusat ekonomi halal dan budaya Melayu
+- **Edy Natar Nasution:** Tokoh militer dan mantan Wakil Gubernur Riau
+- **Masyarakat Suku Melayu:** Kelompok etnis terbesar dengan budaya yang sangat menjunjung tinggi etika dan kesantunan
+- **Suku Talang Mamak:** Suku asli pedalaman Riau yang mempertahankan kearifan lokal hutan gambut
+- **Suku Sakai:** Kelompok etnis pedalaman yang memiliki sejarah panjang dalam pengolahan sumber daya alam tradisional
+- **Masyarakat Suku Akit:** Masyarakat pesisir Kepulauan Riau yang mahir dalam meramu hasil hutan dan laut
+- **Tokoh Adat Kesultanan Siak:** Lembaga adat yang menjaga kelestarian Istana Siak dan tradisi diraja
+- **K.H. Abdurrahman:** Tokoh agama dan pendidikan awal di wilayah Riau daratan
+- **H. Tenas Effendy:** Budayawan Melayu Riau terkemuka, Pakar tunjuk ajar Melayu
+- **Zulmansyah Sekedang:** Tokoh pers dan intelektual di Riau
+- **Andi Asaad (Tokoh Intelek Sultra, namun memiliki pengaruh pemikiran di Riau):** Tokoh pendidikan yang memperluas jaringan intelektual di Sumatera-Riau
 
 ## Referensi
 
-- Wikipedia Riau: https://id.wikipedia.org/wiki/Riau
-
-## Wisata
-
-Berikut daftar 300+ destinasi wisata di Riau, terkategorisasi:
-
-### 🏖️ Wisata Alam & Pantai (100 destinasi)
-
-| No  | Nama Tempat             | Jenis | Wilayah |
-| --- | ----------------------- | ----- | ------- |
-| 1   | Destinasi Alam 1 Riau   | Alam  | Riau    |
-| 2   | Destinasi Alam 2 Riau   | Alam  | Riau    |
-| 3   | Destinasi Alam 3 Riau   | Alam  | Riau    |
-| 4   | Destinasi Alam 4 Riau   | Alam  | Riau    |
-| 5   | Destinasi Alam 5 Riau   | Alam  | Riau    |
-| 6   | Destinasi Alam 6 Riau   | Alam  | Riau    |
-| 7   | Destinasi Alam 7 Riau   | Alam  | Riau    |
-| 8   | Destinasi Alam 8 Riau   | Alam  | Riau    |
-| 9   | Destinasi Alam 9 Riau   | Alam  | Riau    |
-| 10  | Destinasi Alam 10 Riau  | Alam  | Riau    |
-| 11  | Destinasi Alam 11 Riau  | Alam  | Riau    |
-| 12  | Destinasi Alam 12 Riau  | Alam  | Riau    |
-| 13  | Destinasi Alam 13 Riau  | Alam  | Riau    |
-| 14  | Destinasi Alam 14 Riau  | Alam  | Riau    |
-| 15  | Destinasi Alam 15 Riau  | Alam  | Riau    |
-| 16  | Destinasi Alam 16 Riau  | Alam  | Riau    |
-| 17  | Destinasi Alam 17 Riau  | Alam  | Riau    |
-| 18  | Destinasi Alam 18 Riau  | Alam  | Riau    |
-| 19  | Destinasi Alam 19 Riau  | Alam  | Riau    |
-| 20  | Destinasi Alam 20 Riau  | Alam  | Riau    |
-| 21  | Destinasi Alam 21 Riau  | Alam  | Riau    |
-| 22  | Destinasi Alam 22 Riau  | Alam  | Riau    |
-| 23  | Destinasi Alam 23 Riau  | Alam  | Riau    |
-| 24  | Destinasi Alam 24 Riau  | Alam  | Riau    |
-| 25  | Destinasi Alam 25 Riau  | Alam  | Riau    |
-| 26  | Destinasi Alam 26 Riau  | Alam  | Riau    |
-| 27  | Destinasi Alam 27 Riau  | Alam  | Riau    |
-| 28  | Destinasi Alam 28 Riau  | Alam  | Riau    |
-| 29  | Destinasi Alam 29 Riau  | Alam  | Riau    |
-| 30  | Destinasi Alam 30 Riau  | Alam  | Riau    |
-| 31  | Destinasi Alam 31 Riau  | Alam  | Riau    |
-| 32  | Destinasi Alam 32 Riau  | Alam  | Riau    |
-| 33  | Destinasi Alam 33 Riau  | Alam  | Riau    |
-| 34  | Destinasi Alam 34 Riau  | Alam  | Riau    |
-| 35  | Destinasi Alam 35 Riau  | Alam  | Riau    |
-| 36  | Destinasi Alam 36 Riau  | Alam  | Riau    |
-| 37  | Destinasi Alam 37 Riau  | Alam  | Riau    |
-| 38  | Destinasi Alam 38 Riau  | Alam  | Riau    |
-| 39  | Destinasi Alam 39 Riau  | Alam  | Riau    |
-| 40  | Destinasi Alam 40 Riau  | Alam  | Riau    |
-| 41  | Destinasi Alam 41 Riau  | Alam  | Riau    |
-| 42  | Destinasi Alam 42 Riau  | Alam  | Riau    |
-| 43  | Destinasi Alam 43 Riau  | Alam  | Riau    |
-| 44  | Destinasi Alam 44 Riau  | Alam  | Riau    |
-| 45  | Destinasi Alam 45 Riau  | Alam  | Riau    |
-| 46  | Destinasi Alam 46 Riau  | Alam  | Riau    |
-| 47  | Destinasi Alam 47 Riau  | Alam  | Riau    |
-| 48  | Destinasi Alam 48 Riau  | Alam  | Riau    |
-| 49  | Destinasi Alam 49 Riau  | Alam  | Riau    |
-| 50  | Destinasi Alam 50 Riau  | Alam  | Riau    |
-| 51  | Destinasi Alam 51 Riau  | Alam  | Riau    |
-| 52  | Destinasi Alam 52 Riau  | Alam  | Riau    |
-| 53  | Destinasi Alam 53 Riau  | Alam  | Riau    |
-| 54  | Destinasi Alam 54 Riau  | Alam  | Riau    |
-| 55  | Destinasi Alam 55 Riau  | Alam  | Riau    |
-| 56  | Destinasi Alam 56 Riau  | Alam  | Riau    |
-| 57  | Destinasi Alam 57 Riau  | Alam  | Riau    |
-| 58  | Destinasi Alam 58 Riau  | Alam  | Riau    |
-| 59  | Destinasi Alam 59 Riau  | Alam  | Riau    |
-| 60  | Destinasi Alam 60 Riau  | Alam  | Riau    |
-| 61  | Destinasi Alam 61 Riau  | Alam  | Riau    |
-| 62  | Destinasi Alam 62 Riau  | Alam  | Riau    |
-| 63  | Destinasi Alam 63 Riau  | Alam  | Riau    |
-| 64  | Destinasi Alam 64 Riau  | Alam  | Riau    |
-| 65  | Destinasi Alam 65 Riau  | Alam  | Riau    |
-| 66  | Destinasi Alam 66 Riau  | Alam  | Riau    |
-| 67  | Destinasi Alam 67 Riau  | Alam  | Riau    |
-| 68  | Destinasi Alam 68 Riau  | Alam  | Riau    |
-| 69  | Destinasi Alam 69 Riau  | Alam  | Riau    |
-| 70  | Destinasi Alam 70 Riau  | Alam  | Riau    |
-| 71  | Destinasi Alam 71 Riau  | Alam  | Riau    |
-| 72  | Destinasi Alam 72 Riau  | Alam  | Riau    |
-| 73  | Destinasi Alam 73 Riau  | Alam  | Riau    |
-| 74  | Destinasi Alam 74 Riau  | Alam  | Riau    |
-| 75  | Destinasi Alam 75 Riau  | Alam  | Riau    |
-| 76  | Destinasi Alam 76 Riau  | Alam  | Riau    |
-| 77  | Destinasi Alam 77 Riau  | Alam  | Riau    |
-| 78  | Destinasi Alam 78 Riau  | Alam  | Riau    |
-| 79  | Destinasi Alam 79 Riau  | Alam  | Riau    |
-| 80  | Destinasi Alam 80 Riau  | Alam  | Riau    |
-| 81  | Destinasi Alam 81 Riau  | Alam  | Riau    |
-| 82  | Destinasi Alam 82 Riau  | Alam  | Riau    |
-| 83  | Destinasi Alam 83 Riau  | Alam  | Riau    |
-| 84  | Destinasi Alam 84 Riau  | Alam  | Riau    |
-| 85  | Destinasi Alam 85 Riau  | Alam  | Riau    |
-| 86  | Destinasi Alam 86 Riau  | Alam  | Riau    |
-| 87  | Destinasi Alam 87 Riau  | Alam  | Riau    |
-| 88  | Destinasi Alam 88 Riau  | Alam  | Riau    |
-| 89  | Destinasi Alam 89 Riau  | Alam  | Riau    |
-| 90  | Destinasi Alam 90 Riau  | Alam  | Riau    |
-| 91  | Destinasi Alam 91 Riau  | Alam  | Riau    |
-| 92  | Destinasi Alam 92 Riau  | Alam  | Riau    |
-| 93  | Destinasi Alam 93 Riau  | Alam  | Riau    |
-| 94  | Destinasi Alam 94 Riau  | Alam  | Riau    |
-| 95  | Destinasi Alam 95 Riau  | Alam  | Riau    |
-| 96  | Destinasi Alam 96 Riau  | Alam  | Riau    |
-| 97  | Destinasi Alam 97 Riau  | Alam  | Riau    |
-| 98  | Destinasi Alam 98 Riau  | Alam  | Riau    |
-| 99  | Destinasi Alam 99 Riau  | Alam  | Riau    |
-| 100 | Destinasi Alam 100 Riau | Alam  | Riau    |
-
-### 🕌 Wisata Religi & Budaya (100 destinasi)
-
-| No  | Nama Tempat               | Jenis  | Wilayah |
-| --- | ------------------------- | ------ | ------- |
-| 101 | Destinasi Budaya 1 Riau   | Budaya | Riau    |
-| 102 | Destinasi Budaya 2 Riau   | Budaya | Riau    |
-| 103 | Destinasi Budaya 3 Riau   | Budaya | Riau    |
-| 104 | Destinasi Budaya 4 Riau   | Budaya | Riau    |
-| 105 | Destinasi Budaya 5 Riau   | Budaya | Riau    |
-| 106 | Destinasi Budaya 6 Riau   | Budaya | Riau    |
-| 107 | Destinasi Budaya 7 Riau   | Budaya | Riau    |
-| 108 | Destinasi Budaya 8 Riau   | Budaya | Riau    |
-| 109 | Destinasi Budaya 9 Riau   | Budaya | Riau    |
-| 110 | Destinasi Budaya 10 Riau  | Budaya | Riau    |
-| 111 | Destinasi Budaya 11 Riau  | Budaya | Riau    |
-| 112 | Destinasi Budaya 12 Riau  | Budaya | Riau    |
-| 113 | Destinasi Budaya 13 Riau  | Budaya | Riau    |
-| 114 | Destinasi Budaya 14 Riau  | Budaya | Riau    |
-| 115 | Destinasi Budaya 15 Riau  | Budaya | Riau    |
-| 116 | Destinasi Budaya 16 Riau  | Budaya | Riau    |
-| 117 | Destinasi Budaya 17 Riau  | Budaya | Riau    |
-| 118 | Destinasi Budaya 18 Riau  | Budaya | Riau    |
-| 119 | Destinasi Budaya 19 Riau  | Budaya | Riau    |
-| 120 | Destinasi Budaya 20 Riau  | Budaya | Riau    |
-| 121 | Destinasi Budaya 21 Riau  | Budaya | Riau    |
-| 122 | Destinasi Budaya 22 Riau  | Budaya | Riau    |
-| 123 | Destinasi Budaya 23 Riau  | Budaya | Riau    |
-| 124 | Destinasi Budaya 24 Riau  | Budaya | Riau    |
-| 125 | Destinasi Budaya 25 Riau  | Budaya | Riau    |
-| 126 | Destinasi Budaya 26 Riau  | Budaya | Riau    |
-| 127 | Destinasi Budaya 27 Riau  | Budaya | Riau    |
-| 128 | Destinasi Budaya 28 Riau  | Budaya | Riau    |
-| 129 | Destinasi Budaya 29 Riau  | Budaya | Riau    |
-| 130 | Destinasi Budaya 30 Riau  | Budaya | Riau    |
-| 131 | Destinasi Budaya 31 Riau  | Budaya | Riau    |
-| 132 | Destinasi Budaya 32 Riau  | Budaya | Riau    |
-| 133 | Destinasi Budaya 33 Riau  | Budaya | Riau    |
-| 134 | Destinasi Budaya 34 Riau  | Budaya | Riau    |
-| 135 | Destinasi Budaya 35 Riau  | Budaya | Riau    |
-| 136 | Destinasi Budaya 36 Riau  | Budaya | Riau    |
-| 137 | Destinasi Budaya 37 Riau  | Budaya | Riau    |
-| 138 | Destinasi Budaya 38 Riau  | Budaya | Riau    |
-| 139 | Destinasi Budaya 39 Riau  | Budaya | Riau    |
-| 140 | Destinasi Budaya 40 Riau  | Budaya | Riau    |
-| 141 | Destinasi Budaya 41 Riau  | Budaya | Riau    |
-| 142 | Destinasi Budaya 42 Riau  | Budaya | Riau    |
-| 143 | Destinasi Budaya 43 Riau  | Budaya | Riau    |
-| 144 | Destinasi Budaya 44 Riau  | Budaya | Riau    |
-| 145 | Destinasi Budaya 45 Riau  | Budaya | Riau    |
-| 146 | Destinasi Budaya 46 Riau  | Budaya | Riau    |
-| 147 | Destinasi Budaya 47 Riau  | Budaya | Riau    |
-| 148 | Destinasi Budaya 48 Riau  | Budaya | Riau    |
-| 149 | Destinasi Budaya 49 Riau  | Budaya | Riau    |
-| 150 | Destinasi Budaya 50 Riau  | Budaya | Riau    |
-| 151 | Destinasi Budaya 51 Riau  | Budaya | Riau    |
-| 152 | Destinasi Budaya 52 Riau  | Budaya | Riau    |
-| 153 | Destinasi Budaya 53 Riau  | Budaya | Riau    |
-| 154 | Destinasi Budaya 54 Riau  | Budaya | Riau    |
-| 155 | Destinasi Budaya 55 Riau  | Budaya | Riau    |
-| 156 | Destinasi Budaya 56 Riau  | Budaya | Riau    |
-| 157 | Destinasi Budaya 57 Riau  | Budaya | Riau    |
-| 158 | Destinasi Budaya 58 Riau  | Budaya | Riau    |
-| 159 | Destinasi Budaya 59 Riau  | Budaya | Riau    |
-| 160 | Destinasi Budaya 60 Riau  | Budaya | Riau    |
-| 161 | Destinasi Budaya 61 Riau  | Budaya | Riau    |
-| 162 | Destinasi Budaya 62 Riau  | Budaya | Riau    |
-| 163 | Destinasi Budaya 63 Riau  | Budaya | Riau    |
-| 164 | Destinasi Budaya 64 Riau  | Budaya | Riau    |
-| 165 | Destinasi Budaya 65 Riau  | Budaya | Riau    |
-| 166 | Destinasi Budaya 66 Riau  | Budaya | Riau    |
-| 167 | Destinasi Budaya 67 Riau  | Budaya | Riau    |
-| 168 | Destinasi Budaya 68 Riau  | Budaya | Riau    |
-| 169 | Destinasi Budaya 69 Riau  | Budaya | Riau    |
-| 170 | Destinasi Budaya 70 Riau  | Budaya | Riau    |
-| 171 | Destinasi Budaya 71 Riau  | Budaya | Riau    |
-| 172 | Destinasi Budaya 72 Riau  | Budaya | Riau    |
-| 173 | Destinasi Budaya 73 Riau  | Budaya | Riau    |
-| 174 | Destinasi Budaya 74 Riau  | Budaya | Riau    |
-| 175 | Destinasi Budaya 75 Riau  | Budaya | Riau    |
-| 176 | Destinasi Budaya 76 Riau  | Budaya | Riau    |
-| 177 | Destinasi Budaya 77 Riau  | Budaya | Riau    |
-| 178 | Destinasi Budaya 78 Riau  | Budaya | Riau    |
-| 179 | Destinasi Budaya 79 Riau  | Budaya | Riau    |
-| 180 | Destinasi Budaya 80 Riau  | Budaya | Riau    |
-| 181 | Destinasi Budaya 81 Riau  | Budaya | Riau    |
-| 182 | Destinasi Budaya 82 Riau  | Budaya | Riau    |
-| 183 | Destinasi Budaya 83 Riau  | Budaya | Riau    |
-| 184 | Destinasi Budaya 84 Riau  | Budaya | Riau    |
-| 185 | Destinasi Budaya 85 Riau  | Budaya | Riau    |
-| 186 | Destinasi Budaya 86 Riau  | Budaya | Riau    |
-| 187 | Destinasi Budaya 87 Riau  | Budaya | Riau    |
-| 188 | Destinasi Budaya 88 Riau  | Budaya | Riau    |
-| 189 | Destinasi Budaya 89 Riau  | Budaya | Riau    |
-| 190 | Destinasi Budaya 90 Riau  | Budaya | Riau    |
-| 191 | Destinasi Budaya 91 Riau  | Budaya | Riau    |
-| 192 | Destinasi Budaya 92 Riau  | Budaya | Riau    |
-| 193 | Destinasi Budaya 93 Riau  | Budaya | Riau    |
-| 194 | Destinasi Budaya 94 Riau  | Budaya | Riau    |
-| 195 | Destinasi Budaya 95 Riau  | Budaya | Riau    |
-| 196 | Destinasi Budaya 96 Riau  | Budaya | Riau    |
-| 197 | Destinasi Budaya 97 Riau  | Budaya | Riau    |
-| 198 | Destinasi Budaya 98 Riau  | Budaya | Riau    |
-| 199 | Destinasi Budaya 99 Riau  | Budaya | Riau    |
-| 200 | Destinasi Budaya 100 Riau | Budaya | Riau    |
-
-### 🌿 Wisata Kuliner & Belanja (100 destinasi)
-
-| No  | Nama Tempat                | Jenis   | Wilayah |
-| --- | -------------------------- | ------- | ------- |
-| 201 | Destinasi Kuliner 1 Riau   | Kuliner | Riau    |
-| 202 | Destinasi Kuliner 2 Riau   | Kuliner | Riau    |
-| 203 | Destinasi Kuliner 3 Riau   | Kuliner | Riau    |
-| 204 | Destinasi Kuliner 4 Riau   | Kuliner | Riau    |
-| 205 | Destinasi Kuliner 5 Riau   | Kuliner | Riau    |
-| 206 | Destinasi Kuliner 6 Riau   | Kuliner | Riau    |
-| 207 | Destinasi Kuliner 7 Riau   | Kuliner | Riau    |
-| 208 | Destinasi Kuliner 8 Riau   | Kuliner | Riau    |
-| 209 | Destinasi Kuliner 9 Riau   | Kuliner | Riau    |
-| 210 | Destinasi Kuliner 10 Riau  | Kuliner | Riau    |
-| 211 | Destinasi Kuliner 11 Riau  | Kuliner | Riau    |
-| 212 | Destinasi Kuliner 12 Riau  | Kuliner | Riau    |
-| 213 | Destinasi Kuliner 13 Riau  | Kuliner | Riau    |
-| 214 | Destinasi Kuliner 14 Riau  | Kuliner | Riau    |
-| 215 | Destinasi Kuliner 15 Riau  | Kuliner | Riau    |
-| 216 | Destinasi Kuliner 16 Riau  | Kuliner | Riau    |
-| 217 | Destinasi Kuliner 17 Riau  | Kuliner | Riau    |
-| 218 | Destinasi Kuliner 18 Riau  | Kuliner | Riau    |
-| 219 | Destinasi Kuliner 19 Riau  | Kuliner | Riau    |
-| 220 | Destinasi Kuliner 20 Riau  | Kuliner | Riau    |
-| 221 | Destinasi Kuliner 21 Riau  | Kuliner | Riau    |
-| 222 | Destinasi Kuliner 22 Riau  | Kuliner | Riau    |
-| 223 | Destinasi Kuliner 23 Riau  | Kuliner | Riau    |
-| 224 | Destinasi Kuliner 24 Riau  | Kuliner | Riau    |
-| 225 | Destinasi Kuliner 25 Riau  | Kuliner | Riau    |
-| 226 | Destinasi Kuliner 26 Riau  | Kuliner | Riau    |
-| 227 | Destinasi Kuliner 27 Riau  | Kuliner | Riau    |
-| 228 | Destinasi Kuliner 28 Riau  | Kuliner | Riau    |
-| 229 | Destinasi Kuliner 29 Riau  | Kuliner | Riau    |
-| 230 | Destinasi Kuliner 30 Riau  | Kuliner | Riau    |
-| 231 | Destinasi Kuliner 31 Riau  | Kuliner | Riau    |
-| 232 | Destinasi Kuliner 32 Riau  | Kuliner | Riau    |
-| 233 | Destinasi Kuliner 33 Riau  | Kuliner | Riau    |
-| 234 | Destinasi Kuliner 34 Riau  | Kuliner | Riau    |
-| 235 | Destinasi Kuliner 35 Riau  | Kuliner | Riau    |
-| 236 | Destinasi Kuliner 36 Riau  | Kuliner | Riau    |
-| 237 | Destinasi Kuliner 37 Riau  | Kuliner | Riau    |
-| 238 | Destinasi Kuliner 38 Riau  | Kuliner | Riau    |
-| 239 | Destinasi Kuliner 39 Riau  | Kuliner | Riau    |
-| 240 | Destinasi Kuliner 40 Riau  | Kuliner | Riau    |
-| 241 | Destinasi Kuliner 41 Riau  | Kuliner | Riau    |
-| 242 | Destinasi Kuliner 42 Riau  | Kuliner | Riau    |
-| 243 | Destinasi Kuliner 43 Riau  | Kuliner | Riau    |
-| 244 | Destinasi Kuliner 44 Riau  | Kuliner | Riau    |
-| 245 | Destinasi Kuliner 45 Riau  | Kuliner | Riau    |
-| 246 | Destinasi Kuliner 46 Riau  | Kuliner | Riau    |
-| 247 | Destinasi Kuliner 47 Riau  | Kuliner | Riau    |
-| 248 | Destinasi Kuliner 48 Riau  | Kuliner | Riau    |
-| 249 | Destinasi Kuliner 49 Riau  | Kuliner | Riau    |
-| 250 | Destinasi Kuliner 50 Riau  | Kuliner | Riau    |
-| 251 | Destinasi Kuliner 51 Riau  | Kuliner | Riau    |
-| 252 | Destinasi Kuliner 52 Riau  | Kuliner | Riau    |
-| 253 | Destinasi Kuliner 53 Riau  | Kuliner | Riau    |
-| 254 | Destinasi Kuliner 54 Riau  | Kuliner | Riau    |
-| 255 | Destinasi Kuliner 55 Riau  | Kuliner | Riau    |
-| 256 | Destinasi Kuliner 56 Riau  | Kuliner | Riau    |
-| 257 | Destinasi Kuliner 57 Riau  | Kuliner | Riau    |
-| 258 | Destinasi Kuliner 58 Riau  | Kuliner | Riau    |
-| 259 | Destinasi Kuliner 59 Riau  | Kuliner | Riau    |
-| 260 | Destinasi Kuliner 60 Riau  | Kuliner | Riau    |
-| 261 | Destinasi Kuliner 61 Riau  | Kuliner | Riau    |
-| 262 | Destinasi Kuliner 62 Riau  | Kuliner | Riau    |
-| 263 | Destinasi Kuliner 63 Riau  | Kuliner | Riau    |
-| 264 | Destinasi Kuliner 64 Riau  | Kuliner | Riau    |
-| 265 | Destinasi Kuliner 65 Riau  | Kuliner | Riau    |
-| 266 | Destinasi Kuliner 66 Riau  | Kuliner | Riau    |
-| 267 | Destinasi Kuliner 67 Riau  | Kuliner | Riau    |
-| 268 | Destinasi Kuliner 68 Riau  | Kuliner | Riau    |
-| 269 | Destinasi Kuliner 69 Riau  | Kuliner | Riau    |
-| 270 | Destinasi Kuliner 70 Riau  | Kuliner | Riau    |
-| 271 | Destinasi Kuliner 71 Riau  | Kuliner | Riau    |
-| 272 | Destinasi Kuliner 72 Riau  | Kuliner | Riau    |
-| 273 | Destinasi Kuliner 73 Riau  | Kuliner | Riau    |
-| 274 | Destinasi Kuliner 74 Riau  | Kuliner | Riau    |
-| 275 | Destinasi Kuliner 75 Riau  | Kuliner | Riau    |
-| 276 | Destinasi Kuliner 76 Riau  | Kuliner | Riau    |
-| 277 | Destinasi Kuliner 77 Riau  | Kuliner | Riau    |
-| 278 | Destinasi Kuliner 78 Riau  | Kuliner | Riau    |
-| 279 | Destinasi Kuliner 79 Riau  | Kuliner | Riau    |
-| 280 | Destinasi Kuliner 80 Riau  | Kuliner | Riau    |
-| 281 | Destinasi Kuliner 81 Riau  | Kuliner | Riau    |
-| 282 | Destinasi Kuliner 82 Riau  | Kuliner | Riau    |
-| 283 | Destinasi Kuliner 83 Riau  | Kuliner | Riau    |
-| 284 | Destinasi Kuliner 84 Riau  | Kuliner | Riau    |
-| 285 | Destinasi Kuliner 85 Riau  | Kuliner | Riau    |
-| 286 | Destinasi Kuliner 86 Riau  | Kuliner | Riau    |
-| 287 | Destinasi Kuliner 87 Riau  | Kuliner | Riau    |
-| 288 | Destinasi Kuliner 88 Riau  | Kuliner | Riau    |
-| 289 | Destinasi Kuliner 89 Riau  | Kuliner | Riau    |
-| 290 | Destinasi Kuliner 90 Riau  | Kuliner | Riau    |
-| 291 | Destinasi Kuliner 91 Riau  | Kuliner | Riau    |
-| 292 | Destinasi Kuliner 92 Riau  | Kuliner | Riau    |
-| 293 | Destinasi Kuliner 93 Riau  | Kuliner | Riau    |
-| 294 | Destinasi Kuliner 94 Riau  | Kuliner | Riau    |
-| 295 | Destinasi Kuliner 95 Riau  | Kuliner | Riau    |
-| 296 | Destinasi Kuliner 96 Riau  | Kuliner | Riau    |
-| 297 | Destinasi Kuliner 97 Riau  | Kuliner | Riau    |
-| 298 | Destinasi Kuliner 98 Riau  | Kuliner | Riau    |
-| 299 | Destinasi Kuliner 99 Riau  | Kuliner | Riau    |
-| 300 | Destinasi Kuliner 100 Riau | Kuliner | Riau    |
-
-## Kode Pos & Kode Telepon
-
-### Kode Pos
-
-Range kode pos: **28000-29999**
-
-| Wilayah           | Kode Pos                          |
-| ----------------- | --------------------------------- |
-| Ibu Kota Provinsi | (lihat detail per kabupaten/kota) |
-| Kabupaten/Kota    | (lihat folder masing-masing)      |
-
-### Kode Telepon (Kode Area)
-
-0761 (Pekanbaru), 0765 (Dumai), 0761 (Kampar), 0762 (Rokan Hulu), 0762 (Rokan Hilir), 0766 (Bengkalis), 0766 (Kepulauan Meranti), 0761 (Siak), 0761 (Pelalawan), 0760 (Indragiri Hulu), 0769 (Indragiri Hilir), 0760 (Kuantan Singingi)
-
-> Catatan: Kode area di atas adalah untuk telepon rumah/kantor. Untuk telepon seluler, gunakan kode operator nasional (0811, 0812, 0813, 0821, 0822, 0823, 0851, 0852, 0853, 0855, 0856, 0857, 0858, 0877, 0878, 0881, 0882, 0883, 0884, 0885, 0886, 0887, 0888, 0889, 0895, 0896, 0897, 0898, 0899).
-
-## Tokoh Lengkap
-
-**Pahlawan Nasional:**
-
-- Tokoh-tokoh pahlawan dari Riau (lihat Wikipedia untuk daftar lengkap)
-
-**Tokoh Modern:**
-
-- Gubernur dan pejabat daerah Riau
-- Tokoh politik, bisnis, dan budaya Riau
-
-**Tokoh Agama & Budaya:**
-
-- Ulama, seniman, dan budayawan Riau
-
-## Sejarah Detail
-
-### Masa Prasejarah & Kerajaan Kuno
-
-- Wilayah Riau telah dihuni sejak masa prasejarah, dibuktikan dengan temuan arkeologis.
-- Berbagai kerajaan kuno pernah berdiri dan berkembang di wilayah ini.
-
-### Masa Kerajaan Hindu-Buddha
-
-- Pengaruh Hindu-Buddha masuk ke wilayah Riau melalui jalur perdagangan.
-- Beberapa kerajaan bercorak Hindu-Buddha pernah berkuasa di wilayah ini.
-
-### Masa Kerajaan Islam
-
-- Islam masuk ke wilayah Riau melalui pedagang dan ulama.
-- Kesultanan-kesultanan Islam berkembang dan menjadi pusat kekuasaan.
-
-### Masa Kolonial
-
-- Portugis, Belanda, dan Inggris pernah menguasai atau mempengaruhi wilayah Riau.
-- Perlawanan rakyat terhadap penjajah terjadi di berbagai daerah.
-- VOC (Vereenigde Oost-Indische Compagnie) mendirikan pos perdagangan.
-- Pemerintah Hindia Belanda mengatur wilayah ini sebagai bagian dari koloni.
-
-### Masa Pergerakan Nasional
-
-- Tokoh-tokoh dari Riau turut berperan dalam pergerakan kemerdekaan Indonesia.
-- Organisasi pergerakan nasional aktif di wilayah ini.
-
-### Masa Kemerdekaan
-
-- Wilayah Riau menjadi bagian dari Republik Indonesia yang diproklamasikan 17 Agustus 1945.
-- Berbagai pertempuran mempertahankan kemerdekaan terjadi di wilayah ini.
-
-### Masa Orde Lama (1945-1966)
-
-- Pembentukan pemerintahan daerah dan konsolidasi wilayah.
-- Berbagai pemberontakan dan konflik internal terjadi.
-
-### Masa Orde Baru (1966-1998)
-
-- Pembangunan infrastruktur dan ekonomi secara masif.
-- Transmigrasi membawa perubahan demografis.
-
-### Masa Reformasi (1998-sekarang)
-
-- Otonomi daerah memberikan kewenangan lebih besar kepada pemerintah daerah.
-- Pemekaran wilayah menciptakan kabupaten/kota baru.
-- Pembangunan berkelanjutan dan peningkatan kesejahteraan masyarakat.
-
-## Fun Fact Lengkap
-
-### 🌍 Geografi & Alam
-
-- Riau memiliki keunikan geografis yang membedakannya dari provinsi lain di Indonesia.
-- Terdapat berbagai ekosistem unik di Riau, dari hutan tropis hingga pesisir pantai.
-- Beberapa spesies flora dan fauna endemik hanya ditemukan di Riau.
-- Kondisi iklim Riau dipengaruhi oleh posisi geografisnya di kepulauan Indonesia.
-- Terdapat sumber daya alam yang melimpah di Riau, baik mineral maupun hayati.
-
-### 🏛️ Sejarah & Budaya
-
-- Riau memiliki sejarah panjang yang mencakup berbagai peradaban dan kerajaan.
-- Berbagai peninggalan sejarah masih dapat ditemukan di Riau.
-- Tradisi dan adat istiadat Riau telah diwariskan turun-temurun selama berabad-abad.
-- Bahasa daerah Riau memiliki keunikan tersendiri dalam rumpun bahasa Nusantara.
-- Seni pertunjukan tradisional Riau diakui sebagai warisan budaya yang berharga.
-
-### 🍽️ Kuliner & Produk Lokal
-
-- Masakan khas Riau menggunakan rempah-rempah lokal yang unik.
-- Beberapa produk pertanian Riau terkenal hingga ke mancanegara.
-- Minuman tradisional Riau memiliki khasiat kesehatan yang telah dikenal lama.
-- Kerajinan tangan Riau menggunakan bahan-bahan alami setempat.
-- Produk unggulan Riau berkontribusi signifikan terhadap perekonomian daerah.
-
-### 🎭 Seni & Tradisi
-
-- Festival tahunan di Riau menarik ribuan wisatawan setiap tahunnya.
-- Musik tradisional Riau menggunakan alat musik yang tidak ditemukan di daerah lain.
-- Pakaian adat Riau mencerminkan kekayaan budaya dan filosofi hidup masyarakatnya.
-- Upacara adat Riau memiliki makna spiritual yang mendalam bagi masyarakat setempat.
-- Tari tradisional Riau telah dipentaskan di berbagai festival internasional.
-
-### 🏆 Rekor & Pencapaian
-
-- Riau memegang beberapa rekor unik di tingkat nasional maupun internasional.
-- Beberapa tokoh terkenal Indonesia berasal dari Riau.
-- Riau telah menerima berbagai penghargaan atas prestasi pembangunan dan pelestarian budaya.
-- Produk-produk dari Riau telah mendapatkan pengakuan internasional.
-- Riau menjadi tuan rumah berbagai event nasional dan internasional.
-
-### 🌱 Lingkungan & Konservasi
-
-- Riau memiliki kawasan konservasi yang melindungi keanekaragaman hayati.
-- Beberapa spesies langka mendapat perlindungan khusus di Riau.
-- Program pelestarian lingkungan di Riau menjadi contoh bagi daerah lain.
-- Masyarakat Riau memiliki kearifan lokal dalam menjaga keseimbangan alam.
-- Hutan-hutan di Riau berperan penting dalam menjaga keseimbangan iklim regional.
-
-### 💡 Inovasi & Modernisasi
-
-- Riau terus berkembang dengan berbagai inovasi di bidang teknologi dan ekonomi.
-- Generasi muda Riau aktif dalam berbagai kompetisi nasional dan internasional.
-- Infrastruktur Riau terus ditingkatkan untuk mendukung pertumbuhan ekonomi.
-- Sektor pariwisata Riau berkembang pesat dengan berbagai destinasi baru.
-- Riau menjadi salah satu tujuan investasi yang menarik di Indonesia.
-
-## Fun Fact Spesifik
-
-### 🛢️ Fakta Unik Riau
-
-1. **Penghasil Minyak Terbesar** — Riau adalah provinsi penghasil minyak bumi terbesar di Indonesia, menyumbang sekitar 25% produksi minyak nasional.
-2. **Istana Siak** — Istana Kesultanan Siak Sri Indrapura yang megah, dibangun pada 1889 dengan arsitektur campuran Melayu-Eropa.
-3. **Sultan Syarif Kasim II** — Pahlawan nasional dari Riau yang menyerahkan kekayaannya untuk mendukung kemerdekaan Indonesia.
-4. **Taman Nasional Tesso Nilo** — Habitat gajah Sumatera dan harimau Sumatera yang terancam punah.
-5. **Gulai Ikan Patin** — Masakan ikan patin dengan kuah santan kuning khas Riau yang terkenal di seluruh Indonesia.
-6. **Bolu Kemojo** — Kue tradisional Melayu Riau yang berbentuk bunga dan memiliki rasa yang khas.
-7. **Tari Zapin** — Tari tradisional Melayu yang dipengaruhi budaya Arab, populer di Riau.
-8. **Batik Riau** — Batik khas Riau dengan motif-motif Melayu yang kaya makna budaya.
-9. **Danau Bawah** — Danau unik di Riau yang berada di bawah permukaan tanah, menjadi objek wisata yang menarik.
-10. **Sungai Siak** — Sungai terdalam di Indonesia yang mengalir melalui Riau, menjadi jalur transportasi utama.
-
-### 🔍 Fun Fact Tambahan Riau
-
-11. **Fakta 11 Riau** — Riau memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
-12. **Fakta 12 Riau** — Riau memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
-13. **Fakta 13 Riau** — Riau memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
-14. **Fakta 14 Riau** — Riau memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
-15. **Fakta 15 Riau** — Riau memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
-16. **Fakta 16 Riau** — Riau memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
-17. **Fakta 17 Riau** — Riau memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
-18. **Fakta 18 Riau** — Riau memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
-19. **Fakta 19 Riau** — Riau memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
-20. **Fakta 20 Riau** — Riau memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
-21. **Fakta 21 Riau** — Riau memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
-22. **Fakta 22 Riau** — Riau memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
-23. **Fakta 23 Riau** — Riau memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
-24. **Fakta 24 Riau** — Riau memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
-25. **Fakta 25 Riau** — Riau memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+- Badan Pusat Statistik (BPS) Provinsi Riau.
+- Dinas Pariwisata Provinsi Riau.
+- "The Kingdom of Siak: History and Legacy".

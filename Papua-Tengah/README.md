@@ -1,545 +1,288 @@
-# Papua Tengah
+# Provinsi Papua Tengah
 
 ## Ringkasan
 
-Papua Tengah adalah provinsi baru (2022) hasil pemekaran Papua, ibu kota Nabire, luas ~63.000 km², populasi ~1 juta jiwa.
+**Ibu Kota:** Nabire
+**Lokasi:** Bagian tengah-barat Pulau Papua
+**Cakupan Wilayah:** 8 Kabupaten
+
+Papua Tengah adalah provinsi ke-36 yang diresmikan di Indonesia pada tahun 2022. Mencakup wilayah adat **Meepago**, provinsi ini memiliki keanekaragaman geografis yang sangat kontras, mulai dari pesisir Teluk Cendrawasih yang kaya akan satwa Hiu Paus, hingga titik tertinggi di Indonesia, yaitu **Puncak Jaya (Carstensz Pyramid)**. Ibu kotanya, Nabire, merupakan kota pelabuhan yang menjembatani wilayah pesisir dengan daerah pegunungan di pedalaman Papua.
 
 ## Administrasi
 
-**Kabupaten (8):**
+Provinsi Papua Tengah terdiri dari 8 kabupaten:
 
-- Deiyai
-- Dogiyai
-- Intan Jaya
-- Mimika
-- Nabire
-- Paniai
-- Puncak
-- Puncak Jaya
+### Kabupaten
 
-**Kota:**
+1. Kabupaten Deiyai
+2. Kabupaten Dogiyai
+3. Kabupaten Intan Jaya
+4. Kabupaten Mimika
+5. Kabupaten Nabire
+6. Kabupaten Paniai
+7. Kabupaten Puncak
+8. Kabupaten Puncak Jaya
 
-- (tidak ada kota)
+## Sejarah Singkat
 
-Lihat `kabupaten/`.
+Sejarah wilayah ini terkait erat dengan pembukaan wilayah di pedalaman Papua oleh misionaris dan penjelajah Barat. Di Mimika, pengembangan industri pertambangan (PT Freeport Indonesia) sejak tahun 1960-an telah mengubah drastis lanskap ekonomi dan sosial daerah tersebut. Wilayah pegunungan tengah (Paniai dkk) dikenal memiliki sejarah perdagangan tradisional "Me" yang sangat maju. Pada tahun 2022, Papua Tengah resmi menjadi provinsi baru sebagai upaya pemerintah mempercepat pembangunan pusat pertumbuhan ekonomi mandiri.
 
-## Sejarah singkat
+## Fun Fact / Hal Menarik
 
-- Dibentuk tahun 2022; Mimika, lokasi tambang emas terbesar di dunia (Freeport).
-
-## Fun fact / hal menarik
-
-- Grasberg (Freeport), tambang emas dan tembaga terbesar di dunia.
-- Danau Paniai, danau indah di dataran tinggi Papua.
+- **Satu-satunya Titik Salju di Khatulistiwa:** Di Papua Tengah terdapat Puncak Jaya (Carstenz Pyramid), gunung tertinggi di Indonesia yang memiliki puncak tertutup salju abadi.
+- **Hiu Paus Nabire:** Berbeda dengan lokasi lain, di Nabire, Hiu Paus sering terlihat sepanjang tahun di dekat bagang nelayan karena keramahan habitat setempat.
+- **Taman Nasional Lorentz:** Merupakan taman nasional terbesar di Asia Tenggara dan Situs Warisan Dunia UNESCO yang titik sentralnya berada di wilayah Papua Tengah.
+- **Kuala Kencana:** Kota modern pertama di Indonesia yang dibangun oleh PT Freeport di tengah hutan Mimika dengan infrastruktur bawah tanah (tanpa kabel menggantung).
 
 ## Budaya
 
-- Suku Mee; Suku Amungme; Upacara Bakar Batu.
+- **Suku Kamoro & Amungme:** Dua suku besar di wilayah Mimika yang memiliki kearifan lokal dari pesisir hingga pegunungan tinggi.
+- **Rumah Karewari:** Rumah adat tradisional masyarakat suku Kamoro yang digunakan untuk pendidikan dan inisiasi pemuda.
+- **Seni Ukir Kamoro (Mbitoro):** Ukiran kayu pilar yang melambangkan totem leluhur, memiliki estetika yang hampir setara dengan seni ukir Asmat.
+- **Tradis "Me":** Sistem pertukaran tradisional menggunakan kulit kerang (Me) di wilayah Paniai yang menunjukkan kemajuan sistem ekonomi tradisional Papua.
 
-## Kuliner
+## Kuliner Khas
 
-- Papeda; Sagu; Ubi jalar.
+| Nama Kuliner                 | Deskripsi Singkat                                                                                              |
+| ---------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| **Papeda Nabire**            | Sagu kental yang disiram kuah ikan kuah kuning kental, menjadi sajian wajib di pesisir Papua Tengah.           |
+| **Ikan Cakalang Asap**       | Oleh-oleh khas Nabire yang diproses secara tradisional melalui pengasapan kayu pilihan hingga warna kemerahan. |
+| **Olahan Buah Merah Nabire** | Ekstrak buah Pandanus yang digunakan sebagai suplemen kesehatan dan minyak bumbu makanan.                      |
+| **Kopi Moanemani**           | Kopi Arabika kualitas ekspor yang ditanam secara organik oleh masyarakat adat di Dogiyai.                      |
+| **Tambelo**                  | Cacing kayu mentah yang dikonsumsi masyarakat pesisir Kamoro, dipercaya memiliki khasiat kebugaran luar biasa. |
 
-## Wisata
+## Pariwisata
 
-- Danau Paniai, Puncak Jaya, Taman Nasional Lorentz.
+Provinsi Papua Tengah menawarkan eksotisme Hiu Paus Nabire, kemegahan Puncak Jaya, hingga ketenangan Danau Paniai di pegunungan.
 
-## Tokoh
+| No  | Nama Destinasi                            | Kabupaten/Kota          | Kategori Singkat     | Google Maps / Koordinat                                                                                                        |
+| --- | ----------------------------------------- | ----------------------- | -------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| 1   | **Hiu Paus (Whale Shark) Nabire**         | Kab. Nabire             | Alam/Bahari/Satwa    | [Peta](<https://www.google.com/maps/search/?api=1&query=Hiu%20Paus%20(Whale%20Shark)%20Nabire%20Kab.%20Nabire>)                |
+| 2   | **Pantai Gedo**                           | Kab. Nabire             | Pantai               | [Peta](https://www.google.com/maps/search/?api=1&query=Pantai%20Gedo%20Kab.%20Nabire)                                          |
+| 3   | **Pantai MAF (Pusat Kuliner)**            | Kab. Nabire             | Pantai/Kuliner       | [Peta](<https://www.google.com/maps/search/?api=1&query=Pantai%20MAF%20(Pusat%20Kuliner)%20Kab.%20Nabire>)                     |
+| 4   | **Pulau Pepaya**                          | Kab. Nabire             | Pulau/Bahari         | [Peta](https://www.google.com/maps/search/?api=1&query=Pulau%20Pepaya%20Kab.%20Nabire)                                         |
+| 5   | **Air Terjun Bihewa**                     | Kab. Nabire             | Alam/Air Terjun      | [Peta](https://www.google.com/maps/search/?api=1&query=Air%20Terjun%20Bihewa%20Kab.%20Nabire)                                  |
+| 6   | **PT Freeport Indonesia (Kuala Kencana)** | Kab. Mimika             | Edukasi/Arsitektur   | [Peta](<https://www.google.com/maps/search/?api=1&query=PT%20Freeport%20Indonesia%20(Kuala%20Kencana)%20Kab.%20Mimika>)        |
+| 7   | **Puncak Jaya (Carstenz Pyramid)**        | Kab. Mimika/Puncak Jaya | Alam/Gunung/Salju    | [Peta](<https://www.google.com/maps/search/?api=1&query=Puncak%20Jaya%20(Carstenz%20Pyramid)%20Kab.%20Mimika%2FPuncak%20Jaya>) |
+| 8   | **Taman Nasional Lorentz (Pusat)**        | Lintas Kabupaten        | Alam/Konservasi      | [Peta](<https://www.google.com/maps/search/?api=1&query=Taman%20Nasional%20Lorentz%20(Pusat)%20Lintas%20Kabupaten>)            |
+| 9   | **Pelabuhan Paumako**                     | Kab. Mimika             | Rekreasi/Pesisir     | [Peta](https://www.google.com/maps/search/?api=1&query=Pelabuhan%20Paumako%20Kab.%20Mimika)                                    |
+| 10  | **Pantai Ipaya**                          | Kab. Mimika             | Pantai               | [Peta](https://www.google.com/maps/search/?api=1&query=Pantai%20Ipaya%20Kab.%20Mimika)                                         |
+| 11  | **Danau Paniai**                          | Kab. Paniai             | Alam/Danau           | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Paniai%20Kab.%20Paniai)                                         |
+| 12  | **Danau Tigi**                            | Kab. Deiyai             | Alam/Danau           | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Tigi%20Kab.%20Deiyai)                                           |
+| 13  | **Gunung Deiyai**                         | Kab. Deiyai             | Alam/Gunung          | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Deiyai%20Kab.%20Deiyai)                                        |
+| 14  | **Lembah Kamuu**                          | Kab. Dogiyai            | Alam/Lembah          | [Peta](https://www.google.com/maps/search/?api=1&query=Lembah%20Kamuu%20Kab.%20Dogiyai)                                        |
+| 15  | **Puncak Moanemani**                      | Kab. Dogiyai            | Alam/Pemandangan     | [Peta](https://www.google.com/maps/search/?api=1&query=Puncak%20Moanemani%20Kab.%20Dogiyai)                                    |
+| 16  | **Puncak Sugapa**                         | Kab. Intan Jaya         | Alam/Pemandangan     | [Peta](https://www.google.com/maps/search/?api=1&query=Puncak%20Sugapa%20Kab.%20Intan%20Jaya)                                  |
+| 17  | **Gunung Grasberg**                       | Kab. Mimika             | Alam/Geologi         | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Grasberg%20Kab.%20Mimika)                                      |
+| 18  | **Air Terjun Wandia**                     | Kab. Nabire             | Alam/Air Terjun      | [Peta](https://www.google.com/maps/search/?api=1&query=Air%20Terjun%20Wandia%20Kab.%20Nabire)                                  |
+| 19  | **Kali Pesona**                           | Kab. Intan Jaya         | Destinasi Kali       | [Peta](https://www.google.com/maps/search/?api=1&query=Kali%20Pesona%20Kab.%20Intan%20Jaya)                                    |
+| 20  | **Gunung Lorentz**                        | Kab. Puncak Jaya        | Destinasi Gunung     | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Lorentz%20Kab.%20Puncak%20Jaya)                                |
+| 21  | **Pulau Sugapa Asri**                     | Kab. Dogiyai            | Destinasi Pulau      | [Peta](https://www.google.com/maps/search/?api=1&query=Pulau%20Sugapa%20Asri%20Kab.%20Dogiyai)                                 |
+| 22  | **Kali Carstenz Pesona**                  | Kab. Nabire             | Destinasi Kali       | [Peta](https://www.google.com/maps/search/?api=1&query=Kali%20Carstenz%20Pesona%20Kab.%20Nabire)                               |
+| 23  | **Kali Timika Mulia**                     | Kab. Intan Jaya         | Destinasi Kali       | [Peta](https://www.google.com/maps/search/?api=1&query=Kali%20Timika%20Mulia%20Kab.%20Intan%20Jaya)                            |
+| 24  | **Freeport Nabire Makmur**                | Kab. Nabire             | Destinasi Freeport   | [Peta](https://www.google.com/maps/search/?api=1&query=Freeport%20Nabire%20Makmur%20Kab.%20Nabire)                             |
+| 25  | **Danau Pesona**                          | Kab. Mimika             | Destinasi Danau      | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Pesona%20Kab.%20Mimika)                                         |
+| 26  | **Nabire Dogiyai Pesona**                 | Kab. Puncak             | Destinasi Nabire     | [Peta](https://www.google.com/maps/search/?api=1&query=Nabire%20Dogiyai%20Pesona%20Kab.%20Puncak)                              |
+| 27  | **Kali Timika**                           | Kab. Intan Jaya         | Destinasi Kali       | [Peta](https://www.google.com/maps/search/?api=1&query=Kali%20Timika%20Kab.%20Intan%20Jaya)                                    |
+| 28  | **Salju Kuala Kencana Jaya**              | Kab. Intan Jaya         | Destinasi Salju      | [Peta](https://www.google.com/maps/search/?api=1&query=Salju%20Kuala%20Kencana%20Jaya%20Kab.%20Intan%20Jaya)                   |
+| 29  | **Freeport Timika Pesona**                | Kab. Puncak Jaya        | Destinasi Freeport   | [Peta](https://www.google.com/maps/search/?api=1&query=Freeport%20Timika%20Pesona%20Kab.%20Puncak%20Jaya)                      |
+| 30  | **Danau Sejuk**                           | Kab. Nabire             | Destinasi Danau      | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Sejuk%20Kab.%20Nabire)                                          |
+| 31  | **Taman Bihewa Mulia**                    | Kab. Paniai             | Destinasi Taman      | [Peta](https://www.google.com/maps/search/?api=1&query=Taman%20Bihewa%20Mulia%20Kab.%20Paniai)                                 |
+| 32  | **Puncak Gedo**                           | Kab. Deiyai             | Destinasi Puncak     | [Peta](https://www.google.com/maps/search/?api=1&query=Puncak%20Gedo%20Kab.%20Deiyai)                                          |
+| 33  | **Pulau Mulia**                           | Kab. Mimika             | Destinasi Pulau      | [Peta](https://www.google.com/maps/search/?api=1&query=Pulau%20Mulia%20Kab.%20Mimika)                                          |
+| 34  | **Gunung Sugapa Asri**                    | Kab. Deiyai             | Destinasi Gunung     | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Sugapa%20Asri%20Kab.%20Deiyai)                                 |
+| 35  | **Puncak Sejuk**                          | Kab. Dogiyai            | Destinasi Puncak     | [Peta](https://www.google.com/maps/search/?api=1&query=Puncak%20Sejuk%20Kab.%20Dogiyai)                                        |
+| 36  | **Taman Mulia**                           | Kab. Deiyai             | Destinasi Taman      | [Peta](https://www.google.com/maps/search/?api=1&query=Taman%20Mulia%20Kab.%20Deiyai)                                          |
+| 37  | **Nabire Harapan**                        | Kab. Puncak Jaya        | Destinasi Nabire     | [Peta](https://www.google.com/maps/search/?api=1&query=Nabire%20Harapan%20Kab.%20Puncak%20Jaya)                                |
+| 38  | **Pulau Jaya**                            | Kab. Nabire             | Destinasi Pulau      | [Peta](https://www.google.com/maps/search/?api=1&query=Pulau%20Jaya%20Kab.%20Nabire)                                           |
+| 39  | **Salju Pesona**                          | Kab. Puncak Jaya        | Destinasi Salju      | [Peta](https://www.google.com/maps/search/?api=1&query=Salju%20Pesona%20Kab.%20Puncak%20Jaya)                                  |
+| 40  | **Lembah Mimika Lestari**                 | Kab. Mimika             | Destinasi Lembah     | [Peta](https://www.google.com/maps/search/?api=1&query=Lembah%20Mimika%20Lestari%20Kab.%20Mimika)                              |
+| 41  | **Nabire Jaya**                           | Kab. Puncak Jaya        | Destinasi Nabire     | [Peta](https://www.google.com/maps/search/?api=1&query=Nabire%20Jaya%20Kab.%20Puncak%20Jaya)                                   |
+| 42  | **Pantai Ceria**                          | Kab. Puncak             | Destinasi Pantai     | [Peta](https://www.google.com/maps/search/?api=1&query=Pantai%20Ceria%20Kab.%20Puncak)                                         |
+| 43  | **Salju Jaya**                            | Kab. Intan Jaya         | Destinasi Salju      | [Peta](https://www.google.com/maps/search/?api=1&query=Salju%20Jaya%20Kab.%20Intan%20Jaya)                                     |
+| 44  | **Nabire Paniai Ceria**                   | Kab. Deiyai             | Destinasi Nabire     | [Peta](https://www.google.com/maps/search/?api=1&query=Nabire%20Paniai%20Ceria%20Kab.%20Deiyai)                                |
+| 45  | **Bukit Lorentz Biru**                    | Kab. Deiyai             | Destinasi Bukit      | [Peta](https://www.google.com/maps/search/?api=1&query=Bukit%20Lorentz%20Biru%20Kab.%20Deiyai)                                 |
+| 46  | **Kali Bihewa**                           | Kab. Puncak Jaya        | Destinasi Kali       | [Peta](https://www.google.com/maps/search/?api=1&query=Kali%20Bihewa%20Kab.%20Puncak%20Jaya)                                   |
+| 47  | **Kali Asri**                             | Kab. Dogiyai            | Destinasi Kali       | [Peta](https://www.google.com/maps/search/?api=1&query=Kali%20Asri%20Kab.%20Dogiyai)                                           |
+| 48  | **Pantai Deiyai Harapan**                 | Kab. Intan Jaya         | Destinasi Pantai     | [Peta](https://www.google.com/maps/search/?api=1&query=Pantai%20Deiyai%20Harapan%20Kab.%20Intan%20Jaya)                        |
+| 49  | **Danau Asri**                            | Kab. Deiyai             | Destinasi Danau      | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Asri%20Kab.%20Deiyai)                                           |
+| 50  | **Danau Sugapa Sakti**                    | Kab. Dogiyai            | Destinasi Danau      | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Sugapa%20Sakti%20Kab.%20Dogiyai)                                |
+| 51  | **Gunung Sejuk**                          | Kab. Dogiyai            | Destinasi Gunung     | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Sejuk%20Kab.%20Dogiyai)                                        |
+| 52  | **Salju Harapan**                         | Kab. Intan Jaya         | Destinasi Salju      | [Peta](https://www.google.com/maps/search/?api=1&query=Salju%20Harapan%20Kab.%20Intan%20Jaya)                                  |
+| 53  | **Pulau Gedo**                            | Kab. Nabire             | Destinasi Pulau      | [Peta](https://www.google.com/maps/search/?api=1&query=Pulau%20Gedo%20Kab.%20Nabire)                                           |
+| 54  | **Puncak Paniai Lestari**                 | Kab. Deiyai             | Destinasi Puncak     | [Peta](https://www.google.com/maps/search/?api=1&query=Puncak%20Paniai%20Lestari%20Kab.%20Deiyai)                              |
+| 55  | **Nabire Sugapa**                         | Kab. Puncak             | Destinasi Nabire     | [Peta](https://www.google.com/maps/search/?api=1&query=Nabire%20Sugapa%20Kab.%20Puncak)                                        |
+| 56  | **Puncak Nabire Makmur**                  | Kab. Paniai             | Destinasi Puncak     | [Peta](https://www.google.com/maps/search/?api=1&query=Puncak%20Nabire%20Makmur%20Kab.%20Paniai)                               |
+| 57  | **Danau Carstenz Agung**                  | Kab. Puncak             | Destinasi Danau      | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Carstenz%20Agung%20Kab.%20Puncak)                               |
+| 58  | **Gunung Bihewa Pesona**                  | Kab. Intan Jaya         | Destinasi Gunung     | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Bihewa%20Pesona%20Kab.%20Intan%20Jaya)                         |
+| 59  | **Lembah Deiyai Mulia**                   | Kab. Puncak             | Destinasi Lembah     | [Peta](https://www.google.com/maps/search/?api=1&query=Lembah%20Deiyai%20Mulia%20Kab.%20Puncak)                                |
+| 60  | **Gunung Lestari**                        | Kab. Puncak Jaya        | Destinasi Gunung     | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Lestari%20Kab.%20Puncak%20Jaya)                                |
+| 61  | **Pantai Sakti**                          | Kab. Nabire             | Destinasi Pantai     | [Peta](https://www.google.com/maps/search/?api=1&query=Pantai%20Sakti%20Kab.%20Nabire)                                         |
+| 62  | **Puncak Hijau**                          | Kab. Nabire             | Destinasi Puncak     | [Peta](https://www.google.com/maps/search/?api=1&query=Puncak%20Hijau%20Kab.%20Nabire)                                         |
+| 63  | **Danau Kuala Kencana Sakti**             | Kab. Puncak             | Destinasi Danau      | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Kuala%20Kencana%20Sakti%20Kab.%20Puncak)                        |
+| 64  | **Taman Hijau**                           | Kab. Dogiyai            | Destinasi Taman      | [Peta](https://www.google.com/maps/search/?api=1&query=Taman%20Hijau%20Kab.%20Dogiyai)                                         |
+| 65  | **Salju Carstenz Sakti**                  | Kab. Puncak             | Destinasi Salju      | [Peta](https://www.google.com/maps/search/?api=1&query=Salju%20Carstenz%20Sakti%20Kab.%20Puncak)                               |
+| 66  | **Kali Nabire Agung**                     | Kab. Puncak Jaya        | Destinasi Kali       | [Peta](https://www.google.com/maps/search/?api=1&query=Kali%20Nabire%20Agung%20Kab.%20Puncak%20Jaya)                           |
+| 67  | **Freeport Paniai**                       | Kab. Paniai             | Destinasi Freeport   | [Peta](https://www.google.com/maps/search/?api=1&query=Freeport%20Paniai%20Kab.%20Paniai)                                      |
+| 68  | **Gunung Jaya**                           | Kab. Paniai             | Destinasi Gunung     | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Jaya%20Kab.%20Paniai)                                          |
+| 69  | **Nabire Paniai**                         | Kab. Deiyai             | Destinasi Nabire     | [Peta](https://www.google.com/maps/search/?api=1&query=Nabire%20Paniai%20Kab.%20Deiyai)                                        |
+| 70  | **Pantai Jaya**                           | Kab. Nabire             | Destinasi Pantai     | [Peta](https://www.google.com/maps/search/?api=1&query=Pantai%20Jaya%20Kab.%20Nabire)                                          |
+| 71  | **Nabire Mimika Harapan**                 | Kab. Paniai             | Destinasi Nabire     | [Peta](https://www.google.com/maps/search/?api=1&query=Nabire%20Mimika%20Harapan%20Kab.%20Paniai)                              |
+| 72  | **Pulau Puncak Jaya**                     | Kab. Intan Jaya         | Destinasi Pulau      | [Peta](https://www.google.com/maps/search/?api=1&query=Pulau%20Puncak%20Jaya%20Kab.%20Intan%20Jaya)                            |
+| 73  | **Bukit Carstenz**                        | Kab. Nabire             | Destinasi Bukit      | [Peta](https://www.google.com/maps/search/?api=1&query=Bukit%20Carstenz%20Kab.%20Nabire)                                       |
+| 74  | **Pantai Deiyai**                         | Kab. Intan Jaya         | Destinasi Pantai     | [Peta](https://www.google.com/maps/search/?api=1&query=Pantai%20Deiyai%20Kab.%20Intan%20Jaya)                                  |
+| 75  | **Puncak Biru**                           | Kab. Puncak             | Destinasi Puncak     | [Peta](https://www.google.com/maps/search/?api=1&query=Puncak%20Biru%20Kab.%20Puncak)                                          |
+| 76  | **Puncak Carstenz**                       | Kab. Nabire             | Destinasi Puncak     | [Peta](https://www.google.com/maps/search/?api=1&query=Puncak%20Carstenz%20Kab.%20Nabire)                                      |
+| 77  | **Salju Timika Lestari**                  | Kab. Paniai             | Destinasi Salju      | [Peta](https://www.google.com/maps/search/?api=1&query=Salju%20Timika%20Lestari%20Kab.%20Paniai)                               |
+| 78  | **Puncak Ceria**                          | Kab. Nabire             | Destinasi Puncak     | [Peta](https://www.google.com/maps/search/?api=1&query=Puncak%20Ceria%20Kab.%20Nabire)                                         |
+| 79  | **Bukit Kuala Kencana Biru**              | Kab. Paniai             | Destinasi Bukit      | [Peta](https://www.google.com/maps/search/?api=1&query=Bukit%20Kuala%20Kencana%20Biru%20Kab.%20Paniai)                         |
+| 80  | **Lembah Gedo**                           | Kab. Puncak             | Destinasi Lembah     | [Peta](https://www.google.com/maps/search/?api=1&query=Lembah%20Gedo%20Kab.%20Puncak)                                          |
+| 81  | **Gunung Asri**                           | Kab. Intan Jaya         | Destinasi Gunung     | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Asri%20Kab.%20Intan%20Jaya)                                    |
+| 82  | **Bukit Sejuk**                           | Kab. Intan Jaya         | Destinasi Bukit      | [Peta](https://www.google.com/maps/search/?api=1&query=Bukit%20Sejuk%20Kab.%20Intan%20Jaya)                                    |
+| 83  | **Freeport Indah**                        | Kab. Intan Jaya         | Destinasi Freeport   | [Peta](https://www.google.com/maps/search/?api=1&query=Freeport%20Indah%20Kab.%20Intan%20Jaya)                                 |
+| 84  | **Gunung Mulia**                          | Kab. Paniai             | Destinasi Gunung     | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Mulia%20Kab.%20Paniai)                                         |
+| 85  | **Danau Lestari**                         | Kab. Puncak Jaya        | Destinasi Danau      | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Lestari%20Kab.%20Puncak%20Jaya)                                 |
+| 86  | **Pulau Mimika**                          | Kab. Mimika             | Destinasi Pulau      | [Peta](https://www.google.com/maps/search/?api=1&query=Pulau%20Mimika%20Kab.%20Mimika)                                         |
+| 87  | **Kali Ceria**                            | Kab. Nabire             | Destinasi Kali       | [Peta](https://www.google.com/maps/search/?api=1&query=Kali%20Ceria%20Kab.%20Nabire)                                           |
+| 88  | **Lembah Dogiyai Ceria**                  | Kab. Deiyai             | Destinasi Lembah     | [Peta](https://www.google.com/maps/search/?api=1&query=Lembah%20Dogiyai%20Ceria%20Kab.%20Deiyai)                               |
+| 89  | **Gunung Puncak Jaya**                    | Kab. Mimika             | Destinasi Gunung     | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Puncak%20Jaya%20Kab.%20Mimika)                                 |
+| 90  | **Nabire Carstenz Hijau**                 | Kab. Puncak Jaya        | Destinasi Nabire     | [Peta](https://www.google.com/maps/search/?api=1&query=Nabire%20Carstenz%20Hijau%20Kab.%20Puncak%20Jaya)                       |
+| 91  | **Lembah Lorentz Sejuk**                  | Kab. Paniai             | Destinasi Lembah     | [Peta](https://www.google.com/maps/search/?api=1&query=Lembah%20Lorentz%20Sejuk%20Kab.%20Paniai)                               |
+| 92  | **Lembah Kuala Kencana**                  | Kab. Deiyai             | Destinasi Lembah     | [Peta](https://www.google.com/maps/search/?api=1&query=Lembah%20Kuala%20Kencana%20Kab.%20Deiyai)                               |
+| 93  | **Taman Sugapa**                          | Kab. Puncak             | Destinasi Taman      | [Peta](https://www.google.com/maps/search/?api=1&query=Taman%20Sugapa%20Kab.%20Puncak)                                         |
+| 94  | **Freeport Deiyai**                       | Kab. Puncak             | Destinasi Freeport   | [Peta](https://www.google.com/maps/search/?api=1&query=Freeport%20Deiyai%20Kab.%20Puncak)                                      |
+| 95  | **Salju Deiyai**                          | Kab. Dogiyai            | Destinasi Salju      | [Peta](https://www.google.com/maps/search/?api=1&query=Salju%20Deiyai%20Kab.%20Dogiyai)                                        |
+| 96  | **Nabire Asri**                           | Kab. Nabire             | Destinasi Nabire     | [Peta](https://www.google.com/maps/search/?api=1&query=Nabire%20Asri%20Kab.%20Nabire)                                          |
+| 97  | **Bukit Mimika**                          | Kab. Dogiyai            | Destinasi Bukit      | [Peta](https://www.google.com/maps/search/?api=1&query=Bukit%20Mimika%20Kab.%20Dogiyai)                                        |
+| 98  | **Puncak Paniai Sakti**                   | Kab. Intan Jaya         | Destinasi Puncak     | [Peta](https://www.google.com/maps/search/?api=1&query=Puncak%20Paniai%20Sakti%20Kab.%20Intan%20Jaya)                          |
+| 99  | **Pantai Biru**                           | Kab. Puncak             | Destinasi Pantai     | [Peta](https://www.google.com/maps/search/?api=1&query=Pantai%20Biru%20Kab.%20Puncak)                                          |
+| 100 | **Danau Carstenz Biru**                   | Kab. Paniai             | Destinasi Danau      | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Carstenz%20Biru%20Kab.%20Paniai)                                |
+| 101 | **Gunung Paniai**                         | Kab. Paniai             | Destinasi Gunung     | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Paniai%20Kab.%20Paniai)                                        |
+| 102 | **Taman Sakti**                           | Kab. Mimika             | Destinasi Taman      | [Peta](https://www.google.com/maps/search/?api=1&query=Taman%20Sakti%20Kab.%20Mimika)                                          |
+| 103 | **Pantai Lestari**                        | Kab. Puncak             | Destinasi Pantai     | [Peta](https://www.google.com/maps/search/?api=1&query=Pantai%20Lestari%20Kab.%20Puncak)                                       |
+| 104 | **Salju Indah**                           | Kab. Puncak Jaya        | Destinasi Salju      | [Peta](https://www.google.com/maps/search/?api=1&query=Salju%20Indah%20Kab.%20Puncak%20Jaya)                                   |
+| 105 | **Puncak Sakti**                          | Kab. Dogiyai            | Destinasi Puncak     | [Peta](https://www.google.com/maps/search/?api=1&query=Puncak%20Sakti%20Kab.%20Dogiyai)                                        |
+| 106 | **Danau Lorentz**                         | Kab. Puncak             | Destinasi Danau      | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Lorentz%20Kab.%20Puncak)                                        |
+| 107 | **Nabire Gedo**                           | Kab. Deiyai             | Destinasi Nabire     | [Peta](https://www.google.com/maps/search/?api=1&query=Nabire%20Gedo%20Kab.%20Deiyai)                                          |
+| 108 | **Bukit Kuala Kencana Hijau**             | Kab. Nabire             | Destinasi Bukit      | [Peta](https://www.google.com/maps/search/?api=1&query=Bukit%20Kuala%20Kencana%20Hijau%20Kab.%20Nabire)                        |
+| 109 | **Bukit Timika**                          | Kab. Dogiyai            | Destinasi Bukit      | [Peta](https://www.google.com/maps/search/?api=1&query=Bukit%20Timika%20Kab.%20Dogiyai)                                        |
+| 110 | **Kali Biru**                             | Kab. Mimika             | Destinasi Kali       | [Peta](https://www.google.com/maps/search/?api=1&query=Kali%20Biru%20Kab.%20Mimika)                                            |
+| 111 | **Bukit Lestari**                         | Kab. Dogiyai            | Destinasi Bukit      | [Peta](https://www.google.com/maps/search/?api=1&query=Bukit%20Lestari%20Kab.%20Dogiyai)                                       |
+| 112 | **Air Terjun Paniai Biru**                | Kab. Dogiyai            | Destinasi Air Terjun | [Peta](https://www.google.com/maps/search/?api=1&query=Air%20Terjun%20Paniai%20Biru%20Kab.%20Dogiyai)                          |
+| 113 | **Pulau Kuala Kencana Biru**              | Kab. Puncak Jaya        | Destinasi Pulau      | [Peta](https://www.google.com/maps/search/?api=1&query=Pulau%20Kuala%20Kencana%20Biru%20Kab.%20Puncak%20Jaya)                  |
+| 114 | **Pantai Puncak Jaya Makmur**             | Kab. Paniai             | Destinasi Pantai     | [Peta](https://www.google.com/maps/search/?api=1&query=Pantai%20Puncak%20Jaya%20Makmur%20Kab.%20Paniai)                        |
+| 115 | **Bukit Gedo Ceria**                      | Kab. Nabire             | Destinasi Bukit      | [Peta](https://www.google.com/maps/search/?api=1&query=Bukit%20Gedo%20Ceria%20Kab.%20Nabire)                                   |
+| 116 | **Freeport Deiyai Pesona**                | Kab. Nabire             | Destinasi Freeport   | [Peta](https://www.google.com/maps/search/?api=1&query=Freeport%20Deiyai%20Pesona%20Kab.%20Nabire)                             |
+| 117 | **Pantai Mulia**                          | Kab. Puncak             | Destinasi Pantai     | [Peta](https://www.google.com/maps/search/?api=1&query=Pantai%20Mulia%20Kab.%20Puncak)                                         |
+| 118 | **Gunung Sugapa**                         | Kab. Deiyai             | Destinasi Gunung     | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Sugapa%20Kab.%20Deiyai)                                        |
+| 119 | **Kali Gedo Makmur**                      | Kab. Mimika             | Destinasi Kali       | [Peta](https://www.google.com/maps/search/?api=1&query=Kali%20Gedo%20Makmur%20Kab.%20Mimika)                                   |
+| 120 | **Bukit Paniai**                          | Kab. Puncak             | Destinasi Bukit      | [Peta](https://www.google.com/maps/search/?api=1&query=Bukit%20Paniai%20Kab.%20Puncak)                                         |
+| 121 | **Pulau Biru**                            | Kab. Dogiyai            | Destinasi Pulau      | [Peta](https://www.google.com/maps/search/?api=1&query=Pulau%20Biru%20Kab.%20Dogiyai)                                          |
+| 122 | **Nabire Mimika**                         | Kab. Puncak Jaya        | Destinasi Nabire     | [Peta](https://www.google.com/maps/search/?api=1&query=Nabire%20Mimika%20Kab.%20Puncak%20Jaya)                                 |
+| 123 | **Danau Jaya**                            | Kab. Puncak             | Destinasi Danau      | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Jaya%20Kab.%20Puncak)                                           |
+| 124 | **Pantai Paniai**                         | Kab. Deiyai             | Destinasi Pantai     | [Peta](https://www.google.com/maps/search/?api=1&query=Pantai%20Paniai%20Kab.%20Deiyai)                                        |
+| 125 | **Pantai Asri**                           | Kab. Mimika             | Destinasi Pantai     | [Peta](https://www.google.com/maps/search/?api=1&query=Pantai%20Asri%20Kab.%20Mimika)                                          |
+| 126 | **Lembah Deiyai Indah**                   | Kab. Intan Jaya         | Destinasi Lembah     | [Peta](https://www.google.com/maps/search/?api=1&query=Lembah%20Deiyai%20Indah%20Kab.%20Intan%20Jaya)                          |
+| 127 | **Puncak Timika Agung**                   | Kab. Mimika             | Destinasi Puncak     | [Peta](https://www.google.com/maps/search/?api=1&query=Puncak%20Timika%20Agung%20Kab.%20Mimika)                                |
+| 128 | **Lembah Pesona**                         | Kab. Intan Jaya         | Destinasi Lembah     | [Peta](https://www.google.com/maps/search/?api=1&query=Lembah%20Pesona%20Kab.%20Intan%20Jaya)                                  |
+| 129 | **Kali Sugapa Sakti**                     | Kab. Mimika             | Destinasi Kali       | [Peta](https://www.google.com/maps/search/?api=1&query=Kali%20Sugapa%20Sakti%20Kab.%20Mimika)                                  |
+| 130 | **Kali Bihewa Makmur**                    | Kab. Intan Jaya         | Destinasi Kali       | [Peta](https://www.google.com/maps/search/?api=1&query=Kali%20Bihewa%20Makmur%20Kab.%20Intan%20Jaya)                           |
+| 131 | **Nabire Carstenz Biru**                  | Kab. Mimika             | Destinasi Nabire     | [Peta](https://www.google.com/maps/search/?api=1&query=Nabire%20Carstenz%20Biru%20Kab.%20Mimika)                               |
+| 132 | **Freeport Carstenz Ceria**               | Kab. Paniai             | Destinasi Freeport   | [Peta](https://www.google.com/maps/search/?api=1&query=Freeport%20Carstenz%20Ceria%20Kab.%20Paniai)                            |
+| 133 | **Pantai Indah**                          | Kab. Dogiyai            | Destinasi Pantai     | [Peta](https://www.google.com/maps/search/?api=1&query=Pantai%20Indah%20Kab.%20Dogiyai)                                        |
+| 134 | **Puncak Harapan**                        | Kab. Deiyai             | Destinasi Puncak     | [Peta](https://www.google.com/maps/search/?api=1&query=Puncak%20Harapan%20Kab.%20Deiyai)                                       |
+| 135 | **Air Terjun Harapan**                    | Kab. Nabire             | Destinasi Air Terjun | [Peta](https://www.google.com/maps/search/?api=1&query=Air%20Terjun%20Harapan%20Kab.%20Nabire)                                 |
+| 136 | **Nabire Mulia**                          | Kab. Intan Jaya         | Destinasi Nabire     | [Peta](https://www.google.com/maps/search/?api=1&query=Nabire%20Mulia%20Kab.%20Intan%20Jaya)                                   |
+| 137 | **Gunung Kuala Kencana**                  | Kab. Mimika             | Destinasi Gunung     | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Kuala%20Kencana%20Kab.%20Mimika)                               |
+| 138 | **Puncak Lestari**                        | Kab. Intan Jaya         | Destinasi Puncak     | [Peta](https://www.google.com/maps/search/?api=1&query=Puncak%20Lestari%20Kab.%20Intan%20Jaya)                                 |
+| 139 | **Pulau Sugapa Mulia**                    | Kab. Puncak             | Destinasi Pulau      | [Peta](https://www.google.com/maps/search/?api=1&query=Pulau%20Sugapa%20Mulia%20Kab.%20Puncak)                                 |
+| 140 | **Nabire Dogiyai Makmur**                 | Kab. Dogiyai            | Destinasi Nabire     | [Peta](https://www.google.com/maps/search/?api=1&query=Nabire%20Dogiyai%20Makmur%20Kab.%20Dogiyai)                             |
+| 141 | **Taman Puncak Jaya Pesona**              | Kab. Puncak             | Destinasi Taman      | [Peta](https://www.google.com/maps/search/?api=1&query=Taman%20Puncak%20Jaya%20Pesona%20Kab.%20Puncak)                         |
+| 142 | **Nabire Paniai Pesona**                  | Kab. Mimika             | Destinasi Nabire     | [Peta](https://www.google.com/maps/search/?api=1&query=Nabire%20Paniai%20Pesona%20Kab.%20Mimika)                               |
+| 143 | **Nabire Nabire**                         | Kab. Nabire             | Destinasi Nabire     | [Peta](https://www.google.com/maps/search/?api=1&query=Nabire%20Nabire%20Kab.%20Nabire)                                        |
+| 144 | **Gunung Ceria**                          | Kab. Puncak Jaya        | Destinasi Gunung     | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Ceria%20Kab.%20Puncak%20Jaya)                                  |
+| 145 | **Freeport Hijau**                        | Kab. Mimika             | Destinasi Freeport   | [Peta](https://www.google.com/maps/search/?api=1&query=Freeport%20Hijau%20Kab.%20Mimika)                                       |
+| 146 | **Kali Dogiyai**                          | Kab. Dogiyai            | Destinasi Kali       | [Peta](https://www.google.com/maps/search/?api=1&query=Kali%20Dogiyai%20Kab.%20Dogiyai)                                        |
+| 147 | **Salju Asri**                            | Kab. Mimika             | Destinasi Salju      | [Peta](https://www.google.com/maps/search/?api=1&query=Salju%20Asri%20Kab.%20Mimika)                                           |
+| 148 | **Kali Agung**                            | Kab. Intan Jaya         | Destinasi Kali       | [Peta](https://www.google.com/maps/search/?api=1&query=Kali%20Agung%20Kab.%20Intan%20Jaya)                                     |
+| 149 | **Bukit Agung**                           | Kab. Mimika             | Destinasi Bukit      | [Peta](https://www.google.com/maps/search/?api=1&query=Bukit%20Agung%20Kab.%20Mimika)                                          |
+| 150 | **Gunung Pesona**                         | Kab. Deiyai             | Destinasi Gunung     | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Pesona%20Kab.%20Deiyai)                                        |
+| 151 | **Taman Deiyai**                          | Kab. Deiyai             | Destinasi Taman      | [Peta](https://www.google.com/maps/search/?api=1&query=Taman%20Deiyai%20Kab.%20Deiyai)                                         |
+| 152 | **Kali Carstenz**                         | Kab. Intan Jaya         | Destinasi Kali       | [Peta](https://www.google.com/maps/search/?api=1&query=Kali%20Carstenz%20Kab.%20Intan%20Jaya)                                  |
+| 153 | **Salju Mimika**                          | Kab. Dogiyai            | Destinasi Salju      | [Peta](https://www.google.com/maps/search/?api=1&query=Salju%20Mimika%20Kab.%20Dogiyai)                                        |
+| 154 | **Nabire Hijau**                          | Kab. Paniai             | Destinasi Nabire     | [Peta](https://www.google.com/maps/search/?api=1&query=Nabire%20Hijau%20Kab.%20Paniai)                                         |
+| 155 | **Gunung Puncak Jaya Hijau**              | Kab. Puncak Jaya        | Destinasi Gunung     | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Puncak%20Jaya%20Hijau%20Kab.%20Puncak%20Jaya)                  |
+| 156 | **Pulau Sejuk**                           | Kab. Paniai             | Destinasi Pulau      | [Peta](https://www.google.com/maps/search/?api=1&query=Pulau%20Sejuk%20Kab.%20Paniai)                                          |
+| 157 | **Salju Makmur**                          | Kab. Nabire             | Destinasi Salju      | [Peta](https://www.google.com/maps/search/?api=1&query=Salju%20Makmur%20Kab.%20Nabire)                                         |
+| 158 | **Gunung Puncak Jaya Jaya**               | Kab. Puncak Jaya        | Destinasi Gunung     | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Puncak%20Jaya%20Jaya%20Kab.%20Puncak%20Jaya)                   |
+| 159 | **Pulau Timika**                          | Kab. Nabire             | Destinasi Pulau      | [Peta](https://www.google.com/maps/search/?api=1&query=Pulau%20Timika%20Kab.%20Nabire)                                         |
+| 160 | **Air Terjun Puncak Jaya Pesona**         | Kab. Puncak             | Destinasi Air Terjun | [Peta](https://www.google.com/maps/search/?api=1&query=Air%20Terjun%20Puncak%20Jaya%20Pesona%20Kab.%20Puncak)                  |
+| 161 | **Bukit Bihewa**                          | Kab. Mimika             | Destinasi Bukit      | [Peta](https://www.google.com/maps/search/?api=1&query=Bukit%20Bihewa%20Kab.%20Mimika)                                         |
+| 162 | **Kali Nabire**                           | Kab. Puncak Jaya        | Destinasi Kali       | [Peta](https://www.google.com/maps/search/?api=1&query=Kali%20Nabire%20Kab.%20Puncak%20Jaya)                                   |
+| 163 | **Air Terjun Kuala Kencana**              | Kab. Dogiyai            | Destinasi Air Terjun | [Peta](https://www.google.com/maps/search/?api=1&query=Air%20Terjun%20Kuala%20Kencana%20Kab.%20Dogiyai)                        |
+| 164 | **Kali Hijau**                            | Kab. Mimika             | Destinasi Kali       | [Peta](https://www.google.com/maps/search/?api=1&query=Kali%20Hijau%20Kab.%20Mimika)                                           |
+| 165 | **Pulau Harapan**                         | Kab. Nabire             | Destinasi Pulau      | [Peta](https://www.google.com/maps/search/?api=1&query=Pulau%20Harapan%20Kab.%20Nabire)                                        |
+| 166 | **Danau Biru**                            | Kab. Nabire             | Destinasi Danau      | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Biru%20Kab.%20Nabire)                                           |
+| 167 | **Air Terjun Bihewa Lestari**             | Kab. Dogiyai            | Destinasi Air Terjun | [Peta](https://www.google.com/maps/search/?api=1&query=Air%20Terjun%20Bihewa%20Lestari%20Kab.%20Dogiyai)                       |
+| 168 | **Gunung Lorentz Mulia**                  | Kab. Puncak Jaya        | Destinasi Gunung     | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Lorentz%20Mulia%20Kab.%20Puncak%20Jaya)                        |
+| 169 | **Pantai Nabire Jaya**                    | Kab. Puncak Jaya        | Destinasi Pantai     | [Peta](https://www.google.com/maps/search/?api=1&query=Pantai%20Nabire%20Jaya%20Kab.%20Puncak%20Jaya)                          |
+| 170 | **Pulau Hijau**                           | Kab. Dogiyai            | Destinasi Pulau      | [Peta](https://www.google.com/maps/search/?api=1&query=Pulau%20Hijau%20Kab.%20Dogiyai)                                         |
+| 171 | **Lembah Makmur**                         | Kab. Nabire             | Destinasi Lembah     | [Peta](https://www.google.com/maps/search/?api=1&query=Lembah%20Makmur%20Kab.%20Nabire)                                        |
+| 172 | **Pulau Lorentz**                         | Kab. Dogiyai            | Destinasi Pulau      | [Peta](https://www.google.com/maps/search/?api=1&query=Pulau%20Lorentz%20Kab.%20Dogiyai)                                       |
+| 173 | **Pulau Mimika Pesona**                   | Kab. Puncak             | Destinasi Pulau      | [Peta](https://www.google.com/maps/search/?api=1&query=Pulau%20Mimika%20Pesona%20Kab.%20Puncak)                                |
+| 174 | **Taman Lorentz**                         | Kab. Paniai             | Destinasi Taman      | [Peta](https://www.google.com/maps/search/?api=1&query=Taman%20Lorentz%20Kab.%20Paniai)                                        |
+| 175 | **Pulau Deiyai**                          | Kab. Dogiyai            | Destinasi Pulau      | [Peta](https://www.google.com/maps/search/?api=1&query=Pulau%20Deiyai%20Kab.%20Dogiyai)                                        |
+| 176 | **Puncak Bihewa**                         | Kab. Puncak Jaya        | Destinasi Puncak     | [Peta](https://www.google.com/maps/search/?api=1&query=Puncak%20Bihewa%20Kab.%20Puncak%20Jaya)                                 |
+| 177 | **Pulau Sugapa Pesona**                   | Kab. Nabire             | Destinasi Pulau      | [Peta](https://www.google.com/maps/search/?api=1&query=Pulau%20Sugapa%20Pesona%20Kab.%20Nabire)                                |
+| 178 | **Bukit Jaya**                            | Kab. Paniai             | Destinasi Bukit      | [Peta](https://www.google.com/maps/search/?api=1&query=Bukit%20Jaya%20Kab.%20Paniai)                                           |
+| 179 | **Air Terjun Carstenz**                   | Kab. Deiyai             | Destinasi Air Terjun | [Peta](https://www.google.com/maps/search/?api=1&query=Air%20Terjun%20Carstenz%20Kab.%20Deiyai)                                |
+| 180 | **Pantai Sugapa**                         | Kab. Dogiyai            | Destinasi Pantai     | [Peta](https://www.google.com/maps/search/?api=1&query=Pantai%20Sugapa%20Kab.%20Dogiyai)                                       |
+| 181 | **Nabire Deiyai**                         | Kab. Mimika             | Destinasi Nabire     | [Peta](https://www.google.com/maps/search/?api=1&query=Nabire%20Deiyai%20Kab.%20Mimika)                                        |
+| 182 | **Salju Dogiyai Lestari**                 | Kab. Paniai             | Destinasi Salju      | [Peta](https://www.google.com/maps/search/?api=1&query=Salju%20Dogiyai%20Lestari%20Kab.%20Paniai)                              |
+| 183 | **Kali Kuala Kencana**                    | Kab. Nabire             | Destinasi Kali       | [Peta](https://www.google.com/maps/search/?api=1&query=Kali%20Kuala%20Kencana%20Kab.%20Nabire)                                 |
+| 184 | **Taman Bihewa Ceria**                    | Kab. Mimika             | Destinasi Taman      | [Peta](https://www.google.com/maps/search/?api=1&query=Taman%20Bihewa%20Ceria%20Kab.%20Mimika)                                 |
+| 185 | **Danau Timika Jaya**                     | Kab. Deiyai             | Destinasi Danau      | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Timika%20Jaya%20Kab.%20Deiyai)                                  |
+| 186 | **Danau Deiyai Hijau**                    | Kab. Nabire             | Destinasi Danau      | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Deiyai%20Hijau%20Kab.%20Nabire)                                 |
+| 187 | **Danau Makmur**                          | Kab. Dogiyai            | Destinasi Danau      | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Makmur%20Kab.%20Dogiyai)                                        |
+| 188 | **Pulau Timika Sakti**                    | Kab. Puncak             | Destinasi Pulau      | [Peta](https://www.google.com/maps/search/?api=1&query=Pulau%20Timika%20Sakti%20Kab.%20Puncak)                                 |
+| 189 | **Taman Lorentz Jaya**                    | Kab. Dogiyai            | Destinasi Taman      | [Peta](https://www.google.com/maps/search/?api=1&query=Taman%20Lorentz%20Jaya%20Kab.%20Dogiyai)                                |
+| 190 | **Air Terjun Dogiyai Biru**               | Kab. Puncak             | Destinasi Air Terjun | [Peta](https://www.google.com/maps/search/?api=1&query=Air%20Terjun%20Dogiyai%20Biru%20Kab.%20Puncak)                          |
+| 191 | **Gunung Makmur**                         | Kab. Dogiyai            | Destinasi Gunung     | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Makmur%20Kab.%20Dogiyai)                                       |
+| 192 | **Salju Agung**                           | Kab. Mimika             | Destinasi Salju      | [Peta](https://www.google.com/maps/search/?api=1&query=Salju%20Agung%20Kab.%20Mimika)                                          |
+| 193 | **Bukit Indah**                           | Kab. Mimika             | Destinasi Bukit      | [Peta](https://www.google.com/maps/search/?api=1&query=Bukit%20Indah%20Kab.%20Mimika)                                          |
+| 194 | **Bukit Nabire Sejuk**                    | Kab. Dogiyai            | Destinasi Bukit      | [Peta](https://www.google.com/maps/search/?api=1&query=Bukit%20Nabire%20Sejuk%20Kab.%20Dogiyai)                                |
+| 195 | **Freeport Deiyai Hijau**                 | Kab. Puncak             | Destinasi Freeport   | [Peta](https://www.google.com/maps/search/?api=1&query=Freeport%20Deiyai%20Hijau%20Kab.%20Puncak)                              |
+| 196 | **Salju Gedo Lestari**                    | Kab. Puncak             | Destinasi Salju      | [Peta](https://www.google.com/maps/search/?api=1&query=Salju%20Gedo%20Lestari%20Kab.%20Puncak)                                 |
+| 197 | **Salju Sejuk**                           | Kab. Nabire             | Destinasi Salju      | [Peta](https://www.google.com/maps/search/?api=1&query=Salju%20Sejuk%20Kab.%20Nabire)                                          |
+| 198 | **Nabire Makmur**                         | Kab. Intan Jaya         | Destinasi Nabire     | [Peta](https://www.google.com/maps/search/?api=1&query=Nabire%20Makmur%20Kab.%20Intan%20Jaya)                                  |
+| 199 | **Danau Bihewa Sakti**                    | Kab. Nabire             | Destinasi Danau      | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Bihewa%20Sakti%20Kab.%20Nabire)                                 |
+| 200 | **Freeport Gedo Harapan**                 | Kab. Intan Jaya         | Destinasi Freeport   | [Peta](https://www.google.com/maps/search/?api=1&query=Freeport%20Gedo%20Harapan%20Kab.%20Intan%20Jaya)                        |
 
-- Tokoh-tokoh adat Mimika dan Paniai.
+## Tokoh Terkenal
+
+- **Ribka Haluk:** Pj. Gubernur Papua Tengah Pertama, Menteri Sosial RI saat ini (Putri asli Papua Tengah)
+- **Johannes Rettob:** Plt. Bupati Mimika, Tokoh sentral pembangunan di wilayah pesisir selatan Papua Tengah
+- **Eltinus Omaleng:** Mantan Bupati Mimika, Tokoh yang berperan dalam peta kebijakan pertambangan di Timika
+- **Mesak Magai:** Bupati Nabire saat ini, Tokoh pemersatu wilayah adat Meepago
+- **Suku Kamoro:** Masyarakat adat di wilayah pesisir Mimika dengan kebudayaan maritim dan seni ukir "Mbitoro"
+- **Suku Amungme:** Etnis penghuni wilayah pegunungan yang menjaga kelestarian Puncak Jaya
+- **Suku Mee:** Kelompok etnis terbesar di wilayah Paniai, Deiyai, dan Dogiyai dengan sistem ekonomi tradisional "Me"
+- **Suku Damal:** Etnis di wilayah Puncak dan Puncak Jaya dengan tradisi pegunungan yang kuat
+- **Suku Moni:** Kelompok etnis penghuni wilayah Intan Jaya dengan kearifan lokal pertanian
+- **Henky Rumere:** Tokoh intelektual dan pendidik di Nabire
+- **Meky Nawipa:** Mantan Bupati Paniai, Pilot sekaligus tokoh inspiratif asli Papua Tengah
+- **Fery Sonneville (Tokoh Bulu Tangkis Bangsa):** Pernah memiliki peran strategis dalam koordinasi pemuda di Irian Barat
+- **Abraham Dimara (Pahlawan Nasional):** Sosok sentral pembebasan Irian Barat (Lahir di Arandai, Sorong Selatan namun berjuang untuk seluruh Papua)
+- **Lisa Rumbewas (Atlet Kebanggaan Papua):** Atlet angkat besi pemecah rekor dunia (Inspirasi kaum muda Meepago)
+- **Masyarakat Nabire:** Masyarakat yang dikenal dengan toleransi beragama dan kemajemukan etnis di "Kota Berseri"
+- **Para Pendaki Puncak Jaya (Cartensz Pyramid):** Menjadi duta pariwisata ekstrem Papua Tengah di mata dunia
+- **Tokoh Adat Meepago:** Institusi adat yang membawahi wilayah adat pegunungan tengah bagian barat
+- **Bambang Soesatyo (Tokoh Nasional):** Hanya dalam kaitan dengan Ketua MPR RI yang sering berkunjung dan membangun aspirasi DOB
+- **Isaias Douw:** Mantan Bupati Nabire dua periode yang membangun fondasi kota Nabire modern
+- **Masyarakat Suku Wate:** Pemilik ulayat tanah di wilayah Nabire yang menjaga kearifan pesisir
 
 ## Referensi
 
-- Wikipedia Papua Tengah: https://id.wikipedia.org/wiki/Papua_Tengah
-
-## Wisata
-
-Berikut daftar 300+ destinasi wisata di Papua Tengah, terkategorisasi:
-
-### 🏖️ Wisata Alam & Pantai (100 destinasi)
-
-| No  | Nama Tempat                     | Jenis | Wilayah      |
-| --- | ------------------------------- | ----- | ------------ |
-| 1   | Destinasi Alam 1 Papua Tengah   | Alam  | Papua Tengah |
-| 2   | Destinasi Alam 2 Papua Tengah   | Alam  | Papua Tengah |
-| 3   | Destinasi Alam 3 Papua Tengah   | Alam  | Papua Tengah |
-| 4   | Destinasi Alam 4 Papua Tengah   | Alam  | Papua Tengah |
-| 5   | Destinasi Alam 5 Papua Tengah   | Alam  | Papua Tengah |
-| 6   | Destinasi Alam 6 Papua Tengah   | Alam  | Papua Tengah |
-| 7   | Destinasi Alam 7 Papua Tengah   | Alam  | Papua Tengah |
-| 8   | Destinasi Alam 8 Papua Tengah   | Alam  | Papua Tengah |
-| 9   | Destinasi Alam 9 Papua Tengah   | Alam  | Papua Tengah |
-| 10  | Destinasi Alam 10 Papua Tengah  | Alam  | Papua Tengah |
-| 11  | Destinasi Alam 11 Papua Tengah  | Alam  | Papua Tengah |
-| 12  | Destinasi Alam 12 Papua Tengah  | Alam  | Papua Tengah |
-| 13  | Destinasi Alam 13 Papua Tengah  | Alam  | Papua Tengah |
-| 14  | Destinasi Alam 14 Papua Tengah  | Alam  | Papua Tengah |
-| 15  | Destinasi Alam 15 Papua Tengah  | Alam  | Papua Tengah |
-| 16  | Destinasi Alam 16 Papua Tengah  | Alam  | Papua Tengah |
-| 17  | Destinasi Alam 17 Papua Tengah  | Alam  | Papua Tengah |
-| 18  | Destinasi Alam 18 Papua Tengah  | Alam  | Papua Tengah |
-| 19  | Destinasi Alam 19 Papua Tengah  | Alam  | Papua Tengah |
-| 20  | Destinasi Alam 20 Papua Tengah  | Alam  | Papua Tengah |
-| 21  | Destinasi Alam 21 Papua Tengah  | Alam  | Papua Tengah |
-| 22  | Destinasi Alam 22 Papua Tengah  | Alam  | Papua Tengah |
-| 23  | Destinasi Alam 23 Papua Tengah  | Alam  | Papua Tengah |
-| 24  | Destinasi Alam 24 Papua Tengah  | Alam  | Papua Tengah |
-| 25  | Destinasi Alam 25 Papua Tengah  | Alam  | Papua Tengah |
-| 26  | Destinasi Alam 26 Papua Tengah  | Alam  | Papua Tengah |
-| 27  | Destinasi Alam 27 Papua Tengah  | Alam  | Papua Tengah |
-| 28  | Destinasi Alam 28 Papua Tengah  | Alam  | Papua Tengah |
-| 29  | Destinasi Alam 29 Papua Tengah  | Alam  | Papua Tengah |
-| 30  | Destinasi Alam 30 Papua Tengah  | Alam  | Papua Tengah |
-| 31  | Destinasi Alam 31 Papua Tengah  | Alam  | Papua Tengah |
-| 32  | Destinasi Alam 32 Papua Tengah  | Alam  | Papua Tengah |
-| 33  | Destinasi Alam 33 Papua Tengah  | Alam  | Papua Tengah |
-| 34  | Destinasi Alam 34 Papua Tengah  | Alam  | Papua Tengah |
-| 35  | Destinasi Alam 35 Papua Tengah  | Alam  | Papua Tengah |
-| 36  | Destinasi Alam 36 Papua Tengah  | Alam  | Papua Tengah |
-| 37  | Destinasi Alam 37 Papua Tengah  | Alam  | Papua Tengah |
-| 38  | Destinasi Alam 38 Papua Tengah  | Alam  | Papua Tengah |
-| 39  | Destinasi Alam 39 Papua Tengah  | Alam  | Papua Tengah |
-| 40  | Destinasi Alam 40 Papua Tengah  | Alam  | Papua Tengah |
-| 41  | Destinasi Alam 41 Papua Tengah  | Alam  | Papua Tengah |
-| 42  | Destinasi Alam 42 Papua Tengah  | Alam  | Papua Tengah |
-| 43  | Destinasi Alam 43 Papua Tengah  | Alam  | Papua Tengah |
-| 44  | Destinasi Alam 44 Papua Tengah  | Alam  | Papua Tengah |
-| 45  | Destinasi Alam 45 Papua Tengah  | Alam  | Papua Tengah |
-| 46  | Destinasi Alam 46 Papua Tengah  | Alam  | Papua Tengah |
-| 47  | Destinasi Alam 47 Papua Tengah  | Alam  | Papua Tengah |
-| 48  | Destinasi Alam 48 Papua Tengah  | Alam  | Papua Tengah |
-| 49  | Destinasi Alam 49 Papua Tengah  | Alam  | Papua Tengah |
-| 50  | Destinasi Alam 50 Papua Tengah  | Alam  | Papua Tengah |
-| 51  | Destinasi Alam 51 Papua Tengah  | Alam  | Papua Tengah |
-| 52  | Destinasi Alam 52 Papua Tengah  | Alam  | Papua Tengah |
-| 53  | Destinasi Alam 53 Papua Tengah  | Alam  | Papua Tengah |
-| 54  | Destinasi Alam 54 Papua Tengah  | Alam  | Papua Tengah |
-| 55  | Destinasi Alam 55 Papua Tengah  | Alam  | Papua Tengah |
-| 56  | Destinasi Alam 56 Papua Tengah  | Alam  | Papua Tengah |
-| 57  | Destinasi Alam 57 Papua Tengah  | Alam  | Papua Tengah |
-| 58  | Destinasi Alam 58 Papua Tengah  | Alam  | Papua Tengah |
-| 59  | Destinasi Alam 59 Papua Tengah  | Alam  | Papua Tengah |
-| 60  | Destinasi Alam 60 Papua Tengah  | Alam  | Papua Tengah |
-| 61  | Destinasi Alam 61 Papua Tengah  | Alam  | Papua Tengah |
-| 62  | Destinasi Alam 62 Papua Tengah  | Alam  | Papua Tengah |
-| 63  | Destinasi Alam 63 Papua Tengah  | Alam  | Papua Tengah |
-| 64  | Destinasi Alam 64 Papua Tengah  | Alam  | Papua Tengah |
-| 65  | Destinasi Alam 65 Papua Tengah  | Alam  | Papua Tengah |
-| 66  | Destinasi Alam 66 Papua Tengah  | Alam  | Papua Tengah |
-| 67  | Destinasi Alam 67 Papua Tengah  | Alam  | Papua Tengah |
-| 68  | Destinasi Alam 68 Papua Tengah  | Alam  | Papua Tengah |
-| 69  | Destinasi Alam 69 Papua Tengah  | Alam  | Papua Tengah |
-| 70  | Destinasi Alam 70 Papua Tengah  | Alam  | Papua Tengah |
-| 71  | Destinasi Alam 71 Papua Tengah  | Alam  | Papua Tengah |
-| 72  | Destinasi Alam 72 Papua Tengah  | Alam  | Papua Tengah |
-| 73  | Destinasi Alam 73 Papua Tengah  | Alam  | Papua Tengah |
-| 74  | Destinasi Alam 74 Papua Tengah  | Alam  | Papua Tengah |
-| 75  | Destinasi Alam 75 Papua Tengah  | Alam  | Papua Tengah |
-| 76  | Destinasi Alam 76 Papua Tengah  | Alam  | Papua Tengah |
-| 77  | Destinasi Alam 77 Papua Tengah  | Alam  | Papua Tengah |
-| 78  | Destinasi Alam 78 Papua Tengah  | Alam  | Papua Tengah |
-| 79  | Destinasi Alam 79 Papua Tengah  | Alam  | Papua Tengah |
-| 80  | Destinasi Alam 80 Papua Tengah  | Alam  | Papua Tengah |
-| 81  | Destinasi Alam 81 Papua Tengah  | Alam  | Papua Tengah |
-| 82  | Destinasi Alam 82 Papua Tengah  | Alam  | Papua Tengah |
-| 83  | Destinasi Alam 83 Papua Tengah  | Alam  | Papua Tengah |
-| 84  | Destinasi Alam 84 Papua Tengah  | Alam  | Papua Tengah |
-| 85  | Destinasi Alam 85 Papua Tengah  | Alam  | Papua Tengah |
-| 86  | Destinasi Alam 86 Papua Tengah  | Alam  | Papua Tengah |
-| 87  | Destinasi Alam 87 Papua Tengah  | Alam  | Papua Tengah |
-| 88  | Destinasi Alam 88 Papua Tengah  | Alam  | Papua Tengah |
-| 89  | Destinasi Alam 89 Papua Tengah  | Alam  | Papua Tengah |
-| 90  | Destinasi Alam 90 Papua Tengah  | Alam  | Papua Tengah |
-| 91  | Destinasi Alam 91 Papua Tengah  | Alam  | Papua Tengah |
-| 92  | Destinasi Alam 92 Papua Tengah  | Alam  | Papua Tengah |
-| 93  | Destinasi Alam 93 Papua Tengah  | Alam  | Papua Tengah |
-| 94  | Destinasi Alam 94 Papua Tengah  | Alam  | Papua Tengah |
-| 95  | Destinasi Alam 95 Papua Tengah  | Alam  | Papua Tengah |
-| 96  | Destinasi Alam 96 Papua Tengah  | Alam  | Papua Tengah |
-| 97  | Destinasi Alam 97 Papua Tengah  | Alam  | Papua Tengah |
-| 98  | Destinasi Alam 98 Papua Tengah  | Alam  | Papua Tengah |
-| 99  | Destinasi Alam 99 Papua Tengah  | Alam  | Papua Tengah |
-| 100 | Destinasi Alam 100 Papua Tengah | Alam  | Papua Tengah |
-
-### 🕌 Wisata Religi & Budaya (100 destinasi)
-
-| No  | Nama Tempat                       | Jenis  | Wilayah      |
-| --- | --------------------------------- | ------ | ------------ |
-| 101 | Destinasi Budaya 1 Papua Tengah   | Budaya | Papua Tengah |
-| 102 | Destinasi Budaya 2 Papua Tengah   | Budaya | Papua Tengah |
-| 103 | Destinasi Budaya 3 Papua Tengah   | Budaya | Papua Tengah |
-| 104 | Destinasi Budaya 4 Papua Tengah   | Budaya | Papua Tengah |
-| 105 | Destinasi Budaya 5 Papua Tengah   | Budaya | Papua Tengah |
-| 106 | Destinasi Budaya 6 Papua Tengah   | Budaya | Papua Tengah |
-| 107 | Destinasi Budaya 7 Papua Tengah   | Budaya | Papua Tengah |
-| 108 | Destinasi Budaya 8 Papua Tengah   | Budaya | Papua Tengah |
-| 109 | Destinasi Budaya 9 Papua Tengah   | Budaya | Papua Tengah |
-| 110 | Destinasi Budaya 10 Papua Tengah  | Budaya | Papua Tengah |
-| 111 | Destinasi Budaya 11 Papua Tengah  | Budaya | Papua Tengah |
-| 112 | Destinasi Budaya 12 Papua Tengah  | Budaya | Papua Tengah |
-| 113 | Destinasi Budaya 13 Papua Tengah  | Budaya | Papua Tengah |
-| 114 | Destinasi Budaya 14 Papua Tengah  | Budaya | Papua Tengah |
-| 115 | Destinasi Budaya 15 Papua Tengah  | Budaya | Papua Tengah |
-| 116 | Destinasi Budaya 16 Papua Tengah  | Budaya | Papua Tengah |
-| 117 | Destinasi Budaya 17 Papua Tengah  | Budaya | Papua Tengah |
-| 118 | Destinasi Budaya 18 Papua Tengah  | Budaya | Papua Tengah |
-| 119 | Destinasi Budaya 19 Papua Tengah  | Budaya | Papua Tengah |
-| 120 | Destinasi Budaya 20 Papua Tengah  | Budaya | Papua Tengah |
-| 121 | Destinasi Budaya 21 Papua Tengah  | Budaya | Papua Tengah |
-| 122 | Destinasi Budaya 22 Papua Tengah  | Budaya | Papua Tengah |
-| 123 | Destinasi Budaya 23 Papua Tengah  | Budaya | Papua Tengah |
-| 124 | Destinasi Budaya 24 Papua Tengah  | Budaya | Papua Tengah |
-| 125 | Destinasi Budaya 25 Papua Tengah  | Budaya | Papua Tengah |
-| 126 | Destinasi Budaya 26 Papua Tengah  | Budaya | Papua Tengah |
-| 127 | Destinasi Budaya 27 Papua Tengah  | Budaya | Papua Tengah |
-| 128 | Destinasi Budaya 28 Papua Tengah  | Budaya | Papua Tengah |
-| 129 | Destinasi Budaya 29 Papua Tengah  | Budaya | Papua Tengah |
-| 130 | Destinasi Budaya 30 Papua Tengah  | Budaya | Papua Tengah |
-| 131 | Destinasi Budaya 31 Papua Tengah  | Budaya | Papua Tengah |
-| 132 | Destinasi Budaya 32 Papua Tengah  | Budaya | Papua Tengah |
-| 133 | Destinasi Budaya 33 Papua Tengah  | Budaya | Papua Tengah |
-| 134 | Destinasi Budaya 34 Papua Tengah  | Budaya | Papua Tengah |
-| 135 | Destinasi Budaya 35 Papua Tengah  | Budaya | Papua Tengah |
-| 136 | Destinasi Budaya 36 Papua Tengah  | Budaya | Papua Tengah |
-| 137 | Destinasi Budaya 37 Papua Tengah  | Budaya | Papua Tengah |
-| 138 | Destinasi Budaya 38 Papua Tengah  | Budaya | Papua Tengah |
-| 139 | Destinasi Budaya 39 Papua Tengah  | Budaya | Papua Tengah |
-| 140 | Destinasi Budaya 40 Papua Tengah  | Budaya | Papua Tengah |
-| 141 | Destinasi Budaya 41 Papua Tengah  | Budaya | Papua Tengah |
-| 142 | Destinasi Budaya 42 Papua Tengah  | Budaya | Papua Tengah |
-| 143 | Destinasi Budaya 43 Papua Tengah  | Budaya | Papua Tengah |
-| 144 | Destinasi Budaya 44 Papua Tengah  | Budaya | Papua Tengah |
-| 145 | Destinasi Budaya 45 Papua Tengah  | Budaya | Papua Tengah |
-| 146 | Destinasi Budaya 46 Papua Tengah  | Budaya | Papua Tengah |
-| 147 | Destinasi Budaya 47 Papua Tengah  | Budaya | Papua Tengah |
-| 148 | Destinasi Budaya 48 Papua Tengah  | Budaya | Papua Tengah |
-| 149 | Destinasi Budaya 49 Papua Tengah  | Budaya | Papua Tengah |
-| 150 | Destinasi Budaya 50 Papua Tengah  | Budaya | Papua Tengah |
-| 151 | Destinasi Budaya 51 Papua Tengah  | Budaya | Papua Tengah |
-| 152 | Destinasi Budaya 52 Papua Tengah  | Budaya | Papua Tengah |
-| 153 | Destinasi Budaya 53 Papua Tengah  | Budaya | Papua Tengah |
-| 154 | Destinasi Budaya 54 Papua Tengah  | Budaya | Papua Tengah |
-| 155 | Destinasi Budaya 55 Papua Tengah  | Budaya | Papua Tengah |
-| 156 | Destinasi Budaya 56 Papua Tengah  | Budaya | Papua Tengah |
-| 157 | Destinasi Budaya 57 Papua Tengah  | Budaya | Papua Tengah |
-| 158 | Destinasi Budaya 58 Papua Tengah  | Budaya | Papua Tengah |
-| 159 | Destinasi Budaya 59 Papua Tengah  | Budaya | Papua Tengah |
-| 160 | Destinasi Budaya 60 Papua Tengah  | Budaya | Papua Tengah |
-| 161 | Destinasi Budaya 61 Papua Tengah  | Budaya | Papua Tengah |
-| 162 | Destinasi Budaya 62 Papua Tengah  | Budaya | Papua Tengah |
-| 163 | Destinasi Budaya 63 Papua Tengah  | Budaya | Papua Tengah |
-| 164 | Destinasi Budaya 64 Papua Tengah  | Budaya | Papua Tengah |
-| 165 | Destinasi Budaya 65 Papua Tengah  | Budaya | Papua Tengah |
-| 166 | Destinasi Budaya 66 Papua Tengah  | Budaya | Papua Tengah |
-| 167 | Destinasi Budaya 67 Papua Tengah  | Budaya | Papua Tengah |
-| 168 | Destinasi Budaya 68 Papua Tengah  | Budaya | Papua Tengah |
-| 169 | Destinasi Budaya 69 Papua Tengah  | Budaya | Papua Tengah |
-| 170 | Destinasi Budaya 70 Papua Tengah  | Budaya | Papua Tengah |
-| 171 | Destinasi Budaya 71 Papua Tengah  | Budaya | Papua Tengah |
-| 172 | Destinasi Budaya 72 Papua Tengah  | Budaya | Papua Tengah |
-| 173 | Destinasi Budaya 73 Papua Tengah  | Budaya | Papua Tengah |
-| 174 | Destinasi Budaya 74 Papua Tengah  | Budaya | Papua Tengah |
-| 175 | Destinasi Budaya 75 Papua Tengah  | Budaya | Papua Tengah |
-| 176 | Destinasi Budaya 76 Papua Tengah  | Budaya | Papua Tengah |
-| 177 | Destinasi Budaya 77 Papua Tengah  | Budaya | Papua Tengah |
-| 178 | Destinasi Budaya 78 Papua Tengah  | Budaya | Papua Tengah |
-| 179 | Destinasi Budaya 79 Papua Tengah  | Budaya | Papua Tengah |
-| 180 | Destinasi Budaya 80 Papua Tengah  | Budaya | Papua Tengah |
-| 181 | Destinasi Budaya 81 Papua Tengah  | Budaya | Papua Tengah |
-| 182 | Destinasi Budaya 82 Papua Tengah  | Budaya | Papua Tengah |
-| 183 | Destinasi Budaya 83 Papua Tengah  | Budaya | Papua Tengah |
-| 184 | Destinasi Budaya 84 Papua Tengah  | Budaya | Papua Tengah |
-| 185 | Destinasi Budaya 85 Papua Tengah  | Budaya | Papua Tengah |
-| 186 | Destinasi Budaya 86 Papua Tengah  | Budaya | Papua Tengah |
-| 187 | Destinasi Budaya 87 Papua Tengah  | Budaya | Papua Tengah |
-| 188 | Destinasi Budaya 88 Papua Tengah  | Budaya | Papua Tengah |
-| 189 | Destinasi Budaya 89 Papua Tengah  | Budaya | Papua Tengah |
-| 190 | Destinasi Budaya 90 Papua Tengah  | Budaya | Papua Tengah |
-| 191 | Destinasi Budaya 91 Papua Tengah  | Budaya | Papua Tengah |
-| 192 | Destinasi Budaya 92 Papua Tengah  | Budaya | Papua Tengah |
-| 193 | Destinasi Budaya 93 Papua Tengah  | Budaya | Papua Tengah |
-| 194 | Destinasi Budaya 94 Papua Tengah  | Budaya | Papua Tengah |
-| 195 | Destinasi Budaya 95 Papua Tengah  | Budaya | Papua Tengah |
-| 196 | Destinasi Budaya 96 Papua Tengah  | Budaya | Papua Tengah |
-| 197 | Destinasi Budaya 97 Papua Tengah  | Budaya | Papua Tengah |
-| 198 | Destinasi Budaya 98 Papua Tengah  | Budaya | Papua Tengah |
-| 199 | Destinasi Budaya 99 Papua Tengah  | Budaya | Papua Tengah |
-| 200 | Destinasi Budaya 100 Papua Tengah | Budaya | Papua Tengah |
-
-### 🌿 Wisata Kuliner & Belanja (100 destinasi)
-
-| No  | Nama Tempat                        | Jenis   | Wilayah      |
-| --- | ---------------------------------- | ------- | ------------ |
-| 201 | Destinasi Kuliner 1 Papua Tengah   | Kuliner | Papua Tengah |
-| 202 | Destinasi Kuliner 2 Papua Tengah   | Kuliner | Papua Tengah |
-| 203 | Destinasi Kuliner 3 Papua Tengah   | Kuliner | Papua Tengah |
-| 204 | Destinasi Kuliner 4 Papua Tengah   | Kuliner | Papua Tengah |
-| 205 | Destinasi Kuliner 5 Papua Tengah   | Kuliner | Papua Tengah |
-| 206 | Destinasi Kuliner 6 Papua Tengah   | Kuliner | Papua Tengah |
-| 207 | Destinasi Kuliner 7 Papua Tengah   | Kuliner | Papua Tengah |
-| 208 | Destinasi Kuliner 8 Papua Tengah   | Kuliner | Papua Tengah |
-| 209 | Destinasi Kuliner 9 Papua Tengah   | Kuliner | Papua Tengah |
-| 210 | Destinasi Kuliner 10 Papua Tengah  | Kuliner | Papua Tengah |
-| 211 | Destinasi Kuliner 11 Papua Tengah  | Kuliner | Papua Tengah |
-| 212 | Destinasi Kuliner 12 Papua Tengah  | Kuliner | Papua Tengah |
-| 213 | Destinasi Kuliner 13 Papua Tengah  | Kuliner | Papua Tengah |
-| 214 | Destinasi Kuliner 14 Papua Tengah  | Kuliner | Papua Tengah |
-| 215 | Destinasi Kuliner 15 Papua Tengah  | Kuliner | Papua Tengah |
-| 216 | Destinasi Kuliner 16 Papua Tengah  | Kuliner | Papua Tengah |
-| 217 | Destinasi Kuliner 17 Papua Tengah  | Kuliner | Papua Tengah |
-| 218 | Destinasi Kuliner 18 Papua Tengah  | Kuliner | Papua Tengah |
-| 219 | Destinasi Kuliner 19 Papua Tengah  | Kuliner | Papua Tengah |
-| 220 | Destinasi Kuliner 20 Papua Tengah  | Kuliner | Papua Tengah |
-| 221 | Destinasi Kuliner 21 Papua Tengah  | Kuliner | Papua Tengah |
-| 222 | Destinasi Kuliner 22 Papua Tengah  | Kuliner | Papua Tengah |
-| 223 | Destinasi Kuliner 23 Papua Tengah  | Kuliner | Papua Tengah |
-| 224 | Destinasi Kuliner 24 Papua Tengah  | Kuliner | Papua Tengah |
-| 225 | Destinasi Kuliner 25 Papua Tengah  | Kuliner | Papua Tengah |
-| 226 | Destinasi Kuliner 26 Papua Tengah  | Kuliner | Papua Tengah |
-| 227 | Destinasi Kuliner 27 Papua Tengah  | Kuliner | Papua Tengah |
-| 228 | Destinasi Kuliner 28 Papua Tengah  | Kuliner | Papua Tengah |
-| 229 | Destinasi Kuliner 29 Papua Tengah  | Kuliner | Papua Tengah |
-| 230 | Destinasi Kuliner 30 Papua Tengah  | Kuliner | Papua Tengah |
-| 231 | Destinasi Kuliner 31 Papua Tengah  | Kuliner | Papua Tengah |
-| 232 | Destinasi Kuliner 32 Papua Tengah  | Kuliner | Papua Tengah |
-| 233 | Destinasi Kuliner 33 Papua Tengah  | Kuliner | Papua Tengah |
-| 234 | Destinasi Kuliner 34 Papua Tengah  | Kuliner | Papua Tengah |
-| 235 | Destinasi Kuliner 35 Papua Tengah  | Kuliner | Papua Tengah |
-| 236 | Destinasi Kuliner 36 Papua Tengah  | Kuliner | Papua Tengah |
-| 237 | Destinasi Kuliner 37 Papua Tengah  | Kuliner | Papua Tengah |
-| 238 | Destinasi Kuliner 38 Papua Tengah  | Kuliner | Papua Tengah |
-| 239 | Destinasi Kuliner 39 Papua Tengah  | Kuliner | Papua Tengah |
-| 240 | Destinasi Kuliner 40 Papua Tengah  | Kuliner | Papua Tengah |
-| 241 | Destinasi Kuliner 41 Papua Tengah  | Kuliner | Papua Tengah |
-| 242 | Destinasi Kuliner 42 Papua Tengah  | Kuliner | Papua Tengah |
-| 243 | Destinasi Kuliner 43 Papua Tengah  | Kuliner | Papua Tengah |
-| 244 | Destinasi Kuliner 44 Papua Tengah  | Kuliner | Papua Tengah |
-| 245 | Destinasi Kuliner 45 Papua Tengah  | Kuliner | Papua Tengah |
-| 246 | Destinasi Kuliner 46 Papua Tengah  | Kuliner | Papua Tengah |
-| 247 | Destinasi Kuliner 47 Papua Tengah  | Kuliner | Papua Tengah |
-| 248 | Destinasi Kuliner 48 Papua Tengah  | Kuliner | Papua Tengah |
-| 249 | Destinasi Kuliner 49 Papua Tengah  | Kuliner | Papua Tengah |
-| 250 | Destinasi Kuliner 50 Papua Tengah  | Kuliner | Papua Tengah |
-| 251 | Destinasi Kuliner 51 Papua Tengah  | Kuliner | Papua Tengah |
-| 252 | Destinasi Kuliner 52 Papua Tengah  | Kuliner | Papua Tengah |
-| 253 | Destinasi Kuliner 53 Papua Tengah  | Kuliner | Papua Tengah |
-| 254 | Destinasi Kuliner 54 Papua Tengah  | Kuliner | Papua Tengah |
-| 255 | Destinasi Kuliner 55 Papua Tengah  | Kuliner | Papua Tengah |
-| 256 | Destinasi Kuliner 56 Papua Tengah  | Kuliner | Papua Tengah |
-| 257 | Destinasi Kuliner 57 Papua Tengah  | Kuliner | Papua Tengah |
-| 258 | Destinasi Kuliner 58 Papua Tengah  | Kuliner | Papua Tengah |
-| 259 | Destinasi Kuliner 59 Papua Tengah  | Kuliner | Papua Tengah |
-| 260 | Destinasi Kuliner 60 Papua Tengah  | Kuliner | Papua Tengah |
-| 261 | Destinasi Kuliner 61 Papua Tengah  | Kuliner | Papua Tengah |
-| 262 | Destinasi Kuliner 62 Papua Tengah  | Kuliner | Papua Tengah |
-| 263 | Destinasi Kuliner 63 Papua Tengah  | Kuliner | Papua Tengah |
-| 264 | Destinasi Kuliner 64 Papua Tengah  | Kuliner | Papua Tengah |
-| 265 | Destinasi Kuliner 65 Papua Tengah  | Kuliner | Papua Tengah |
-| 266 | Destinasi Kuliner 66 Papua Tengah  | Kuliner | Papua Tengah |
-| 267 | Destinasi Kuliner 67 Papua Tengah  | Kuliner | Papua Tengah |
-| 268 | Destinasi Kuliner 68 Papua Tengah  | Kuliner | Papua Tengah |
-| 269 | Destinasi Kuliner 69 Papua Tengah  | Kuliner | Papua Tengah |
-| 270 | Destinasi Kuliner 70 Papua Tengah  | Kuliner | Papua Tengah |
-| 271 | Destinasi Kuliner 71 Papua Tengah  | Kuliner | Papua Tengah |
-| 272 | Destinasi Kuliner 72 Papua Tengah  | Kuliner | Papua Tengah |
-| 273 | Destinasi Kuliner 73 Papua Tengah  | Kuliner | Papua Tengah |
-| 274 | Destinasi Kuliner 74 Papua Tengah  | Kuliner | Papua Tengah |
-| 275 | Destinasi Kuliner 75 Papua Tengah  | Kuliner | Papua Tengah |
-| 276 | Destinasi Kuliner 76 Papua Tengah  | Kuliner | Papua Tengah |
-| 277 | Destinasi Kuliner 77 Papua Tengah  | Kuliner | Papua Tengah |
-| 278 | Destinasi Kuliner 78 Papua Tengah  | Kuliner | Papua Tengah |
-| 279 | Destinasi Kuliner 79 Papua Tengah  | Kuliner | Papua Tengah |
-| 280 | Destinasi Kuliner 80 Papua Tengah  | Kuliner | Papua Tengah |
-| 281 | Destinasi Kuliner 81 Papua Tengah  | Kuliner | Papua Tengah |
-| 282 | Destinasi Kuliner 82 Papua Tengah  | Kuliner | Papua Tengah |
-| 283 | Destinasi Kuliner 83 Papua Tengah  | Kuliner | Papua Tengah |
-| 284 | Destinasi Kuliner 84 Papua Tengah  | Kuliner | Papua Tengah |
-| 285 | Destinasi Kuliner 85 Papua Tengah  | Kuliner | Papua Tengah |
-| 286 | Destinasi Kuliner 86 Papua Tengah  | Kuliner | Papua Tengah |
-| 287 | Destinasi Kuliner 87 Papua Tengah  | Kuliner | Papua Tengah |
-| 288 | Destinasi Kuliner 88 Papua Tengah  | Kuliner | Papua Tengah |
-| 289 | Destinasi Kuliner 89 Papua Tengah  | Kuliner | Papua Tengah |
-| 290 | Destinasi Kuliner 90 Papua Tengah  | Kuliner | Papua Tengah |
-| 291 | Destinasi Kuliner 91 Papua Tengah  | Kuliner | Papua Tengah |
-| 292 | Destinasi Kuliner 92 Papua Tengah  | Kuliner | Papua Tengah |
-| 293 | Destinasi Kuliner 93 Papua Tengah  | Kuliner | Papua Tengah |
-| 294 | Destinasi Kuliner 94 Papua Tengah  | Kuliner | Papua Tengah |
-| 295 | Destinasi Kuliner 95 Papua Tengah  | Kuliner | Papua Tengah |
-| 296 | Destinasi Kuliner 96 Papua Tengah  | Kuliner | Papua Tengah |
-| 297 | Destinasi Kuliner 97 Papua Tengah  | Kuliner | Papua Tengah |
-| 298 | Destinasi Kuliner 98 Papua Tengah  | Kuliner | Papua Tengah |
-| 299 | Destinasi Kuliner 99 Papua Tengah  | Kuliner | Papua Tengah |
-| 300 | Destinasi Kuliner 100 Papua Tengah | Kuliner | Papua Tengah |
-
-## Kode Pos & Kode Telepon
-
-### Kode Pos
-
-Range kode pos: **98700-98999**
-
-| Wilayah           | Kode Pos                          |
-| ----------------- | --------------------------------- |
-| Ibu Kota Provinsi | (lihat detail per kabupaten/kota) |
-| Kabupaten/Kota    | (lihat folder masing-masing)      |
-
-### Kode Telepon (Kode Area)
-
-0984 (Nabire), 0984 (Paniai), 0984 (Deiyai), 0984 (Dogiyai), 0984 (Intan Jaya), 0984 (Puncak), 0984 (Puncak Jaya), 0901 (Mimika/Timika)
-
-> Catatan: Kode area di atas adalah untuk telepon rumah/kantor. Untuk telepon seluler, gunakan kode operator nasional (0811, 0812, 0813, 0821, 0822, 0823, 0851, 0852, 0853, 0855, 0856, 0857, 0858, 0877, 0878, 0881, 0882, 0883, 0884, 0885, 0886, 0887, 0888, 0889, 0895, 0896, 0897, 0898, 0899).
-
-## Tokoh Lengkap
-
-**Pahlawan Nasional:**
-
-- Tokoh-tokoh pahlawan dari Papua Tengah (lihat Wikipedia untuk daftar lengkap)
-
-**Tokoh Modern:**
-
-- Gubernur dan pejabat daerah Papua Tengah
-- Tokoh politik, bisnis, dan budaya Papua Tengah
-
-**Tokoh Agama & Budaya:**
-
-- Ulama, seniman, dan budayawan Papua Tengah
-
-## Sejarah Detail
-
-### Masa Prasejarah & Kerajaan Kuno
-
-- Wilayah Papua Tengah telah dihuni sejak masa prasejarah, dibuktikan dengan temuan arkeologis.
-- Berbagai kerajaan kuno pernah berdiri dan berkembang di wilayah ini.
-
-### Masa Kerajaan Hindu-Buddha
-
-- Pengaruh Hindu-Buddha masuk ke wilayah Papua Tengah melalui jalur perdagangan.
-- Beberapa kerajaan bercorak Hindu-Buddha pernah berkuasa di wilayah ini.
-
-### Masa Kerajaan Islam
-
-- Islam masuk ke wilayah Papua Tengah melalui pedagang dan ulama.
-- Kesultanan-kesultanan Islam berkembang dan menjadi pusat kekuasaan.
-
-### Masa Kolonial
-
-- Portugis, Belanda, dan Inggris pernah menguasai atau mempengaruhi wilayah Papua Tengah.
-- Perlawanan rakyat terhadap penjajah terjadi di berbagai daerah.
-- VOC (Vereenigde Oost-Indische Compagnie) mendirikan pos perdagangan.
-- Pemerintah Hindia Belanda mengatur wilayah ini sebagai bagian dari koloni.
-
-### Masa Pergerakan Nasional
-
-- Tokoh-tokoh dari Papua Tengah turut berperan dalam pergerakan kemerdekaan Indonesia.
-- Organisasi pergerakan nasional aktif di wilayah ini.
-
-### Masa Kemerdekaan
-
-- Wilayah Papua Tengah menjadi bagian dari Republik Indonesia yang diproklamasikan 17 Agustus 1945.
-- Berbagai pertempuran mempertahankan kemerdekaan terjadi di wilayah ini.
-
-### Masa Orde Lama (1945-1966)
-
-- Pembentukan pemerintahan daerah dan konsolidasi wilayah.
-- Berbagai pemberontakan dan konflik internal terjadi.
-
-### Masa Orde Baru (1966-1998)
-
-- Pembangunan infrastruktur dan ekonomi secara masif.
-- Transmigrasi membawa perubahan demografis.
-
-### Masa Reformasi (1998-sekarang)
-
-- Otonomi daerah memberikan kewenangan lebih besar kepada pemerintah daerah.
-- Pemekaran wilayah menciptakan kabupaten/kota baru.
-- Pembangunan berkelanjutan dan peningkatan kesejahteraan masyarakat.
-
-## Fun Fact Lengkap
-
-### 🌍 Geografi & Alam
-
-- Papua Tengah memiliki keunikan geografis yang membedakannya dari provinsi lain di Indonesia.
-- Terdapat berbagai ekosistem unik di Papua Tengah, dari hutan tropis hingga pesisir pantai.
-- Beberapa spesies flora dan fauna endemik hanya ditemukan di Papua Tengah.
-- Kondisi iklim Papua Tengah dipengaruhi oleh posisi geografisnya di kepulauan Indonesia.
-- Terdapat sumber daya alam yang melimpah di Papua Tengah, baik mineral maupun hayati.
-
-### 🏛️ Sejarah & Budaya
-
-- Papua Tengah memiliki sejarah panjang yang mencakup berbagai peradaban dan kerajaan.
-- Berbagai peninggalan sejarah masih dapat ditemukan di Papua Tengah.
-- Tradisi dan adat istiadat Papua Tengah telah diwariskan turun-temurun selama berabad-abad.
-- Bahasa daerah Papua Tengah memiliki keunikan tersendiri dalam rumpun bahasa Nusantara.
-- Seni pertunjukan tradisional Papua Tengah diakui sebagai warisan budaya yang berharga.
-
-### 🍽️ Kuliner & Produk Lokal
-
-- Masakan khas Papua Tengah menggunakan rempah-rempah lokal yang unik.
-- Beberapa produk pertanian Papua Tengah terkenal hingga ke mancanegara.
-- Minuman tradisional Papua Tengah memiliki khasiat kesehatan yang telah dikenal lama.
-- Kerajinan tangan Papua Tengah menggunakan bahan-bahan alami setempat.
-- Produk unggulan Papua Tengah berkontribusi signifikan terhadap perekonomian daerah.
-
-### 🎭 Seni & Tradisi
-
-- Festival tahunan di Papua Tengah menarik ribuan wisatawan setiap tahunnya.
-- Musik tradisional Papua Tengah menggunakan alat musik yang tidak ditemukan di daerah lain.
-- Pakaian adat Papua Tengah mencerminkan kekayaan budaya dan filosofi hidup masyarakatnya.
-- Upacara adat Papua Tengah memiliki makna spiritual yang mendalam bagi masyarakat setempat.
-- Tari tradisional Papua Tengah telah dipentaskan di berbagai festival internasional.
-
-### 🏆 Rekor & Pencapaian
-
-- Papua Tengah memegang beberapa rekor unik di tingkat nasional maupun internasional.
-- Beberapa tokoh terkenal Indonesia berasal dari Papua Tengah.
-- Papua Tengah telah menerima berbagai penghargaan atas prestasi pembangunan dan pelestarian budaya.
-- Produk-produk dari Papua Tengah telah mendapatkan pengakuan internasional.
-- Papua Tengah menjadi tuan rumah berbagai event nasional dan internasional.
-
-### 🌱 Lingkungan & Konservasi
-
-- Papua Tengah memiliki kawasan konservasi yang melindungi keanekaragaman hayati.
-- Beberapa spesies langka mendapat perlindungan khusus di Papua Tengah.
-- Program pelestarian lingkungan di Papua Tengah menjadi contoh bagi daerah lain.
-- Masyarakat Papua Tengah memiliki kearifan lokal dalam menjaga keseimbangan alam.
-- Hutan-hutan di Papua Tengah berperan penting dalam menjaga keseimbangan iklim regional.
-
-### 💡 Inovasi & Modernisasi
-
-- Papua Tengah terus berkembang dengan berbagai inovasi di bidang teknologi dan ekonomi.
-- Generasi muda Papua Tengah aktif dalam berbagai kompetisi nasional dan internasional.
-- Infrastruktur Papua Tengah terus ditingkatkan untuk mendukung pertumbuhan ekonomi.
-- Sektor pariwisata Papua Tengah berkembang pesat dengan berbagai destinasi baru.
-- Papua Tengah menjadi salah satu tujuan investasi yang menarik di Indonesia.
-
-## Fun Fact Spesifik
-
-### ⛏️ Fakta Unik Papua Tengah
-
-1. **Grasberg** — Tambang emas dan tembaga terbesar di dunia yang dioperasikan Freeport di Mimika.
-2. **Danau Paniai** — Danau indah di dataran tinggi Papua yang menjadi habitat berbagai spesies ikan endemik.
-3. **Suku Mee** — Suku yang mendiami dataran tinggi Paniai, terkenal dengan tradisi dan budayanya yang unik.
-4. **Suku Amungme** — Suku asli yang tinggal di sekitar tambang Freeport, berjuang untuk hak-hak mereka.
-5. **Puncak Jaya** — Carstensz Pyramid (4.884 m) berada di wilayah Papua Tengah, puncak tertinggi di Indonesia.
-6. **Taman Nasional Lorentz** — Taman nasional terbesar di Asia Tenggara yang sebagian berada di Papua Tengah.
-7. **Upacara Bakar Batu** — Tradisi memasak bersama yang menjadi simbol kebersamaan masyarakat Papua.
-8. **Ubi Jalar** — Makanan pokok masyarakat dataran tinggi Papua yang memiliki ratusan varietas.
-9. **Suku Ekari** — Suku yang mendiami wilayah Nabire dan sekitarnya.
-10. **Provinsi Baru 2022** — Papua Tengah dibentuk pada 2022 sebagai hasil pemekaran Provinsi Papua.
-
-### 🔍 Fun Fact Tambahan Papua Tengah
-
-11. **Fakta 11 Papua Tengah** — Papua Tengah memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
-12. **Fakta 12 Papua Tengah** — Papua Tengah memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
-13. **Fakta 13 Papua Tengah** — Papua Tengah memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
-14. **Fakta 14 Papua Tengah** — Papua Tengah memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
-15. **Fakta 15 Papua Tengah** — Papua Tengah memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
-16. **Fakta 16 Papua Tengah** — Papua Tengah memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
-17. **Fakta 17 Papua Tengah** — Papua Tengah memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
-18. **Fakta 18 Papua Tengah** — Papua Tengah memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
-19. **Fakta 19 Papua Tengah** — Papua Tengah memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
-20. **Fakta 20 Papua Tengah** — Papua Tengah memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
-21. **Fakta 21 Papua Tengah** — Papua Tengah memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
-22. **Fakta 22 Papua Tengah** — Papua Tengah memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
-23. **Fakta 23 Papua Tengah** — Papua Tengah memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
-24. **Fakta 24 Papua Tengah** — Papua Tengah memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
-25. **Fakta 25 Papua Tengah** — Papua Tengah memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+- Badan Pusat Statistik (BPS) Provinsi Papua Tengah.
+- Dinas Pariwisata & Ekonomi Kreatif Kabupaten Nabire & Mimika.
+- UNESCO World Heritage Centre regarding Lorentz National Park.
