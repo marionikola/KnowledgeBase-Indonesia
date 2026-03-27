@@ -1,553 +1,300 @@
-# Sumatera Selatan
+# Provinsi Sumatera Selatan
 
 ## Ringkasan
 
-Sumatera Selatan adalah provinsi di selatan Sumatera, ibu kota Palembang, luas 91.592 km², populasi ~8,7 juta jiwa.
+**Ibu Kota:** Palembang
+**Lokasi:** Bagian selatan Pulau Sumatera
+**Cakupan Wilayah:** 13 Kabupaten, 4 Kota
+
+Sumatera Selatan, yang dikenal sebagai **Bumi Sriwijaya**, adalah wilayah bersejarah yang pernah menjadi pusat imperium maritim terbesar di Asia Tenggara, Kerajaan Sriwijaya. Provinsi ini memiliki kekayaan sumber daya alam berupa energi dan mineral yang besar, serta sungai-sungai besar seperti Sungai Musi yang menjadi urat nadi kehidupan masyarakat. Ibu kotanya, Palembang, adalah kota tertua di Indonesia dengan sejarah lebih dari 1.300 tahun.
 
 ## Administrasi
 
-**Kabupaten (13):**
+Sumatera Selatan terdiri dari 13 kabupaten dan 4 kota:
 
-- Banyuasin
-- Empat Lawang
-- Lahat
-- Muara Enim
-- Musi Banyuasin
-- Musi Rawas
-- Musi Rawas Utara
-- Ogan Ilir
-- Ogan Komering Ilir
-- Ogan Komering Ulu
-- Ogan Komering Ulu Selatan
-- Ogan Komering Ulu Timur
-- Penukal Abab Lematang Ilir
+### Kabupaten
 
-**Kota (4):**
+1. Kabupaten Banyuasin
+2. Kabupaten Empat Lawang
+3. Kabupaten Lahat
+4. Kabupaten Muara Enim
+5. Kabupaten Musi Banyuasin
+6. Kabupaten Musi Rawas
+7. Kabupaten Musi Rawas Utara
+8. Kabupaten Ogan Ilir
+9. Kabupaten Ogan Komering Ilir
+10. Kabupaten Ogan Komering Ulu
+11. Kabupaten Ogan Komering Ulu Selatan
+12. Kabupaten Ogan Komering Ulu Timur
+13. Kabupaten Penukal Abab Lematang Ilir
 
-- Lubuklinggau
-- Pagar Alam
-- Palembang
-- Prabumulih
+### Kota
 
-Lihat `kabupaten/` dan `kota/`.
+1. Kota Lubuklinggau
+2. Kota Pagar Alam
+3. Kota Palembang
+4. Kota Prabumulih
 
-## Sejarah singkat
+## Sejarah Singkat
 
-- Kerajaan Sriwijaya (abad 7-13), kerajaan maritim terbesar Asia Tenggara; Palembang kota tertua di Indonesia.
+Sejarah wilayah ini didominasi oleh kejayaan **Kerajaan Sriwijaya** (abad ke-7 hingga ke-12) yang menguasai jalur perdagangan laut Malaka. Palembang menjadi pusat pembelajaran agama Buddha dan perdagangan internasional. Setelah masa Sriwijaya, berdiri **Kesultanan Palembang Darussalam** yang dipimpin oleh sultan-sultan yang gigih melawan kolonialisme, seperti Sultan Mahmud Badaruddin II. Sebagai kota yang dikelilingi ribuan sungai, Palembang berkembang menjadi pusat pelabuhan dan ekonomi yang vital.
 
-## Fun fact / hal menarik
+## Fun Fact / Hal Menarik
 
-- Jembatan Ampera, ikon Palembang di atas Sungai Musi.
-- Pempek, makanan khas Palembang yang terkenal di seluruh Indonesia.
+- **Kota Tertua:** Berdasarkan Prasasti Kedukan Bukit (682 M), Palembang secara sah diakui sebagai salah satu kota tertua di Indonesia.
+- **Jembatan Ampera:** Salah satu jembatan terpanjang di Indonesia yang pernah menjadi jembatan dengan mekanisme "angkat" (lift bridge), menghubungkan daerah Seberang Ulu dan Seberang Ilir.
+- **Bumi Sriwijaya:** Nama "Sriwijaya" berasal dari bahasa Sanskerta: _Sri_ (bercahaya) dan _Wijaya_ (kemenangan/kejayaan).
+- **Quran Raksasa:** Palembang memiliki Quran terbesar di dunia yang dipahat di atas kayu Tembesu, menjadi destinasi wisata religi yang unik.
 
 ## Budaya
 
-- Tari Gending Sriwijaya; Songket Palembang; Rumah Limas.
+- **Gending Sriwijaya:** Tarian kolosal dan agung yang merefleksikan kejayaan masa lalu Sriwijaya, biasanya digunakan untuk menyambut tamu kehormatan.
+- **Songket Palembang:** Kain tenun tradisional kelas atas yang menggunakan benang emas murni (benang jantung), dijuluki sebagai "Ratu Segala Kain".
+- **Rumah Limas:** Arsitektur rumah adat yang memiliki tingkatan lantai (bengkilas) yang mencerminkan status sosial penghuninya.
+- **Seni Batanghari Sembilan:** Sastra lisan dan musik petikan gitar tunggal yang berkembang di daerah pedalaman Sumatera Selatan.
 
-## Kuliner
+## Kuliner Khas
 
-- Pempek; Tekwan; Model; Mie celor.
+| Nama Kuliner      | Deskripsi Singkat                                                                                                               |
+| ----------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| **Pempek**        | Olahan daging ikan dan sagu yang disajikan dengan kuah _Cuko_ yang manis-asam-pedas, identitas kuliner Palembang yang mendunia. |
+| **Tekwan**        | Sop ikan dengan bulatan kenyal ikan-sagu, disajikan dalam kuah bening dengan jamur kuping, soun, dan irisan bengkoang.          |
+| **Pindang Patin** | Ikan patin yang dimasak dengan kuah bening pedas-asam segar dengan aroma rempah yang kuat.                                      |
+| **Mie Celor**     | Mie kuning tebal yang disiram kaldu udang kental yang gurih dan santan, disajikan dengan telur rebus dan tauge.                 |
+| **Martabak HAR**  | Martabak telur dengan isian telur bebek/ayam yang disiram kuah kari kentang kental, populer sejak tahun 1947.                   |
 
-## Wisata
+## Pariwisata
 
-- Jembatan Ampera, Benteng Kuto Besak, Danau Ranau.
+Sumatera Selatan menawarkan wisata sejarah Palembang, Danau Ranau yang tenang, hingga pegunungan Pagar Alam.
 
-## Tokoh
+| No  | Nama Destinasi                              | Kabupaten/Kota                  | Kategori Singkat     | Google Maps / Koordinat                                                                                                      |
+| --- | ------------------------------------------- | ------------------------------- | -------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| 1   | **Jembatan Ampera**                         | Kota Palembang                  | Landmark/Sejarah     | [Peta](https://www.google.com/maps/search/?api=1&query=Jembatan%20Ampera%20Kota%20Palembang)                                 |
+| 2   | **Benteng Kuto Besak (BKB)**                | Kota Palembang                  | Sejarah/Situs        | [Peta](<https://www.google.com/maps/search/?api=1&query=Benteng%20Kuto%20Besak%20(BKB)%20Kota%20Palembang>)                  |
+| 3   | **Pulau Kemaro**                            | Kota Palembang                  | Budaya/Religi        | [Peta](https://www.google.com/maps/search/?api=1&query=Pulau%20Kemaro%20Kota%20Palembang)                                    |
+| 4   | **Masjid Agung Sultan Mahmud Badaruddin I** | Kota Palembang                  | Religi/Sejarah       | [Peta](https://www.google.com/maps/search/?api=1&query=Masjid%20Agung%20Sultan%20Mahmud%20Badaruddin%20I%20Kota%20Palembang) |
+| 5   | **Museum Balaputra Dewa (Rumah Limas)**     | Kota Palembang                  | Museum/Arsitektur    | [Peta](<https://www.google.com/maps/search/?api=1&query=Museum%20Balaputra%20Dewa%20(Rumah%20Limas)%20Kota%20Palembang>)     |
+| 6   | **Museum Sultan Mahmud Badaruddin II**      | Kota Palembang                  | Museum/Sejarah       | [Peta](https://www.google.com/maps/search/?api=1&query=Museum%20Sultan%20Mahmud%20Badaruddin%20II%20Kota%20Palembang)        |
+| 7   | **Taman Wisata Alam Punti Kayu**            | Kota Palembang                  | Alam/Rekreasi        | [Peta](https://www.google.com/maps/search/?api=1&query=Taman%20Wisata%20Alam%20Punti%20Kayu%20Kota%20Palembang)              |
+| 8   | **Al-Quran Al-Akbar (Quran Raksasa)**       | Kota Palembang                  | Religi/Seni          | [Peta](<https://www.google.com/maps/search/?api=1&query=Al-Quran%20Al-Akbar%20(Quran%20Raksasa)%20Kota%20Palembang>)         |
+| 9   | **Jakabaring Sport City**                   | Kota Palembang                  | Olahraga/Rekreasi    | [Peta](https://www.google.com/maps/search/?api=1&query=Jakabaring%20Sport%20City%20Kota%20Palembang)                         |
+| 10  | **Bukit Siguntang**                         | Kota Palembang                  | Sejarah/Situs        | [Peta](https://www.google.com/maps/search/?api=1&query=Bukit%20Siguntang%20Kota%20Palembang)                                 |
+| 11  | **Kampung Arab Al-Munawar**                 | Kota Palembang                  | Budaya/Religi        | [Peta](https://www.google.com/maps/search/?api=1&query=Kampung%20Arab%20Al-Munawar%20Kota%20Palembang)                       |
+| 12  | **Masjid Cheng Ho Palembang**               | Kota Palembang                  | Religi/Arsitektur    | [Peta](https://www.google.com/maps/search/?api=1&query=Masjid%20Cheng%20Ho%20Palembang%20Kota%20Palembang)                   |
+| 13  | **Kambang Iwak Besak**                      | Kota Palembang                  | Rekreasi             | [Peta](https://www.google.com/maps/search/?api=1&query=Kambang%20Iwak%20Besak%20Kota%20Palembang)                            |
+| 14  | **Gunung Dempo**                            | Kota Pagar Alam                 | Alam/Gunung          | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Dempo%20Kota%20Pagar%20Alam)                                 |
+| 15  | **Kebun Teh Gunung Dempo**                  | Kota Pagar Alam                 | Alam/Perkebunan      | [Peta](https://www.google.com/maps/search/?api=1&query=Kebun%20Teh%20Gunung%20Dempo%20Kota%20Pagar%20Alam)                   |
+| 16  | **Tugu Rimau**                              | Kota Pagar Alam                 | Alam/Pemandangan     | [Peta](https://www.google.com/maps/search/?api=1&query=Tugu%20Rimau%20Kota%20Pagar%20Alam)                                   |
+| 17  | **Air Terjun Lematang Indah**               | Kota Pagar Alam                 | Alam/Air Terjun      | [Peta](https://www.google.com/maps/search/?api=1&query=Air%20Terjun%20Lematang%20Indah%20Kota%20Pagar%20Alam)                |
+| 18  | **Air Terjun Curup Mangkok**                | Kota Pagar Alam                 | Alam/Air Terjun      | [Peta](https://www.google.com/maps/search/?api=1&query=Air%20Terjun%20Curup%20Mangkok%20Kota%20Pagar%20Alam)                 |
+| 19  | **Situs Megalitikum Pagar Alam**            | Kota Pagar Alam                 | Sejarah/Megalitikum  | [Peta](https://www.google.com/maps/search/?api=1&query=Situs%20Megalitikum%20Pagar%20Alam%20Kota%20Pagar%20Alam)             |
+| 20  | **Bukit Sulap**                             | Kota Lubuk Linggau              | Alam/Pemandangan     | [Peta](https://www.google.com/maps/search/?api=1&query=Bukit%20Sulap%20Kota%20Lubuk%20Linggau)                               |
+| 21  | **Air Terjun Temam (Niagara Mini)**         | Kota Lubuk Linggau              | Alam/Air Terjun      | [Peta](<https://www.google.com/maps/search/?api=1&query=Air%20Terjun%20Temam%20(Niagara%20Mini)%20Kota%20Lubuk%20Linggau>)   |
+| 22  | **Masjid Agung As-Salam**                   | Kota Lubuk Linggau              | Religi/Landmark      | [Peta](https://www.google.com/maps/search/?api=1&query=Masjid%20Agung%20As-Salam%20Kota%20Lubuk%20Linggau)                   |
+| 23  | **Kampung Warna Warni Lubuk Linggau**       | Kota Lubuk Linggau              | Rekreasi/Seni        | [Peta](https://www.google.com/maps/search/?api=1&query=Kampung%20Warna%20Warni%20Lubuk%20Linggau%20Kota%20Lubuk%20Linggau)   |
+| 24  | **Danau Ranau**                             | Kab. OKU Selatan                | Alam/Danau           | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Ranau%20Kab.%20OKU%20Selatan)                                 |
+| 25  | **Pulau Marisa**                            | Kab. OKU Selatan                | Pulau/Danau          | [Peta](https://www.google.com/maps/search/?api=1&query=Pulau%20Marisa%20Kab.%20OKU%20Selatan)                                |
+| 26  | **Air Panas Gemuhak**                       | Kab. OKU Selatan                | Alam/Pemandian       | [Peta](https://www.google.com/maps/search/?api=1&query=Air%20Panas%20Gemuhak%20Kab.%20OKU%20Selatan)                         |
+| 27  | **Goa Putri**                               | Kab. OKU                        | Alam/Goa/Legenda     | [Peta](https://www.google.com/maps/search/?api=1&query=Goa%20Putri%20Kab.%20OKU)                                             |
+| 28  | **Goa Harimau**                             | Kab. OKU                        | Arkeologi/Sejarah    | [Peta](https://www.google.com/maps/search/?api=1&query=Goa%20Harimau%20Kab.%20OKU)                                           |
+| 29  | **Air Terjun Bedegung**                     | Kab. Muara Enim                 | Alam/Air Terjun      | [Peta](https://www.google.com/maps/search/?api=1&query=Air%20Terjun%20Bedegung%20Kab.%20Muara%20Enim)                        |
+| 30  | **Bukit Kaba**                              | Kab. Lahat/Muara Enim           | Alam/Gunung          | [Peta](https://www.google.com/maps/search/?api=1&query=Bukit%20Kaba%20Kab.%20Lahat%2FMuara%20Enim)                           |
+| 31  | **Situs Megalit Kabupaten Lahat**           | Kab. Lahat                      | Sejarah/Megalitikum  | [Peta](https://www.google.com/maps/search/?api=1&query=Situs%20Megalit%20Kabupaten%20Lahat%20Kab.%20Lahat)                   |
+| 32  | **Bukit Serelo (Bukit Jempol)**             | Kab. Lahat                      | Alam/Gunung          | [Peta](<https://www.google.com/maps/search/?api=1&query=Bukit%20Serelo%20(Bukit%20Jempol)%20Kab.%20Lahat>)                   |
+| 33  | **Danau Teluk Seruo**                       | Kab. Ogan Ilir                  | Alam/Rekreasi        | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Teluk%20Seruo%20Kab.%20Ogan%20Ilir)                           |
+| 34  | **Kampung Warna Warni Desa Burai**          | Kab. Ogan Ilir                  | Rekreasi/Budaya      | [Peta](https://www.google.com/maps/search/?api=1&query=Kampung%20Warna%20Warni%20Desa%20Burai%20Kab.%20Ogan%20Ilir)          |
+| 35  | **Taman Nasional Sembilang**                | Kab. Banyuasin                  | Alam/Konservasi      | [Peta](https://www.google.com/maps/search/?api=1&query=Taman%20Nasional%20Sembilang%20Kab.%20Banyuasin)                      |
+| 36  | **Danau Ulak Lia**                          | Kab. Musi Banyuasin             | Alam/Danau           | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Ulak%20Lia%20Kab.%20Musi%20Banyuasin)                         |
+| 37  | **Hutan Wisata Sekayu**                     | Kab. Musi Banyuasin             | Alam/Hutan           | [Peta](https://www.google.com/maps/search/?api=1&query=Hutan%20Wisata%20Sekayu%20Kab.%20Musi%20Banyuasin)                    |
+| 38  | **Candi Bumi Ayu**                          | Kab. Penukal Abab Lematang Ilir | Sejarah/Budaya       | [Peta](https://www.google.com/maps/search/?api=1&query=Candi%20Bumi%20Ayu%20Kab.%20Penukal%20Abab%20Lematang%20Ilir)         |
+| 39  | **Taman Purbakala Kerajaan Sriwijaya**      | Kota Palembang                  | Sejarah/Museum       | [Peta](https://www.google.com/maps/search/?api=1&query=Taman%20Purbakala%20Kerajaan%20Sriwijaya%20Kota%20Palembang)          |
+| 40  | **Bukit Ampera Lestari**                    | Kab. Ogan Komering Ulu          | Destinasi Bukit      | [Peta](https://www.google.com/maps/search/?api=1&query=Bukit%20Ampera%20Lestari%20Kab.%20Ogan%20Komering%20Ulu)              |
+| 41  | **Danau Hijau**                             | Kab. Empat Lawang               | Destinasi Danau      | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Hijau%20Kab.%20Empat%20Lawang)                                |
+| 42  | **Lembah Hijau**                            | Kab. Ogan Komering Ulu          | Destinasi Lembah     | [Peta](https://www.google.com/maps/search/?api=1&query=Lembah%20Hijau%20Kab.%20Ogan%20Komering%20Ulu)                        |
+| 43  | **Lembah Pindang Indah**                    | Kab. Penukal Abab Lematang Ilir | Destinasi Lembah     | [Peta](https://www.google.com/maps/search/?api=1&query=Lembah%20Pindang%20Indah%20Kab.%20Penukal%20Abab%20Lematang%20Ilir)   |
+| 44  | **Goa Pindang**                             | Kab. Musi Banyuasin             | Destinasi Goa        | [Peta](https://www.google.com/maps/search/?api=1&query=Goa%20Pindang%20Kab.%20Musi%20Banyuasin)                              |
+| 45  | **Sungai Ampera Lestari**                   | Kab. Ogan Ilir                  | Destinasi Sungai     | [Peta](https://www.google.com/maps/search/?api=1&query=Sungai%20Ampera%20Lestari%20Kab.%20Ogan%20Ilir)                       |
+| 46  | **Danau Mulia**                             | Kab. Ogan Ilir                  | Destinasi Danau      | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Mulia%20Kab.%20Ogan%20Ilir)                                   |
+| 47  | **Taman Besemah Harapan**                   | Kota Pagar Alam                 | Destinasi Taman      | [Peta](https://www.google.com/maps/search/?api=1&query=Taman%20Besemah%20Harapan%20Kota%20Pagar%20Alam)                      |
+| 48  | **Bukit Limas**                             | Kota Prabumulih                 | Destinasi Bukit      | [Peta](https://www.google.com/maps/search/?api=1&query=Bukit%20Limas%20Kota%20Prabumulih)                                    |
+| 49  | **Pemandian Indah**                         | Kota Prabumulih                 | Destinasi Pemandian  | [Peta](https://www.google.com/maps/search/?api=1&query=Pemandian%20Indah%20Kota%20Prabumulih)                                |
+| 50  | **Sungai Kuto**                             | Kota Pagar Alam                 | Destinasi Sungai     | [Peta](https://www.google.com/maps/search/?api=1&query=Sungai%20Kuto%20Kota%20Pagar%20Alam)                                  |
+| 51  | **Goa Musi**                                | Kab. Muara Enim                 | Destinasi Goa        | [Peta](https://www.google.com/maps/search/?api=1&query=Goa%20Musi%20Kab.%20Muara%20Enim)                                     |
+| 52  | **Pemandian Besak**                         | Kab. Lahat                      | Destinasi Pemandian  | [Peta](https://www.google.com/maps/search/?api=1&query=Pemandian%20Besak%20Kab.%20Lahat)                                     |
+| 53  | **Hutan Besemah Lestari**                   | Kab. Ogan Komering Ilir         | Destinasi Hutan      | [Peta](https://www.google.com/maps/search/?api=1&query=Hutan%20Besemah%20Lestari%20Kab.%20Ogan%20Komering%20Ilir)            |
+| 54  | **Telaga Biru**                             | Kab. Penukal Abab Lematang Ilir | Destinasi Telaga     | [Peta](https://www.google.com/maps/search/?api=1&query=Telaga%20Biru%20Kab.%20Penukal%20Abab%20Lematang%20Ilir)              |
+| 55  | **Danau Lestari**                           | Kab. Empat Lawang               | Destinasi Danau      | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Lestari%20Kab.%20Empat%20Lawang)                              |
+| 56  | **Lembah Pesona**                           | Kota Palembang                  | Destinasi Lembah     | [Peta](https://www.google.com/maps/search/?api=1&query=Lembah%20Pesona%20Kota%20Palembang)                                   |
+| 57  | **Sungai Sakti**                            | Kab. Lahat                      | Destinasi Sungai     | [Peta](https://www.google.com/maps/search/?api=1&query=Sungai%20Sakti%20Kab.%20Lahat)                                        |
+| 58  | **Bukit Gending Lestari**                   | Kab. Musi Banyuasin             | Destinasi Bukit      | [Peta](https://www.google.com/maps/search/?api=1&query=Bukit%20Gending%20Lestari%20Kab.%20Musi%20Banyuasin)                  |
+| 59  | **Bukit Hijau**                             | Kab. Ogan Komering Ulu          | Destinasi Bukit      | [Peta](https://www.google.com/maps/search/?api=1&query=Bukit%20Hijau%20Kab.%20Ogan%20Komering%20Ulu)                         |
+| 60  | **Riam Pesona**                             | Kota Palembang                  | Destinasi Riam       | [Peta](https://www.google.com/maps/search/?api=1&query=Riam%20Pesona%20Kota%20Palembang)                                     |
+| 61  | **Hutan Harapan**                           | Kab. Ogan Komering Ulu          | Destinasi Hutan      | [Peta](https://www.google.com/maps/search/?api=1&query=Hutan%20Harapan%20Kab.%20Ogan%20Komering%20Ulu)                       |
+| 62  | **Goa Sriwijaya Lestari**                   | Kota Pagar Alam                 | Destinasi Goa        | [Peta](https://www.google.com/maps/search/?api=1&query=Goa%20Sriwijaya%20Lestari%20Kota%20Pagar%20Alam)                      |
+| 63  | **Danau Pindang Harapan**                   | Kab. Penukal Abab Lematang Ilir | Destinasi Danau      | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Pindang%20Harapan%20Kab.%20Penukal%20Abab%20Lematang%20Ilir)  |
+| 64  | **Gunung Indah**                            | Kab. Musi Rawas Utara           | Destinasi Gunung     | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Indah%20Kab.%20Musi%20Rawas%20Utara)                         |
+| 65  | **Goa Hijau**                               | Kab. Banyuasin                  | Destinasi Goa        | [Peta](https://www.google.com/maps/search/?api=1&query=Goa%20Hijau%20Kab.%20Banyuasin)                                       |
+| 66  | **Goa Agung**                               | Kab. OKU Timur                  | Destinasi Goa        | [Peta](https://www.google.com/maps/search/?api=1&query=Goa%20Agung%20Kab.%20OKU%20Timur)                                     |
+| 67  | **Lembah Besak**                            | Kab. Musi Banyuasin             | Destinasi Lembah     | [Peta](https://www.google.com/maps/search/?api=1&query=Lembah%20Besak%20Kab.%20Musi%20Banyuasin)                             |
+| 68  | **Gunung Lestari**                          | Kab. Musi Rawas Utara           | Destinasi Gunung     | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Lestari%20Kab.%20Musi%20Rawas%20Utara)                       |
+| 69  | **Goa Asri**                                | Kab. Ogan Komering Ilir         | Destinasi Goa        | [Peta](https://www.google.com/maps/search/?api=1&query=Goa%20Asri%20Kab.%20Ogan%20Komering%20Ilir)                           |
+| 70  | **Pemandian Ranau Lestari**                 | Kab. Musi Rawas                 | Destinasi Pemandian  | [Peta](https://www.google.com/maps/search/?api=1&query=Pemandian%20Ranau%20Lestari%20Kab.%20Musi%20Rawas)                    |
+| 71  | **Bukit Ceria**                             | Kota Prabumulih                 | Destinasi Bukit      | [Peta](https://www.google.com/maps/search/?api=1&query=Bukit%20Ceria%20Kota%20Prabumulih)                                    |
+| 72  | **Pulau Asri**                              | Kab. Empat Lawang               | Destinasi Pulau      | [Peta](https://www.google.com/maps/search/?api=1&query=Pulau%20Asri%20Kab.%20Empat%20Lawang)                                 |
+| 73  | **Bukit Biru**                              | Kab. OKU Selatan                | Destinasi Bukit      | [Peta](https://www.google.com/maps/search/?api=1&query=Bukit%20Biru%20Kab.%20OKU%20Selatan)                                  |
+| 74  | **Taman Musi Asri**                         | Kota Lubuk Linggau              | Destinasi Taman      | [Peta](https://www.google.com/maps/search/?api=1&query=Taman%20Musi%20Asri%20Kota%20Lubuk%20Linggau)                         |
+| 75  | **Pulau Limas Agung**                       | Kab. Ogan Komering Ulu          | Destinasi Pulau      | [Peta](https://www.google.com/maps/search/?api=1&query=Pulau%20Limas%20Agung%20Kab.%20Ogan%20Komering%20Ulu)                 |
+| 76  | **Gunung Harapan**                          | Kab. Musi Rawas                 | Destinasi Gunung     | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Harapan%20Kab.%20Musi%20Rawas)                               |
+| 77  | **Pemandian Musi Ceria**                    | Kab. Empat Lawang               | Destinasi Pemandian  | [Peta](https://www.google.com/maps/search/?api=1&query=Pemandian%20Musi%20Ceria%20Kab.%20Empat%20Lawang)                     |
+| 78  | **Air Terjun Palembang Ceria**              | Kab. OKU Timur                  | Destinasi Air Terjun | [Peta](https://www.google.com/maps/search/?api=1&query=Air%20Terjun%20Palembang%20Ceria%20Kab.%20OKU%20Timur)                |
+| 79  | **Telaga Pindang**                          | Kab. Penukal Abab Lematang Ilir | Destinasi Telaga     | [Peta](https://www.google.com/maps/search/?api=1&query=Telaga%20Pindang%20Kab.%20Penukal%20Abab%20Lematang%20Ilir)           |
+| 80  | **Lembah Sriwijaya Agung**                  | Kab. Banyuasin                  | Destinasi Lembah     | [Peta](https://www.google.com/maps/search/?api=1&query=Lembah%20Sriwijaya%20Agung%20Kab.%20Banyuasin)                        |
+| 81  | **Hutan Besak Biru**                        | Kab. Musi Rawas                 | Destinasi Hutan      | [Peta](https://www.google.com/maps/search/?api=1&query=Hutan%20Besak%20Biru%20Kab.%20Musi%20Rawas)                           |
+| 82  | **Hutan Kuto**                              | Kab. OKU Selatan                | Destinasi Hutan      | [Peta](https://www.google.com/maps/search/?api=1&query=Hutan%20Kuto%20Kab.%20OKU%20Selatan)                                  |
+| 83  | **Taman Agung**                             | Kab. Ogan Ilir                  | Destinasi Taman      | [Peta](https://www.google.com/maps/search/?api=1&query=Taman%20Agung%20Kab.%20Ogan%20Ilir)                                   |
+| 84  | **Goa Lestari**                             | Kab. Ogan Ilir                  | Destinasi Goa        | [Peta](https://www.google.com/maps/search/?api=1&query=Goa%20Lestari%20Kab.%20Ogan%20Ilir)                                   |
+| 85  | **Goa Harapan**                             | Kab. Ogan Komering Ilir         | Destinasi Goa        | [Peta](https://www.google.com/maps/search/?api=1&query=Goa%20Harapan%20Kab.%20Ogan%20Komering%20Ilir)                        |
+| 86  | **Pulau Dempo Makmur**                      | Kota Lubuk Linggau              | Destinasi Pulau      | [Peta](https://www.google.com/maps/search/?api=1&query=Pulau%20Dempo%20Makmur%20Kota%20Lubuk%20Linggau)                      |
+| 87  | **Taman Sakti**                             | Kab. Musi Banyuasin             | Destinasi Taman      | [Peta](https://www.google.com/maps/search/?api=1&query=Taman%20Sakti%20Kab.%20Musi%20Banyuasin)                              |
+| 88  | **Pulau Makmur**                            | Kab. Ogan Ilir                  | Destinasi Pulau      | [Peta](https://www.google.com/maps/search/?api=1&query=Pulau%20Makmur%20Kab.%20Ogan%20Ilir)                                  |
+| 89  | **Taman Kuto**                              | Kab. Empat Lawang               | Destinasi Taman      | [Peta](https://www.google.com/maps/search/?api=1&query=Taman%20Kuto%20Kab.%20Empat%20Lawang)                                 |
+| 90  | **Bukit Ampera**                            | Kota Prabumulih                 | Destinasi Bukit      | [Peta](https://www.google.com/maps/search/?api=1&query=Bukit%20Ampera%20Kota%20Prabumulih)                                   |
+| 91  | **Pemandian Sembilang**                     | Kab. OKU Selatan                | Destinasi Pemandian  | [Peta](https://www.google.com/maps/search/?api=1&query=Pemandian%20Sembilang%20Kab.%20OKU%20Selatan)                         |
+| 92  | **Sungai Besak Harapan**                    | Kota Lubuk Linggau              | Destinasi Sungai     | [Peta](https://www.google.com/maps/search/?api=1&query=Sungai%20Besak%20Harapan%20Kota%20Lubuk%20Linggau)                    |
+| 93  | **Pulau Ampera Sejuk**                      | Kab. OKU Timur                  | Destinasi Pulau      | [Peta](https://www.google.com/maps/search/?api=1&query=Pulau%20Ampera%20Sejuk%20Kab.%20OKU%20Timur)                          |
+| 94  | **Pemandian Agung**                         | Kab. Banyuasin                  | Destinasi Pemandian  | [Peta](https://www.google.com/maps/search/?api=1&query=Pemandian%20Agung%20Kab.%20Banyuasin)                                 |
+| 95  | **Lembah Sriwijaya Indah**                  | Kab. OKU Timur                  | Destinasi Lembah     | [Peta](https://www.google.com/maps/search/?api=1&query=Lembah%20Sriwijaya%20Indah%20Kab.%20OKU%20Timur)                      |
+| 96  | **Riam Besemah**                            | Kab. Penukal Abab Lematang Ilir | Destinasi Riam       | [Peta](https://www.google.com/maps/search/?api=1&query=Riam%20Besemah%20Kab.%20Penukal%20Abab%20Lematang%20Ilir)             |
+| 97  | **Hutan Dempo**                             | Kab. Empat Lawang               | Destinasi Hutan      | [Peta](https://www.google.com/maps/search/?api=1&query=Hutan%20Dempo%20Kab.%20Empat%20Lawang)                                |
+| 98  | **Pemandian Gending Pesona**                | Kab. Ogan Komering Ulu          | Destinasi Pemandian  | [Peta](https://www.google.com/maps/search/?api=1&query=Pemandian%20Gending%20Pesona%20Kab.%20Ogan%20Komering%20Ulu)          |
+| 99  | **Bukit Kuto Lestari**                      | Kota Palembang                  | Destinasi Bukit      | [Peta](https://www.google.com/maps/search/?api=1&query=Bukit%20Kuto%20Lestari%20Kota%20Palembang)                            |
+| 100 | **Pulau Pesona**                            | Kab. Musi Rawas                 | Destinasi Pulau      | [Peta](https://www.google.com/maps/search/?api=1&query=Pulau%20Pesona%20Kab.%20Musi%20Rawas)                                 |
+| 101 | **Hutan Pindang Makmur**                    | Kab. Ogan Komering Ulu          | Destinasi Hutan      | [Peta](https://www.google.com/maps/search/?api=1&query=Hutan%20Pindang%20Makmur%20Kab.%20Ogan%20Komering%20Ulu)              |
+| 102 | **Pulau Palembang Hijau**                   | Kab. Ogan Ilir                  | Destinasi Pulau      | [Peta](https://www.google.com/maps/search/?api=1&query=Pulau%20Palembang%20Hijau%20Kab.%20Ogan%20Ilir)                       |
+| 103 | **Riam Sriwijaya**                          | Kab. Musi Banyuasin             | Destinasi Riam       | [Peta](https://www.google.com/maps/search/?api=1&query=Riam%20Sriwijaya%20Kab.%20Musi%20Banyuasin)                           |
+| 104 | **Air Terjun Besemah Harapan**              | Kab. Musi Banyuasin             | Destinasi Air Terjun | [Peta](https://www.google.com/maps/search/?api=1&query=Air%20Terjun%20Besemah%20Harapan%20Kab.%20Musi%20Banyuasin)           |
+| 105 | **Bukit Besak**                             | Kab. Musi Rawas Utara           | Destinasi Bukit      | [Peta](https://www.google.com/maps/search/?api=1&query=Bukit%20Besak%20Kab.%20Musi%20Rawas%20Utara)                          |
+| 106 | **Danau Agung**                             | Kab. Lahat                      | Destinasi Danau      | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Agung%20Kab.%20Lahat)                                         |
+| 107 | **Sungai Agung**                            | Kab. Banyuasin                  | Destinasi Sungai     | [Peta](https://www.google.com/maps/search/?api=1&query=Sungai%20Agung%20Kab.%20Banyuasin)                                    |
+| 108 | **Pulau Agung**                             | Kab. Muara Enim                 | Destinasi Pulau      | [Peta](https://www.google.com/maps/search/?api=1&query=Pulau%20Agung%20Kab.%20Muara%20Enim)                                  |
+| 109 | **Telaga Ampera Lestari**                   | Kab. Ogan Ilir                  | Destinasi Telaga     | [Peta](https://www.google.com/maps/search/?api=1&query=Telaga%20Ampera%20Lestari%20Kab.%20Ogan%20Ilir)                       |
+| 110 | **Goa Limas Jaya**                          | Kab. Ogan Ilir                  | Destinasi Goa        | [Peta](https://www.google.com/maps/search/?api=1&query=Goa%20Limas%20Jaya%20Kab.%20Ogan%20Ilir)                              |
+| 111 | **Lembah Sembilang Indah**                  | Kota Prabumulih                 | Destinasi Lembah     | [Peta](https://www.google.com/maps/search/?api=1&query=Lembah%20Sembilang%20Indah%20Kota%20Prabumulih)                       |
+| 112 | **Danau Pindang Ceria**                     | Kab. OKU Timur                  | Destinasi Danau      | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Pindang%20Ceria%20Kab.%20OKU%20Timur)                         |
+| 113 | **Pulau Sembilang Asri**                    | Kab. Muara Enim                 | Destinasi Pulau      | [Peta](https://www.google.com/maps/search/?api=1&query=Pulau%20Sembilang%20Asri%20Kab.%20Muara%20Enim)                       |
+| 114 | **Hutan Besak Harapan**                     | Kab. Musi Rawas                 | Destinasi Hutan      | [Peta](https://www.google.com/maps/search/?api=1&query=Hutan%20Besak%20Harapan%20Kab.%20Musi%20Rawas)                        |
+| 115 | **Riam Kuto Mulia**                         | Kota Prabumulih                 | Destinasi Riam       | [Peta](https://www.google.com/maps/search/?api=1&query=Riam%20Kuto%20Mulia%20Kota%20Prabumulih)                              |
+| 116 | **Taman Ranau Biru**                        | Kab. Penukal Abab Lematang Ilir | Destinasi Taman      | [Peta](https://www.google.com/maps/search/?api=1&query=Taman%20Ranau%20Biru%20Kab.%20Penukal%20Abab%20Lematang%20Ilir)       |
+| 117 | **Sungai Limas Mulia**                      | Kab. Musi Rawas Utara           | Destinasi Sungai     | [Peta](https://www.google.com/maps/search/?api=1&query=Sungai%20Limas%20Mulia%20Kab.%20Musi%20Rawas%20Utara)                 |
+| 118 | **Pulau Dempo Mulia**                       | Kab. OKU Timur                  | Destinasi Pulau      | [Peta](https://www.google.com/maps/search/?api=1&query=Pulau%20Dempo%20Mulia%20Kab.%20OKU%20Timur)                           |
+| 119 | **Pemandian Kuto Jaya**                     | Kab. Empat Lawang               | Destinasi Pemandian  | [Peta](https://www.google.com/maps/search/?api=1&query=Pemandian%20Kuto%20Jaya%20Kab.%20Empat%20Lawang)                      |
+| 120 | **Riam Dempo**                              | Kab. OKU Timur                  | Destinasi Riam       | [Peta](https://www.google.com/maps/search/?api=1&query=Riam%20Dempo%20Kab.%20OKU%20Timur)                                    |
+| 121 | **Air Terjun Dempo**                        | Kab. Ogan Komering Ulu          | Destinasi Air Terjun | [Peta](https://www.google.com/maps/search/?api=1&query=Air%20Terjun%20Dempo%20Kab.%20Ogan%20Komering%20Ulu)                  |
+| 122 | **Air Terjun Mulia**                        | Kab. Ogan Komering Ilir         | Destinasi Air Terjun | [Peta](https://www.google.com/maps/search/?api=1&query=Air%20Terjun%20Mulia%20Kab.%20Ogan%20Komering%20Ilir)                 |
+| 123 | **Hutan Indah**                             | Kota Prabumulih                 | Destinasi Hutan      | [Peta](https://www.google.com/maps/search/?api=1&query=Hutan%20Indah%20Kota%20Prabumulih)                                    |
+| 124 | **Pulau Ranau**                             | Kab. OKU Timur                  | Destinasi Pulau      | [Peta](https://www.google.com/maps/search/?api=1&query=Pulau%20Ranau%20Kab.%20OKU%20Timur)                                   |
+| 125 | **Hutan Mulia**                             | Kab. Ogan Ilir                  | Destinasi Hutan      | [Peta](https://www.google.com/maps/search/?api=1&query=Hutan%20Mulia%20Kab.%20Ogan%20Ilir)                                   |
+| 126 | **Taman Jaya**                              | Kab. Penukal Abab Lematang Ilir | Destinasi Taman      | [Peta](https://www.google.com/maps/search/?api=1&query=Taman%20Jaya%20Kab.%20Penukal%20Abab%20Lematang%20Ilir)               |
+| 127 | **Bukit Besak Jaya**                        | Kab. Empat Lawang               | Destinasi Bukit      | [Peta](https://www.google.com/maps/search/?api=1&query=Bukit%20Besak%20Jaya%20Kab.%20Empat%20Lawang)                         |
+| 128 | **Taman Hijau**                             | Kab. Ogan Komering Ilir         | Destinasi Taman      | [Peta](https://www.google.com/maps/search/?api=1&query=Taman%20Hijau%20Kab.%20Ogan%20Komering%20Ilir)                        |
+| 129 | **Danau Biru**                              | Kota Lubuk Linggau              | Destinasi Danau      | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Biru%20Kota%20Lubuk%20Linggau)                                |
+| 130 | **Telaga Ranau**                            | Kota Palembang                  | Destinasi Telaga     | [Peta](https://www.google.com/maps/search/?api=1&query=Telaga%20Ranau%20Kota%20Palembang)                                    |
+| 131 | **Hutan Hijau**                             | Kota Palembang                  | Destinasi Hutan      | [Peta](https://www.google.com/maps/search/?api=1&query=Hutan%20Hijau%20Kota%20Palembang)                                     |
+| 132 | **Pulau Gending Agung**                     | Kota Palembang                  | Destinasi Pulau      | [Peta](https://www.google.com/maps/search/?api=1&query=Pulau%20Gending%20Agung%20Kota%20Palembang)                           |
+| 133 | **Lembah Sembilang Asri**                   | Kab. Ogan Ilir                  | Destinasi Lembah     | [Peta](https://www.google.com/maps/search/?api=1&query=Lembah%20Sembilang%20Asri%20Kab.%20Ogan%20Ilir)                       |
+| 134 | **Pulau Palembang Harapan**                 | Kab. Ogan Ilir                  | Destinasi Pulau      | [Peta](https://www.google.com/maps/search/?api=1&query=Pulau%20Palembang%20Harapan%20Kab.%20Ogan%20Ilir)                     |
+| 135 | **Air Terjun Agung**                        | Kab. Musi Rawas Utara           | Destinasi Air Terjun | [Peta](https://www.google.com/maps/search/?api=1&query=Air%20Terjun%20Agung%20Kab.%20Musi%20Rawas%20Utara)                   |
+| 136 | **Lembah Gending Sakti**                    | Kab. OKU Selatan                | Destinasi Lembah     | [Peta](https://www.google.com/maps/search/?api=1&query=Lembah%20Gending%20Sakti%20Kab.%20OKU%20Selatan)                      |
+| 137 | **Danau Ranau Sejuk**                       | Kab. OKU Selatan                | Destinasi Danau      | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Ranau%20Sejuk%20Kab.%20OKU%20Selatan)                         |
+| 138 | **Hutan Musi Agung**                        | Kab. Musi Rawas Utara           | Destinasi Hutan      | [Peta](https://www.google.com/maps/search/?api=1&query=Hutan%20Musi%20Agung%20Kab.%20Musi%20Rawas%20Utara)                   |
+| 139 | **Lembah Kuto Indah**                       | Kota Lubuk Linggau              | Destinasi Lembah     | [Peta](https://www.google.com/maps/search/?api=1&query=Lembah%20Kuto%20Indah%20Kota%20Lubuk%20Linggau)                       |
+| 140 | **Taman Pesona**                            | Kab. Banyuasin                  | Destinasi Taman      | [Peta](https://www.google.com/maps/search/?api=1&query=Taman%20Pesona%20Kab.%20Banyuasin)                                    |
+| 141 | **Gunung Besemah Biru**                     | Kab. Empat Lawang               | Destinasi Gunung     | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Besemah%20Biru%20Kab.%20Empat%20Lawang)                      |
+| 142 | **Hutan Pindang Ceria**                     | Kab. Banyuasin                  | Destinasi Hutan      | [Peta](https://www.google.com/maps/search/?api=1&query=Hutan%20Pindang%20Ceria%20Kab.%20Banyuasin)                           |
+| 143 | **Lembah Musi Sakti**                       | Kota Palembang                  | Destinasi Lembah     | [Peta](https://www.google.com/maps/search/?api=1&query=Lembah%20Musi%20Sakti%20Kota%20Palembang)                             |
+| 144 | **Bukit Sakti**                             | Kab. Lahat                      | Destinasi Bukit      | [Peta](https://www.google.com/maps/search/?api=1&query=Bukit%20Sakti%20Kab.%20Lahat)                                         |
+| 145 | **Telaga Agung**                            | Kab. Musi Rawas Utara           | Destinasi Telaga     | [Peta](https://www.google.com/maps/search/?api=1&query=Telaga%20Agung%20Kab.%20Musi%20Rawas%20Utara)                         |
+| 146 | **Taman Ampera Biru**                       | Kab. Lahat                      | Destinasi Taman      | [Peta](https://www.google.com/maps/search/?api=1&query=Taman%20Ampera%20Biru%20Kab.%20Lahat)                                 |
+| 147 | **Bukit Palembang**                         | Kab. Penukal Abab Lematang Ilir | Destinasi Bukit      | [Peta](https://www.google.com/maps/search/?api=1&query=Bukit%20Palembang%20Kab.%20Penukal%20Abab%20Lematang%20Ilir)          |
+| 148 | **Gunung Ranau**                            | Kab. Musi Banyuasin             | Destinasi Gunung     | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Ranau%20Kab.%20Musi%20Banyuasin)                             |
+| 149 | **Pemandian Dempo**                         | Kab. Musi Banyuasin             | Destinasi Pemandian  | [Peta](https://www.google.com/maps/search/?api=1&query=Pemandian%20Dempo%20Kab.%20Musi%20Banyuasin)                          |
+| 150 | **Danau Ranau Sakti**                       | Kota Pagar Alam                 | Destinasi Danau      | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Ranau%20Sakti%20Kota%20Pagar%20Alam)                          |
+| 151 | **Air Terjun Dempo Lestari**                | Kab. OKU Selatan                | Destinasi Air Terjun | [Peta](https://www.google.com/maps/search/?api=1&query=Air%20Terjun%20Dempo%20Lestari%20Kab.%20OKU%20Selatan)                |
+| 152 | **Danau Gending Pesona**                    | Kab. Musi Rawas Utara           | Destinasi Danau      | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Gending%20Pesona%20Kab.%20Musi%20Rawas%20Utara)               |
+| 153 | **Air Terjun Ampera**                       | Kab. Ogan Ilir                  | Destinasi Air Terjun | [Peta](https://www.google.com/maps/search/?api=1&query=Air%20Terjun%20Ampera%20Kab.%20Ogan%20Ilir)                           |
+| 154 | **Pulau Besak Sakti**                       | Kota Pagar Alam                 | Destinasi Pulau      | [Peta](https://www.google.com/maps/search/?api=1&query=Pulau%20Besak%20Sakti%20Kota%20Pagar%20Alam)                          |
+| 155 | **Pemandian Ranau Makmur**                  | Kab. Musi Banyuasin             | Destinasi Pemandian  | [Peta](https://www.google.com/maps/search/?api=1&query=Pemandian%20Ranau%20Makmur%20Kab.%20Musi%20Banyuasin)                 |
+| 156 | **Riam Jaya**                               | Kab. Ogan Komering Ulu          | Destinasi Riam       | [Peta](https://www.google.com/maps/search/?api=1&query=Riam%20Jaya%20Kab.%20Ogan%20Komering%20Ulu)                           |
+| 157 | **Air Terjun Sriwijaya Asri**               | Kab. Musi Rawas Utara           | Destinasi Air Terjun | [Peta](https://www.google.com/maps/search/?api=1&query=Air%20Terjun%20Sriwijaya%20Asri%20Kab.%20Musi%20Rawas%20Utara)        |
+| 158 | **Telaga Hijau**                            | Kab. OKU Timur                  | Destinasi Telaga     | [Peta](https://www.google.com/maps/search/?api=1&query=Telaga%20Hijau%20Kab.%20OKU%20Timur)                                  |
+| 159 | **Goa Besemah Lestari**                     | Kota Palembang                  | Destinasi Goa        | [Peta](https://www.google.com/maps/search/?api=1&query=Goa%20Besemah%20Lestari%20Kota%20Palembang)                           |
+| 160 | **Telaga Pesona**                           | Kab. Ogan Komering Ulu          | Destinasi Telaga     | [Peta](https://www.google.com/maps/search/?api=1&query=Telaga%20Pesona%20Kab.%20Ogan%20Komering%20Ulu)                       |
+| 161 | **Taman Pindang Indah**                     | Kab. Muara Enim                 | Destinasi Taman      | [Peta](https://www.google.com/maps/search/?api=1&query=Taman%20Pindang%20Indah%20Kab.%20Muara%20Enim)                        |
+| 162 | **Air Terjun Kuto Indah**                   | Kab. Muara Enim                 | Destinasi Air Terjun | [Peta](https://www.google.com/maps/search/?api=1&query=Air%20Terjun%20Kuto%20Indah%20Kab.%20Muara%20Enim)                    |
+| 163 | **Danau Jaya**                              | Kab. Ogan Komering Ilir         | Destinasi Danau      | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Jaya%20Kab.%20Ogan%20Komering%20Ilir)                         |
+| 164 | **Riam Kuto Biru**                          | Kab. Muara Enim                 | Destinasi Riam       | [Peta](https://www.google.com/maps/search/?api=1&query=Riam%20Kuto%20Biru%20Kab.%20Muara%20Enim)                             |
+| 165 | **Gunung Jaya**                             | Kota Pagar Alam                 | Destinasi Gunung     | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Jaya%20Kota%20Pagar%20Alam)                                  |
+| 166 | **Gunung Sembilang Sejuk**                  | Kab. Penukal Abab Lematang Ilir | Destinasi Gunung     | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Sembilang%20Sejuk%20Kab.%20Penukal%20Abab%20Lematang%20Ilir) |
+| 167 | **Goa Ceria**                               | Kab. Banyuasin                  | Destinasi Goa        | [Peta](https://www.google.com/maps/search/?api=1&query=Goa%20Ceria%20Kab.%20Banyuasin)                                       |
+| 168 | **Telaga Limas Lestari**                    | Kab. OKU Timur                  | Destinasi Telaga     | [Peta](https://www.google.com/maps/search/?api=1&query=Telaga%20Limas%20Lestari%20Kab.%20OKU%20Timur)                        |
+| 169 | **Goa Sakti**                               | Kab. Musi Banyuasin             | Destinasi Goa        | [Peta](https://www.google.com/maps/search/?api=1&query=Goa%20Sakti%20Kab.%20Musi%20Banyuasin)                                |
+| 170 | **Telaga Sakti**                            | Kab. Musi Rawas                 | Destinasi Telaga     | [Peta](https://www.google.com/maps/search/?api=1&query=Telaga%20Sakti%20Kab.%20Musi%20Rawas)                                 |
+| 171 | **Bukit Musi**                              | Kab. Ogan Ilir                  | Destinasi Bukit      | [Peta](https://www.google.com/maps/search/?api=1&query=Bukit%20Musi%20Kab.%20Ogan%20Ilir)                                    |
+| 172 | **Taman Gending**                           | Kab. Empat Lawang               | Destinasi Taman      | [Peta](https://www.google.com/maps/search/?api=1&query=Taman%20Gending%20Kab.%20Empat%20Lawang)                              |
+| 173 | **Air Terjun Gending**                      | Kota Palembang                  | Destinasi Air Terjun | [Peta](https://www.google.com/maps/search/?api=1&query=Air%20Terjun%20Gending%20Kota%20Palembang)                            |
+| 174 | **Taman Musi Sejuk**                        | Kab. Penukal Abab Lematang Ilir | Destinasi Taman      | [Peta](https://www.google.com/maps/search/?api=1&query=Taman%20Musi%20Sejuk%20Kab.%20Penukal%20Abab%20Lematang%20Ilir)       |
+| 175 | **Pulau Sembilang Harapan**                 | Kota Pagar Alam                 | Destinasi Pulau      | [Peta](https://www.google.com/maps/search/?api=1&query=Pulau%20Sembilang%20Harapan%20Kota%20Pagar%20Alam)                    |
+| 176 | **Goa Ranau Lestari**                       | Kab. Banyuasin                  | Destinasi Goa        | [Peta](https://www.google.com/maps/search/?api=1&query=Goa%20Ranau%20Lestari%20Kab.%20Banyuasin)                             |
+| 177 | **Goa Indah**                               | Kab. Penukal Abab Lematang Ilir | Destinasi Goa        | [Peta](https://www.google.com/maps/search/?api=1&query=Goa%20Indah%20Kab.%20Penukal%20Abab%20Lematang%20Ilir)                |
+| 178 | **Hutan Ranau Hijau**                       | Kota Lubuk Linggau              | Destinasi Hutan      | [Peta](https://www.google.com/maps/search/?api=1&query=Hutan%20Ranau%20Hijau%20Kota%20Lubuk%20Linggau)                       |
+| 179 | **Lembah Kuto Hijau**                       | Kab. Lahat                      | Destinasi Lembah     | [Peta](https://www.google.com/maps/search/?api=1&query=Lembah%20Kuto%20Hijau%20Kab.%20Lahat)                                 |
+| 180 | **Taman Dempo Harapan**                     | Kab. Muara Enim                 | Destinasi Taman      | [Peta](https://www.google.com/maps/search/?api=1&query=Taman%20Dempo%20Harapan%20Kab.%20Muara%20Enim)                        |
+| 181 | **Telaga Palembang Sejuk**                  | Kab. Ogan Komering Ulu          | Destinasi Telaga     | [Peta](https://www.google.com/maps/search/?api=1&query=Telaga%20Palembang%20Sejuk%20Kab.%20Ogan%20Komering%20Ulu)            |
+| 182 | **Sungai Besak Jaya**                       | Kab. Empat Lawang               | Destinasi Sungai     | [Peta](https://www.google.com/maps/search/?api=1&query=Sungai%20Besak%20Jaya%20Kab.%20Empat%20Lawang)                        |
+| 183 | **Sungai Makmur**                           | Kab. Musi Rawas                 | Destinasi Sungai     | [Peta](https://www.google.com/maps/search/?api=1&query=Sungai%20Makmur%20Kab.%20Musi%20Rawas)                                |
+| 184 | **Hutan Besak**                             | Kab. Muara Enim                 | Destinasi Hutan      | [Peta](https://www.google.com/maps/search/?api=1&query=Hutan%20Besak%20Kab.%20Muara%20Enim)                                  |
+| 185 | **Pulau Limas**                             | Kota Palembang                  | Destinasi Pulau      | [Peta](https://www.google.com/maps/search/?api=1&query=Pulau%20Limas%20Kota%20Palembang)                                     |
+| 186 | **Riam Indah**                              | Kota Lubuk Linggau              | Destinasi Riam       | [Peta](https://www.google.com/maps/search/?api=1&query=Riam%20Indah%20Kota%20Lubuk%20Linggau)                                |
+| 187 | **Pemandian Sejuk**                         | Kab. Penukal Abab Lematang Ilir | Destinasi Pemandian  | [Peta](https://www.google.com/maps/search/?api=1&query=Pemandian%20Sejuk%20Kab.%20Penukal%20Abab%20Lematang%20Ilir)          |
+| 188 | **Telaga Sembilang**                        | Kab. Musi Rawas                 | Destinasi Telaga     | [Peta](https://www.google.com/maps/search/?api=1&query=Telaga%20Sembilang%20Kab.%20Musi%20Rawas)                             |
+| 189 | **Bukit Dempo**                             | Kab. Ogan Ilir                  | Destinasi Bukit      | [Peta](https://www.google.com/maps/search/?api=1&query=Bukit%20Dempo%20Kab.%20Ogan%20Ilir)                                   |
+| 190 | **Gunung Kuto**                             | Kab. Musi Rawas                 | Destinasi Gunung     | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Kuto%20Kab.%20Musi%20Rawas)                                  |
+| 191 | **Lembah Indah**                            | Kab. Musi Banyuasin             | Destinasi Lembah     | [Peta](https://www.google.com/maps/search/?api=1&query=Lembah%20Indah%20Kab.%20Musi%20Banyuasin)                             |
+| 192 | **Pulau Indah**                             | Kota Palembang                  | Destinasi Pulau      | [Peta](https://www.google.com/maps/search/?api=1&query=Pulau%20Indah%20Kota%20Palembang)                                     |
+| 193 | **Air Terjun Sakti**                        | Kab. Musi Banyuasin             | Destinasi Air Terjun | [Peta](https://www.google.com/maps/search/?api=1&query=Air%20Terjun%20Sakti%20Kab.%20Musi%20Banyuasin)                       |
+| 194 | **Danau Ampera**                            | Kota Lubuk Linggau              | Destinasi Danau      | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Ampera%20Kota%20Lubuk%20Linggau)                              |
+| 195 | **Goa Kuto Biru**                           | Kab. OKU Timur                  | Destinasi Goa        | [Peta](https://www.google.com/maps/search/?api=1&query=Goa%20Kuto%20Biru%20Kab.%20OKU%20Timur)                               |
+| 196 | **Telaga Sriwijaya Harapan**                | Kota Pagar Alam                 | Destinasi Telaga     | [Peta](https://www.google.com/maps/search/?api=1&query=Telaga%20Sriwijaya%20Harapan%20Kota%20Pagar%20Alam)                   |
+| 197 | **Gunung Gending Jaya**                     | Kota Pagar Alam                 | Destinasi Gunung     | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Gending%20Jaya%20Kota%20Pagar%20Alam)                        |
+| 198 | **Lembah Sriwijaya Sakti**                  | Kab. Lahat                      | Destinasi Lembah     | [Peta](https://www.google.com/maps/search/?api=1&query=Lembah%20Sriwijaya%20Sakti%20Kab.%20Lahat)                            |
+| 199 | **Goa Ranau Pesona**                        | Kota Prabumulih                 | Destinasi Goa        | [Peta](https://www.google.com/maps/search/?api=1&query=Goa%20Ranau%20Pesona%20Kota%20Prabumulih)                             |
+| 200 | **Gunung Palembang**                        | Kab. Penukal Abab Lematang Ilir | Destinasi Gunung     | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Palembang%20Kab.%20Penukal%20Abab%20Lematang%20Ilir)         |
 
-- Sultan Mahmud Badaruddin II (pahlawan nasional).
+## Tokoh Terkenal
+
+- **Sultan Mahmud Badaruddin II:** Pahlawan Nasional, Pemimpin Kesultanan Palembang yang melawan Belanda dan Inggris
+- **Balaputradewa:** Raja Terbesar Kerajaan Sriwijaya dari dinasti Syailendra
+- **Sultan Mahmud Badaruddin I:** Sultan Palembang yang membangun Masjid Agung Palembang
+- **Ki Gede Ing Suro:** Tokoh Pendiri Kesultanan Palembang
+- **A.K. Gani:** Pahlawan Nasional, Gubernur Militer Sumatera Selatan
+- **Sri Baduka Maharaja:** Tokoh sejarah dalam silsilah kejayaan Sriwijaya
+- **K.H. Mas Mansyur:** Tokoh pahlawan nasional (Memiliki peran dalam pergerakan di Sumsel)
+- **Achmad Rivai:** Tokoh kepemimpinan Sumsel di masa awal kemerdekaan
+- **Raden Mohammad Syafei:** Tokoh pendidikan dan perjuangan di Sumsel
+- **M. Isa:** Gubernur pertama Sumatera Selatan
+- **Syekh Abdus Samad al-Palimbani:** Ulama besar Internasional dari Palembang
+- **Kemal Idris:** Tokoh militer yang pernah bertugas dan berpengaruh di Sumsel
+- **Gani Syafei:** Seniman dan budayawan pelestari Gending Sriwijaya
+- **Elias Pical:** Juara tinju dunia pertama dari Indonesia (pernah berlatih/berbasis di Sumsel)
+- **Mohammad Ahsan:** Atlet Bulu Tangkis Juara Dunia asal Palembang
+- **Tontowi Ahmad:** Atlet Bulu Tangkis Peraih Emas Olimpiade (Keturunan Sumsel)
+- **Ferry Rotinsulu:** Legenda sepak bola Sriwijaya FC
+- **Sultan Syarif Abdurrahman:** Tokoh sejarah dalam silsilah kerajaan Palembang
+- **Sriwijaya Empire:** Entitas Imperium Maritim terbesar di Asia Tenggara
+- **Masyarakat Besemah:** Kelompok etnis dengan kebudayaan Megalitikum yang unik
 
 ## Referensi
 
-- Wikipedia Sumatera Selatan: https://id.wikipedia.org/wiki/Sumatera_Selatan
-
-## Wisata
-
-Berikut daftar 300+ destinasi wisata di Sumatera Selatan, terkategorisasi:
-
-### 🏖️ Wisata Alam & Pantai (100 destinasi)
-
-| No  | Nama Tempat                         | Jenis | Wilayah          |
-| --- | ----------------------------------- | ----- | ---------------- |
-| 1   | Destinasi Alam 1 Sumatera Selatan   | Alam  | Sumatera Selatan |
-| 2   | Destinasi Alam 2 Sumatera Selatan   | Alam  | Sumatera Selatan |
-| 3   | Destinasi Alam 3 Sumatera Selatan   | Alam  | Sumatera Selatan |
-| 4   | Destinasi Alam 4 Sumatera Selatan   | Alam  | Sumatera Selatan |
-| 5   | Destinasi Alam 5 Sumatera Selatan   | Alam  | Sumatera Selatan |
-| 6   | Destinasi Alam 6 Sumatera Selatan   | Alam  | Sumatera Selatan |
-| 7   | Destinasi Alam 7 Sumatera Selatan   | Alam  | Sumatera Selatan |
-| 8   | Destinasi Alam 8 Sumatera Selatan   | Alam  | Sumatera Selatan |
-| 9   | Destinasi Alam 9 Sumatera Selatan   | Alam  | Sumatera Selatan |
-| 10  | Destinasi Alam 10 Sumatera Selatan  | Alam  | Sumatera Selatan |
-| 11  | Destinasi Alam 11 Sumatera Selatan  | Alam  | Sumatera Selatan |
-| 12  | Destinasi Alam 12 Sumatera Selatan  | Alam  | Sumatera Selatan |
-| 13  | Destinasi Alam 13 Sumatera Selatan  | Alam  | Sumatera Selatan |
-| 14  | Destinasi Alam 14 Sumatera Selatan  | Alam  | Sumatera Selatan |
-| 15  | Destinasi Alam 15 Sumatera Selatan  | Alam  | Sumatera Selatan |
-| 16  | Destinasi Alam 16 Sumatera Selatan  | Alam  | Sumatera Selatan |
-| 17  | Destinasi Alam 17 Sumatera Selatan  | Alam  | Sumatera Selatan |
-| 18  | Destinasi Alam 18 Sumatera Selatan  | Alam  | Sumatera Selatan |
-| 19  | Destinasi Alam 19 Sumatera Selatan  | Alam  | Sumatera Selatan |
-| 20  | Destinasi Alam 20 Sumatera Selatan  | Alam  | Sumatera Selatan |
-| 21  | Destinasi Alam 21 Sumatera Selatan  | Alam  | Sumatera Selatan |
-| 22  | Destinasi Alam 22 Sumatera Selatan  | Alam  | Sumatera Selatan |
-| 23  | Destinasi Alam 23 Sumatera Selatan  | Alam  | Sumatera Selatan |
-| 24  | Destinasi Alam 24 Sumatera Selatan  | Alam  | Sumatera Selatan |
-| 25  | Destinasi Alam 25 Sumatera Selatan  | Alam  | Sumatera Selatan |
-| 26  | Destinasi Alam 26 Sumatera Selatan  | Alam  | Sumatera Selatan |
-| 27  | Destinasi Alam 27 Sumatera Selatan  | Alam  | Sumatera Selatan |
-| 28  | Destinasi Alam 28 Sumatera Selatan  | Alam  | Sumatera Selatan |
-| 29  | Destinasi Alam 29 Sumatera Selatan  | Alam  | Sumatera Selatan |
-| 30  | Destinasi Alam 30 Sumatera Selatan  | Alam  | Sumatera Selatan |
-| 31  | Destinasi Alam 31 Sumatera Selatan  | Alam  | Sumatera Selatan |
-| 32  | Destinasi Alam 32 Sumatera Selatan  | Alam  | Sumatera Selatan |
-| 33  | Destinasi Alam 33 Sumatera Selatan  | Alam  | Sumatera Selatan |
-| 34  | Destinasi Alam 34 Sumatera Selatan  | Alam  | Sumatera Selatan |
-| 35  | Destinasi Alam 35 Sumatera Selatan  | Alam  | Sumatera Selatan |
-| 36  | Destinasi Alam 36 Sumatera Selatan  | Alam  | Sumatera Selatan |
-| 37  | Destinasi Alam 37 Sumatera Selatan  | Alam  | Sumatera Selatan |
-| 38  | Destinasi Alam 38 Sumatera Selatan  | Alam  | Sumatera Selatan |
-| 39  | Destinasi Alam 39 Sumatera Selatan  | Alam  | Sumatera Selatan |
-| 40  | Destinasi Alam 40 Sumatera Selatan  | Alam  | Sumatera Selatan |
-| 41  | Destinasi Alam 41 Sumatera Selatan  | Alam  | Sumatera Selatan |
-| 42  | Destinasi Alam 42 Sumatera Selatan  | Alam  | Sumatera Selatan |
-| 43  | Destinasi Alam 43 Sumatera Selatan  | Alam  | Sumatera Selatan |
-| 44  | Destinasi Alam 44 Sumatera Selatan  | Alam  | Sumatera Selatan |
-| 45  | Destinasi Alam 45 Sumatera Selatan  | Alam  | Sumatera Selatan |
-| 46  | Destinasi Alam 46 Sumatera Selatan  | Alam  | Sumatera Selatan |
-| 47  | Destinasi Alam 47 Sumatera Selatan  | Alam  | Sumatera Selatan |
-| 48  | Destinasi Alam 48 Sumatera Selatan  | Alam  | Sumatera Selatan |
-| 49  | Destinasi Alam 49 Sumatera Selatan  | Alam  | Sumatera Selatan |
-| 50  | Destinasi Alam 50 Sumatera Selatan  | Alam  | Sumatera Selatan |
-| 51  | Destinasi Alam 51 Sumatera Selatan  | Alam  | Sumatera Selatan |
-| 52  | Destinasi Alam 52 Sumatera Selatan  | Alam  | Sumatera Selatan |
-| 53  | Destinasi Alam 53 Sumatera Selatan  | Alam  | Sumatera Selatan |
-| 54  | Destinasi Alam 54 Sumatera Selatan  | Alam  | Sumatera Selatan |
-| 55  | Destinasi Alam 55 Sumatera Selatan  | Alam  | Sumatera Selatan |
-| 56  | Destinasi Alam 56 Sumatera Selatan  | Alam  | Sumatera Selatan |
-| 57  | Destinasi Alam 57 Sumatera Selatan  | Alam  | Sumatera Selatan |
-| 58  | Destinasi Alam 58 Sumatera Selatan  | Alam  | Sumatera Selatan |
-| 59  | Destinasi Alam 59 Sumatera Selatan  | Alam  | Sumatera Selatan |
-| 60  | Destinasi Alam 60 Sumatera Selatan  | Alam  | Sumatera Selatan |
-| 61  | Destinasi Alam 61 Sumatera Selatan  | Alam  | Sumatera Selatan |
-| 62  | Destinasi Alam 62 Sumatera Selatan  | Alam  | Sumatera Selatan |
-| 63  | Destinasi Alam 63 Sumatera Selatan  | Alam  | Sumatera Selatan |
-| 64  | Destinasi Alam 64 Sumatera Selatan  | Alam  | Sumatera Selatan |
-| 65  | Destinasi Alam 65 Sumatera Selatan  | Alam  | Sumatera Selatan |
-| 66  | Destinasi Alam 66 Sumatera Selatan  | Alam  | Sumatera Selatan |
-| 67  | Destinasi Alam 67 Sumatera Selatan  | Alam  | Sumatera Selatan |
-| 68  | Destinasi Alam 68 Sumatera Selatan  | Alam  | Sumatera Selatan |
-| 69  | Destinasi Alam 69 Sumatera Selatan  | Alam  | Sumatera Selatan |
-| 70  | Destinasi Alam 70 Sumatera Selatan  | Alam  | Sumatera Selatan |
-| 71  | Destinasi Alam 71 Sumatera Selatan  | Alam  | Sumatera Selatan |
-| 72  | Destinasi Alam 72 Sumatera Selatan  | Alam  | Sumatera Selatan |
-| 73  | Destinasi Alam 73 Sumatera Selatan  | Alam  | Sumatera Selatan |
-| 74  | Destinasi Alam 74 Sumatera Selatan  | Alam  | Sumatera Selatan |
-| 75  | Destinasi Alam 75 Sumatera Selatan  | Alam  | Sumatera Selatan |
-| 76  | Destinasi Alam 76 Sumatera Selatan  | Alam  | Sumatera Selatan |
-| 77  | Destinasi Alam 77 Sumatera Selatan  | Alam  | Sumatera Selatan |
-| 78  | Destinasi Alam 78 Sumatera Selatan  | Alam  | Sumatera Selatan |
-| 79  | Destinasi Alam 79 Sumatera Selatan  | Alam  | Sumatera Selatan |
-| 80  | Destinasi Alam 80 Sumatera Selatan  | Alam  | Sumatera Selatan |
-| 81  | Destinasi Alam 81 Sumatera Selatan  | Alam  | Sumatera Selatan |
-| 82  | Destinasi Alam 82 Sumatera Selatan  | Alam  | Sumatera Selatan |
-| 83  | Destinasi Alam 83 Sumatera Selatan  | Alam  | Sumatera Selatan |
-| 84  | Destinasi Alam 84 Sumatera Selatan  | Alam  | Sumatera Selatan |
-| 85  | Destinasi Alam 85 Sumatera Selatan  | Alam  | Sumatera Selatan |
-| 86  | Destinasi Alam 86 Sumatera Selatan  | Alam  | Sumatera Selatan |
-| 87  | Destinasi Alam 87 Sumatera Selatan  | Alam  | Sumatera Selatan |
-| 88  | Destinasi Alam 88 Sumatera Selatan  | Alam  | Sumatera Selatan |
-| 89  | Destinasi Alam 89 Sumatera Selatan  | Alam  | Sumatera Selatan |
-| 90  | Destinasi Alam 90 Sumatera Selatan  | Alam  | Sumatera Selatan |
-| 91  | Destinasi Alam 91 Sumatera Selatan  | Alam  | Sumatera Selatan |
-| 92  | Destinasi Alam 92 Sumatera Selatan  | Alam  | Sumatera Selatan |
-| 93  | Destinasi Alam 93 Sumatera Selatan  | Alam  | Sumatera Selatan |
-| 94  | Destinasi Alam 94 Sumatera Selatan  | Alam  | Sumatera Selatan |
-| 95  | Destinasi Alam 95 Sumatera Selatan  | Alam  | Sumatera Selatan |
-| 96  | Destinasi Alam 96 Sumatera Selatan  | Alam  | Sumatera Selatan |
-| 97  | Destinasi Alam 97 Sumatera Selatan  | Alam  | Sumatera Selatan |
-| 98  | Destinasi Alam 98 Sumatera Selatan  | Alam  | Sumatera Selatan |
-| 99  | Destinasi Alam 99 Sumatera Selatan  | Alam  | Sumatera Selatan |
-| 100 | Destinasi Alam 100 Sumatera Selatan | Alam  | Sumatera Selatan |
-
-### 🕌 Wisata Religi & Budaya (100 destinasi)
-
-| No  | Nama Tempat                           | Jenis  | Wilayah          |
-| --- | ------------------------------------- | ------ | ---------------- |
-| 101 | Destinasi Budaya 1 Sumatera Selatan   | Budaya | Sumatera Selatan |
-| 102 | Destinasi Budaya 2 Sumatera Selatan   | Budaya | Sumatera Selatan |
-| 103 | Destinasi Budaya 3 Sumatera Selatan   | Budaya | Sumatera Selatan |
-| 104 | Destinasi Budaya 4 Sumatera Selatan   | Budaya | Sumatera Selatan |
-| 105 | Destinasi Budaya 5 Sumatera Selatan   | Budaya | Sumatera Selatan |
-| 106 | Destinasi Budaya 6 Sumatera Selatan   | Budaya | Sumatera Selatan |
-| 107 | Destinasi Budaya 7 Sumatera Selatan   | Budaya | Sumatera Selatan |
-| 108 | Destinasi Budaya 8 Sumatera Selatan   | Budaya | Sumatera Selatan |
-| 109 | Destinasi Budaya 9 Sumatera Selatan   | Budaya | Sumatera Selatan |
-| 110 | Destinasi Budaya 10 Sumatera Selatan  | Budaya | Sumatera Selatan |
-| 111 | Destinasi Budaya 11 Sumatera Selatan  | Budaya | Sumatera Selatan |
-| 112 | Destinasi Budaya 12 Sumatera Selatan  | Budaya | Sumatera Selatan |
-| 113 | Destinasi Budaya 13 Sumatera Selatan  | Budaya | Sumatera Selatan |
-| 114 | Destinasi Budaya 14 Sumatera Selatan  | Budaya | Sumatera Selatan |
-| 115 | Destinasi Budaya 15 Sumatera Selatan  | Budaya | Sumatera Selatan |
-| 116 | Destinasi Budaya 16 Sumatera Selatan  | Budaya | Sumatera Selatan |
-| 117 | Destinasi Budaya 17 Sumatera Selatan  | Budaya | Sumatera Selatan |
-| 118 | Destinasi Budaya 18 Sumatera Selatan  | Budaya | Sumatera Selatan |
-| 119 | Destinasi Budaya 19 Sumatera Selatan  | Budaya | Sumatera Selatan |
-| 120 | Destinasi Budaya 20 Sumatera Selatan  | Budaya | Sumatera Selatan |
-| 121 | Destinasi Budaya 21 Sumatera Selatan  | Budaya | Sumatera Selatan |
-| 122 | Destinasi Budaya 22 Sumatera Selatan  | Budaya | Sumatera Selatan |
-| 123 | Destinasi Budaya 23 Sumatera Selatan  | Budaya | Sumatera Selatan |
-| 124 | Destinasi Budaya 24 Sumatera Selatan  | Budaya | Sumatera Selatan |
-| 125 | Destinasi Budaya 25 Sumatera Selatan  | Budaya | Sumatera Selatan |
-| 126 | Destinasi Budaya 26 Sumatera Selatan  | Budaya | Sumatera Selatan |
-| 127 | Destinasi Budaya 27 Sumatera Selatan  | Budaya | Sumatera Selatan |
-| 128 | Destinasi Budaya 28 Sumatera Selatan  | Budaya | Sumatera Selatan |
-| 129 | Destinasi Budaya 29 Sumatera Selatan  | Budaya | Sumatera Selatan |
-| 130 | Destinasi Budaya 30 Sumatera Selatan  | Budaya | Sumatera Selatan |
-| 131 | Destinasi Budaya 31 Sumatera Selatan  | Budaya | Sumatera Selatan |
-| 132 | Destinasi Budaya 32 Sumatera Selatan  | Budaya | Sumatera Selatan |
-| 133 | Destinasi Budaya 33 Sumatera Selatan  | Budaya | Sumatera Selatan |
-| 134 | Destinasi Budaya 34 Sumatera Selatan  | Budaya | Sumatera Selatan |
-| 135 | Destinasi Budaya 35 Sumatera Selatan  | Budaya | Sumatera Selatan |
-| 136 | Destinasi Budaya 36 Sumatera Selatan  | Budaya | Sumatera Selatan |
-| 137 | Destinasi Budaya 37 Sumatera Selatan  | Budaya | Sumatera Selatan |
-| 138 | Destinasi Budaya 38 Sumatera Selatan  | Budaya | Sumatera Selatan |
-| 139 | Destinasi Budaya 39 Sumatera Selatan  | Budaya | Sumatera Selatan |
-| 140 | Destinasi Budaya 40 Sumatera Selatan  | Budaya | Sumatera Selatan |
-| 141 | Destinasi Budaya 41 Sumatera Selatan  | Budaya | Sumatera Selatan |
-| 142 | Destinasi Budaya 42 Sumatera Selatan  | Budaya | Sumatera Selatan |
-| 143 | Destinasi Budaya 43 Sumatera Selatan  | Budaya | Sumatera Selatan |
-| 144 | Destinasi Budaya 44 Sumatera Selatan  | Budaya | Sumatera Selatan |
-| 145 | Destinasi Budaya 45 Sumatera Selatan  | Budaya | Sumatera Selatan |
-| 146 | Destinasi Budaya 46 Sumatera Selatan  | Budaya | Sumatera Selatan |
-| 147 | Destinasi Budaya 47 Sumatera Selatan  | Budaya | Sumatera Selatan |
-| 148 | Destinasi Budaya 48 Sumatera Selatan  | Budaya | Sumatera Selatan |
-| 149 | Destinasi Budaya 49 Sumatera Selatan  | Budaya | Sumatera Selatan |
-| 150 | Destinasi Budaya 50 Sumatera Selatan  | Budaya | Sumatera Selatan |
-| 151 | Destinasi Budaya 51 Sumatera Selatan  | Budaya | Sumatera Selatan |
-| 152 | Destinasi Budaya 52 Sumatera Selatan  | Budaya | Sumatera Selatan |
-| 153 | Destinasi Budaya 53 Sumatera Selatan  | Budaya | Sumatera Selatan |
-| 154 | Destinasi Budaya 54 Sumatera Selatan  | Budaya | Sumatera Selatan |
-| 155 | Destinasi Budaya 55 Sumatera Selatan  | Budaya | Sumatera Selatan |
-| 156 | Destinasi Budaya 56 Sumatera Selatan  | Budaya | Sumatera Selatan |
-| 157 | Destinasi Budaya 57 Sumatera Selatan  | Budaya | Sumatera Selatan |
-| 158 | Destinasi Budaya 58 Sumatera Selatan  | Budaya | Sumatera Selatan |
-| 159 | Destinasi Budaya 59 Sumatera Selatan  | Budaya | Sumatera Selatan |
-| 160 | Destinasi Budaya 60 Sumatera Selatan  | Budaya | Sumatera Selatan |
-| 161 | Destinasi Budaya 61 Sumatera Selatan  | Budaya | Sumatera Selatan |
-| 162 | Destinasi Budaya 62 Sumatera Selatan  | Budaya | Sumatera Selatan |
-| 163 | Destinasi Budaya 63 Sumatera Selatan  | Budaya | Sumatera Selatan |
-| 164 | Destinasi Budaya 64 Sumatera Selatan  | Budaya | Sumatera Selatan |
-| 165 | Destinasi Budaya 65 Sumatera Selatan  | Budaya | Sumatera Selatan |
-| 166 | Destinasi Budaya 66 Sumatera Selatan  | Budaya | Sumatera Selatan |
-| 167 | Destinasi Budaya 67 Sumatera Selatan  | Budaya | Sumatera Selatan |
-| 168 | Destinasi Budaya 68 Sumatera Selatan  | Budaya | Sumatera Selatan |
-| 169 | Destinasi Budaya 69 Sumatera Selatan  | Budaya | Sumatera Selatan |
-| 170 | Destinasi Budaya 70 Sumatera Selatan  | Budaya | Sumatera Selatan |
-| 171 | Destinasi Budaya 71 Sumatera Selatan  | Budaya | Sumatera Selatan |
-| 172 | Destinasi Budaya 72 Sumatera Selatan  | Budaya | Sumatera Selatan |
-| 173 | Destinasi Budaya 73 Sumatera Selatan  | Budaya | Sumatera Selatan |
-| 174 | Destinasi Budaya 74 Sumatera Selatan  | Budaya | Sumatera Selatan |
-| 175 | Destinasi Budaya 75 Sumatera Selatan  | Budaya | Sumatera Selatan |
-| 176 | Destinasi Budaya 76 Sumatera Selatan  | Budaya | Sumatera Selatan |
-| 177 | Destinasi Budaya 77 Sumatera Selatan  | Budaya | Sumatera Selatan |
-| 178 | Destinasi Budaya 78 Sumatera Selatan  | Budaya | Sumatera Selatan |
-| 179 | Destinasi Budaya 79 Sumatera Selatan  | Budaya | Sumatera Selatan |
-| 180 | Destinasi Budaya 80 Sumatera Selatan  | Budaya | Sumatera Selatan |
-| 181 | Destinasi Budaya 81 Sumatera Selatan  | Budaya | Sumatera Selatan |
-| 182 | Destinasi Budaya 82 Sumatera Selatan  | Budaya | Sumatera Selatan |
-| 183 | Destinasi Budaya 83 Sumatera Selatan  | Budaya | Sumatera Selatan |
-| 184 | Destinasi Budaya 84 Sumatera Selatan  | Budaya | Sumatera Selatan |
-| 185 | Destinasi Budaya 85 Sumatera Selatan  | Budaya | Sumatera Selatan |
-| 186 | Destinasi Budaya 86 Sumatera Selatan  | Budaya | Sumatera Selatan |
-| 187 | Destinasi Budaya 87 Sumatera Selatan  | Budaya | Sumatera Selatan |
-| 188 | Destinasi Budaya 88 Sumatera Selatan  | Budaya | Sumatera Selatan |
-| 189 | Destinasi Budaya 89 Sumatera Selatan  | Budaya | Sumatera Selatan |
-| 190 | Destinasi Budaya 90 Sumatera Selatan  | Budaya | Sumatera Selatan |
-| 191 | Destinasi Budaya 91 Sumatera Selatan  | Budaya | Sumatera Selatan |
-| 192 | Destinasi Budaya 92 Sumatera Selatan  | Budaya | Sumatera Selatan |
-| 193 | Destinasi Budaya 93 Sumatera Selatan  | Budaya | Sumatera Selatan |
-| 194 | Destinasi Budaya 94 Sumatera Selatan  | Budaya | Sumatera Selatan |
-| 195 | Destinasi Budaya 95 Sumatera Selatan  | Budaya | Sumatera Selatan |
-| 196 | Destinasi Budaya 96 Sumatera Selatan  | Budaya | Sumatera Selatan |
-| 197 | Destinasi Budaya 97 Sumatera Selatan  | Budaya | Sumatera Selatan |
-| 198 | Destinasi Budaya 98 Sumatera Selatan  | Budaya | Sumatera Selatan |
-| 199 | Destinasi Budaya 99 Sumatera Selatan  | Budaya | Sumatera Selatan |
-| 200 | Destinasi Budaya 100 Sumatera Selatan | Budaya | Sumatera Selatan |
-
-### 🌿 Wisata Kuliner & Belanja (100 destinasi)
-
-| No  | Nama Tempat                            | Jenis   | Wilayah          |
-| --- | -------------------------------------- | ------- | ---------------- |
-| 201 | Destinasi Kuliner 1 Sumatera Selatan   | Kuliner | Sumatera Selatan |
-| 202 | Destinasi Kuliner 2 Sumatera Selatan   | Kuliner | Sumatera Selatan |
-| 203 | Destinasi Kuliner 3 Sumatera Selatan   | Kuliner | Sumatera Selatan |
-| 204 | Destinasi Kuliner 4 Sumatera Selatan   | Kuliner | Sumatera Selatan |
-| 205 | Destinasi Kuliner 5 Sumatera Selatan   | Kuliner | Sumatera Selatan |
-| 206 | Destinasi Kuliner 6 Sumatera Selatan   | Kuliner | Sumatera Selatan |
-| 207 | Destinasi Kuliner 7 Sumatera Selatan   | Kuliner | Sumatera Selatan |
-| 208 | Destinasi Kuliner 8 Sumatera Selatan   | Kuliner | Sumatera Selatan |
-| 209 | Destinasi Kuliner 9 Sumatera Selatan   | Kuliner | Sumatera Selatan |
-| 210 | Destinasi Kuliner 10 Sumatera Selatan  | Kuliner | Sumatera Selatan |
-| 211 | Destinasi Kuliner 11 Sumatera Selatan  | Kuliner | Sumatera Selatan |
-| 212 | Destinasi Kuliner 12 Sumatera Selatan  | Kuliner | Sumatera Selatan |
-| 213 | Destinasi Kuliner 13 Sumatera Selatan  | Kuliner | Sumatera Selatan |
-| 214 | Destinasi Kuliner 14 Sumatera Selatan  | Kuliner | Sumatera Selatan |
-| 215 | Destinasi Kuliner 15 Sumatera Selatan  | Kuliner | Sumatera Selatan |
-| 216 | Destinasi Kuliner 16 Sumatera Selatan  | Kuliner | Sumatera Selatan |
-| 217 | Destinasi Kuliner 17 Sumatera Selatan  | Kuliner | Sumatera Selatan |
-| 218 | Destinasi Kuliner 18 Sumatera Selatan  | Kuliner | Sumatera Selatan |
-| 219 | Destinasi Kuliner 19 Sumatera Selatan  | Kuliner | Sumatera Selatan |
-| 220 | Destinasi Kuliner 20 Sumatera Selatan  | Kuliner | Sumatera Selatan |
-| 221 | Destinasi Kuliner 21 Sumatera Selatan  | Kuliner | Sumatera Selatan |
-| 222 | Destinasi Kuliner 22 Sumatera Selatan  | Kuliner | Sumatera Selatan |
-| 223 | Destinasi Kuliner 23 Sumatera Selatan  | Kuliner | Sumatera Selatan |
-| 224 | Destinasi Kuliner 24 Sumatera Selatan  | Kuliner | Sumatera Selatan |
-| 225 | Destinasi Kuliner 25 Sumatera Selatan  | Kuliner | Sumatera Selatan |
-| 226 | Destinasi Kuliner 26 Sumatera Selatan  | Kuliner | Sumatera Selatan |
-| 227 | Destinasi Kuliner 27 Sumatera Selatan  | Kuliner | Sumatera Selatan |
-| 228 | Destinasi Kuliner 28 Sumatera Selatan  | Kuliner | Sumatera Selatan |
-| 229 | Destinasi Kuliner 29 Sumatera Selatan  | Kuliner | Sumatera Selatan |
-| 230 | Destinasi Kuliner 30 Sumatera Selatan  | Kuliner | Sumatera Selatan |
-| 231 | Destinasi Kuliner 31 Sumatera Selatan  | Kuliner | Sumatera Selatan |
-| 232 | Destinasi Kuliner 32 Sumatera Selatan  | Kuliner | Sumatera Selatan |
-| 233 | Destinasi Kuliner 33 Sumatera Selatan  | Kuliner | Sumatera Selatan |
-| 234 | Destinasi Kuliner 34 Sumatera Selatan  | Kuliner | Sumatera Selatan |
-| 235 | Destinasi Kuliner 35 Sumatera Selatan  | Kuliner | Sumatera Selatan |
-| 236 | Destinasi Kuliner 36 Sumatera Selatan  | Kuliner | Sumatera Selatan |
-| 237 | Destinasi Kuliner 37 Sumatera Selatan  | Kuliner | Sumatera Selatan |
-| 238 | Destinasi Kuliner 38 Sumatera Selatan  | Kuliner | Sumatera Selatan |
-| 239 | Destinasi Kuliner 39 Sumatera Selatan  | Kuliner | Sumatera Selatan |
-| 240 | Destinasi Kuliner 40 Sumatera Selatan  | Kuliner | Sumatera Selatan |
-| 241 | Destinasi Kuliner 41 Sumatera Selatan  | Kuliner | Sumatera Selatan |
-| 242 | Destinasi Kuliner 42 Sumatera Selatan  | Kuliner | Sumatera Selatan |
-| 243 | Destinasi Kuliner 43 Sumatera Selatan  | Kuliner | Sumatera Selatan |
-| 244 | Destinasi Kuliner 44 Sumatera Selatan  | Kuliner | Sumatera Selatan |
-| 245 | Destinasi Kuliner 45 Sumatera Selatan  | Kuliner | Sumatera Selatan |
-| 246 | Destinasi Kuliner 46 Sumatera Selatan  | Kuliner | Sumatera Selatan |
-| 247 | Destinasi Kuliner 47 Sumatera Selatan  | Kuliner | Sumatera Selatan |
-| 248 | Destinasi Kuliner 48 Sumatera Selatan  | Kuliner | Sumatera Selatan |
-| 249 | Destinasi Kuliner 49 Sumatera Selatan  | Kuliner | Sumatera Selatan |
-| 250 | Destinasi Kuliner 50 Sumatera Selatan  | Kuliner | Sumatera Selatan |
-| 251 | Destinasi Kuliner 51 Sumatera Selatan  | Kuliner | Sumatera Selatan |
-| 252 | Destinasi Kuliner 52 Sumatera Selatan  | Kuliner | Sumatera Selatan |
-| 253 | Destinasi Kuliner 53 Sumatera Selatan  | Kuliner | Sumatera Selatan |
-| 254 | Destinasi Kuliner 54 Sumatera Selatan  | Kuliner | Sumatera Selatan |
-| 255 | Destinasi Kuliner 55 Sumatera Selatan  | Kuliner | Sumatera Selatan |
-| 256 | Destinasi Kuliner 56 Sumatera Selatan  | Kuliner | Sumatera Selatan |
-| 257 | Destinasi Kuliner 57 Sumatera Selatan  | Kuliner | Sumatera Selatan |
-| 258 | Destinasi Kuliner 58 Sumatera Selatan  | Kuliner | Sumatera Selatan |
-| 259 | Destinasi Kuliner 59 Sumatera Selatan  | Kuliner | Sumatera Selatan |
-| 260 | Destinasi Kuliner 60 Sumatera Selatan  | Kuliner | Sumatera Selatan |
-| 261 | Destinasi Kuliner 61 Sumatera Selatan  | Kuliner | Sumatera Selatan |
-| 262 | Destinasi Kuliner 62 Sumatera Selatan  | Kuliner | Sumatera Selatan |
-| 263 | Destinasi Kuliner 63 Sumatera Selatan  | Kuliner | Sumatera Selatan |
-| 264 | Destinasi Kuliner 64 Sumatera Selatan  | Kuliner | Sumatera Selatan |
-| 265 | Destinasi Kuliner 65 Sumatera Selatan  | Kuliner | Sumatera Selatan |
-| 266 | Destinasi Kuliner 66 Sumatera Selatan  | Kuliner | Sumatera Selatan |
-| 267 | Destinasi Kuliner 67 Sumatera Selatan  | Kuliner | Sumatera Selatan |
-| 268 | Destinasi Kuliner 68 Sumatera Selatan  | Kuliner | Sumatera Selatan |
-| 269 | Destinasi Kuliner 69 Sumatera Selatan  | Kuliner | Sumatera Selatan |
-| 270 | Destinasi Kuliner 70 Sumatera Selatan  | Kuliner | Sumatera Selatan |
-| 271 | Destinasi Kuliner 71 Sumatera Selatan  | Kuliner | Sumatera Selatan |
-| 272 | Destinasi Kuliner 72 Sumatera Selatan  | Kuliner | Sumatera Selatan |
-| 273 | Destinasi Kuliner 73 Sumatera Selatan  | Kuliner | Sumatera Selatan |
-| 274 | Destinasi Kuliner 74 Sumatera Selatan  | Kuliner | Sumatera Selatan |
-| 275 | Destinasi Kuliner 75 Sumatera Selatan  | Kuliner | Sumatera Selatan |
-| 276 | Destinasi Kuliner 76 Sumatera Selatan  | Kuliner | Sumatera Selatan |
-| 277 | Destinasi Kuliner 77 Sumatera Selatan  | Kuliner | Sumatera Selatan |
-| 278 | Destinasi Kuliner 78 Sumatera Selatan  | Kuliner | Sumatera Selatan |
-| 279 | Destinasi Kuliner 79 Sumatera Selatan  | Kuliner | Sumatera Selatan |
-| 280 | Destinasi Kuliner 80 Sumatera Selatan  | Kuliner | Sumatera Selatan |
-| 281 | Destinasi Kuliner 81 Sumatera Selatan  | Kuliner | Sumatera Selatan |
-| 282 | Destinasi Kuliner 82 Sumatera Selatan  | Kuliner | Sumatera Selatan |
-| 283 | Destinasi Kuliner 83 Sumatera Selatan  | Kuliner | Sumatera Selatan |
-| 284 | Destinasi Kuliner 84 Sumatera Selatan  | Kuliner | Sumatera Selatan |
-| 285 | Destinasi Kuliner 85 Sumatera Selatan  | Kuliner | Sumatera Selatan |
-| 286 | Destinasi Kuliner 86 Sumatera Selatan  | Kuliner | Sumatera Selatan |
-| 287 | Destinasi Kuliner 87 Sumatera Selatan  | Kuliner | Sumatera Selatan |
-| 288 | Destinasi Kuliner 88 Sumatera Selatan  | Kuliner | Sumatera Selatan |
-| 289 | Destinasi Kuliner 89 Sumatera Selatan  | Kuliner | Sumatera Selatan |
-| 290 | Destinasi Kuliner 90 Sumatera Selatan  | Kuliner | Sumatera Selatan |
-| 291 | Destinasi Kuliner 91 Sumatera Selatan  | Kuliner | Sumatera Selatan |
-| 292 | Destinasi Kuliner 92 Sumatera Selatan  | Kuliner | Sumatera Selatan |
-| 293 | Destinasi Kuliner 93 Sumatera Selatan  | Kuliner | Sumatera Selatan |
-| 294 | Destinasi Kuliner 94 Sumatera Selatan  | Kuliner | Sumatera Selatan |
-| 295 | Destinasi Kuliner 95 Sumatera Selatan  | Kuliner | Sumatera Selatan |
-| 296 | Destinasi Kuliner 96 Sumatera Selatan  | Kuliner | Sumatera Selatan |
-| 297 | Destinasi Kuliner 97 Sumatera Selatan  | Kuliner | Sumatera Selatan |
-| 298 | Destinasi Kuliner 98 Sumatera Selatan  | Kuliner | Sumatera Selatan |
-| 299 | Destinasi Kuliner 99 Sumatera Selatan  | Kuliner | Sumatera Selatan |
-| 300 | Destinasi Kuliner 100 Sumatera Selatan | Kuliner | Sumatera Selatan |
-
-## Kode Pos & Kode Telepon
-
-### Kode Pos
-
-Range kode pos: **30000-32999**
-
-| Wilayah           | Kode Pos                          |
-| ----------------- | --------------------------------- |
-| Ibu Kota Provinsi | (lihat detail per kabupaten/kota) |
-| Kabupaten/Kota    | (lihat folder masing-masing)      |
-
-### Kode Telepon (Kode Area)
-
-0711 (Palembang), 0714 (Lubuklinggau), 0730 (Pagar Alam), 0713 (Prabumulih), 0711 (Banyuasin), 0711 (Ogan Ilir), 0712 (Ogan Komering Ilir), 0735 (Ogan Komering Ulu), 0735 (Ogan Komering Ulu Selatan), 0735 (Ogan Komering Ulu Timur), 0714 (Musi Rawas), 0714 (Musi Rawas Utara), 0713 (Muara Enim), 0713 (Penukal Abab Lematang Ilir), 0714 (Lahat), 0714 (Empat Lawang), 0714 (Musi Banyuasin)
-
-> Catatan: Kode area di atas adalah untuk telepon rumah/kantor. Untuk telepon seluler, gunakan kode operator nasional (0811, 0812, 0813, 0821, 0822, 0823, 0851, 0852, 0853, 0855, 0856, 0857, 0858, 0877, 0878, 0881, 0882, 0883, 0884, 0885, 0886, 0887, 0888, 0889, 0895, 0896, 0897, 0898, 0899).
-
-## Tokoh Lengkap
-
-**Pahlawan Nasional:**
-
-- Tokoh-tokoh pahlawan dari Sumatera Selatan (lihat Wikipedia untuk daftar lengkap)
-
-**Tokoh Modern:**
-
-- Gubernur dan pejabat daerah Sumatera Selatan
-- Tokoh politik, bisnis, dan budaya Sumatera Selatan
-
-**Tokoh Agama & Budaya:**
-
-- Ulama, seniman, dan budayawan Sumatera Selatan
-
-## Sejarah Detail
-
-### Masa Prasejarah & Kerajaan Kuno
-
-- Wilayah Sumatera Selatan telah dihuni sejak masa prasejarah, dibuktikan dengan temuan arkeologis.
-- Berbagai kerajaan kuno pernah berdiri dan berkembang di wilayah ini.
-
-### Masa Kerajaan Hindu-Buddha
-
-- Pengaruh Hindu-Buddha masuk ke wilayah Sumatera Selatan melalui jalur perdagangan.
-- Beberapa kerajaan bercorak Hindu-Buddha pernah berkuasa di wilayah ini.
-
-### Masa Kerajaan Islam
-
-- Islam masuk ke wilayah Sumatera Selatan melalui pedagang dan ulama.
-- Kesultanan-kesultanan Islam berkembang dan menjadi pusat kekuasaan.
-
-### Masa Kolonial
-
-- Portugis, Belanda, dan Inggris pernah menguasai atau mempengaruhi wilayah Sumatera Selatan.
-- Perlawanan rakyat terhadap penjajah terjadi di berbagai daerah.
-- VOC (Vereenigde Oost-Indische Compagnie) mendirikan pos perdagangan.
-- Pemerintah Hindia Belanda mengatur wilayah ini sebagai bagian dari koloni.
-
-### Masa Pergerakan Nasional
-
-- Tokoh-tokoh dari Sumatera Selatan turut berperan dalam pergerakan kemerdekaan Indonesia.
-- Organisasi pergerakan nasional aktif di wilayah ini.
-
-### Masa Kemerdekaan
-
-- Wilayah Sumatera Selatan menjadi bagian dari Republik Indonesia yang diproklamasikan 17 Agustus 1945.
-- Berbagai pertempuran mempertahankan kemerdekaan terjadi di wilayah ini.
-
-### Masa Orde Lama (1945-1966)
-
-- Pembentukan pemerintahan daerah dan konsolidasi wilayah.
-- Berbagai pemberontakan dan konflik internal terjadi.
-
-### Masa Orde Baru (1966-1998)
-
-- Pembangunan infrastruktur dan ekonomi secara masif.
-- Transmigrasi membawa perubahan demografis.
-
-### Masa Reformasi (1998-sekarang)
-
-- Otonomi daerah memberikan kewenangan lebih besar kepada pemerintah daerah.
-- Pemekaran wilayah menciptakan kabupaten/kota baru.
-- Pembangunan berkelanjutan dan peningkatan kesejahteraan masyarakat.
-
-## Fun Fact Lengkap
-
-### 🌍 Geografi & Alam
-
-- Sumatera Selatan memiliki keunikan geografis yang membedakannya dari provinsi lain di Indonesia.
-- Terdapat berbagai ekosistem unik di Sumatera Selatan, dari hutan tropis hingga pesisir pantai.
-- Beberapa spesies flora dan fauna endemik hanya ditemukan di Sumatera Selatan.
-- Kondisi iklim Sumatera Selatan dipengaruhi oleh posisi geografisnya di kepulauan Indonesia.
-- Terdapat sumber daya alam yang melimpah di Sumatera Selatan, baik mineral maupun hayati.
-
-### 🏛️ Sejarah & Budaya
-
-- Sumatera Selatan memiliki sejarah panjang yang mencakup berbagai peradaban dan kerajaan.
-- Berbagai peninggalan sejarah masih dapat ditemukan di Sumatera Selatan.
-- Tradisi dan adat istiadat Sumatera Selatan telah diwariskan turun-temurun selama berabad-abad.
-- Bahasa daerah Sumatera Selatan memiliki keunikan tersendiri dalam rumpun bahasa Nusantara.
-- Seni pertunjukan tradisional Sumatera Selatan diakui sebagai warisan budaya yang berharga.
-
-### 🍽️ Kuliner & Produk Lokal
-
-- Masakan khas Sumatera Selatan menggunakan rempah-rempah lokal yang unik.
-- Beberapa produk pertanian Sumatera Selatan terkenal hingga ke mancanegara.
-- Minuman tradisional Sumatera Selatan memiliki khasiat kesehatan yang telah dikenal lama.
-- Kerajinan tangan Sumatera Selatan menggunakan bahan-bahan alami setempat.
-- Produk unggulan Sumatera Selatan berkontribusi signifikan terhadap perekonomian daerah.
-
-### 🎭 Seni & Tradisi
-
-- Festival tahunan di Sumatera Selatan menarik ribuan wisatawan setiap tahunnya.
-- Musik tradisional Sumatera Selatan menggunakan alat musik yang tidak ditemukan di daerah lain.
-- Pakaian adat Sumatera Selatan mencerminkan kekayaan budaya dan filosofi hidup masyarakatnya.
-- Upacara adat Sumatera Selatan memiliki makna spiritual yang mendalam bagi masyarakat setempat.
-- Tari tradisional Sumatera Selatan telah dipentaskan di berbagai festival internasional.
-
-### 🏆 Rekor & Pencapaian
-
-- Sumatera Selatan memegang beberapa rekor unik di tingkat nasional maupun internasional.
-- Beberapa tokoh terkenal Indonesia berasal dari Sumatera Selatan.
-- Sumatera Selatan telah menerima berbagai penghargaan atas prestasi pembangunan dan pelestarian budaya.
-- Produk-produk dari Sumatera Selatan telah mendapatkan pengakuan internasional.
-- Sumatera Selatan menjadi tuan rumah berbagai event nasional dan internasional.
-
-### 🌱 Lingkungan & Konservasi
-
-- Sumatera Selatan memiliki kawasan konservasi yang melindungi keanekaragaman hayati.
-- Beberapa spesies langka mendapat perlindungan khusus di Sumatera Selatan.
-- Program pelestarian lingkungan di Sumatera Selatan menjadi contoh bagi daerah lain.
-- Masyarakat Sumatera Selatan memiliki kearifan lokal dalam menjaga keseimbangan alam.
-- Hutan-hutan di Sumatera Selatan berperan penting dalam menjaga keseimbangan iklim regional.
-
-### 💡 Inovasi & Modernisasi
-
-- Sumatera Selatan terus berkembang dengan berbagai inovasi di bidang teknologi dan ekonomi.
-- Generasi muda Sumatera Selatan aktif dalam berbagai kompetisi nasional dan internasional.
-- Infrastruktur Sumatera Selatan terus ditingkatkan untuk mendukung pertumbuhan ekonomi.
-- Sektor pariwisata Sumatera Selatan berkembang pesat dengan berbagai destinasi baru.
-- Sumatera Selatan menjadi salah satu tujuan investasi yang menarik di Indonesia.
-
-## Fun Fact Spesifik
-
-### 🏛️ Fakta Unik Sumatera Selatan
-
-1. **Kerajaan Sriwijaya** — Palembang adalah pusat Kerajaan Sriwijaya (abad 7-13), kerajaan maritim terbesar di Asia Tenggara.
-2. **Pempek** — Makanan dari ikan dan sagu khas Palembang yang kini populer di seluruh Indonesia.
-3. **Jembatan Ampera** — Jembatan ikonik di atas Sungai Musi yang menjadi simbol Palembang.
-4. **Sungai Musi** — Sungai terpanjang di Sumatera Selatan yang membelah Palembang menjadi dua bagian.
-5. **Sultan Mahmud Badaruddin II** — Pahlawan nasional dari Palembang yang memimpin perlawanan terhadap Belanda.
-6. **Songket Palembang** — Kain tenun emas khas Palembang yang menjadi simbol kemewahan dan status sosial.
-7. **Rumah Limas** — Rumah adat Palembang berbentuk limas dengan lantai bertingkat yang mencerminkan status sosial.
-8. **Tekwan** — Sup bakso ikan khas Palembang yang berbeda dari pempek.
-9. **Model** — Makanan khas Palembang berupa pempek yang disajikan dengan kuah bening.
-10. **Mie Celor** — Mie dengan kuah santan udang khas Palembang yang menjadi sarapan favorit.
-11. **Danau Ranau** — Danau vulkanik di perbatasan Sumatera Selatan dan Lampung yang indah.
-12. **Bukit Siguntang** — Bukit bersejarah di Palembang yang dianggap suci dan menjadi pusat Kerajaan Sriwijaya.
-13. **Benteng Kuto Besak** — Benteng Kesultanan Palembang abad 18 yang kini menjadi landmark kota.
-14. **Tari Gending Sriwijaya** — Tari penyambutan tamu khas Sumatera Selatan yang menggambarkan kejayaan Sriwijaya.
-15. **Kopi Semendo** — Kopi arabika dari Semendo, Muara Enim yang memiliki cita rasa unik dan menjadi komoditas ekspor.
-
-### 🔍 Fun Fact Tambahan Sumatera Selatan
-
-16. **Fakta 16 Sumatera Selatan** — Sumatera Selatan memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
-17. **Fakta 17 Sumatera Selatan** — Sumatera Selatan memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
-18. **Fakta 18 Sumatera Selatan** — Sumatera Selatan memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
-19. **Fakta 19 Sumatera Selatan** — Sumatera Selatan memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
-20. **Fakta 20 Sumatera Selatan** — Sumatera Selatan memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
-21. **Fakta 21 Sumatera Selatan** — Sumatera Selatan memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
-22. **Fakta 22 Sumatera Selatan** — Sumatera Selatan memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
-23. **Fakta 23 Sumatera Selatan** — Sumatera Selatan memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
-24. **Fakta 24 Sumatera Selatan** — Sumatera Selatan memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
-25. **Fakta 25 Sumatera Selatan** — Sumatera Selatan memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+- Badan Pusat Statistik (BPS) Provinsi Sumatera Selatan.
+- Dinas Kebudayaan dan Pariwisata Sumatera Selatan.
+- Jejak Kerajaan Sriwijaya, Warisan Dunia di Bumi Palembang.

@@ -1,555 +1,302 @@
-# Sumatera Barat
+# Provinsi Sumatera Barat
 
 ## Ringkasan
 
-Sumatera Barat adalah provinsi di barat Sumatera, ibu kota Padang, luas 42.013 km², populasi ~5,6 juta jiwa. Tanah Minangkabau.
+**Ibu Kota:** Padang
+**Lokasi:** Bagian barat Pulau Sumatera
+**Cakupan Wilayah:** 12 Kabupaten, 7 Kota
+
+Sumatera Barat adalah tanah asal bagi suku bangsa Minangkabau yang menganut sistem kekerabatan Matrilineal (garis keturunan ibu) terbesar di dunia. Dikenal dengan sebutan "Ranah Minang", provinsi ini memiliki lanskap alam pegunungan yang megah (Bukittinggi) dan pesisir pantai yang indah (Padang & Mentawai). Sumatera Barat memiliki sejarah panjang sebagai pusat intelek Indonesia, melahirkan banyak proklamator dan pahlawan nasional.
 
 ## Administrasi
 
-**Kabupaten (12):**
+Sumatera Barat terdiri dari 12 kabupaten dan 7 kota:
 
-- Agam
-- Dharmasraya
-- Kepulauan Mentawai
-- Lima Puluh Kota
-- Padang Pariaman
-- Pasaman
-- Pasaman Barat
-- Pesisir Selatan
-- Sijunjung
-- Solok
-- Solok Selatan
-- Tanah Datar
+### Kabupaten
 
-**Kota (7):**
+1. Kabupaten Agam
+2. Kabupaten Dharmasraya
+3. Kabupaten Kepulauan Mentawai
+4. Kabupaten Lima Puluh Kota
+5. Kabupaten Padang Pariaman
+6. Kabupaten Pasaman
+7. Kabupaten Pasaman Barat
+8. Kabupaten Pesisir Selatan
+9. Kabupaten Sijunjung
+10. Kabupaten Solok
+11. Kabupaten Solok Selatan
+12. Kabupaten Tanah Datar
 
-- Bukittinggi
-- Padang
-- Padang Panjang
-- Pariaman
-- Payakumbuh
-- Sawahlunto
-- Solok
+### Kota
 
-Lihat `kabupaten/` dan `kota/`.
+1. Kota Bukittinggi
+2. Kota Padang
+3. Kota Padang Panjang
+4. Kota Pariaman
+5. Kota Payakumbuh
+6. Kota Sawahlunto
+7. Kota Solok
 
-## Sejarah singkat
+## Sejarah Singkat
 
-- Kerajaan Pagaruyung (abad 14); Perang Padri (1803-1838); Pemberontakan PRRI (1958).
+Provinsi ini merupakan pusat **Kerajaan Pagaruyung** yang sangat berpengaruh di masa lampau. Di masa kolonial, Sumatera Barat menjadi ajang **Perang Padri** (1803-1838) yang dipimpin oleh Tuanku Imam Bonjol melawan penjajahan Belanda. Masyarakat Minang dikenal sangat menjunjung tinggi perpaduan adat dan agama Islam melalui filosofi _"Adat Basandi Syarak, Syarak Basandi Kitabullah"_. Selama masa pergerakan kemerdekaan, wilayah ini melahirkan banyak tokoh besar seperti Bung Hatta dan Sutan Sjahrir.
 
-## Fun fact / hal menarik
+## Fun Fact / Hal Menarik
 
-- Rumah Gadang, rumah adat dengan atap melengkung seperti tanduk kerbau.
-- Rendang, masakan terlezat di dunia versi CNN.
+- **Rumah Gadang:** Arsitektur rumah adat yang atapnya menyerupai tanduk kerbau (gonjong) ini didesain tahan gempa dan penuh makna simbolis.
+- **Rendang:** Masakan daging khas Minang ini berkali-kali dinobatkan sebagai "Makanan Paling Lezat di Dunia" oleh CNN International.
+- **Matrilineal:** Setiap harta warisan dan garis keturunan suku di Minangkabau diturunkan dari pihak Ibu, menjadikannya sistem matrilineal terbesar yang masih aktif di dunia.
+- **Jam Gadang:** Mesin jam mekanik yang ada di Bukittinggi didatangkan langsung dari Jerman dan merupakan kembaran dari mesin jam Big Ben di London.
 
 ## Budaya
 
-- Tari Piring; Randai; Sistem matrilineal Minangkabau.
+- **Randai:** Teater rakyat yang menggabungkan gerak silat, tari, musik, dan sastra lisan.
+- **Tari Piring:** Tarian tradisional menggunakan piring di tangan penari yang melambangkan rasa syukur atas hasil panen.
+- **Silat (Silek):** Kesenian bela diri kuno yang kental dengan filosofi adat dan ketangkasan fisik.
+- **Upacara Tabuik:** Perayaan tahunan di Pariaman untuk memperingati Asyura, yang menarik ribuan wisatawan.
 
-## Kuliner
+## Kuliner Khas
 
-- Rendang; Sate Padang; Nasi Padang; Dendeng balado.
+| Nama Kuliner       | Deskripsi Singkat                                                                                                      |
+| ------------------ | ---------------------------------------------------------------------------------------------------------------------- |
+| **Rendang**        | Olahan daging yang dimasak lama dengan rempah dan santan hingga kering, memiliki cita rasa gurih-pedas yang mendalam.  |
+| **Sate Padang**    | Sate lidah atau daging sapi dengan kuah kental kuning/merah yang terbuat dari kaldu dan puluhan rempah.                |
+| **Nasi Kapau**     | Mirip Nasi Padang namun dengan menu khas seperti Gulai Tambusu (usus isi telur/tahu) dan cara penyajian yang unik.     |
+| **Teh Talua**      | Minuman energi tradisional dari teh pekat, kuning telur, dan perasan jeruk nipis yang sangat populer di lapau (kedai). |
+| **Keripik Sanjai** | Keripik singkong khas Bukittinggi dengan balutan bumbu cabe (lado) yang pedas manis.                                   |
 
-## Wisata
+## Pariwisata
 
-- Jam Gadang Bukittinggi, Danau Maninjau, Danau Singkarak, Lembah Harau.
+Sumatera Barat menawarkan pesona lembah Harau, danau kawah Maninjau, hingga ombak selancar kelas dunia di Mentawai.
 
-## Tokoh
+| No  | Nama Destinasi                                  | Kabupaten/Kota         | Kategori Singkat       | Google Maps / Koordinat                                                                                                            |
+| --- | ----------------------------------------------- | ---------------------- | ---------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | **Jam Gadang**                                  | Kota Bukittinggi       | Sejarah/Landmark       | [Peta](https://www.google.com/maps/search/?api=1&query=Jam%20Gadang%20Kota%20Bukittinggi)                                          |
+| 2   | **Ngarai Sianok**                               | Kota Bukittinggi       | Alam/Lembah            | [Peta](https://www.google.com/maps/search/?api=1&query=Ngarai%20Sianok%20Kota%20Bukittinggi)                                       |
+| 3   | **Lobang Jepang**                               | Kota Bukittinggi       | Sejarah/Situs          | [Peta](https://www.google.com/maps/search/?api=1&query=Lobang%20Jepang%20Kota%20Bukittinggi)                                       |
+| 4   | **Benteng Fort de Kock**                        | Kota Bukittinggi       | Sejarah/Situs          | [Peta](https://www.google.com/maps/search/?api=1&query=Benteng%20Fort%20de%20Kock%20Kota%20Bukittinggi)                            |
+| 5   | **Taman Panorama**                              | Kota Bukittinggi       | Alam/Pemandangan       | [Peta](https://www.google.com/maps/search/?api=1&query=Taman%20Panorama%20Kota%20Bukittinggi)                                      |
+| 6   | **Museum Rumah Kelahiran Bung Hatta**           | Kota Bukittinggi       | Museum/Sejarah         | [Peta](https://www.google.com/maps/search/?api=1&query=Museum%20Rumah%20Kelahiran%20Bung%20Hatta%20Kota%20Bukittinggi)             |
+| 7   | **Kebun Binatang Bukittinggi (TMSBK)**          | Kota Bukittinggi       | Satwa/Edukasi          | [Peta](<https://www.google.com/maps/search/?api=1&query=Kebun%20Binatang%20Bukittinggi%20(TMSBK)%20Kota%20Bukittinggi>)            |
+| 8   | **Jembatan Limpapeh**                           | Kota Bukittinggi       | Landmark/Arsitektur    | [Peta](https://www.google.com/maps/search/?api=1&query=Jembatan%20Limpapeh%20Kota%20Bukittinggi)                                   |
+| 9   | **Janjang Koto Gadang**                         | Kab. Agam/Bukittinggi  | Alam/Olahraga          | [Peta](https://www.google.com/maps/search/?api=1&query=Janjang%20Koto%20Gadang%20Kab.%20Agam%2FBukittinggi)                        |
+| 10  | **Pantai Air Manis (Batu Malin Kundang)**       | Kota Padang            | Pantai/Legenda         | [Peta](<https://www.google.com/maps/search/?api=1&query=Pantai%20Air%20Manis%20(Batu%20Malin%20Kundang)%20Kota%20Padang>)          |
+| 11  | **Pantai Padang (Taplau)**                      | Kota Padang            | Pantai                 | [Peta](<https://www.google.com/maps/search/?api=1&query=Pantai%20Padang%20(Taplau)%20Kota%20Padang>)                               |
+| 12  | **Masjid Raya Sumatera Barat**                  | Kota Padang            | Religi/Landmark        | [Peta](https://www.google.com/maps/search/?api=1&query=Masjid%20Raya%20Sumatera%20Barat%20Kota%20Padang)                           |
+| 13  | **Pulau Pagang**                                | Kota Padang            | Pulau/Bahari           | [Peta](https://www.google.com/maps/search/?api=1&query=Pulau%20Pagang%20Kota%20Padang)                                             |
+| 14  | **Pulau Pasumpahan**                            | Kota Padang            | Pulau/Bahari           | [Peta](https://www.google.com/maps/search/?api=1&query=Pulau%20Pasumpahan%20Kota%20Padang)                                         |
+| 15  | **Museum Adityawarman**                         | Kota Padang            | Museum/Budaya          | [Peta](https://www.google.com/maps/search/?api=1&query=Museum%20Adityawarman%20Kota%20Padang)                                      |
+| 16  | **Jembatan Siti Nurbaya**                       | Kota Padang            | Landmark/Sejarah       | [Peta](https://www.google.com/maps/search/?api=1&query=Jembatan%20Siti%20Nurbaya%20Kota%20Padang)                                  |
+| 17  | **Danau Maninjau**                              | Kab. Agam              | Alam/Danau             | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Maninjau%20Kab.%20Agam)                                             |
+| 18  | **Puncak Lawang**                               | Kab. Agam              | Alam/Pemandangan       | [Peta](https://www.google.com/maps/search/?api=1&query=Puncak%20Lawang%20Kab.%20Agam)                                              |
+| 19  | **Kelok 44**                                    | Kab. Agam              | Landmark/Pemandangan   | [Peta](https://www.google.com/maps/search/?api=1&query=Kelok%2044%20Kab.%20Agam)                                                   |
+| 20  | **Istano Basa Pagaruyung**                      | Kab. Tanah Datar       | Sejarah/Museum         | [Peta](https://www.google.com/maps/search/?api=1&query=Istano%20Basa%20Pagaruyung%20Kab.%20Tanah%20Datar)                          |
+| 21  | **Danau Singkarak**                             | Kab. Solok/Tanah Datar | Alam/Danau             | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Singkarak%20Kab.%20Solok%2FTanah%20Datar)                           |
+| 22  | **Lembah Anai**                                 | Kab. Tanah Datar       | Alam/Air Terjun        | [Peta](https://www.google.com/maps/search/?api=1&query=Lembah%20Anai%20Kab.%20Tanah%20Datar)                                       |
+| 23  | **Puncak Pato**                                 | Kab. Tanah Datar       | Sejarah/Pemandangan    | [Peta](https://www.google.com/maps/search/?api=1&query=Puncak%20Pato%20Kab.%20Tanah%20Datar)                                       |
+| 24  | **Lembah Harau**                                | Kab. Lima Puluh Kota   | Alam/Lembah            | [Peta](https://www.google.com/maps/search/?api=1&query=Lembah%20Harau%20Kab.%20Lima%20Puluh%20Kota)                                |
+| 25  | **Kelok Sembilan**                              | Kab. Lima Puluh Kota   | Landmark/Infrastruktur | [Peta](https://www.google.com/maps/search/?api=1&query=Kelok%20Sembilan%20Kab.%20Lima%20Puluh%20Kota)                              |
+| 26  | **Jembatan Ratapan Ibu**                        | Kota Payakumbuh        | Sejarah/Landmark       | [Peta](https://www.google.com/maps/search/?api=1&query=Jembatan%20Ratapan%20Ibu%20Kota%20Payakumbuh)                               |
+| 27  | **Gua Ngalau Indah**                            | Kota Payakumbuh        | Alam/Goa               | [Peta](https://www.google.com/maps/search/?api=1&query=Gua%20Ngalau%20Indah%20Kota%20Payakumbuh)                                   |
+| 28  | **Kebun Teh Alahan Panjang**                    | Kab. Solok             | Alam/Perkebunan        | [Peta](https://www.google.com/maps/search/?api=1&query=Kebun%20Teh%20Alahan%20Panjang%20Kab.%20Solok)                              |
+| 29  | **Danau Diatas & Danau Dibawah (Danau Kembar)** | Kab. Solok             | Alam/Danau             | [Peta](<https://www.google.com/maps/search/?api=1&query=Danau%20Diatas%20%26%20Danau%20Dibawah%20(Danau%20Kembar)%20Kab.%20Solok>) |
+| 30  | **Kawasan Mandeh (Raja Ampat Sumatera)**        | Kab. Pesisir Selatan   | Alam/Bahari            | [Peta](<https://www.google.com/maps/search/?api=1&query=Kawasan%20Mandeh%20(Raja%20Ampat%20Sumatera)%20Kab.%20Pesisir%20Selatan>)  |
+| 31  | **Pantai Carocok Painan**                       | Kab. Pesisir Selatan   | Pantai                 | [Peta](https://www.google.com/maps/search/?api=1&query=Pantai%20Carocok%20Painan%20Kab.%20Pesisir%20Selatan)                       |
+| 32  | **Pulau Cingkuak**                              | Kab. Pesisir Selatan   | Pulau/Sejarah          | [Peta](https://www.google.com/maps/search/?api=1&query=Pulau%20Cingkuak%20Kab.%20Pesisir%20Selatan)                                |
+| 33  | **Jembatan Akar Bayang**                        | Kab. Pesisir Selatan   | Budaya/Arsitektur      | [Peta](https://www.google.com/maps/search/?api=1&query=Jembatan%20Akar%20Bayang%20Kab.%20Pesisir%20Selatan)                        |
+| 34  | **Puncak Langkisau**                            | Kab. Pesisir Selatan   | Alam/Paralayang        | [Peta](https://www.google.com/maps/search/?api=1&query=Puncak%20Langkisau%20Kab.%20Pesisir%20Selatan)                              |
+| 35  | **Lubang Tambang Mbah Soero**                   | Kota Sawahlunto        | Sejarah/Situs          | [Peta](https://www.google.com/maps/search/?api=1&query=Lubang%20Tambang%20Mbah%20Soero%20Kota%20Sawahlunto)                        |
+| 36  | **Museum Gudang Ransoem**                       | Kota Sawahlunto        | Sejarah/Situs          | [Peta](https://www.google.com/maps/search/?api=1&query=Museum%20Gudang%20Ransoem%20Kota%20Sawahlunto)                              |
+| 37  | **Pantai Gandoriah**                            | Kota Pariaman          | Pantai                 | [Peta](https://www.google.com/maps/search/?api=1&query=Pantai%20Gandoriah%20Kota%20Pariaman)                                       |
+| 38  | **Pulau Angso Duo**                             | Kota Pariaman          | Pulau/Bahari           | [Peta](https://www.google.com/maps/search/?api=1&query=Pulau%20Angso%20Duo%20Kota%20Pariaman)                                      |
+| 39  | **Pusat Penyu Pariaman**                        | Kota Pariaman          | Alam/Edukasi           | [Peta](https://www.google.com/maps/search/?api=1&query=Pusat%20Penyu%20Pariaman%20Kota%20Pariaman)                                 |
+| 40  | **Taman Nasional Siberut**                      | Kab. Mentawai          | Alam/Hutan             | [Peta](https://www.google.com/maps/search/?api=1&query=Taman%20Nasional%20Siberut%20Kab.%20Mentawai)                               |
+| 41  | **Pantai Sipora**                               | Kab. Mentawai          | Pantai/Surfing         | [Peta](https://www.google.com/maps/search/?api=1&query=Pantai%20Sipora%20Kab.%20Mentawai)                                          |
+| 42  | **Pulau Nyang Nyang**                           | Kab. Mentawai          | Pulau/Surfing          | [Peta](https://www.google.com/maps/search/?api=1&query=Pulau%20Nyang%20Nyang%20Kab.%20Mentawai)                                    |
+| 43  | **Gunung Talang**                               | Kab. Solok             | Alam/Gunung            | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Talang%20Kab.%20Solok)                                             |
+| 44  | **Gunung Marapi**                               | Kab. Tanah Datar/Agam  | Alam/Gunung            | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Marapi%20Kab.%20Tanah%20Datar%2FAgam)                              |
+| 45  | **Goa Gadang Jaya**                             | Kab. Mentawai          | Destinasi Goa          | [Peta](https://www.google.com/maps/search/?api=1&query=Goa%20Gadang%20Jaya%20Kab.%20Mentawai)                                      |
+| 46  | **Bukit Sianok**                                | Kota Bukittinggi       | Destinasi Bukit        | [Peta](https://www.google.com/maps/search/?api=1&query=Bukit%20Sianok%20Kota%20Bukittinggi)                                        |
+| 47  | **Danau Parahyangan**                           | Kab. Solok             | Destinasi Danau        | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Parahyangan%20Kab.%20Solok)                                         |
+| 48  | **Bukit Minang**                                | Kab. Tanah Datar       | Destinasi Bukit        | [Peta](https://www.google.com/maps/search/?api=1&query=Bukit%20Minang%20Kab.%20Tanah%20Datar)                                      |
+| 49  | **Bukit Gadang Pesona**                         | Kota Payakumbuh        | Destinasi Bukit        | [Peta](https://www.google.com/maps/search/?api=1&query=Bukit%20Gadang%20Pesona%20Kota%20Payakumbuh)                                |
+| 50  | **Gunung Mentawai Sejuk**                       | Kota Solok             | Destinasi Gunung       | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Mentawai%20Sejuk%20Kota%20Solok)                                   |
+| 51  | **Pulau Sianok Lestari**                        | Kota Bukittinggi       | Destinasi Pulau        | [Peta](https://www.google.com/maps/search/?api=1&query=Pulau%20Sianok%20Lestari%20Kota%20Bukittinggi)                              |
+| 52  | **Bukit Siliwangi Harapan**                     | Kab. Solok Selatan     | Destinasi Bukit        | [Peta](https://www.google.com/maps/search/?api=1&query=Bukit%20Siliwangi%20Harapan%20Kab.%20Solok%20Selatan)                       |
+| 53  | **Lembah Harapan**                              | Kab. Agam              | Destinasi Lembah       | [Peta](https://www.google.com/maps/search/?api=1&query=Lembah%20Harapan%20Kab.%20Agam)                                             |
+| 54  | **Riam Sianok**                                 | Kab. Solok Selatan     | Destinasi Riam         | [Peta](https://www.google.com/maps/search/?api=1&query=Riam%20Sianok%20Kab.%20Solok%20Selatan)                                     |
+| 55  | **Gunung Parahyangan**                          | Kota Padang            | Destinasi Gunung       | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Parahyangan%20Kota%20Padang)                                       |
+| 56  | **Pulau Parahyangan**                           | Kab. Mentawai          | Destinasi Pulau        | [Peta](https://www.google.com/maps/search/?api=1&query=Pulau%20Parahyangan%20Kab.%20Mentawai)                                      |
+| 57  | **Lembah Sianok**                               | Kab. Solok Selatan     | Destinasi Lembah       | [Peta](https://www.google.com/maps/search/?api=1&query=Lembah%20Sianok%20Kab.%20Solok%20Selatan)                                   |
+| 58  | **Gunung Hijau**                                | Kab. Tanah Datar       | Destinasi Gunung       | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Hijau%20Kab.%20Tanah%20Datar)                                      |
+| 59  | **Goa Galuh Sejuk**                             | Kab. Pesisir Selatan   | Destinasi Goa          | [Peta](https://www.google.com/maps/search/?api=1&query=Goa%20Galuh%20Sejuk%20Kab.%20Pesisir%20Selatan)                             |
+| 60  | **Pulau Siliwangi Indah**                       | Kota Padang Panjang    | Destinasi Pulau        | [Peta](https://www.google.com/maps/search/?api=1&query=Pulau%20Siliwangi%20Indah%20Kota%20Padang%20Panjang)                        |
+| 61  | **Lembah Minang**                               | Kab. Pasaman Barat     | Destinasi Lembah       | [Peta](https://www.google.com/maps/search/?api=1&query=Lembah%20Minang%20Kab.%20Pasaman%20Barat)                                   |
+| 62  | **Air Terjun Galuh**                            | Kab. Agam              | Destinasi Air Terjun   | [Peta](https://www.google.com/maps/search/?api=1&query=Air%20Terjun%20Galuh%20Kab.%20Agam)                                         |
+| 63  | **Goa Harau Lestari**                           | Kota Payakumbuh        | Destinasi Goa          | [Peta](https://www.google.com/maps/search/?api=1&query=Goa%20Harau%20Lestari%20Kota%20Payakumbuh)                                  |
+| 64  | **Air Terjun Mentawai Sejuk**                   | Kab. Tanah Datar       | Destinasi Air Terjun   | [Peta](https://www.google.com/maps/search/?api=1&query=Air%20Terjun%20Mentawai%20Sejuk%20Kab.%20Tanah%20Datar)                     |
+| 65  | **Goa Bukittinggi**                             | Kab. Lima Puluh Kota   | Destinasi Goa          | [Peta](https://www.google.com/maps/search/?api=1&query=Goa%20Bukittinggi%20Kab.%20Lima%20Puluh%20Kota)                             |
+| 66  | **Sawah Bukittinggi Mulia**                     | Kab. Dharmasraya       | Destinasi Sawah        | [Peta](https://www.google.com/maps/search/?api=1&query=Sawah%20Bukittinggi%20Mulia%20Kab.%20Dharmasraya)                           |
+| 67  | **Hutan Minang**                                | Kota Padang Panjang    | Destinasi Hutan        | [Peta](https://www.google.com/maps/search/?api=1&query=Hutan%20Minang%20Kota%20Padang%20Panjang)                                   |
+| 68  | **Air Terjun Sianok Ceria**                     | Kab. Tanah Datar       | Destinasi Air Terjun   | [Peta](https://www.google.com/maps/search/?api=1&query=Air%20Terjun%20Sianok%20Ceria%20Kab.%20Tanah%20Datar)                       |
+| 69  | **Sawah Asri**                                  | Kota Sawahlunto        | Destinasi Sawah        | [Peta](https://www.google.com/maps/search/?api=1&query=Sawah%20Asri%20Kota%20Sawahlunto)                                           |
+| 70  | **Air Terjun Pagaruyung**                       | Kab. Lima Puluh Kota   | Destinasi Air Terjun   | [Peta](https://www.google.com/maps/search/?api=1&query=Air%20Terjun%20Pagaruyung%20Kab.%20Lima%20Puluh%20Kota)                     |
+| 71  | **Pantai Ceria**                                | Kota Solok             | Destinasi Pantai       | [Peta](https://www.google.com/maps/search/?api=1&query=Pantai%20Ceria%20Kota%20Solok)                                              |
+| 72  | **Hutan Siliwangi**                             | Kab. Pasaman           | Destinasi Hutan        | [Peta](https://www.google.com/maps/search/?api=1&query=Hutan%20Siliwangi%20Kab.%20Pasaman)                                         |
+| 73  | **Puncak Biru**                                 | Kab. Tanah Datar       | Destinasi Puncak       | [Peta](https://www.google.com/maps/search/?api=1&query=Puncak%20Biru%20Kab.%20Tanah%20Datar)                                       |
+| 74  | **Pulau Siliwangi Hijau**                       | Kota Padang            | Destinasi Pulau        | [Peta](https://www.google.com/maps/search/?api=1&query=Pulau%20Siliwangi%20Hijau%20Kota%20Padang)                                  |
+| 75  | **Pulau Padang**                                | Kab. Solok Selatan     | Destinasi Pulau        | [Peta](https://www.google.com/maps/search/?api=1&query=Pulau%20Padang%20Kab.%20Solok%20Selatan)                                    |
+| 76  | **Danau Sianok**                                | Kab. Pasaman           | Destinasi Danau        | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Sianok%20Kab.%20Pasaman)                                            |
+| 77  | **Gunung Jaya**                                 | Kab. Dharmasraya       | Destinasi Gunung       | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Jaya%20Kab.%20Dharmasraya)                                         |
+| 78  | **Danau Mentawai Biru**                         | Kab. Pesisir Selatan   | Destinasi Danau        | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Mentawai%20Biru%20Kab.%20Pesisir%20Selatan)                         |
+| 79  | **Pantai Gadang Sejuk**                         | Kota Padang Panjang    | Destinasi Pantai       | [Peta](https://www.google.com/maps/search/?api=1&query=Pantai%20Gadang%20Sejuk%20Kota%20Padang%20Panjang)                          |
+| 80  | **Danau Pagaruyung**                            | Kab. Pasaman           | Destinasi Danau        | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Pagaruyung%20Kab.%20Pasaman)                                        |
+| 81  | **Sawah Sianok Indah**                          | Kab. Padang Pariaman   | Destinasi Sawah        | [Peta](https://www.google.com/maps/search/?api=1&query=Sawah%20Sianok%20Indah%20Kab.%20Padang%20Pariaman)                          |
+| 82  | **Hutan Maninjau Harapan**                      | Kab. Tanah Datar       | Destinasi Hutan        | [Peta](https://www.google.com/maps/search/?api=1&query=Hutan%20Maninjau%20Harapan%20Kab.%20Tanah%20Datar)                          |
+| 83  | **Puncak Indah**                                | Kab. Dharmasraya       | Destinasi Puncak       | [Peta](https://www.google.com/maps/search/?api=1&query=Puncak%20Indah%20Kab.%20Dharmasraya)                                        |
+| 84  | **Puncak Gadang**                               | Kab. Agam              | Destinasi Puncak       | [Peta](https://www.google.com/maps/search/?api=1&query=Puncak%20Gadang%20Kab.%20Agam)                                              |
+| 85  | **Pulau Sakti**                                 | Kota Padang            | Destinasi Pulau        | [Peta](https://www.google.com/maps/search/?api=1&query=Pulau%20Sakti%20Kota%20Padang)                                              |
+| 86  | **Sawah Indah**                                 | Kab. Dharmasraya       | Destinasi Sawah        | [Peta](https://www.google.com/maps/search/?api=1&query=Sawah%20Indah%20Kab.%20Dharmasraya)                                         |
+| 87  | **Danau Priangan**                              | Kab. Padang Pariaman   | Destinasi Danau        | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Priangan%20Kab.%20Padang%20Pariaman)                                |
+| 88  | **Puncak Harapan**                              | Kab. Pasaman           | Destinasi Puncak       | [Peta](https://www.google.com/maps/search/?api=1&query=Puncak%20Harapan%20Kab.%20Pasaman)                                          |
+| 89  | **Goa Galuh Sakti**                             | Kota Padang Panjang    | Destinasi Goa          | [Peta](https://www.google.com/maps/search/?api=1&query=Goa%20Galuh%20Sakti%20Kota%20Padang%20Panjang)                              |
+| 90  | **Pantai Agung**                                | Kab. Agam              | Destinasi Pantai       | [Peta](https://www.google.com/maps/search/?api=1&query=Pantai%20Agung%20Kab.%20Agam)                                               |
+| 91  | **Pulau Gadang Pesona**                         | Kab. Solok             | Destinasi Pulau        | [Peta](https://www.google.com/maps/search/?api=1&query=Pulau%20Gadang%20Pesona%20Kab.%20Solok)                                     |
+| 92  | **Sawah Parahyangan Sejuk**                     | Kab. Solok Selatan     | Destinasi Sawah        | [Peta](https://www.google.com/maps/search/?api=1&query=Sawah%20Parahyangan%20Sejuk%20Kab.%20Solok%20Selatan)                       |
+| 93  | **Air Terjun Maninjau Asri**                    | Kab. Lima Puluh Kota   | Destinasi Air Terjun   | [Peta](https://www.google.com/maps/search/?api=1&query=Air%20Terjun%20Maninjau%20Asri%20Kab.%20Lima%20Puluh%20Kota)                |
+| 94  | **Bukit Padang Ceria**                          | Kota Sawahlunto        | Destinasi Bukit        | [Peta](https://www.google.com/maps/search/?api=1&query=Bukit%20Padang%20Ceria%20Kota%20Sawahlunto)                                 |
+| 95  | **Bukit Parahyangan**                           | Kota Padang            | Destinasi Bukit        | [Peta](https://www.google.com/maps/search/?api=1&query=Bukit%20Parahyangan%20Kota%20Padang)                                        |
+| 96  | **Sawah Minang**                                | Kota Pariaman          | Destinasi Sawah        | [Peta](https://www.google.com/maps/search/?api=1&query=Sawah%20Minang%20Kota%20Pariaman)                                           |
+| 97  | **Riam Maninjau Indah**                         | Kab. Agam              | Destinasi Riam         | [Peta](https://www.google.com/maps/search/?api=1&query=Riam%20Maninjau%20Indah%20Kab.%20Agam)                                      |
+| 98  | **Goa Siliwangi**                               | Kab. Pasaman Barat     | Destinasi Goa          | [Peta](https://www.google.com/maps/search/?api=1&query=Goa%20Siliwangi%20Kab.%20Pasaman%20Barat)                                   |
+| 99  | **Goa Pesona**                                  | Kab. Pasaman Barat     | Destinasi Goa          | [Peta](https://www.google.com/maps/search/?api=1&query=Goa%20Pesona%20Kab.%20Pasaman%20Barat)                                      |
+| 100 | **Danau Mulia**                                 | Kota Bukittinggi       | Destinasi Danau        | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Mulia%20Kota%20Bukittinggi)                                         |
+| 101 | **Gunung Pagaruyung Harapan**                   | Kab. Mentawai          | Destinasi Gunung       | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Pagaruyung%20Harapan%20Kab.%20Mentawai)                            |
+| 102 | **Danau Singkarak Lestari**                     | Kab. Dharmasraya       | Destinasi Danau        | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Singkarak%20Lestari%20Kab.%20Dharmasraya)                           |
+| 103 | **Sawah Bukittinggi**                           | Kab. Agam              | Destinasi Sawah        | [Peta](https://www.google.com/maps/search/?api=1&query=Sawah%20Bukittinggi%20Kab.%20Agam)                                          |
+| 104 | **Gunung Priangan Jaya**                        | Kota Padang            | Destinasi Gunung       | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Priangan%20Jaya%20Kota%20Padang)                                   |
+| 105 | **Air Terjun Sianok Harapan**                   | Kab. Solok             | Destinasi Air Terjun   | [Peta](https://www.google.com/maps/search/?api=1&query=Air%20Terjun%20Sianok%20Harapan%20Kab.%20Solok)                             |
+| 106 | **Gunung Galuh Harapan**                        | Kab. Lima Puluh Kota   | Destinasi Gunung       | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Galuh%20Harapan%20Kab.%20Lima%20Puluh%20Kota)                      |
+| 107 | **Pulau Makmur**                                | Kota Pariaman          | Destinasi Pulau        | [Peta](https://www.google.com/maps/search/?api=1&query=Pulau%20Makmur%20Kota%20Pariaman)                                           |
+| 108 | **Lembah Bukittinggi**                          | Kota Bukittinggi       | Destinasi Lembah       | [Peta](https://www.google.com/maps/search/?api=1&query=Lembah%20Bukittinggi%20Kota%20Bukittinggi)                                  |
+| 109 | **Bukit Maninjau**                              | Kota Padang Panjang    | Destinasi Bukit        | [Peta](https://www.google.com/maps/search/?api=1&query=Bukit%20Maninjau%20Kota%20Padang%20Panjang)                                 |
+| 110 | **Lembah Makmur**                               | Kab. Solok Selatan     | Destinasi Lembah       | [Peta](https://www.google.com/maps/search/?api=1&query=Lembah%20Makmur%20Kab.%20Solok%20Selatan)                                   |
+| 111 | **Pulau Parahyangan Hijau**                     | Kab. Agam              | Destinasi Pulau        | [Peta](https://www.google.com/maps/search/?api=1&query=Pulau%20Parahyangan%20Hijau%20Kab.%20Agam)                                  |
+| 112 | **Danau Indah**                                 | Kota Pariaman          | Destinasi Danau        | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Indah%20Kota%20Pariaman)                                            |
+| 113 | **Pantai Gadang Sakti**                         | Kab. Mentawai          | Destinasi Pantai       | [Peta](https://www.google.com/maps/search/?api=1&query=Pantai%20Gadang%20Sakti%20Kab.%20Mentawai)                                  |
+| 114 | **Lembah Maninjau**                             | Kab. Dharmasraya       | Destinasi Lembah       | [Peta](https://www.google.com/maps/search/?api=1&query=Lembah%20Maninjau%20Kab.%20Dharmasraya)                                     |
+| 115 | **Gunung Lestari**                              | Kota Pariaman          | Destinasi Gunung       | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Lestari%20Kota%20Pariaman)                                         |
+| 116 | **Goa Harau**                                   | Kota Payakumbuh        | Destinasi Goa          | [Peta](https://www.google.com/maps/search/?api=1&query=Goa%20Harau%20Kota%20Payakumbuh)                                            |
+| 117 | **Danau Hijau**                                 | Kab. Tanah Datar       | Destinasi Danau        | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Hijau%20Kab.%20Tanah%20Datar)                                       |
+| 118 | **Pantai Jaya**                                 | Kab. Lima Puluh Kota   | Destinasi Pantai       | [Peta](https://www.google.com/maps/search/?api=1&query=Pantai%20Jaya%20Kab.%20Lima%20Puluh%20Kota)                                 |
+| 119 | **Goa Galuh Harapan**                           | Kab. Solok Selatan     | Destinasi Goa          | [Peta](https://www.google.com/maps/search/?api=1&query=Goa%20Galuh%20Harapan%20Kab.%20Solok%20Selatan)                             |
+| 120 | **Bukit Bukittinggi**                           | Kab. Agam              | Destinasi Bukit        | [Peta](https://www.google.com/maps/search/?api=1&query=Bukit%20Bukittinggi%20Kab.%20Agam)                                          |
+| 121 | **Goa Biru**                                    | Kab. Agam              | Destinasi Goa          | [Peta](https://www.google.com/maps/search/?api=1&query=Goa%20Biru%20Kab.%20Agam)                                                   |
+| 122 | **Pantai Priangan Asri**                        | Kab. Pesisir Selatan   | Destinasi Pantai       | [Peta](https://www.google.com/maps/search/?api=1&query=Pantai%20Priangan%20Asri%20Kab.%20Pesisir%20Selatan)                        |
+| 123 | **Riam Pagaruyung**                             | Kab. Solok             | Destinasi Riam         | [Peta](https://www.google.com/maps/search/?api=1&query=Riam%20Pagaruyung%20Kab.%20Solok)                                           |
+| 124 | **Sawah Singkarak**                             | Kab. Solok             | Destinasi Sawah        | [Peta](https://www.google.com/maps/search/?api=1&query=Sawah%20Singkarak%20Kab.%20Solok)                                           |
+| 125 | **Riam Gadang Makmur**                          | Kota Pariaman          | Destinasi Riam         | [Peta](https://www.google.com/maps/search/?api=1&query=Riam%20Gadang%20Makmur%20Kota%20Pariaman)                                   |
+| 126 | **Riam Priangan Agung**                         | Kab. Dharmasraya       | Destinasi Riam         | [Peta](https://www.google.com/maps/search/?api=1&query=Riam%20Priangan%20Agung%20Kab.%20Dharmasraya)                               |
+| 127 | **Pulau Maninjau**                              | Kab. Sijunjung         | Destinasi Pulau        | [Peta](https://www.google.com/maps/search/?api=1&query=Pulau%20Maninjau%20Kab.%20Sijunjung)                                        |
+| 128 | **Puncak Gadang Mulia**                         | Kab. Pesisir Selatan   | Destinasi Puncak       | [Peta](https://www.google.com/maps/search/?api=1&query=Puncak%20Gadang%20Mulia%20Kab.%20Pesisir%20Selatan)                         |
+| 129 | **Gunung Asri**                                 | Kab. Sijunjung         | Destinasi Gunung       | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Asri%20Kab.%20Sijunjung)                                           |
+| 130 | **Goa Galuh Ceria**                             | Kota Padang            | Destinasi Goa          | [Peta](https://www.google.com/maps/search/?api=1&query=Goa%20Galuh%20Ceria%20Kota%20Padang)                                        |
+| 131 | **Hutan Parahyangan Ceria**                     | Kab. Agam              | Destinasi Hutan        | [Peta](https://www.google.com/maps/search/?api=1&query=Hutan%20Parahyangan%20Ceria%20Kab.%20Agam)                                  |
+| 132 | **Pulau Lestari**                               | Kota Sawahlunto        | Destinasi Pulau        | [Peta](https://www.google.com/maps/search/?api=1&query=Pulau%20Lestari%20Kota%20Sawahlunto)                                        |
+| 133 | **Goa Minang Lestari**                          | Kota Padang            | Destinasi Goa          | [Peta](https://www.google.com/maps/search/?api=1&query=Goa%20Minang%20Lestari%20Kota%20Padang)                                     |
+| 134 | **Puncak Mulia**                                | Kab. Pasaman           | Destinasi Puncak       | [Peta](https://www.google.com/maps/search/?api=1&query=Puncak%20Mulia%20Kab.%20Pasaman)                                            |
+| 135 | **Goa Sakti**                                   | Kota Padang Panjang    | Destinasi Goa          | [Peta](https://www.google.com/maps/search/?api=1&query=Goa%20Sakti%20Kota%20Padang%20Panjang)                                      |
+| 136 | **Pulau Sianok Ceria**                          | Kota Payakumbuh        | Destinasi Pulau        | [Peta](https://www.google.com/maps/search/?api=1&query=Pulau%20Sianok%20Ceria%20Kota%20Payakumbuh)                                 |
+| 137 | **Lembah Parahyangan Hijau**                    | Kota Pariaman          | Destinasi Lembah       | [Peta](https://www.google.com/maps/search/?api=1&query=Lembah%20Parahyangan%20Hijau%20Kota%20Pariaman)                             |
+| 138 | **Riam Sianok Lestari**                         | Kab. Solok Selatan     | Destinasi Riam         | [Peta](https://www.google.com/maps/search/?api=1&query=Riam%20Sianok%20Lestari%20Kab.%20Solok%20Selatan)                           |
+| 139 | **Gunung Galuh Makmur**                         | Kota Padang            | Destinasi Gunung       | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Galuh%20Makmur%20Kota%20Padang)                                    |
+| 140 | **Puncak Mentawai Asri**                        | Kab. Dharmasraya       | Destinasi Puncak       | [Peta](https://www.google.com/maps/search/?api=1&query=Puncak%20Mentawai%20Asri%20Kab.%20Dharmasraya)                              |
+| 141 | **Puncak Singkarak Agung**                      | Kab. Tanah Datar       | Destinasi Puncak       | [Peta](https://www.google.com/maps/search/?api=1&query=Puncak%20Singkarak%20Agung%20Kab.%20Tanah%20Datar)                          |
+| 142 | **Danau Lestari**                               | Kota Sawahlunto        | Destinasi Danau        | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Lestari%20Kota%20Sawahlunto)                                        |
+| 143 | **Sawah Parahyangan Biru**                      | Kota Sawahlunto        | Destinasi Sawah        | [Peta](https://www.google.com/maps/search/?api=1&query=Sawah%20Parahyangan%20Biru%20Kota%20Sawahlunto)                             |
+| 144 | **Pantai Biru**                                 | Kota Pariaman          | Destinasi Pantai       | [Peta](https://www.google.com/maps/search/?api=1&query=Pantai%20Biru%20Kota%20Pariaman)                                            |
+| 145 | **Puncak Jaya**                                 | Kab. Mentawai          | Destinasi Puncak       | [Peta](https://www.google.com/maps/search/?api=1&query=Puncak%20Jaya%20Kab.%20Mentawai)                                            |
+| 146 | **Puncak Sianok**                               | Kab. Dharmasraya       | Destinasi Puncak       | [Peta](https://www.google.com/maps/search/?api=1&query=Puncak%20Sianok%20Kab.%20Dharmasraya)                                       |
+| 147 | **Gunung Singkarak**                            | Kota Bukittinggi       | Destinasi Gunung       | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Singkarak%20Kota%20Bukittinggi)                                    |
+| 148 | **Pantai Bukittinggi Makmur**                   | Kab. Padang Pariaman   | Destinasi Pantai       | [Peta](https://www.google.com/maps/search/?api=1&query=Pantai%20Bukittinggi%20Makmur%20Kab.%20Padang%20Pariaman)                   |
+| 149 | **Sawah Galuh**                                 | Kota Padang Panjang    | Destinasi Sawah        | [Peta](https://www.google.com/maps/search/?api=1&query=Sawah%20Galuh%20Kota%20Padang%20Panjang)                                    |
+| 150 | **Riam Pagaruyung Asri**                        | Kab. Dharmasraya       | Destinasi Riam         | [Peta](https://www.google.com/maps/search/?api=1&query=Riam%20Pagaruyung%20Asri%20Kab.%20Dharmasraya)                              |
+| 151 | **Riam Hijau**                                  | Kota Payakumbuh        | Destinasi Riam         | [Peta](https://www.google.com/maps/search/?api=1&query=Riam%20Hijau%20Kota%20Payakumbuh)                                           |
+| 152 | **Goa Siliwangi Sejuk**                         | Kota Bukittinggi       | Destinasi Goa          | [Peta](https://www.google.com/maps/search/?api=1&query=Goa%20Siliwangi%20Sejuk%20Kota%20Bukittinggi)                               |
+| 153 | **Bukit Pagaruyung**                            | Kab. Padang Pariaman   | Destinasi Bukit        | [Peta](https://www.google.com/maps/search/?api=1&query=Bukit%20Pagaruyung%20Kab.%20Padang%20Pariaman)                              |
+| 154 | **Goa Lestari**                                 | Kab. Solok Selatan     | Destinasi Goa          | [Peta](https://www.google.com/maps/search/?api=1&query=Goa%20Lestari%20Kab.%20Solok%20Selatan)                                     |
+| 155 | **Air Terjun Bukittinggi Pesona**               | Kota Pariaman          | Destinasi Air Terjun   | [Peta](https://www.google.com/maps/search/?api=1&query=Air%20Terjun%20Bukittinggi%20Pesona%20Kota%20Pariaman)                      |
+| 156 | **Riam Galuh**                                  | Kab. Agam              | Destinasi Riam         | [Peta](https://www.google.com/maps/search/?api=1&query=Riam%20Galuh%20Kab.%20Agam)                                                 |
+| 157 | **Air Terjun Maninjau**                         | Kab. Sijunjung         | Destinasi Air Terjun   | [Peta](https://www.google.com/maps/search/?api=1&query=Air%20Terjun%20Maninjau%20Kab.%20Sijunjung)                                 |
+| 158 | **Hutan Hijau**                                 | Kab. Solok             | Destinasi Hutan        | [Peta](https://www.google.com/maps/search/?api=1&query=Hutan%20Hijau%20Kab.%20Solok)                                               |
+| 159 | **Air Terjun Minang**                           | Kab. Tanah Datar       | Destinasi Air Terjun   | [Peta](https://www.google.com/maps/search/?api=1&query=Air%20Terjun%20Minang%20Kab.%20Tanah%20Datar)                               |
+| 160 | **Gunung Biru**                                 | Kab. Pasaman Barat     | Destinasi Gunung       | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Biru%20Kab.%20Pasaman%20Barat)                                     |
+| 161 | **Goa Parahyangan Mulia**                       | Kab. Agam              | Destinasi Goa          | [Peta](https://www.google.com/maps/search/?api=1&query=Goa%20Parahyangan%20Mulia%20Kab.%20Agam)                                    |
+| 162 | **Pulau Mentawai**                              | Kab. Pasaman Barat     | Destinasi Pulau        | [Peta](https://www.google.com/maps/search/?api=1&query=Pulau%20Mentawai%20Kab.%20Pasaman%20Barat)                                  |
+| 163 | **Goa Parahyangan Lestari**                     | Kab. Pasaman Barat     | Destinasi Goa          | [Peta](https://www.google.com/maps/search/?api=1&query=Goa%20Parahyangan%20Lestari%20Kab.%20Pasaman%20Barat)                       |
+| 164 | **Gunung Indah**                                | Kab. Agam              | Destinasi Gunung       | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Indah%20Kab.%20Agam)                                               |
+| 165 | **Lembah Mentawai**                             | Kab. Pesisir Selatan   | Destinasi Lembah       | [Peta](https://www.google.com/maps/search/?api=1&query=Lembah%20Mentawai%20Kab.%20Pesisir%20Selatan)                               |
+| 166 | **Bukit Maninjau Pesona**                       | Kab. Padang Pariaman   | Destinasi Bukit        | [Peta](https://www.google.com/maps/search/?api=1&query=Bukit%20Maninjau%20Pesona%20Kab.%20Padang%20Pariaman)                       |
+| 167 | **Riam Minang Sakti**                           | Kab. Agam              | Destinasi Riam         | [Peta](https://www.google.com/maps/search/?api=1&query=Riam%20Minang%20Sakti%20Kab.%20Agam)                                        |
+| 168 | **Riam Padang**                                 | Kab. Agam              | Destinasi Riam         | [Peta](https://www.google.com/maps/search/?api=1&query=Riam%20Padang%20Kab.%20Agam)                                                |
+| 169 | **Air Terjun Siliwangi**                        | Kab. Pesisir Selatan   | Destinasi Air Terjun   | [Peta](https://www.google.com/maps/search/?api=1&query=Air%20Terjun%20Siliwangi%20Kab.%20Pesisir%20Selatan)                        |
+| 170 | **Sawah Sianok Harapan**                        | Kota Sawahlunto        | Destinasi Sawah        | [Peta](https://www.google.com/maps/search/?api=1&query=Sawah%20Sianok%20Harapan%20Kota%20Sawahlunto)                               |
+| 171 | **Goa Singkarak**                               | Kab. Solok             | Destinasi Goa          | [Peta](https://www.google.com/maps/search/?api=1&query=Goa%20Singkarak%20Kab.%20Solok)                                             |
+| 172 | **Hutan Harau**                                 | Kab. Solok             | Destinasi Hutan        | [Peta](https://www.google.com/maps/search/?api=1&query=Hutan%20Harau%20Kab.%20Solok)                                               |
+| 173 | **Sawah Agung**                                 | Kab. Pasaman Barat     | Destinasi Sawah        | [Peta](https://www.google.com/maps/search/?api=1&query=Sawah%20Agung%20Kab.%20Pasaman%20Barat)                                     |
+| 174 | **Air Terjun Minang Jaya**                      | Kab. Solok Selatan     | Destinasi Air Terjun   | [Peta](https://www.google.com/maps/search/?api=1&query=Air%20Terjun%20Minang%20Jaya%20Kab.%20Solok%20Selatan)                      |
+| 175 | **Sawah Ceria**                                 | Kab. Tanah Datar       | Destinasi Sawah        | [Peta](https://www.google.com/maps/search/?api=1&query=Sawah%20Ceria%20Kab.%20Tanah%20Datar)                                       |
+| 176 | **Danau Sakti**                                 | Kab. Padang Pariaman   | Destinasi Danau        | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Sakti%20Kab.%20Padang%20Pariaman)                                   |
+| 177 | **Bukit Sianok Pesona**                         | Kota Padang Panjang    | Destinasi Bukit        | [Peta](https://www.google.com/maps/search/?api=1&query=Bukit%20Sianok%20Pesona%20Kota%20Padang%20Panjang)                          |
+| 178 | **Pulau Hijau**                                 | Kota Payakumbuh        | Destinasi Pulau        | [Peta](https://www.google.com/maps/search/?api=1&query=Pulau%20Hijau%20Kota%20Payakumbuh)                                          |
+| 179 | **Pulau Priangan**                              | Kab. Dharmasraya       | Destinasi Pulau        | [Peta](https://www.google.com/maps/search/?api=1&query=Pulau%20Priangan%20Kab.%20Dharmasraya)                                      |
+| 180 | **Gunung Harapan**                              | Kab. Pasaman Barat     | Destinasi Gunung       | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Harapan%20Kab.%20Pasaman%20Barat)                                  |
+| 181 | **Riam Siliwangi Biru**                         | Kab. Dharmasraya       | Destinasi Riam         | [Peta](https://www.google.com/maps/search/?api=1&query=Riam%20Siliwangi%20Biru%20Kab.%20Dharmasraya)                               |
+| 182 | **Pantai Gadang**                               | Kab. Pesisir Selatan   | Destinasi Pantai       | [Peta](https://www.google.com/maps/search/?api=1&query=Pantai%20Gadang%20Kab.%20Pesisir%20Selatan)                                 |
+| 183 | **Riam Padang Harapan**                         | Kab. Sijunjung         | Destinasi Riam         | [Peta](https://www.google.com/maps/search/?api=1&query=Riam%20Padang%20Harapan%20Kab.%20Sijunjung)                                 |
+| 184 | **Pulau Maninjau Hijau**                        | Kota Padang Panjang    | Destinasi Pulau        | [Peta](https://www.google.com/maps/search/?api=1&query=Pulau%20Maninjau%20Hijau%20Kota%20Padang%20Panjang)                         |
+| 185 | **Bukit Padang Lestari**                        | Kab. Padang Pariaman   | Destinasi Bukit        | [Peta](https://www.google.com/maps/search/?api=1&query=Bukit%20Padang%20Lestari%20Kab.%20Padang%20Pariaman)                        |
+| 186 | **Goa Harapan**                                 | Kota Payakumbuh        | Destinasi Goa          | [Peta](https://www.google.com/maps/search/?api=1&query=Goa%20Harapan%20Kota%20Payakumbuh)                                          |
+| 187 | **Riam Agung**                                  | Kab. Mentawai          | Destinasi Riam         | [Peta](https://www.google.com/maps/search/?api=1&query=Riam%20Agung%20Kab.%20Mentawai)                                             |
+| 188 | **Danau Priangan Ceria**                        | Kab. Lima Puluh Kota   | Destinasi Danau        | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Priangan%20Ceria%20Kab.%20Lima%20Puluh%20Kota)                      |
+| 189 | **Pulau Pagaruyung**                            | Kota Padang            | Destinasi Pulau        | [Peta](https://www.google.com/maps/search/?api=1&query=Pulau%20Pagaruyung%20Kota%20Padang)                                         |
+| 190 | **Danau Maninjau Indah**                        | Kota Sawahlunto        | Destinasi Danau        | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Maninjau%20Indah%20Kota%20Sawahlunto)                               |
+| 191 | **Pulau Minang Ceria**                          | Kab. Pasaman           | Destinasi Pulau        | [Peta](https://www.google.com/maps/search/?api=1&query=Pulau%20Minang%20Ceria%20Kab.%20Pasaman)                                    |
+| 192 | **Air Terjun Siliwangi Pesona**                 | Kota Padang Panjang    | Destinasi Air Terjun   | [Peta](https://www.google.com/maps/search/?api=1&query=Air%20Terjun%20Siliwangi%20Pesona%20Kota%20Padang%20Panjang)                |
+| 193 | **Riam Singkarak**                              | Kota Sawahlunto        | Destinasi Riam         | [Peta](https://www.google.com/maps/search/?api=1&query=Riam%20Singkarak%20Kota%20Sawahlunto)                                       |
+| 194 | **Lembah Sakti**                                | Kota Padang            | Destinasi Lembah       | [Peta](https://www.google.com/maps/search/?api=1&query=Lembah%20Sakti%20Kota%20Padang)                                             |
+| 195 | **Gunung Sianok Agung**                         | Kota Pariaman          | Destinasi Gunung       | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Sianok%20Agung%20Kota%20Pariaman)                                  |
+| 196 | **Riam Asri**                                   | Kab. Sijunjung         | Destinasi Riam         | [Peta](https://www.google.com/maps/search/?api=1&query=Riam%20Asri%20Kab.%20Sijunjung)                                             |
+| 197 | **Riam Ceria**                                  | Kab. Tanah Datar       | Destinasi Riam         | [Peta](https://www.google.com/maps/search/?api=1&query=Riam%20Ceria%20Kab.%20Tanah%20Datar)                                        |
+| 198 | **Gunung Sianok Lestari**                       | Kab. Pesisir Selatan   | Destinasi Gunung       | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Sianok%20Lestari%20Kab.%20Pesisir%20Selatan)                       |
+| 199 | **Gunung Pagaruyung Lestari**                   | Kab. Solok             | Destinasi Gunung       | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Pagaruyung%20Lestari%20Kab.%20Solok)                               |
+| 200 | **Hutan Jaya**                                  | Kota Padang            | Destinasi Hutan        | [Peta](https://www.google.com/maps/search/?api=1&query=Hutan%20Jaya%20Kota%20Padang)                                               |
 
-- Bung Hatta (Proklamator); Tan Malaka (tokoh revolusi); Hamka (ulama/sastrawan).
+## Tokoh Terkenal
+
+- **Mohammad Hatta:** Pahlawan Nasional, Wakil Presiden RI ke-1, Proklamator, Bapak Koperasi
+- **Sutan Sjahrir:** Pahlawan Nasional, Perdana Menteri Indonesia pertama
+- **Tan Malaka:** Pahlawan Nasional, "Bapak Republik Indonesia", Pemikir Revolusioner
+- **Tuanku Imam Bonjol:** Pahlawan Nasional, Pemimpin Perang Padri
+- **Agus Salim:** Pahlawan Nasional, "The Grand Old Man", Diplomat Ulung Indonesia
+- **Muhammad Yamin:** Pahlawan Nasional, Pelopor Sumpah Pemuda, Sastrawan, Sejarawan
+- **Rasuna Said:** Pahlawan Nasional, Tokoh Pejuang Hak Perempuan
+- **Abdul Muis:** Pahlawan Nasional, Penulis novel "Salah Asuhan", Wartawan
+- **Buya Hamka:** Ulama Besar, Sastrawan (Tenggelamnya Kapal Van der Wijck), Ketua MUI pertama
+- **Mohammad Natsir:** Pahlawan Nasional, Perdana Menteri RI, Pemimpin Masyumi
+- **Assaat:** Pemangku Jabatan Presiden Republik Indonesia (RI) di Yogyakarta
+- **Rohana Kudus:** Pahlawan Nasional, Jurnalis perempuan Indonesia pertama
+- **Siti Manggopoh:** Pahlawan Perlawanan rakyat Minang melawan pajak Belanda (Perang Belasting)
+- **Bagindo Azizchan:** Pahlawan Nasional, Walikota Padang yang gugur melawan Belanda
+- **Hazairin:** Pahlawan Nasional, Pakar Hukum Adat, Menteri Dalam Negeri RI
+- **Usmar Ismail:** Bapak Film Indonesia, Sutradara legendaris
+- **Chairul Saleh:** Tokoh Pemuda dalam Peristiwa Rengasdengklok
+- **Sutan Takdir Alisjahbana:** Sastrawan dan Budayawan terkemuka, Tokoh Pujangga Baru
+- **H.B. Jassin:** Sastrawan (Paus Sastra Indonesia), kritikus sastra
+- **Ahmad Khatib Al-Minangkabawi:** Ulama besar asal Minang yang pernah menjadi Imam di Masjidil Haram
 
 ## Referensi
 
-- Wikipedia Sumatera Barat: https://id.wikipedia.org/wiki/Sumatera_Barat
-
-## Wisata
-
-Berikut daftar 300+ destinasi wisata di Sumatera Barat, terkategorisasi:
-
-### 🏖️ Wisata Alam & Pantai (100 destinasi)
-
-| No  | Nama Tempat                       | Jenis | Wilayah        |
-| --- | --------------------------------- | ----- | -------------- |
-| 1   | Destinasi Alam 1 Sumatera Barat   | Alam  | Sumatera Barat |
-| 2   | Destinasi Alam 2 Sumatera Barat   | Alam  | Sumatera Barat |
-| 3   | Destinasi Alam 3 Sumatera Barat   | Alam  | Sumatera Barat |
-| 4   | Destinasi Alam 4 Sumatera Barat   | Alam  | Sumatera Barat |
-| 5   | Destinasi Alam 5 Sumatera Barat   | Alam  | Sumatera Barat |
-| 6   | Destinasi Alam 6 Sumatera Barat   | Alam  | Sumatera Barat |
-| 7   | Destinasi Alam 7 Sumatera Barat   | Alam  | Sumatera Barat |
-| 8   | Destinasi Alam 8 Sumatera Barat   | Alam  | Sumatera Barat |
-| 9   | Destinasi Alam 9 Sumatera Barat   | Alam  | Sumatera Barat |
-| 10  | Destinasi Alam 10 Sumatera Barat  | Alam  | Sumatera Barat |
-| 11  | Destinasi Alam 11 Sumatera Barat  | Alam  | Sumatera Barat |
-| 12  | Destinasi Alam 12 Sumatera Barat  | Alam  | Sumatera Barat |
-| 13  | Destinasi Alam 13 Sumatera Barat  | Alam  | Sumatera Barat |
-| 14  | Destinasi Alam 14 Sumatera Barat  | Alam  | Sumatera Barat |
-| 15  | Destinasi Alam 15 Sumatera Barat  | Alam  | Sumatera Barat |
-| 16  | Destinasi Alam 16 Sumatera Barat  | Alam  | Sumatera Barat |
-| 17  | Destinasi Alam 17 Sumatera Barat  | Alam  | Sumatera Barat |
-| 18  | Destinasi Alam 18 Sumatera Barat  | Alam  | Sumatera Barat |
-| 19  | Destinasi Alam 19 Sumatera Barat  | Alam  | Sumatera Barat |
-| 20  | Destinasi Alam 20 Sumatera Barat  | Alam  | Sumatera Barat |
-| 21  | Destinasi Alam 21 Sumatera Barat  | Alam  | Sumatera Barat |
-| 22  | Destinasi Alam 22 Sumatera Barat  | Alam  | Sumatera Barat |
-| 23  | Destinasi Alam 23 Sumatera Barat  | Alam  | Sumatera Barat |
-| 24  | Destinasi Alam 24 Sumatera Barat  | Alam  | Sumatera Barat |
-| 25  | Destinasi Alam 25 Sumatera Barat  | Alam  | Sumatera Barat |
-| 26  | Destinasi Alam 26 Sumatera Barat  | Alam  | Sumatera Barat |
-| 27  | Destinasi Alam 27 Sumatera Barat  | Alam  | Sumatera Barat |
-| 28  | Destinasi Alam 28 Sumatera Barat  | Alam  | Sumatera Barat |
-| 29  | Destinasi Alam 29 Sumatera Barat  | Alam  | Sumatera Barat |
-| 30  | Destinasi Alam 30 Sumatera Barat  | Alam  | Sumatera Barat |
-| 31  | Destinasi Alam 31 Sumatera Barat  | Alam  | Sumatera Barat |
-| 32  | Destinasi Alam 32 Sumatera Barat  | Alam  | Sumatera Barat |
-| 33  | Destinasi Alam 33 Sumatera Barat  | Alam  | Sumatera Barat |
-| 34  | Destinasi Alam 34 Sumatera Barat  | Alam  | Sumatera Barat |
-| 35  | Destinasi Alam 35 Sumatera Barat  | Alam  | Sumatera Barat |
-| 36  | Destinasi Alam 36 Sumatera Barat  | Alam  | Sumatera Barat |
-| 37  | Destinasi Alam 37 Sumatera Barat  | Alam  | Sumatera Barat |
-| 38  | Destinasi Alam 38 Sumatera Barat  | Alam  | Sumatera Barat |
-| 39  | Destinasi Alam 39 Sumatera Barat  | Alam  | Sumatera Barat |
-| 40  | Destinasi Alam 40 Sumatera Barat  | Alam  | Sumatera Barat |
-| 41  | Destinasi Alam 41 Sumatera Barat  | Alam  | Sumatera Barat |
-| 42  | Destinasi Alam 42 Sumatera Barat  | Alam  | Sumatera Barat |
-| 43  | Destinasi Alam 43 Sumatera Barat  | Alam  | Sumatera Barat |
-| 44  | Destinasi Alam 44 Sumatera Barat  | Alam  | Sumatera Barat |
-| 45  | Destinasi Alam 45 Sumatera Barat  | Alam  | Sumatera Barat |
-| 46  | Destinasi Alam 46 Sumatera Barat  | Alam  | Sumatera Barat |
-| 47  | Destinasi Alam 47 Sumatera Barat  | Alam  | Sumatera Barat |
-| 48  | Destinasi Alam 48 Sumatera Barat  | Alam  | Sumatera Barat |
-| 49  | Destinasi Alam 49 Sumatera Barat  | Alam  | Sumatera Barat |
-| 50  | Destinasi Alam 50 Sumatera Barat  | Alam  | Sumatera Barat |
-| 51  | Destinasi Alam 51 Sumatera Barat  | Alam  | Sumatera Barat |
-| 52  | Destinasi Alam 52 Sumatera Barat  | Alam  | Sumatera Barat |
-| 53  | Destinasi Alam 53 Sumatera Barat  | Alam  | Sumatera Barat |
-| 54  | Destinasi Alam 54 Sumatera Barat  | Alam  | Sumatera Barat |
-| 55  | Destinasi Alam 55 Sumatera Barat  | Alam  | Sumatera Barat |
-| 56  | Destinasi Alam 56 Sumatera Barat  | Alam  | Sumatera Barat |
-| 57  | Destinasi Alam 57 Sumatera Barat  | Alam  | Sumatera Barat |
-| 58  | Destinasi Alam 58 Sumatera Barat  | Alam  | Sumatera Barat |
-| 59  | Destinasi Alam 59 Sumatera Barat  | Alam  | Sumatera Barat |
-| 60  | Destinasi Alam 60 Sumatera Barat  | Alam  | Sumatera Barat |
-| 61  | Destinasi Alam 61 Sumatera Barat  | Alam  | Sumatera Barat |
-| 62  | Destinasi Alam 62 Sumatera Barat  | Alam  | Sumatera Barat |
-| 63  | Destinasi Alam 63 Sumatera Barat  | Alam  | Sumatera Barat |
-| 64  | Destinasi Alam 64 Sumatera Barat  | Alam  | Sumatera Barat |
-| 65  | Destinasi Alam 65 Sumatera Barat  | Alam  | Sumatera Barat |
-| 66  | Destinasi Alam 66 Sumatera Barat  | Alam  | Sumatera Barat |
-| 67  | Destinasi Alam 67 Sumatera Barat  | Alam  | Sumatera Barat |
-| 68  | Destinasi Alam 68 Sumatera Barat  | Alam  | Sumatera Barat |
-| 69  | Destinasi Alam 69 Sumatera Barat  | Alam  | Sumatera Barat |
-| 70  | Destinasi Alam 70 Sumatera Barat  | Alam  | Sumatera Barat |
-| 71  | Destinasi Alam 71 Sumatera Barat  | Alam  | Sumatera Barat |
-| 72  | Destinasi Alam 72 Sumatera Barat  | Alam  | Sumatera Barat |
-| 73  | Destinasi Alam 73 Sumatera Barat  | Alam  | Sumatera Barat |
-| 74  | Destinasi Alam 74 Sumatera Barat  | Alam  | Sumatera Barat |
-| 75  | Destinasi Alam 75 Sumatera Barat  | Alam  | Sumatera Barat |
-| 76  | Destinasi Alam 76 Sumatera Barat  | Alam  | Sumatera Barat |
-| 77  | Destinasi Alam 77 Sumatera Barat  | Alam  | Sumatera Barat |
-| 78  | Destinasi Alam 78 Sumatera Barat  | Alam  | Sumatera Barat |
-| 79  | Destinasi Alam 79 Sumatera Barat  | Alam  | Sumatera Barat |
-| 80  | Destinasi Alam 80 Sumatera Barat  | Alam  | Sumatera Barat |
-| 81  | Destinasi Alam 81 Sumatera Barat  | Alam  | Sumatera Barat |
-| 82  | Destinasi Alam 82 Sumatera Barat  | Alam  | Sumatera Barat |
-| 83  | Destinasi Alam 83 Sumatera Barat  | Alam  | Sumatera Barat |
-| 84  | Destinasi Alam 84 Sumatera Barat  | Alam  | Sumatera Barat |
-| 85  | Destinasi Alam 85 Sumatera Barat  | Alam  | Sumatera Barat |
-| 86  | Destinasi Alam 86 Sumatera Barat  | Alam  | Sumatera Barat |
-| 87  | Destinasi Alam 87 Sumatera Barat  | Alam  | Sumatera Barat |
-| 88  | Destinasi Alam 88 Sumatera Barat  | Alam  | Sumatera Barat |
-| 89  | Destinasi Alam 89 Sumatera Barat  | Alam  | Sumatera Barat |
-| 90  | Destinasi Alam 90 Sumatera Barat  | Alam  | Sumatera Barat |
-| 91  | Destinasi Alam 91 Sumatera Barat  | Alam  | Sumatera Barat |
-| 92  | Destinasi Alam 92 Sumatera Barat  | Alam  | Sumatera Barat |
-| 93  | Destinasi Alam 93 Sumatera Barat  | Alam  | Sumatera Barat |
-| 94  | Destinasi Alam 94 Sumatera Barat  | Alam  | Sumatera Barat |
-| 95  | Destinasi Alam 95 Sumatera Barat  | Alam  | Sumatera Barat |
-| 96  | Destinasi Alam 96 Sumatera Barat  | Alam  | Sumatera Barat |
-| 97  | Destinasi Alam 97 Sumatera Barat  | Alam  | Sumatera Barat |
-| 98  | Destinasi Alam 98 Sumatera Barat  | Alam  | Sumatera Barat |
-| 99  | Destinasi Alam 99 Sumatera Barat  | Alam  | Sumatera Barat |
-| 100 | Destinasi Alam 100 Sumatera Barat | Alam  | Sumatera Barat |
-
-### 🕌 Wisata Religi & Budaya (100 destinasi)
-
-| No  | Nama Tempat                         | Jenis  | Wilayah        |
-| --- | ----------------------------------- | ------ | -------------- |
-| 101 | Destinasi Budaya 1 Sumatera Barat   | Budaya | Sumatera Barat |
-| 102 | Destinasi Budaya 2 Sumatera Barat   | Budaya | Sumatera Barat |
-| 103 | Destinasi Budaya 3 Sumatera Barat   | Budaya | Sumatera Barat |
-| 104 | Destinasi Budaya 4 Sumatera Barat   | Budaya | Sumatera Barat |
-| 105 | Destinasi Budaya 5 Sumatera Barat   | Budaya | Sumatera Barat |
-| 106 | Destinasi Budaya 6 Sumatera Barat   | Budaya | Sumatera Barat |
-| 107 | Destinasi Budaya 7 Sumatera Barat   | Budaya | Sumatera Barat |
-| 108 | Destinasi Budaya 8 Sumatera Barat   | Budaya | Sumatera Barat |
-| 109 | Destinasi Budaya 9 Sumatera Barat   | Budaya | Sumatera Barat |
-| 110 | Destinasi Budaya 10 Sumatera Barat  | Budaya | Sumatera Barat |
-| 111 | Destinasi Budaya 11 Sumatera Barat  | Budaya | Sumatera Barat |
-| 112 | Destinasi Budaya 12 Sumatera Barat  | Budaya | Sumatera Barat |
-| 113 | Destinasi Budaya 13 Sumatera Barat  | Budaya | Sumatera Barat |
-| 114 | Destinasi Budaya 14 Sumatera Barat  | Budaya | Sumatera Barat |
-| 115 | Destinasi Budaya 15 Sumatera Barat  | Budaya | Sumatera Barat |
-| 116 | Destinasi Budaya 16 Sumatera Barat  | Budaya | Sumatera Barat |
-| 117 | Destinasi Budaya 17 Sumatera Barat  | Budaya | Sumatera Barat |
-| 118 | Destinasi Budaya 18 Sumatera Barat  | Budaya | Sumatera Barat |
-| 119 | Destinasi Budaya 19 Sumatera Barat  | Budaya | Sumatera Barat |
-| 120 | Destinasi Budaya 20 Sumatera Barat  | Budaya | Sumatera Barat |
-| 121 | Destinasi Budaya 21 Sumatera Barat  | Budaya | Sumatera Barat |
-| 122 | Destinasi Budaya 22 Sumatera Barat  | Budaya | Sumatera Barat |
-| 123 | Destinasi Budaya 23 Sumatera Barat  | Budaya | Sumatera Barat |
-| 124 | Destinasi Budaya 24 Sumatera Barat  | Budaya | Sumatera Barat |
-| 125 | Destinasi Budaya 25 Sumatera Barat  | Budaya | Sumatera Barat |
-| 126 | Destinasi Budaya 26 Sumatera Barat  | Budaya | Sumatera Barat |
-| 127 | Destinasi Budaya 27 Sumatera Barat  | Budaya | Sumatera Barat |
-| 128 | Destinasi Budaya 28 Sumatera Barat  | Budaya | Sumatera Barat |
-| 129 | Destinasi Budaya 29 Sumatera Barat  | Budaya | Sumatera Barat |
-| 130 | Destinasi Budaya 30 Sumatera Barat  | Budaya | Sumatera Barat |
-| 131 | Destinasi Budaya 31 Sumatera Barat  | Budaya | Sumatera Barat |
-| 132 | Destinasi Budaya 32 Sumatera Barat  | Budaya | Sumatera Barat |
-| 133 | Destinasi Budaya 33 Sumatera Barat  | Budaya | Sumatera Barat |
-| 134 | Destinasi Budaya 34 Sumatera Barat  | Budaya | Sumatera Barat |
-| 135 | Destinasi Budaya 35 Sumatera Barat  | Budaya | Sumatera Barat |
-| 136 | Destinasi Budaya 36 Sumatera Barat  | Budaya | Sumatera Barat |
-| 137 | Destinasi Budaya 37 Sumatera Barat  | Budaya | Sumatera Barat |
-| 138 | Destinasi Budaya 38 Sumatera Barat  | Budaya | Sumatera Barat |
-| 139 | Destinasi Budaya 39 Sumatera Barat  | Budaya | Sumatera Barat |
-| 140 | Destinasi Budaya 40 Sumatera Barat  | Budaya | Sumatera Barat |
-| 141 | Destinasi Budaya 41 Sumatera Barat  | Budaya | Sumatera Barat |
-| 142 | Destinasi Budaya 42 Sumatera Barat  | Budaya | Sumatera Barat |
-| 143 | Destinasi Budaya 43 Sumatera Barat  | Budaya | Sumatera Barat |
-| 144 | Destinasi Budaya 44 Sumatera Barat  | Budaya | Sumatera Barat |
-| 145 | Destinasi Budaya 45 Sumatera Barat  | Budaya | Sumatera Barat |
-| 146 | Destinasi Budaya 46 Sumatera Barat  | Budaya | Sumatera Barat |
-| 147 | Destinasi Budaya 47 Sumatera Barat  | Budaya | Sumatera Barat |
-| 148 | Destinasi Budaya 48 Sumatera Barat  | Budaya | Sumatera Barat |
-| 149 | Destinasi Budaya 49 Sumatera Barat  | Budaya | Sumatera Barat |
-| 150 | Destinasi Budaya 50 Sumatera Barat  | Budaya | Sumatera Barat |
-| 151 | Destinasi Budaya 51 Sumatera Barat  | Budaya | Sumatera Barat |
-| 152 | Destinasi Budaya 52 Sumatera Barat  | Budaya | Sumatera Barat |
-| 153 | Destinasi Budaya 53 Sumatera Barat  | Budaya | Sumatera Barat |
-| 154 | Destinasi Budaya 54 Sumatera Barat  | Budaya | Sumatera Barat |
-| 155 | Destinasi Budaya 55 Sumatera Barat  | Budaya | Sumatera Barat |
-| 156 | Destinasi Budaya 56 Sumatera Barat  | Budaya | Sumatera Barat |
-| 157 | Destinasi Budaya 57 Sumatera Barat  | Budaya | Sumatera Barat |
-| 158 | Destinasi Budaya 58 Sumatera Barat  | Budaya | Sumatera Barat |
-| 159 | Destinasi Budaya 59 Sumatera Barat  | Budaya | Sumatera Barat |
-| 160 | Destinasi Budaya 60 Sumatera Barat  | Budaya | Sumatera Barat |
-| 161 | Destinasi Budaya 61 Sumatera Barat  | Budaya | Sumatera Barat |
-| 162 | Destinasi Budaya 62 Sumatera Barat  | Budaya | Sumatera Barat |
-| 163 | Destinasi Budaya 63 Sumatera Barat  | Budaya | Sumatera Barat |
-| 164 | Destinasi Budaya 64 Sumatera Barat  | Budaya | Sumatera Barat |
-| 165 | Destinasi Budaya 65 Sumatera Barat  | Budaya | Sumatera Barat |
-| 166 | Destinasi Budaya 66 Sumatera Barat  | Budaya | Sumatera Barat |
-| 167 | Destinasi Budaya 67 Sumatera Barat  | Budaya | Sumatera Barat |
-| 168 | Destinasi Budaya 68 Sumatera Barat  | Budaya | Sumatera Barat |
-| 169 | Destinasi Budaya 69 Sumatera Barat  | Budaya | Sumatera Barat |
-| 170 | Destinasi Budaya 70 Sumatera Barat  | Budaya | Sumatera Barat |
-| 171 | Destinasi Budaya 71 Sumatera Barat  | Budaya | Sumatera Barat |
-| 172 | Destinasi Budaya 72 Sumatera Barat  | Budaya | Sumatera Barat |
-| 173 | Destinasi Budaya 73 Sumatera Barat  | Budaya | Sumatera Barat |
-| 174 | Destinasi Budaya 74 Sumatera Barat  | Budaya | Sumatera Barat |
-| 175 | Destinasi Budaya 75 Sumatera Barat  | Budaya | Sumatera Barat |
-| 176 | Destinasi Budaya 76 Sumatera Barat  | Budaya | Sumatera Barat |
-| 177 | Destinasi Budaya 77 Sumatera Barat  | Budaya | Sumatera Barat |
-| 178 | Destinasi Budaya 78 Sumatera Barat  | Budaya | Sumatera Barat |
-| 179 | Destinasi Budaya 79 Sumatera Barat  | Budaya | Sumatera Barat |
-| 180 | Destinasi Budaya 80 Sumatera Barat  | Budaya | Sumatera Barat |
-| 181 | Destinasi Budaya 81 Sumatera Barat  | Budaya | Sumatera Barat |
-| 182 | Destinasi Budaya 82 Sumatera Barat  | Budaya | Sumatera Barat |
-| 183 | Destinasi Budaya 83 Sumatera Barat  | Budaya | Sumatera Barat |
-| 184 | Destinasi Budaya 84 Sumatera Barat  | Budaya | Sumatera Barat |
-| 185 | Destinasi Budaya 85 Sumatera Barat  | Budaya | Sumatera Barat |
-| 186 | Destinasi Budaya 86 Sumatera Barat  | Budaya | Sumatera Barat |
-| 187 | Destinasi Budaya 87 Sumatera Barat  | Budaya | Sumatera Barat |
-| 188 | Destinasi Budaya 88 Sumatera Barat  | Budaya | Sumatera Barat |
-| 189 | Destinasi Budaya 89 Sumatera Barat  | Budaya | Sumatera Barat |
-| 190 | Destinasi Budaya 90 Sumatera Barat  | Budaya | Sumatera Barat |
-| 191 | Destinasi Budaya 91 Sumatera Barat  | Budaya | Sumatera Barat |
-| 192 | Destinasi Budaya 92 Sumatera Barat  | Budaya | Sumatera Barat |
-| 193 | Destinasi Budaya 93 Sumatera Barat  | Budaya | Sumatera Barat |
-| 194 | Destinasi Budaya 94 Sumatera Barat  | Budaya | Sumatera Barat |
-| 195 | Destinasi Budaya 95 Sumatera Barat  | Budaya | Sumatera Barat |
-| 196 | Destinasi Budaya 96 Sumatera Barat  | Budaya | Sumatera Barat |
-| 197 | Destinasi Budaya 97 Sumatera Barat  | Budaya | Sumatera Barat |
-| 198 | Destinasi Budaya 98 Sumatera Barat  | Budaya | Sumatera Barat |
-| 199 | Destinasi Budaya 99 Sumatera Barat  | Budaya | Sumatera Barat |
-| 200 | Destinasi Budaya 100 Sumatera Barat | Budaya | Sumatera Barat |
-
-### 🌿 Wisata Kuliner & Belanja (100 destinasi)
-
-| No  | Nama Tempat                          | Jenis   | Wilayah        |
-| --- | ------------------------------------ | ------- | -------------- |
-| 201 | Destinasi Kuliner 1 Sumatera Barat   | Kuliner | Sumatera Barat |
-| 202 | Destinasi Kuliner 2 Sumatera Barat   | Kuliner | Sumatera Barat |
-| 203 | Destinasi Kuliner 3 Sumatera Barat   | Kuliner | Sumatera Barat |
-| 204 | Destinasi Kuliner 4 Sumatera Barat   | Kuliner | Sumatera Barat |
-| 205 | Destinasi Kuliner 5 Sumatera Barat   | Kuliner | Sumatera Barat |
-| 206 | Destinasi Kuliner 6 Sumatera Barat   | Kuliner | Sumatera Barat |
-| 207 | Destinasi Kuliner 7 Sumatera Barat   | Kuliner | Sumatera Barat |
-| 208 | Destinasi Kuliner 8 Sumatera Barat   | Kuliner | Sumatera Barat |
-| 209 | Destinasi Kuliner 9 Sumatera Barat   | Kuliner | Sumatera Barat |
-| 210 | Destinasi Kuliner 10 Sumatera Barat  | Kuliner | Sumatera Barat |
-| 211 | Destinasi Kuliner 11 Sumatera Barat  | Kuliner | Sumatera Barat |
-| 212 | Destinasi Kuliner 12 Sumatera Barat  | Kuliner | Sumatera Barat |
-| 213 | Destinasi Kuliner 13 Sumatera Barat  | Kuliner | Sumatera Barat |
-| 214 | Destinasi Kuliner 14 Sumatera Barat  | Kuliner | Sumatera Barat |
-| 215 | Destinasi Kuliner 15 Sumatera Barat  | Kuliner | Sumatera Barat |
-| 216 | Destinasi Kuliner 16 Sumatera Barat  | Kuliner | Sumatera Barat |
-| 217 | Destinasi Kuliner 17 Sumatera Barat  | Kuliner | Sumatera Barat |
-| 218 | Destinasi Kuliner 18 Sumatera Barat  | Kuliner | Sumatera Barat |
-| 219 | Destinasi Kuliner 19 Sumatera Barat  | Kuliner | Sumatera Barat |
-| 220 | Destinasi Kuliner 20 Sumatera Barat  | Kuliner | Sumatera Barat |
-| 221 | Destinasi Kuliner 21 Sumatera Barat  | Kuliner | Sumatera Barat |
-| 222 | Destinasi Kuliner 22 Sumatera Barat  | Kuliner | Sumatera Barat |
-| 223 | Destinasi Kuliner 23 Sumatera Barat  | Kuliner | Sumatera Barat |
-| 224 | Destinasi Kuliner 24 Sumatera Barat  | Kuliner | Sumatera Barat |
-| 225 | Destinasi Kuliner 25 Sumatera Barat  | Kuliner | Sumatera Barat |
-| 226 | Destinasi Kuliner 26 Sumatera Barat  | Kuliner | Sumatera Barat |
-| 227 | Destinasi Kuliner 27 Sumatera Barat  | Kuliner | Sumatera Barat |
-| 228 | Destinasi Kuliner 28 Sumatera Barat  | Kuliner | Sumatera Barat |
-| 229 | Destinasi Kuliner 29 Sumatera Barat  | Kuliner | Sumatera Barat |
-| 230 | Destinasi Kuliner 30 Sumatera Barat  | Kuliner | Sumatera Barat |
-| 231 | Destinasi Kuliner 31 Sumatera Barat  | Kuliner | Sumatera Barat |
-| 232 | Destinasi Kuliner 32 Sumatera Barat  | Kuliner | Sumatera Barat |
-| 233 | Destinasi Kuliner 33 Sumatera Barat  | Kuliner | Sumatera Barat |
-| 234 | Destinasi Kuliner 34 Sumatera Barat  | Kuliner | Sumatera Barat |
-| 235 | Destinasi Kuliner 35 Sumatera Barat  | Kuliner | Sumatera Barat |
-| 236 | Destinasi Kuliner 36 Sumatera Barat  | Kuliner | Sumatera Barat |
-| 237 | Destinasi Kuliner 37 Sumatera Barat  | Kuliner | Sumatera Barat |
-| 238 | Destinasi Kuliner 38 Sumatera Barat  | Kuliner | Sumatera Barat |
-| 239 | Destinasi Kuliner 39 Sumatera Barat  | Kuliner | Sumatera Barat |
-| 240 | Destinasi Kuliner 40 Sumatera Barat  | Kuliner | Sumatera Barat |
-| 241 | Destinasi Kuliner 41 Sumatera Barat  | Kuliner | Sumatera Barat |
-| 242 | Destinasi Kuliner 42 Sumatera Barat  | Kuliner | Sumatera Barat |
-| 243 | Destinasi Kuliner 43 Sumatera Barat  | Kuliner | Sumatera Barat |
-| 244 | Destinasi Kuliner 44 Sumatera Barat  | Kuliner | Sumatera Barat |
-| 245 | Destinasi Kuliner 45 Sumatera Barat  | Kuliner | Sumatera Barat |
-| 246 | Destinasi Kuliner 46 Sumatera Barat  | Kuliner | Sumatera Barat |
-| 247 | Destinasi Kuliner 47 Sumatera Barat  | Kuliner | Sumatera Barat |
-| 248 | Destinasi Kuliner 48 Sumatera Barat  | Kuliner | Sumatera Barat |
-| 249 | Destinasi Kuliner 49 Sumatera Barat  | Kuliner | Sumatera Barat |
-| 250 | Destinasi Kuliner 50 Sumatera Barat  | Kuliner | Sumatera Barat |
-| 251 | Destinasi Kuliner 51 Sumatera Barat  | Kuliner | Sumatera Barat |
-| 252 | Destinasi Kuliner 52 Sumatera Barat  | Kuliner | Sumatera Barat |
-| 253 | Destinasi Kuliner 53 Sumatera Barat  | Kuliner | Sumatera Barat |
-| 254 | Destinasi Kuliner 54 Sumatera Barat  | Kuliner | Sumatera Barat |
-| 255 | Destinasi Kuliner 55 Sumatera Barat  | Kuliner | Sumatera Barat |
-| 256 | Destinasi Kuliner 56 Sumatera Barat  | Kuliner | Sumatera Barat |
-| 257 | Destinasi Kuliner 57 Sumatera Barat  | Kuliner | Sumatera Barat |
-| 258 | Destinasi Kuliner 58 Sumatera Barat  | Kuliner | Sumatera Barat |
-| 259 | Destinasi Kuliner 59 Sumatera Barat  | Kuliner | Sumatera Barat |
-| 260 | Destinasi Kuliner 60 Sumatera Barat  | Kuliner | Sumatera Barat |
-| 261 | Destinasi Kuliner 61 Sumatera Barat  | Kuliner | Sumatera Barat |
-| 262 | Destinasi Kuliner 62 Sumatera Barat  | Kuliner | Sumatera Barat |
-| 263 | Destinasi Kuliner 63 Sumatera Barat  | Kuliner | Sumatera Barat |
-| 264 | Destinasi Kuliner 64 Sumatera Barat  | Kuliner | Sumatera Barat |
-| 265 | Destinasi Kuliner 65 Sumatera Barat  | Kuliner | Sumatera Barat |
-| 266 | Destinasi Kuliner 66 Sumatera Barat  | Kuliner | Sumatera Barat |
-| 267 | Destinasi Kuliner 67 Sumatera Barat  | Kuliner | Sumatera Barat |
-| 268 | Destinasi Kuliner 68 Sumatera Barat  | Kuliner | Sumatera Barat |
-| 269 | Destinasi Kuliner 69 Sumatera Barat  | Kuliner | Sumatera Barat |
-| 270 | Destinasi Kuliner 70 Sumatera Barat  | Kuliner | Sumatera Barat |
-| 271 | Destinasi Kuliner 71 Sumatera Barat  | Kuliner | Sumatera Barat |
-| 272 | Destinasi Kuliner 72 Sumatera Barat  | Kuliner | Sumatera Barat |
-| 273 | Destinasi Kuliner 73 Sumatera Barat  | Kuliner | Sumatera Barat |
-| 274 | Destinasi Kuliner 74 Sumatera Barat  | Kuliner | Sumatera Barat |
-| 275 | Destinasi Kuliner 75 Sumatera Barat  | Kuliner | Sumatera Barat |
-| 276 | Destinasi Kuliner 76 Sumatera Barat  | Kuliner | Sumatera Barat |
-| 277 | Destinasi Kuliner 77 Sumatera Barat  | Kuliner | Sumatera Barat |
-| 278 | Destinasi Kuliner 78 Sumatera Barat  | Kuliner | Sumatera Barat |
-| 279 | Destinasi Kuliner 79 Sumatera Barat  | Kuliner | Sumatera Barat |
-| 280 | Destinasi Kuliner 80 Sumatera Barat  | Kuliner | Sumatera Barat |
-| 281 | Destinasi Kuliner 81 Sumatera Barat  | Kuliner | Sumatera Barat |
-| 282 | Destinasi Kuliner 82 Sumatera Barat  | Kuliner | Sumatera Barat |
-| 283 | Destinasi Kuliner 83 Sumatera Barat  | Kuliner | Sumatera Barat |
-| 284 | Destinasi Kuliner 84 Sumatera Barat  | Kuliner | Sumatera Barat |
-| 285 | Destinasi Kuliner 85 Sumatera Barat  | Kuliner | Sumatera Barat |
-| 286 | Destinasi Kuliner 86 Sumatera Barat  | Kuliner | Sumatera Barat |
-| 287 | Destinasi Kuliner 87 Sumatera Barat  | Kuliner | Sumatera Barat |
-| 288 | Destinasi Kuliner 88 Sumatera Barat  | Kuliner | Sumatera Barat |
-| 289 | Destinasi Kuliner 89 Sumatera Barat  | Kuliner | Sumatera Barat |
-| 290 | Destinasi Kuliner 90 Sumatera Barat  | Kuliner | Sumatera Barat |
-| 291 | Destinasi Kuliner 91 Sumatera Barat  | Kuliner | Sumatera Barat |
-| 292 | Destinasi Kuliner 92 Sumatera Barat  | Kuliner | Sumatera Barat |
-| 293 | Destinasi Kuliner 93 Sumatera Barat  | Kuliner | Sumatera Barat |
-| 294 | Destinasi Kuliner 94 Sumatera Barat  | Kuliner | Sumatera Barat |
-| 295 | Destinasi Kuliner 95 Sumatera Barat  | Kuliner | Sumatera Barat |
-| 296 | Destinasi Kuliner 96 Sumatera Barat  | Kuliner | Sumatera Barat |
-| 297 | Destinasi Kuliner 97 Sumatera Barat  | Kuliner | Sumatera Barat |
-| 298 | Destinasi Kuliner 98 Sumatera Barat  | Kuliner | Sumatera Barat |
-| 299 | Destinasi Kuliner 99 Sumatera Barat  | Kuliner | Sumatera Barat |
-| 300 | Destinasi Kuliner 100 Sumatera Barat | Kuliner | Sumatera Barat |
-
-## Kode Pos & Kode Telepon
-
-### Kode Pos
-
-Range kode pos: **25000-27999**
-
-| Wilayah           | Kode Pos                          |
-| ----------------- | --------------------------------- |
-| Ibu Kota Provinsi | (lihat detail per kabupaten/kota) |
-| Kabupaten/Kota    | (lihat folder masing-masing)      |
-
-### Kode Telepon (Kode Area)
-
-0751 (Padang), 0752 (Bukittinggi), 0752 (Agam), 0752 (Padang Panjang), 0752 (Tanah Datar), 0754 (Payakumbuh), 0754 (Lima Puluh Kota), 0755 (Solok), 0755 (Sawahlunto), 0755 (Solok Selatan), 0754 (Sijunjung), 0754 (Dharmasraya), 0756 (Pesisir Selatan), 0753 (Padang Pariaman), 0753 (Pariaman), 0753 (Pasaman), 0753 (Pasaman Barat), 0759 (Kepulauan Mentawai)
-
-> Catatan: Kode area di atas adalah untuk telepon rumah/kantor. Untuk telepon seluler, gunakan kode operator nasional (0811, 0812, 0813, 0821, 0822, 0823, 0851, 0852, 0853, 0855, 0856, 0857, 0858, 0877, 0878, 0881, 0882, 0883, 0884, 0885, 0886, 0887, 0888, 0889, 0895, 0896, 0897, 0898, 0899).
-
-## Tokoh Lengkap
-
-**Pahlawan Nasional:**
-
-- Tokoh-tokoh pahlawan dari Sumatera Barat (lihat Wikipedia untuk daftar lengkap)
-
-**Tokoh Modern:**
-
-- Gubernur dan pejabat daerah Sumatera Barat
-- Tokoh politik, bisnis, dan budaya Sumatera Barat
-
-**Tokoh Agama & Budaya:**
-
-- Ulama, seniman, dan budayawan Sumatera Barat
-
-## Sejarah Detail
-
-### Masa Prasejarah & Kerajaan Kuno
-
-- Wilayah Sumatera Barat telah dihuni sejak masa prasejarah, dibuktikan dengan temuan arkeologis.
-- Berbagai kerajaan kuno pernah berdiri dan berkembang di wilayah ini.
-
-### Masa Kerajaan Hindu-Buddha
-
-- Pengaruh Hindu-Buddha masuk ke wilayah Sumatera Barat melalui jalur perdagangan.
-- Beberapa kerajaan bercorak Hindu-Buddha pernah berkuasa di wilayah ini.
-
-### Masa Kerajaan Islam
-
-- Islam masuk ke wilayah Sumatera Barat melalui pedagang dan ulama.
-- Kesultanan-kesultanan Islam berkembang dan menjadi pusat kekuasaan.
-
-### Masa Kolonial
-
-- Portugis, Belanda, dan Inggris pernah menguasai atau mempengaruhi wilayah Sumatera Barat.
-- Perlawanan rakyat terhadap penjajah terjadi di berbagai daerah.
-- VOC (Vereenigde Oost-Indische Compagnie) mendirikan pos perdagangan.
-- Pemerintah Hindia Belanda mengatur wilayah ini sebagai bagian dari koloni.
-
-### Masa Pergerakan Nasional
-
-- Tokoh-tokoh dari Sumatera Barat turut berperan dalam pergerakan kemerdekaan Indonesia.
-- Organisasi pergerakan nasional aktif di wilayah ini.
-
-### Masa Kemerdekaan
-
-- Wilayah Sumatera Barat menjadi bagian dari Republik Indonesia yang diproklamasikan 17 Agustus 1945.
-- Berbagai pertempuran mempertahankan kemerdekaan terjadi di wilayah ini.
-
-### Masa Orde Lama (1945-1966)
-
-- Pembentukan pemerintahan daerah dan konsolidasi wilayah.
-- Berbagai pemberontakan dan konflik internal terjadi.
-
-### Masa Orde Baru (1966-1998)
-
-- Pembangunan infrastruktur dan ekonomi secara masif.
-- Transmigrasi membawa perubahan demografis.
-
-### Masa Reformasi (1998-sekarang)
-
-- Otonomi daerah memberikan kewenangan lebih besar kepada pemerintah daerah.
-- Pemekaran wilayah menciptakan kabupaten/kota baru.
-- Pembangunan berkelanjutan dan peningkatan kesejahteraan masyarakat.
-
-## Fun Fact Lengkap
-
-### 🌍 Geografi & Alam
-
-- Sumatera Barat memiliki keunikan geografis yang membedakannya dari provinsi lain di Indonesia.
-- Terdapat berbagai ekosistem unik di Sumatera Barat, dari hutan tropis hingga pesisir pantai.
-- Beberapa spesies flora dan fauna endemik hanya ditemukan di Sumatera Barat.
-- Kondisi iklim Sumatera Barat dipengaruhi oleh posisi geografisnya di kepulauan Indonesia.
-- Terdapat sumber daya alam yang melimpah di Sumatera Barat, baik mineral maupun hayati.
-
-### 🏛️ Sejarah & Budaya
-
-- Sumatera Barat memiliki sejarah panjang yang mencakup berbagai peradaban dan kerajaan.
-- Berbagai peninggalan sejarah masih dapat ditemukan di Sumatera Barat.
-- Tradisi dan adat istiadat Sumatera Barat telah diwariskan turun-temurun selama berabad-abad.
-- Bahasa daerah Sumatera Barat memiliki keunikan tersendiri dalam rumpun bahasa Nusantara.
-- Seni pertunjukan tradisional Sumatera Barat diakui sebagai warisan budaya yang berharga.
-
-### 🍽️ Kuliner & Produk Lokal
-
-- Masakan khas Sumatera Barat menggunakan rempah-rempah lokal yang unik.
-- Beberapa produk pertanian Sumatera Barat terkenal hingga ke mancanegara.
-- Minuman tradisional Sumatera Barat memiliki khasiat kesehatan yang telah dikenal lama.
-- Kerajinan tangan Sumatera Barat menggunakan bahan-bahan alami setempat.
-- Produk unggulan Sumatera Barat berkontribusi signifikan terhadap perekonomian daerah.
-
-### 🎭 Seni & Tradisi
-
-- Festival tahunan di Sumatera Barat menarik ribuan wisatawan setiap tahunnya.
-- Musik tradisional Sumatera Barat menggunakan alat musik yang tidak ditemukan di daerah lain.
-- Pakaian adat Sumatera Barat mencerminkan kekayaan budaya dan filosofi hidup masyarakatnya.
-- Upacara adat Sumatera Barat memiliki makna spiritual yang mendalam bagi masyarakat setempat.
-- Tari tradisional Sumatera Barat telah dipentaskan di berbagai festival internasional.
-
-### 🏆 Rekor & Pencapaian
-
-- Sumatera Barat memegang beberapa rekor unik di tingkat nasional maupun internasional.
-- Beberapa tokoh terkenal Indonesia berasal dari Sumatera Barat.
-- Sumatera Barat telah menerima berbagai penghargaan atas prestasi pembangunan dan pelestarian budaya.
-- Produk-produk dari Sumatera Barat telah mendapatkan pengakuan internasional.
-- Sumatera Barat menjadi tuan rumah berbagai event nasional dan internasional.
-
-### 🌱 Lingkungan & Konservasi
-
-- Sumatera Barat memiliki kawasan konservasi yang melindungi keanekaragaman hayati.
-- Beberapa spesies langka mendapat perlindungan khusus di Sumatera Barat.
-- Program pelestarian lingkungan di Sumatera Barat menjadi contoh bagi daerah lain.
-- Masyarakat Sumatera Barat memiliki kearifan lokal dalam menjaga keseimbangan alam.
-- Hutan-hutan di Sumatera Barat berperan penting dalam menjaga keseimbangan iklim regional.
-
-### 💡 Inovasi & Modernisasi
-
-- Sumatera Barat terus berkembang dengan berbagai inovasi di bidang teknologi dan ekonomi.
-- Generasi muda Sumatera Barat aktif dalam berbagai kompetisi nasional dan internasional.
-- Infrastruktur Sumatera Barat terus ditingkatkan untuk mendukung pertumbuhan ekonomi.
-- Sektor pariwisata Sumatera Barat berkembang pesat dengan berbagai destinasi baru.
-- Sumatera Barat menjadi salah satu tujuan investasi yang menarik di Indonesia.
-
-## Fun Fact Spesifik
-
-### 🍛 Fakta Unik Sumatera Barat
-
-1. **Rendang** — Masakan daging sapi berbumbu khas Minangkabau yang dinobatkan CNN sebagai makanan terlezat di dunia.
-2. **Nasi Padang** — Sistem makan dengan banyak lauk yang disajikan sekaligus, kini tersebar di seluruh Indonesia dan dunia.
-3. **Rumah Gadang** — Rumah adat Minangkabau dengan atap melengkung seperti tanduk kerbau, simbol identitas Minang.
-4. **Sistem Matrilineal** — Minangkabau adalah salah satu masyarakat matrilineal terbesar di dunia, di mana garis keturunan dihitung dari pihak ibu.
-5. **Bung Hatta** — Proklamator dan Wakil Presiden RI pertama lahir di Bukittinggi, Sumatera Barat.
-6. **Tan Malaka** — Tokoh revolusi Indonesia yang lahir di Suliki, Sumatera Barat.
-7. **Hamka** — Ulama, sastrawan, dan tokoh nasional yang lahir di Maninjau, Sumatera Barat.
-8. **Jam Gadang** — Menara jam ikonik di Bukittinggi yang dibangun pada 1926, menjadi simbol kota.
-9. **Danau Maninjau** — Danau vulkanik yang indah di Agam, tempat kelahiran Hamka.
-10. **Danau Singkarak** — Danau terbesar di Sumatera Barat yang terkenal dengan ikan bilih yang endemik.
-11. **Lembah Harau** — Lembah dengan tebing-tebing granit setinggi 100-150 meter yang menjadi ikon wisata Sumatera Barat.
-12. **Tari Piring** — Tari tradisional Minangkabau yang menampilkan keahlian menari sambil membawa piring.
-13. **Randai** — Seni pertunjukan tradisional Minangkabau yang menggabungkan tari, musik, dan drama.
-14. **Sate Padang** — Sate dengan kuah kental berbumbu khas Padang yang berbeda dari sate daerah lain.
-15. **Dendeng Balado** — Daging sapi kering yang digoreng dan diberi sambal balado, khas Sumatera Barat.
-
-### 🔍 Fun Fact Tambahan Sumatera Barat
-
-16. **Fakta 16 Sumatera Barat** — Sumatera Barat memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
-17. **Fakta 17 Sumatera Barat** — Sumatera Barat memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
-18. **Fakta 18 Sumatera Barat** — Sumatera Barat memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
-19. **Fakta 19 Sumatera Barat** — Sumatera Barat memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
-20. **Fakta 20 Sumatera Barat** — Sumatera Barat memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
-21. **Fakta 21 Sumatera Barat** — Sumatera Barat memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
-22. **Fakta 22 Sumatera Barat** — Sumatera Barat memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
-23. **Fakta 23 Sumatera Barat** — Sumatera Barat memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
-24. **Fakta 24 Sumatera Barat** — Sumatera Barat memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
-25. **Fakta 25 Sumatera Barat** — Sumatera Barat memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+- Badan Pusat Statistik (BPS) Provinsi Sumatera Barat.
+- Dinas Pariwisata Sumatera Barat.
+- "West Sumatra: The Heartland of Minangkabau Culture".
