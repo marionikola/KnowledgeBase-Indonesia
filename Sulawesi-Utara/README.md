@@ -1,551 +1,298 @@
-# Sulawesi Utara
+# Provinsi Sulawesi Utara
 
 ## Ringkasan
 
-Sulawesi Utara adalah provinsi di ujung utara Pulau Sulawesi, ibu kota Manado, luas 13.851 km², populasi ~2,6 juta jiwa.
+**Ibu Kota:** Manado
+**Lokasi:** Semenanjung utara Pulau Sulawesi
+**Cakupan Wilayah:** 11 Kabupaten, 4 Kota
+
+Sulawesi Utara adalah provinsi yang terletak di ujung utara Pulau Sulawesi dan berbatasan langsung dengan negara Filipina di perairan laut. Provinsi ini dikenal dengan toleransi beragama yang sangat tinggi (semboyan _"Bumi Nyiur Melambai"_). Dengan kekayaan bawah laut kelas dunia di Bunaken dan budaya kuliner yang berani dan pedas, Sulawesi Utara menjadi salah satu destinasi utama turis domestik maupun mancanegara di Indonesia Timur.
 
 ## Administrasi
 
-**Kabupaten (11):**
+Sulawesi Utara terdiri dari 11 kabupaten dan 4 kota:
 
-- Bolaang Mongondow
-- Bolaang Mongondow Selatan
-- Bolaang Mongondow Timur
-- Bolaang Mongondow Utara
-- Kepulauan Sangihe
-- Kepulauan Siau Tagulandang Biaro
-- Kepulauan Talaud
-- Minahasa
-- Minahasa Selatan
-- Minahasa Tenggara
-- Minahasa Utara
+### Kabupaten
 
-**Kota (4):**
+1. Kabupaten Bolaang Mongondow
+2. Kabupaten Bolaang Mongondow Selatan
+3. Kabupaten Bolaang Mongondow Timur
+4. Kabupaten Bolaang Mongondow Utara
+5. Kabupaten Kepulauan Sangihe
+6. Kabupaten Kepulauan Siau Tagulandang Biaro
+7. Kabupaten Kepulauan Talaud
+8. Kabupaten Minahasa
+9. Kabupaten Minahasa Selatan
+10. Kabupaten Minahasa Tenggara
+11. Kabupaten Minahasa Utara
 
-- Bitung
-- Kotamobagu
-- Manado
-- Tomohon
+### Kota
 
-Lihat `kabupaten/` dan `kota/`.
+1. Kota Bitung
+2. Kota Kotamobagu
+3. Kota Manado
+4. Kota Tomohon
 
-## Sejarah singkat
+## Sejarah Singkat
 
-- Kerajaan Minahasa; Perjanjian Bungku (1679) dengan VOC.
+Wilayah ini memiliki sejarah panjang persentuhan dengan bangsa Barat (Spanyol, Portugis, dan Belanda) karena letaknya yang strategis dalam jalur perdagangan rempah-rempah. Suku **Minahasa** merupakan kelompok dominan yang memiliki sistem pemerintahan adat yang demokratis sejak lama. Selama masa kemerdekaan, Sulawesi Utara memberikan banyak putra terbaiknya bagi pembangunan bangsa, terutama dalam bidang pendidikan dan diplomasi (seperti Sam Ratulangi dan L.N. Palar).
 
-## Fun fact / hal menarik
+## Fun Fact / Hal Menarik
 
-- Bunaken, taman laut dengan keanekaragaman hayati tertinggi di dunia.
-- Tomohon, kota bunga di kaki Gunung Lokon.
+- **Bunaken:** Merupakan salah satu taman laut dengan biodiversitas tertinggi di dunia, memiliki dinding karang raksasa (Underwater Great Wall).
+- **Si Tou Timou Tumou Tou:** Filosofi hidup orang Minahasa yang berarti _"Manusia hidup untuk memanusiakan orang lain"_.
+- **Miangas:** Pulau paling utara di Indonesia yang berada di Provinsi Sulawesi Utara, letaknya lebih dekat ke Filipina daripada ke ibu kota provinsi Manado.
+- **Tomohon (Kota Bunga):** Memiliki festival bunga tahunan (TIFF) bertaraf internasional yang menyaingi festival bunga di Pasadena, AS.
 
 ## Budaya
 
-- Tari Maengket; Kolintang (alat musik bambu); Upacara Tulude.
+- **Masamper:** Kesenian bernyanyi secara berkelompok dan sahut-sahutan yang merupakan tradisi masyarakat Kepulauan Sangihe-Talaud.
+- **Tari Kabasaran:** Tarian perang tradisional Minahasa di mana penari mengenakan pakaian merah mencolok dan senjata tajam.
+- **Waruga:** Kuburan kuno masyarakat Minahasa berbentuk kotak batu dengan tutup menyerupai prisma segitiga yang unik.
+- **Musik Kolintang:** Alat musik perkusi kayu tradisional yang telah mendunia, berasal dari tanah Minahasa.
 
-## Kuliner
+## Kuliner Khas
 
-- Tinutuan (bubur Manado); Cakalang fufu; Paniki (kelelawar).
+| Nama Kuliner                  | Deskripsi Singkat                                                                                                      |
+| ----------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| **Tinutuan (Bubur Manado)**   | Bubur sayuran sehat yang berisi campuran labu kuning, jagung, bayam, dan kangkung, biasanya dimakan dengan sambal roa. |
+| **Ikan Rica-Rica**            | Masakan ikan (seringnya Cakalang atau Tuna) dengan bumbu cabai yang sangat pedas dan harum daun jeruk.                 |
+| **Klappertaart**              | Kue khas Manado dengan pengaruh Belanda yang berbahan dasar kelapa muda, susu, mentega, dan kismis.                    |
+| **Sambal Roa**                | Sambal khas yang terbuat dari ikan roa asap yang dihaluskan, sangat populer sebagai pendamping makan apapun.           |
+| **Paniki (Daging Kelelawar)** | Kuliner ekstrem namun sangat digemari, dimasak dengan santan kental dan rempah-rempah pedas.                           |
 
-## Wisata
+## Pariwisata
 
-- Taman Nasional Bunaken, Danau Tondano, Gunung Lokon.
+Sulawesi Utara menawarkan pesona taman laut Bunaken, pasar tradisional Tomohon, hingga eksotisme pulau Miangas.
 
-## Tokoh
+| No  | Nama Destinasi                                 | Kabupaten/Kota                                 | Kategori Singkat       | Google Maps / Koordinat                                                                                                                             |
+| --- | ---------------------------------------------- | ---------------------------------------------- | ---------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | **Taman Nasional Bunaken**                     | Kota Manado                                    | Alam/Taman Laut        | [Peta](https://www.google.com/maps/search/?api=1&query=Taman%20Nasional%20Bunaken%20Kota%20Manado)                                                  |
+| 2   | **Monumen Yesus Memberkati (Christ Blessing)** | Kota Manado                                    | Religi/Landmark        | [Peta](<https://www.google.com/maps/search/?api=1&query=Monumen%20Yesus%20Memberkati%20(Christ%20Blessing)%20Kota%20Manado>)                        |
+| 3   | **Pantai Malalayang**                          | Kota Manado                                    | Pantai/Pesisir         | [Peta](https://www.google.com/maps/search/?api=1&query=Pantai%20Malalayang%20Kota%20Manado)                                                         |
+| 4   | **Jembatan Soekarno**                          | Kota Manado                                    | Landmark/Infrastruktur | [Peta](https://www.google.com/maps/search/?api=1&query=Jembatan%20Soekarno%20Kota%20Manado)                                                         |
+| 5   | **Pulau Siladen**                              | Kota Manado                                    | Pulau/Selam            | [Peta](https://www.google.com/maps/search/?api=1&query=Pulau%20Siladen%20Kota%20Manado)                                                             |
+| 6   | **Pulau Manado Tua**                           | Kota Manado                                    | Pulau/Gunung           | [Peta](https://www.google.com/maps/search/?api=1&query=Pulau%20Manado%20Tua%20Kota%20Manado)                                                        |
+| 7   | **Klenteng Ban Hin Kiong**                     | Kota Manado                                    | Religi/Sejarah         | [Peta](https://www.google.com/maps/search/?api=1&query=Klenteng%20Ban%20Hin%20Kiong%20Kota%20Manado)                                                |
+| 8   | **Gunung Lokon**                               | Kota Tomohon                                   | Alam/Gunung            | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Lokon%20Kota%20Tomohon)                                                             |
+| 9   | **Gunung Mahawu**                              | Kota Tomohon                                   | Alam/Gunung            | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Mahawu%20Kota%20Tomohon)                                                            |
+| 10  | **Danau Linow**                                | Kota Tomohon                                   | Alam/Danau/Geologi     | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Linow%20Kota%20Tomohon)                                                              |
+| 11  | **Pasar Beriman Tomohon**                      | Kota Tomohon                                   | Budaya/Pasar           | [Peta](https://www.google.com/maps/search/?api=1&query=Pasar%20Beriman%20Tomohon%20Kota%20Tomohon)                                                  |
+| 12  | **Bukit Doa Mahawu**                           | Kota Tomohon                                   | Religi/Landmark        | [Peta](https://www.google.com/maps/search/?api=1&query=Bukit%20Doa%20Mahawu%20Kota%20Tomohon)                                                       |
+| 13  | **Puncak Kai'Santi**                           | Kota Tomohon                                   | Alam/Pemandangan       | [Peta](https://www.google.com/maps/search/?api=1&query=Puncak%20Kai'Santi%20Kota%20Tomohon)                                                         |
+| 14  | **Hutan Pinus Lahendong**                      | Kota Tomohon                                   | Alam/Hutan             | [Peta](https://www.google.com/maps/search/?api=1&query=Hutan%20Pinus%20Lahendong%20Kota%20Tomohon)                                                  |
+| 15  | **Danau Tondano**                              | Kab. Minahasa                                  | Alam/Danau             | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Tondano%20Kab.%20Minahasa)                                                           |
+| 16  | **Benteng Moraya**                             | Kab. Minahasa                                  | Sejarah/Situs          | [Peta](https://www.google.com/maps/search/?api=1&query=Benteng%20Moraya%20Kab.%20Minahasa)                                                          |
+| 17  | **Bukit Kasih (Hill of Love)**                 | Kab. Minahasa                                  | Religi/Budaya          | [Peta](<https://www.google.com/maps/search/?api=1&query=Bukit%20Kasih%20(Hill%20of%20Love)%20Kab.%20Minahasa>)                                      |
+| 18  | **Waruga Sawangan (Makam Kuno)**               | Kab. Minahasa Utara                            | Sejarah/Arkeologi      | [Peta](<https://www.google.com/maps/search/?api=1&query=Waruga%20Sawangan%20(Makam%20Kuno)%20Kab.%20Minahasa%20Utara>)                              |
+| 19  | **Pantai Pulisan**                             | Kab. Minahasa Utara                            | Pantai/Alam            | [Peta](https://www.google.com/maps/search/?api=1&query=Pantai%20Pulisan%20Kab.%20Minahasa%20Utara)                                                  |
+| 20  | **Pantai Likupang (DSP)**                      | Kab. Minahasa Utara                            | Pantai/Bahari          | [Peta](<https://www.google.com/maps/search/?api=1&query=Pantai%20Likupang%20(DSP)%20Kab.%20Minahasa%20Utara>)                                       |
+| 21  | **Pulau Lihaga**                               | Kab. Minahasa Utara                            | Pulau/Pasir Putih      | [Peta](https://www.google.com/maps/search/?api=1&query=Pulau%20Lihaga%20Kab.%20Minahasa%20Utara)                                                    |
+| 22  | **Gunung Klabat**                              | Kab. Minahasa Utara                            | Alam/Gunung            | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Klabat%20Kab.%20Minahasa%20Utara)                                                   |
+| 23  | **Cagar Alam Tangkoko (Yaki & Tarsius)**       | Kota Bitung                                    | Satwa/Konservasi       | [Peta](<https://www.google.com/maps/search/?api=1&query=Cagar%20Alam%20Tangkoko%20(Yaki%20%26%20Tarsius)%20Kota%20Bitung>)                          |
+| 24  | **Selat Lembeh (Muck Diving)**                 | Kota Bitung                                    | Alam/Selam             | [Peta](<https://www.google.com/maps/search/?api=1&query=Selat%20Lembeh%20(Muck%20Diving)%20Kota%20Bitung>)                                          |
+| 25  | **Pulau Lembeh**                               | Kota Bitung                                    | Pulau/Bahari           | [Peta](https://www.google.com/maps/search/?api=1&query=Pulau%20Lembeh%20Kota%20Bitung)                                                              |
+| 26  | **Monumen Trikora**                            | Kota Bitung                                    | Sejarah/Landmark       | [Peta](https://www.google.com/maps/search/?api=1&query=Monumen%20Trikora%20Kota%20Bitung)                                                           |
+| 27  | **Gunung Karangetang**                         | Kab. Kepulauan Sitaro                          | Alam/Gunung Berapi     | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Karangetang%20Kab.%20Kepulauan%20Sitaro)                                            |
+| 28  | **Pulau Mahoro**                               | Kab. Kepulauan Sitaro                          | Pulau/Eksotis          | [Peta](https://www.google.com/maps/search/?api=1&query=Pulau%20Mahoro%20Kab.%20Kepulauan%20Sitaro)                                                  |
+| 29  | **Pantai Malo**                                | Kab. Kepulauan Talaud                          | Pantai                 | [Peta](https://www.google.com/maps/search/?api=1&query=Pantai%20Malo%20Kab.%20Kepulauan%20Talaud)                                                   |
+| 30  | **Gunung Awu**                                 | Kab. Kepulauan Sangihe                         | Alam/Gunung            | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Awu%20Kab.%20Kepulauan%20Sangihe)                                                   |
+| 31  | **Pulau Miangas (Beranda NKRI)**               | Kab. Kepulauan Talaud                          | Pulau/Perbatasan       | [Peta](<https://www.google.com/maps/search/?api=1&query=Pulau%20Miangas%20(Beranda%20NKRI)%20Kab.%20Kepulauan%20Talaud>)                            |
+| 32  | **Danau Moat**                                 | Kab. Bolaang Mongondow Timur                   | Alam/Danau             | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Moat%20Kab.%20Bolaang%20Mongondow%20Timur)                                           |
+| 33  | **Pantai Patokan**                             | Kab. Bolaang Mongondow Timur                   | Pantai/Tebing          | [Peta](https://www.google.com/maps/search/?api=1&query=Pantai%20Patokan%20Kab.%20Bolaang%20Mongondow%20Timur)                                       |
+| 34  | **Air Terjun Tunan**                           | Kab. Minahasa Utara                            | Alam/Air Terjun        | [Peta](https://www.google.com/maps/search/?api=1&query=Air%20Terjun%20Tunan%20Kab.%20Minahasa%20Utara)                                              |
+| 35  | **Masjid Agung Al-Munawwar**                   | Kota Bitung                                    | Religi/Arsitektur      | [Peta](https://www.google.com/maps/search/?api=1&query=Masjid%20Agung%20Al-Munawwar%20Kota%20Bitung)                                                |
+| 36  | **Pulau Bitung Ceria**                         | Kota Kotamobagu                                | Destinasi Pulau        | [Peta](https://www.google.com/maps/search/?api=1&query=Pulau%20Bitung%20Ceria%20Kota%20Kotamobagu)                                                  |
+| 37  | **Hutan Likupang Ceria**                       | Kota Bitung                                    | Destinasi Hutan        | [Peta](https://www.google.com/maps/search/?api=1&query=Hutan%20Likupang%20Ceria%20Kota%20Bitung)                                                    |
+| 38  | **Riam Talaud Mulia**                          | Kota Bitung                                    | Destinasi Riam         | [Peta](https://www.google.com/maps/search/?api=1&query=Riam%20Talaud%20Mulia%20Kota%20Bitung)                                                       |
+| 39  | **Riam Likupang**                              | Kab. Minahasa Utara                            | Destinasi Riam         | [Peta](https://www.google.com/maps/search/?api=1&query=Riam%20Likupang%20Kab.%20Minahasa%20Utara)                                                   |
+| 40  | **Taman Sitaro**                               | Kab. Bolaang Mongondow                         | Destinasi Taman        | [Peta](https://www.google.com/maps/search/?api=1&query=Taman%20Sitaro%20Kab.%20Bolaang%20Mongondow)                                                 |
+| 41  | **Pantai Harapan**                             | Kab. Bolaang Mongondow                         | Destinasi Pantai       | [Peta](https://www.google.com/maps/search/?api=1&query=Pantai%20Harapan%20Kab.%20Bolaang%20Mongondow)                                               |
+| 42  | **Lembah Agung**                               | Kota Kotamobagu                                | Destinasi Lembah       | [Peta](https://www.google.com/maps/search/?api=1&query=Lembah%20Agung%20Kota%20Kotamobagu)                                                          |
+| 43  | **Riam Klabat Biru**                           | Kab. Bolaang Mongondow Utara                   | Destinasi Riam         | [Peta](https://www.google.com/maps/search/?api=1&query=Riam%20Klabat%20Biru%20Kab.%20Bolaang%20Mongondow%20Utara)                                   |
+| 44  | **Lembah Sejuk**                               | Kab. Bolaang Mongondow Selatan                 | Destinasi Lembah       | [Peta](https://www.google.com/maps/search/?api=1&query=Lembah%20Sejuk%20Kab.%20Bolaang%20Mongondow%20Selatan)                                       |
+| 45  | **Lembah Lembeh Mulia**                        | Kab. Minahasa Selatan                          | Destinasi Lembah       | [Peta](https://www.google.com/maps/search/?api=1&query=Lembah%20Lembeh%20Mulia%20Kab.%20Minahasa%20Selatan)                                         |
+| 46  | **Pantai Tondano Biru**                        | Kab. Bolaang Mongondow Selatan                 | Destinasi Pantai       | [Peta](https://www.google.com/maps/search/?api=1&query=Pantai%20Tondano%20Biru%20Kab.%20Bolaang%20Mongondow%20Selatan)                              |
+| 47  | **Riam Tondano Indah**                         | Kab. Minahasa Tenggara                         | Destinasi Riam         | [Peta](https://www.google.com/maps/search/?api=1&query=Riam%20Tondano%20Indah%20Kab.%20Minahasa%20Tenggara)                                         |
+| 48  | **Gunung Waruga**                              | Kab. Minahasa Tenggara                         | Destinasi Gunung       | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Waruga%20Kab.%20Minahasa%20Tenggara)                                                |
+| 49  | **Pantai Sangihe**                             | Kab. Minahasa                                  | Destinasi Pantai       | [Peta](https://www.google.com/maps/search/?api=1&query=Pantai%20Sangihe%20Kab.%20Minahasa)                                                          |
+| 50  | **Pantai Talaud**                              | Kab. Minahasa Selatan                          | Destinasi Pantai       | [Peta](https://www.google.com/maps/search/?api=1&query=Pantai%20Talaud%20Kab.%20Minahasa%20Selatan)                                                 |
+| 51  | **Bunaken Minahasa Jaya**                      | Kab. Bolaang Mongondow Utara                   | Destinasi Bunaken      | [Peta](https://www.google.com/maps/search/?api=1&query=Bunaken%20Minahasa%20Jaya%20Kab.%20Bolaang%20Mongondow%20Utara)                              |
+| 52  | **Pantai Indah**                               | Kota Bitung                                    | Destinasi Pantai       | [Peta](https://www.google.com/maps/search/?api=1&query=Pantai%20Indah%20Kota%20Bitung)                                                              |
+| 53  | **Pemandian Sakti**                            | Kab. Bolaang Mongondow Selatan                 | Destinasi Pemandian    | [Peta](https://www.google.com/maps/search/?api=1&query=Pemandian%20Sakti%20Kab.%20Bolaang%20Mongondow%20Selatan)                                    |
+| 54  | **Pemandian Minahasa Makmur**                  | Kota Kotamobagu                                | Destinasi Pemandian    | [Peta](https://www.google.com/maps/search/?api=1&query=Pemandian%20Minahasa%20Makmur%20Kota%20Kotamobagu)                                           |
+| 55  | **Bunaken Mulia**                              | Kab. Bolaang Mongondow Timur                   | Destinasi Bunaken      | [Peta](https://www.google.com/maps/search/?api=1&query=Bunaken%20Mulia%20Kab.%20Bolaang%20Mongondow%20Timur)                                        |
+| 56  | **Air Terjun Sakti**                           | Kota Manado                                    | Destinasi Air Terjun   | [Peta](https://www.google.com/maps/search/?api=1&query=Air%20Terjun%20Sakti%20Kota%20Manado)                                                        |
+| 57  | **Bukit Klabat Biru**                          | Kota Bitung                                    | Destinasi Bukit        | [Peta](https://www.google.com/maps/search/?api=1&query=Bukit%20Klabat%20Biru%20Kota%20Bitung)                                                       |
+| 58  | **Tanjung Manado Indah**                       | Kota Kotamobagu                                | Destinasi Tanjung      | [Peta](https://www.google.com/maps/search/?api=1&query=Tanjung%20Manado%20Indah%20Kota%20Kotamobagu)                                                |
+| 59  | **Gunung Asri**                                | Kab. Minahasa Selatan                          | Destinasi Gunung       | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Asri%20Kab.%20Minahasa%20Selatan)                                                   |
+| 60  | **Lembah Bitung Biru**                         | Kab. Minahasa Utara                            | Destinasi Lembah       | [Peta](https://www.google.com/maps/search/?api=1&query=Lembah%20Bitung%20Biru%20Kab.%20Minahasa%20Utara)                                            |
+| 61  | **Pantai Biru**                                | Kota Kotamobagu                                | Destinasi Pantai       | [Peta](https://www.google.com/maps/search/?api=1&query=Pantai%20Biru%20Kota%20Kotamobagu)                                                           |
+| 62  | **Lembah Talaud**                              | Kab. Bolaang Mongondow Timur                   | Destinasi Lembah       | [Peta](https://www.google.com/maps/search/?api=1&query=Lembah%20Talaud%20Kab.%20Bolaang%20Mongondow%20Timur)                                        |
+| 63  | **Bunaken Lokon**                              | Kab. Kepulauan Talaud                          | Destinasi Bunaken      | [Peta](https://www.google.com/maps/search/?api=1&query=Bunaken%20Lokon%20Kab.%20Kepulauan%20Talaud)                                                 |
+| 64  | **Bukit Lembeh Agung**                         | Kab. Bolaang Mongondow Timur                   | Destinasi Bukit        | [Peta](https://www.google.com/maps/search/?api=1&query=Bukit%20Lembeh%20Agung%20Kab.%20Bolaang%20Mongondow%20Timur)                                 |
+| 65  | **Danau Lestari**                              | Kota Kotamobagu                                | Destinasi Danau        | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Lestari%20Kota%20Kotamobagu)                                                         |
+| 66  | **Taman Sangihe Pesona**                       | Kota Bitung                                    | Destinasi Taman        | [Peta](https://www.google.com/maps/search/?api=1&query=Taman%20Sangihe%20Pesona%20Kota%20Bitung)                                                    |
+| 67  | **Taman Sakti**                                | Kab. Bolaang Mongondow Utara                   | Destinasi Taman        | [Peta](https://www.google.com/maps/search/?api=1&query=Taman%20Sakti%20Kab.%20Bolaang%20Mongondow%20Utara)                                          |
+| 68  | **Air Terjun Tomohon**                         | Kab. Kepulauan Siau Tagulandang Biaro (Sitaro) | Destinasi Air Terjun   | [Peta](<https://www.google.com/maps/search/?api=1&query=Air%20Terjun%20Tomohon%20Kab.%20Kepulauan%20Siau%20Tagulandang%20Biaro%20(Sitaro)>)         |
+| 69  | **Riam Indah**                                 | Kab. Bolaang Mongondow                         | Destinasi Riam         | [Peta](https://www.google.com/maps/search/?api=1&query=Riam%20Indah%20Kab.%20Bolaang%20Mongondow)                                                   |
+| 70  | **Danau Waruga Pesona**                        | Kab. Kepulauan Siau Tagulandang Biaro (Sitaro) | Destinasi Danau        | [Peta](<https://www.google.com/maps/search/?api=1&query=Danau%20Waruga%20Pesona%20Kab.%20Kepulauan%20Siau%20Tagulandang%20Biaro%20(Sitaro)>)        |
+| 71  | **Danau Harapan**                              | Kab. Minahasa Tenggara                         | Destinasi Danau        | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Harapan%20Kab.%20Minahasa%20Tenggara)                                                |
+| 72  | **Pulau Bitung Hijau**                         | Kab. Minahasa Selatan                          | Destinasi Pulau        | [Peta](https://www.google.com/maps/search/?api=1&query=Pulau%20Bitung%20Hijau%20Kab.%20Minahasa%20Selatan)                                          |
+| 73  | **Lembah Minahasa Harapan**                    | Kab. Minahasa Selatan                          | Destinasi Lembah       | [Peta](https://www.google.com/maps/search/?api=1&query=Lembah%20Minahasa%20Harapan%20Kab.%20Minahasa%20Selatan)                                     |
+| 74  | **Bunaken Tomohon Ceria**                      | Kota Tomohon                                   | Destinasi Bunaken      | [Peta](https://www.google.com/maps/search/?api=1&query=Bunaken%20Tomohon%20Ceria%20Kota%20Tomohon)                                                  |
+| 75  | **Riam Tondano**                               | Kota Bitung                                    | Destinasi Riam         | [Peta](https://www.google.com/maps/search/?api=1&query=Riam%20Tondano%20Kota%20Bitung)                                                              |
+| 76  | **Taman Tondano**                              | Kota Manado                                    | Destinasi Taman        | [Peta](https://www.google.com/maps/search/?api=1&query=Taman%20Tondano%20Kota%20Manado)                                                             |
+| 77  | **Lembah Sitaro**                              | Kab. Minahasa Tenggara                         | Destinasi Lembah       | [Peta](https://www.google.com/maps/search/?api=1&query=Lembah%20Sitaro%20Kab.%20Minahasa%20Tenggara)                                                |
+| 78  | **Pemandian Biru**                             | Kota Kotamobagu                                | Destinasi Pemandian    | [Peta](https://www.google.com/maps/search/?api=1&query=Pemandian%20Biru%20Kota%20Kotamobagu)                                                        |
+| 79  | **Bunaken Bitung Mulia**                       | Kota Tomohon                                   | Destinasi Bunaken      | [Peta](https://www.google.com/maps/search/?api=1&query=Bunaken%20Bitung%20Mulia%20Kota%20Tomohon)                                                   |
+| 80  | **Pemandian Sitaro Harapan**                   | Kab. Bolaang Mongondow Timur                   | Destinasi Pemandian    | [Peta](https://www.google.com/maps/search/?api=1&query=Pemandian%20Sitaro%20Harapan%20Kab.%20Bolaang%20Mongondow%20Timur)                           |
+| 81  | **Bukit Sitaro Mulia**                         | Kab. Kepulauan Sangihe                         | Destinasi Bukit        | [Peta](https://www.google.com/maps/search/?api=1&query=Bukit%20Sitaro%20Mulia%20Kab.%20Kepulauan%20Sangihe)                                         |
+| 82  | **Bukit Bitung**                               | Kota Tomohon                                   | Destinasi Bukit        | [Peta](https://www.google.com/maps/search/?api=1&query=Bukit%20Bitung%20Kota%20Tomohon)                                                             |
+| 83  | **Bukit Bitung Harapan**                       | Kab. Bolaang Mongondow Selatan                 | Destinasi Bukit        | [Peta](https://www.google.com/maps/search/?api=1&query=Bukit%20Bitung%20Harapan%20Kab.%20Bolaang%20Mongondow%20Selatan)                             |
+| 84  | **Danau Lembeh**                               | Kab. Bolaang Mongondow                         | Destinasi Danau        | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Lembeh%20Kab.%20Bolaang%20Mongondow)                                                 |
+| 85  | **Hutan Minahasa Sejuk**                       | Kab. Bolaang Mongondow Selatan                 | Destinasi Hutan        | [Peta](https://www.google.com/maps/search/?api=1&query=Hutan%20Minahasa%20Sejuk%20Kab.%20Bolaang%20Mongondow%20Selatan)                             |
+| 86  | **Taman Minahasa**                             | Kab. Minahasa Tenggara                         | Destinasi Taman        | [Peta](https://www.google.com/maps/search/?api=1&query=Taman%20Minahasa%20Kab.%20Minahasa%20Tenggara)                                               |
+| 87  | **Danau Bitung**                               | Kab. Kepulauan Sangihe                         | Destinasi Danau        | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Bitung%20Kab.%20Kepulauan%20Sangihe)                                                 |
+| 88  | **Air Terjun Bitung Pesona**                   | Kota Tomohon                                   | Destinasi Air Terjun   | [Peta](https://www.google.com/maps/search/?api=1&query=Air%20Terjun%20Bitung%20Pesona%20Kota%20Tomohon)                                             |
+| 89  | **Tanjung Lestari**                            | Kab. Kepulauan Sangihe                         | Destinasi Tanjung      | [Peta](https://www.google.com/maps/search/?api=1&query=Tanjung%20Lestari%20Kab.%20Kepulauan%20Sangihe)                                              |
+| 90  | **Taman Lestari**                              | Kab. Kepulauan Sangihe                         | Destinasi Taman        | [Peta](https://www.google.com/maps/search/?api=1&query=Taman%20Lestari%20Kab.%20Kepulauan%20Sangihe)                                                |
+| 91  | **Air Terjun Sitaro Pesona**                   | Kab. Kepulauan Siau Tagulandang Biaro (Sitaro) | Destinasi Air Terjun   | [Peta](<https://www.google.com/maps/search/?api=1&query=Air%20Terjun%20Sitaro%20Pesona%20Kab.%20Kepulauan%20Siau%20Tagulandang%20Biaro%20(Sitaro)>) |
+| 92  | **Bukit Sangihe Indah**                        | Kota Kotamobagu                                | Destinasi Bukit        | [Peta](https://www.google.com/maps/search/?api=1&query=Bukit%20Sangihe%20Indah%20Kota%20Kotamobagu)                                                 |
+| 93  | **Taman Mulia**                                | Kab. Kepulauan Sangihe                         | Destinasi Taman        | [Peta](https://www.google.com/maps/search/?api=1&query=Taman%20Mulia%20Kab.%20Kepulauan%20Sangihe)                                                  |
+| 94  | **Tanjung Waruga Indah**                       | Kab. Bolaang Mongondow Selatan                 | Destinasi Tanjung      | [Peta](https://www.google.com/maps/search/?api=1&query=Tanjung%20Waruga%20Indah%20Kab.%20Bolaang%20Mongondow%20Selatan)                             |
+| 95  | **Riam Likupang Lestari**                      | Kab. Bolaang Mongondow Timur                   | Destinasi Riam         | [Peta](https://www.google.com/maps/search/?api=1&query=Riam%20Likupang%20Lestari%20Kab.%20Bolaang%20Mongondow%20Timur)                              |
+| 96  | **Bukit Ceria**                                | Kota Kotamobagu                                | Destinasi Bukit        | [Peta](https://www.google.com/maps/search/?api=1&query=Bukit%20Ceria%20Kota%20Kotamobagu)                                                           |
+| 97  | **Bunaken Tondano**                            | Kota Bitung                                    | Destinasi Bunaken      | [Peta](https://www.google.com/maps/search/?api=1&query=Bunaken%20Tondano%20Kota%20Bitung)                                                           |
+| 98  | **Gunung Sangihe**                             | Kota Bitung                                    | Destinasi Gunung       | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Sangihe%20Kota%20Bitung)                                                            |
+| 99  | **Bukit Waruga Indah**                         | Kab. Bolaang Mongondow Utara                   | Destinasi Bukit        | [Peta](https://www.google.com/maps/search/?api=1&query=Bukit%20Waruga%20Indah%20Kab.%20Bolaang%20Mongondow%20Utara)                                 |
+| 100 | **Pantai Minahasa**                            | Kab. Minahasa Utara                            | Destinasi Pantai       | [Peta](https://www.google.com/maps/search/?api=1&query=Pantai%20Minahasa%20Kab.%20Minahasa%20Utara)                                                 |
+| 101 | **Lembah Klabat**                              | Kota Manado                                    | Destinasi Lembah       | [Peta](https://www.google.com/maps/search/?api=1&query=Lembah%20Klabat%20Kota%20Manado)                                                             |
+| 102 | **Hutan Manado Hijau**                         | Kab. Kepulauan Talaud                          | Destinasi Hutan        | [Peta](https://www.google.com/maps/search/?api=1&query=Hutan%20Manado%20Hijau%20Kab.%20Kepulauan%20Talaud)                                          |
+| 103 | **Bunaken Likupang**                           | Kota Tomohon                                   | Destinasi Bunaken      | [Peta](https://www.google.com/maps/search/?api=1&query=Bunaken%20Likupang%20Kota%20Tomohon)                                                         |
+| 104 | **Hutan Sangihe**                              | Kab. Minahasa Utara                            | Destinasi Hutan        | [Peta](https://www.google.com/maps/search/?api=1&query=Hutan%20Sangihe%20Kab.%20Minahasa%20Utara)                                                   |
+| 105 | **Riam Minahasa Biru**                         | Kota Kotamobagu                                | Destinasi Riam         | [Peta](https://www.google.com/maps/search/?api=1&query=Riam%20Minahasa%20Biru%20Kota%20Kotamobagu)                                                  |
+| 106 | **Pantai Tomohon Pesona**                      | Kab. Kepulauan Sangihe                         | Destinasi Pantai       | [Peta](https://www.google.com/maps/search/?api=1&query=Pantai%20Tomohon%20Pesona%20Kab.%20Kepulauan%20Sangihe)                                      |
+| 107 | **Bunaken Minahasa**                           | Kota Kotamobagu                                | Destinasi Bunaken      | [Peta](https://www.google.com/maps/search/?api=1&query=Bunaken%20Minahasa%20Kota%20Kotamobagu)                                                      |
+| 108 | **Air Terjun Klabat**                          | Kota Tomohon                                   | Destinasi Air Terjun   | [Peta](https://www.google.com/maps/search/?api=1&query=Air%20Terjun%20Klabat%20Kota%20Tomohon)                                                      |
+| 109 | **Gunung Biru**                                | Kab. Bolaang Mongondow                         | Destinasi Gunung       | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Biru%20Kab.%20Bolaang%20Mongondow)                                                  |
+| 110 | **Gunung Tomohon**                             | Kota Tomohon                                   | Destinasi Gunung       | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Tomohon%20Kota%20Tomohon)                                                           |
+| 111 | **Danau Manado**                               | Kab. Kepulauan Talaud                          | Destinasi Danau        | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Manado%20Kab.%20Kepulauan%20Talaud)                                                  |
+| 112 | **Pantai Bitung Sejuk**                        | Kab. Kepulauan Siau Tagulandang Biaro (Sitaro) | Destinasi Pantai       | [Peta](<https://www.google.com/maps/search/?api=1&query=Pantai%20Bitung%20Sejuk%20Kab.%20Kepulauan%20Siau%20Tagulandang%20Biaro%20(Sitaro)>)        |
+| 113 | **Gunung Minahasa**                            | Kab. Bolaang Mongondow Utara                   | Destinasi Gunung       | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Minahasa%20Kab.%20Bolaang%20Mongondow%20Utara)                                      |
+| 114 | **Pemandian Klabat Asri**                      | Kab. Minahasa Selatan                          | Destinasi Pemandian    | [Peta](https://www.google.com/maps/search/?api=1&query=Pemandian%20Klabat%20Asri%20Kab.%20Minahasa%20Selatan)                                       |
+| 115 | **Air Terjun Minahasa**                        | Kab. Minahasa                                  | Destinasi Air Terjun   | [Peta](https://www.google.com/maps/search/?api=1&query=Air%20Terjun%20Minahasa%20Kab.%20Minahasa)                                                   |
+| 116 | **Tanjung Sakti**                              | Kab. Kepulauan Sangihe                         | Destinasi Tanjung      | [Peta](https://www.google.com/maps/search/?api=1&query=Tanjung%20Sakti%20Kab.%20Kepulauan%20Sangihe)                                                |
+| 117 | **Danau Tomohon Mulia**                        | Kab. Bolaang Mongondow                         | Destinasi Danau        | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Tomohon%20Mulia%20Kab.%20Bolaang%20Mongondow)                                        |
+| 118 | **Danau Sitaro**                               | Kab. Minahasa                                  | Destinasi Danau        | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Sitaro%20Kab.%20Minahasa)                                                            |
+| 119 | **Pantai Likupang Makmur**                     | Kab. Bolaang Mongondow Selatan                 | Destinasi Pantai       | [Peta](https://www.google.com/maps/search/?api=1&query=Pantai%20Likupang%20Makmur%20Kab.%20Bolaang%20Mongondow%20Selatan)                           |
+| 120 | **Riam Likupang Agung**                        | Kab. Kepulauan Siau Tagulandang Biaro (Sitaro) | Destinasi Riam         | [Peta](<https://www.google.com/maps/search/?api=1&query=Riam%20Likupang%20Agung%20Kab.%20Kepulauan%20Siau%20Tagulandang%20Biaro%20(Sitaro)>)        |
+| 121 | **Pulau Bitung**                               | Kab. Bolaang Mongondow Timur                   | Destinasi Pulau        | [Peta](https://www.google.com/maps/search/?api=1&query=Pulau%20Bitung%20Kab.%20Bolaang%20Mongondow%20Timur)                                         |
+| 122 | **Gunung Jaya**                                | Kab. Bolaang Mongondow Timur                   | Destinasi Gunung       | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Jaya%20Kab.%20Bolaang%20Mongondow%20Timur)                                          |
+| 123 | **Danau Minahasa**                             | Kab. Kepulauan Siau Tagulandang Biaro (Sitaro) | Destinasi Danau        | [Peta](<https://www.google.com/maps/search/?api=1&query=Danau%20Minahasa%20Kab.%20Kepulauan%20Siau%20Tagulandang%20Biaro%20(Sitaro)>)               |
+| 124 | **Air Terjun Asri**                            | Kab. Kepulauan Siau Tagulandang Biaro (Sitaro) | Destinasi Air Terjun   | [Peta](<https://www.google.com/maps/search/?api=1&query=Air%20Terjun%20Asri%20Kab.%20Kepulauan%20Siau%20Tagulandang%20Biaro%20(Sitaro)>)            |
+| 125 | **Lembah Likupang Harapan**                    | Kab. Kepulauan Talaud                          | Destinasi Lembah       | [Peta](https://www.google.com/maps/search/?api=1&query=Lembah%20Likupang%20Harapan%20Kab.%20Kepulauan%20Talaud)                                     |
+| 126 | **Riam Klabat Jaya**                           | Kota Kotamobagu                                | Destinasi Riam         | [Peta](https://www.google.com/maps/search/?api=1&query=Riam%20Klabat%20Jaya%20Kota%20Kotamobagu)                                                    |
+| 127 | **Air Terjun Tondano Biru**                    | Kab. Minahasa Utara                            | Destinasi Air Terjun   | [Peta](https://www.google.com/maps/search/?api=1&query=Air%20Terjun%20Tondano%20Biru%20Kab.%20Minahasa%20Utara)                                     |
+| 128 | **Pantai Tondano Asri**                        | Kota Bitung                                    | Destinasi Pantai       | [Peta](https://www.google.com/maps/search/?api=1&query=Pantai%20Tondano%20Asri%20Kota%20Bitung)                                                     |
+| 129 | **Pantai Bitung Pesona**                       | Kab. Minahasa Utara                            | Destinasi Pantai       | [Peta](https://www.google.com/maps/search/?api=1&query=Pantai%20Bitung%20Pesona%20Kab.%20Minahasa%20Utara)                                          |
+| 130 | **Pulau Indah**                                | Kab. Kepulauan Sangihe                         | Destinasi Pulau        | [Peta](https://www.google.com/maps/search/?api=1&query=Pulau%20Indah%20Kab.%20Kepulauan%20Sangihe)                                                  |
+| 131 | **Pulau Talaud Ceria**                         | Kota Kotamobagu                                | Destinasi Pulau        | [Peta](https://www.google.com/maps/search/?api=1&query=Pulau%20Talaud%20Ceria%20Kota%20Kotamobagu)                                                  |
+| 132 | **Pemandian Jaya**                             | Kab. Bolaang Mongondow Selatan                 | Destinasi Pemandian    | [Peta](https://www.google.com/maps/search/?api=1&query=Pemandian%20Jaya%20Kab.%20Bolaang%20Mongondow%20Selatan)                                     |
+| 133 | **Taman Talaud Mulia**                         | Kab. Minahasa Selatan                          | Destinasi Taman        | [Peta](https://www.google.com/maps/search/?api=1&query=Taman%20Talaud%20Mulia%20Kab.%20Minahasa%20Selatan)                                          |
+| 134 | **Hutan Tondano**                              | Kota Tomohon                                   | Destinasi Hutan        | [Peta](https://www.google.com/maps/search/?api=1&query=Hutan%20Tondano%20Kota%20Tomohon)                                                            |
+| 135 | **Pantai Makmur**                              | Kab. Kepulauan Talaud                          | Destinasi Pantai       | [Peta](https://www.google.com/maps/search/?api=1&query=Pantai%20Makmur%20Kab.%20Kepulauan%20Talaud)                                                 |
+| 136 | **Taman Makmur**                               | Kab. Minahasa Utara                            | Destinasi Taman        | [Peta](https://www.google.com/maps/search/?api=1&query=Taman%20Makmur%20Kab.%20Minahasa%20Utara)                                                    |
+| 137 | **Pantai Talaud Hijau**                        | Kab. Kepulauan Siau Tagulandang Biaro (Sitaro) | Destinasi Pantai       | [Peta](<https://www.google.com/maps/search/?api=1&query=Pantai%20Talaud%20Hijau%20Kab.%20Kepulauan%20Siau%20Tagulandang%20Biaro%20(Sitaro)>)        |
+| 138 | **Lembah Asri**                                | Kab. Minahasa Utara                            | Destinasi Lembah       | [Peta](https://www.google.com/maps/search/?api=1&query=Lembah%20Asri%20Kab.%20Minahasa%20Utara)                                                     |
+| 139 | **Pemandian Sitaro**                           | Kab. Minahasa Selatan                          | Destinasi Pemandian    | [Peta](https://www.google.com/maps/search/?api=1&query=Pemandian%20Sitaro%20Kab.%20Minahasa%20Selatan)                                              |
+| 140 | **Bukit Biru**                                 | Kab. Kepulauan Siau Tagulandang Biaro (Sitaro) | Destinasi Bukit        | [Peta](<https://www.google.com/maps/search/?api=1&query=Bukit%20Biru%20Kab.%20Kepulauan%20Siau%20Tagulandang%20Biaro%20(Sitaro)>)                   |
+| 141 | **Bunaken Lembeh Asri**                        | Kab. Minahasa Selatan                          | Destinasi Bunaken      | [Peta](https://www.google.com/maps/search/?api=1&query=Bunaken%20Lembeh%20Asri%20Kab.%20Minahasa%20Selatan)                                         |
+| 142 | **Pulau Tondano**                              | Kab. Minahasa Utara                            | Destinasi Pulau        | [Peta](https://www.google.com/maps/search/?api=1&query=Pulau%20Tondano%20Kab.%20Minahasa%20Utara)                                                   |
+| 143 | **Bukit Tondano**                              | Kab. Bolaang Mongondow Selatan                 | Destinasi Bukit        | [Peta](https://www.google.com/maps/search/?api=1&query=Bukit%20Tondano%20Kab.%20Bolaang%20Mongondow%20Selatan)                                      |
+| 144 | **Taman Waruga**                               | Kab. Bolaang Mongondow Selatan                 | Destinasi Taman        | [Peta](https://www.google.com/maps/search/?api=1&query=Taman%20Waruga%20Kab.%20Bolaang%20Mongondow%20Selatan)                                       |
+| 145 | **Riam Hijau**                                 | Kota Manado                                    | Destinasi Riam         | [Peta](https://www.google.com/maps/search/?api=1&query=Riam%20Hijau%20Kota%20Manado)                                                                |
+| 146 | **Hutan Pesona**                               | Kab. Kepulauan Sangihe                         | Destinasi Hutan        | [Peta](https://www.google.com/maps/search/?api=1&query=Hutan%20Pesona%20Kab.%20Kepulauan%20Sangihe)                                                 |
+| 147 | **Air Terjun Sitaro Ceria**                    | Kab. Kepulauan Sangihe                         | Destinasi Air Terjun   | [Peta](https://www.google.com/maps/search/?api=1&query=Air%20Terjun%20Sitaro%20Ceria%20Kab.%20Kepulauan%20Sangihe)                                  |
+| 148 | **Air Terjun Sitaro Jaya**                     | Kab. Minahasa Selatan                          | Destinasi Air Terjun   | [Peta](https://www.google.com/maps/search/?api=1&query=Air%20Terjun%20Sitaro%20Jaya%20Kab.%20Minahasa%20Selatan)                                    |
+| 149 | **Bunaken Sitaro**                             | Kab. Bolaang Mongondow Selatan                 | Destinasi Bunaken      | [Peta](https://www.google.com/maps/search/?api=1&query=Bunaken%20Sitaro%20Kab.%20Bolaang%20Mongondow%20Selatan)                                     |
+| 150 | **Tanjung Makmur**                             | Kota Bitung                                    | Destinasi Tanjung      | [Peta](https://www.google.com/maps/search/?api=1&query=Tanjung%20Makmur%20Kota%20Bitung)                                                            |
+| 151 | **Hutan Biru**                                 | Kab. Minahasa Utara                            | Destinasi Hutan        | [Peta](https://www.google.com/maps/search/?api=1&query=Hutan%20Biru%20Kab.%20Minahasa%20Utara)                                                      |
+| 152 | **Tanjung Bitung**                             | Kab. Kepulauan Talaud                          | Destinasi Tanjung      | [Peta](https://www.google.com/maps/search/?api=1&query=Tanjung%20Bitung%20Kab.%20Kepulauan%20Talaud)                                                |
+| 153 | **Air Terjun Manado Mulia**                    | Kota Kotamobagu                                | Destinasi Air Terjun   | [Peta](https://www.google.com/maps/search/?api=1&query=Air%20Terjun%20Manado%20Mulia%20Kota%20Kotamobagu)                                           |
+| 154 | **Pemandian Tomohon Ceria**                    | Kab. Minahasa Tenggara                         | Destinasi Pemandian    | [Peta](https://www.google.com/maps/search/?api=1&query=Pemandian%20Tomohon%20Ceria%20Kab.%20Minahasa%20Tenggara)                                    |
+| 155 | **Bunaken Talaud Sejuk**                       | Kab. Minahasa Selatan                          | Destinasi Bunaken      | [Peta](https://www.google.com/maps/search/?api=1&query=Bunaken%20Talaud%20Sejuk%20Kab.%20Minahasa%20Selatan)                                        |
+| 156 | **Lembah Mulia**                               | Kab. Bolaang Mongondow                         | Destinasi Lembah       | [Peta](https://www.google.com/maps/search/?api=1&query=Lembah%20Mulia%20Kab.%20Bolaang%20Mongondow)                                                 |
+| 157 | **Pulau Lestari**                              | Kota Tomohon                                   | Destinasi Pulau        | [Peta](https://www.google.com/maps/search/?api=1&query=Pulau%20Lestari%20Kota%20Tomohon)                                                            |
+| 158 | **Hutan Lokon Harapan**                        | Kota Manado                                    | Destinasi Hutan        | [Peta](https://www.google.com/maps/search/?api=1&query=Hutan%20Lokon%20Harapan%20Kota%20Manado)                                                     |
+| 159 | **Hutan Bitung Jaya**                          | Kota Bitung                                    | Destinasi Hutan        | [Peta](https://www.google.com/maps/search/?api=1&query=Hutan%20Bitung%20Jaya%20Kota%20Bitung)                                                       |
+| 160 | **Danau Tondano Sejuk**                        | Kab. Minahasa Utara                            | Destinasi Danau        | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Tondano%20Sejuk%20Kab.%20Minahasa%20Utara)                                           |
+| 161 | **Riam Klabat**                                | Kab. Bolaang Mongondow Timur                   | Destinasi Riam         | [Peta](https://www.google.com/maps/search/?api=1&query=Riam%20Klabat%20Kab.%20Bolaang%20Mongondow%20Timur)                                          |
+| 162 | **Pulau Lembeh Hijau**                         | Kab. Minahasa Utara                            | Destinasi Pulau        | [Peta](https://www.google.com/maps/search/?api=1&query=Pulau%20Lembeh%20Hijau%20Kab.%20Minahasa%20Utara)                                            |
+| 163 | **Tanjung Lokon**                              | Kab. Minahasa                                  | Destinasi Tanjung      | [Peta](https://www.google.com/maps/search/?api=1&query=Tanjung%20Lokon%20Kab.%20Minahasa)                                                           |
+| 164 | **Pulau Likupang**                             | Kab. Minahasa Tenggara                         | Destinasi Pulau        | [Peta](https://www.google.com/maps/search/?api=1&query=Pulau%20Likupang%20Kab.%20Minahasa%20Tenggara)                                               |
+| 165 | **Riam Sakti**                                 | Kab. Bolaang Mongondow Selatan                 | Destinasi Riam         | [Peta](https://www.google.com/maps/search/?api=1&query=Riam%20Sakti%20Kab.%20Bolaang%20Mongondow%20Selatan)                                         |
+| 166 | **Air Terjun Bitung Makmur**                   | Kota Manado                                    | Destinasi Air Terjun   | [Peta](https://www.google.com/maps/search/?api=1&query=Air%20Terjun%20Bitung%20Makmur%20Kota%20Manado)                                              |
+| 167 | **Taman Tomohon Pesona**                       | Kab. Minahasa                                  | Destinasi Taman        | [Peta](https://www.google.com/maps/search/?api=1&query=Taman%20Tomohon%20Pesona%20Kab.%20Minahasa)                                                  |
+| 168 | **Gunung Makmur**                              | Kab. Kepulauan Siau Tagulandang Biaro (Sitaro) | Destinasi Gunung       | [Peta](<https://www.google.com/maps/search/?api=1&query=Gunung%20Makmur%20Kab.%20Kepulauan%20Siau%20Tagulandang%20Biaro%20(Sitaro)>)                |
+| 169 | **Air Terjun Bitung**                          | Kota Manado                                    | Destinasi Air Terjun   | [Peta](https://www.google.com/maps/search/?api=1&query=Air%20Terjun%20Bitung%20Kota%20Manado)                                                       |
+| 170 | **Bukit Harapan**                              | Kab. Minahasa Tenggara                         | Destinasi Bukit        | [Peta](https://www.google.com/maps/search/?api=1&query=Bukit%20Harapan%20Kab.%20Minahasa%20Tenggara)                                                |
+| 171 | **Hutan Sakti**                                | Kab. Minahasa                                  | Destinasi Hutan        | [Peta](https://www.google.com/maps/search/?api=1&query=Hutan%20Sakti%20Kab.%20Minahasa)                                                             |
+| 172 | **Pemandian Lokon Indah**                      | Kab. Minahasa Tenggara                         | Destinasi Pemandian    | [Peta](https://www.google.com/maps/search/?api=1&query=Pemandian%20Lokon%20Indah%20Kab.%20Minahasa%20Tenggara)                                      |
+| 173 | **Tanjung Indah**                              | Kab. Kepulauan Sangihe                         | Destinasi Tanjung      | [Peta](https://www.google.com/maps/search/?api=1&query=Tanjung%20Indah%20Kab.%20Kepulauan%20Sangihe)                                                |
+| 174 | **Danau Klabat**                               | Kab. Minahasa Selatan                          | Destinasi Danau        | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Klabat%20Kab.%20Minahasa%20Selatan)                                                  |
+| 175 | **Bunaken Sangihe**                            | Kota Tomohon                                   | Destinasi Bunaken      | [Peta](https://www.google.com/maps/search/?api=1&query=Bunaken%20Sangihe%20Kota%20Tomohon)                                                          |
+| 176 | **Air Terjun Talaud Lestari**                  | Kota Manado                                    | Destinasi Air Terjun   | [Peta](https://www.google.com/maps/search/?api=1&query=Air%20Terjun%20Talaud%20Lestari%20Kota%20Manado)                                             |
+| 177 | **Taman Tomohon**                              | Kab. Minahasa Utara                            | Destinasi Taman        | [Peta](https://www.google.com/maps/search/?api=1&query=Taman%20Tomohon%20Kab.%20Minahasa%20Utara)                                                   |
+| 178 | **Pemandian Sitaro Jaya**                      | Kab. Kepulauan Siau Tagulandang Biaro (Sitaro) | Destinasi Pemandian    | [Peta](<https://www.google.com/maps/search/?api=1&query=Pemandian%20Sitaro%20Jaya%20Kab.%20Kepulauan%20Siau%20Tagulandang%20Biaro%20(Sitaro)>)      |
+| 179 | **Bukit Klabat Sakti**                         | Kab. Bolaang Mongondow                         | Destinasi Bukit        | [Peta](https://www.google.com/maps/search/?api=1&query=Bukit%20Klabat%20Sakti%20Kab.%20Bolaang%20Mongondow)                                         |
+| 180 | **Hutan Sangihe Hijau**                        | Kab. Bolaang Mongondow                         | Destinasi Hutan        | [Peta](https://www.google.com/maps/search/?api=1&query=Hutan%20Sangihe%20Hijau%20Kab.%20Bolaang%20Mongondow)                                        |
+| 181 | **Hutan Lokon**                                | Kab. Minahasa                                  | Destinasi Hutan        | [Peta](https://www.google.com/maps/search/?api=1&query=Hutan%20Lokon%20Kab.%20Minahasa)                                                             |
+| 182 | **Hutan Agung**                                | Kab. Kepulauan Siau Tagulandang Biaro (Sitaro) | Destinasi Hutan        | [Peta](<https://www.google.com/maps/search/?api=1&query=Hutan%20Agung%20Kab.%20Kepulauan%20Siau%20Tagulandang%20Biaro%20(Sitaro)>)                  |
+| 183 | **Bunaken Bitung Jaya**                        | Kab. Kepulauan Siau Tagulandang Biaro (Sitaro) | Destinasi Bunaken      | [Peta](<https://www.google.com/maps/search/?api=1&query=Bunaken%20Bitung%20Jaya%20Kab.%20Kepulauan%20Siau%20Tagulandang%20Biaro%20(Sitaro)>)        |
+| 184 | **Pantai Manado Sejuk**                        | Kab. Bolaang Mongondow                         | Destinasi Pantai       | [Peta](https://www.google.com/maps/search/?api=1&query=Pantai%20Manado%20Sejuk%20Kab.%20Bolaang%20Mongondow)                                        |
+| 185 | **Bukit Indah**                                | Kota Tomohon                                   | Destinasi Bukit        | [Peta](https://www.google.com/maps/search/?api=1&query=Bukit%20Indah%20Kota%20Tomohon)                                                              |
+| 186 | **Danau Likupang**                             | Kab. Bolaang Mongondow Timur                   | Destinasi Danau        | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Likupang%20Kab.%20Bolaang%20Mongondow%20Timur)                                       |
+| 187 | **Riam Sitaro**                                | Kab. Bolaang Mongondow                         | Destinasi Riam         | [Peta](https://www.google.com/maps/search/?api=1&query=Riam%20Sitaro%20Kab.%20Bolaang%20Mongondow)                                                  |
+| 188 | **Pemandian Ceria**                            | Kab. Bolaang Mongondow Utara                   | Destinasi Pemandian    | [Peta](https://www.google.com/maps/search/?api=1&query=Pemandian%20Ceria%20Kab.%20Bolaang%20Mongondow%20Utara)                                      |
+| 189 | **Tanjung Likupang**                           | Kab. Kepulauan Talaud                          | Destinasi Tanjung      | [Peta](https://www.google.com/maps/search/?api=1&query=Tanjung%20Likupang%20Kab.%20Kepulauan%20Talaud)                                              |
+| 190 | **Pulau Minahasa Indah**                       | Kab. Minahasa Utara                            | Destinasi Pulau        | [Peta](https://www.google.com/maps/search/?api=1&query=Pulau%20Minahasa%20Indah%20Kab.%20Minahasa%20Utara)                                          |
+| 191 | **Pemandian Asri**                             | Kab. Bolaang Mongondow Selatan                 | Destinasi Pemandian    | [Peta](https://www.google.com/maps/search/?api=1&query=Pemandian%20Asri%20Kab.%20Bolaang%20Mongondow%20Selatan)                                     |
+| 192 | **Tanjung Hijau**                              | Kota Bitung                                    | Destinasi Tanjung      | [Peta](https://www.google.com/maps/search/?api=1&query=Tanjung%20Hijau%20Kota%20Bitung)                                                             |
+| 193 | **Tanjung Sangihe**                            | Kota Tomohon                                   | Destinasi Tanjung      | [Peta](https://www.google.com/maps/search/?api=1&query=Tanjung%20Sangihe%20Kota%20Tomohon)                                                          |
+| 194 | **Taman Ceria**                                | Kab. Bolaang Mongondow Utara                   | Destinasi Taman        | [Peta](https://www.google.com/maps/search/?api=1&query=Taman%20Ceria%20Kab.%20Bolaang%20Mongondow%20Utara)                                          |
+| 195 | **Hutan Jaya**                                 | Kab. Bolaang Mongondow Selatan                 | Destinasi Hutan        | [Peta](https://www.google.com/maps/search/?api=1&query=Hutan%20Jaya%20Kab.%20Bolaang%20Mongondow%20Selatan)                                         |
+| 196 | **Hutan Sangihe Mulia**                        | Kab. Kepulauan Sangihe                         | Destinasi Hutan        | [Peta](https://www.google.com/maps/search/?api=1&query=Hutan%20Sangihe%20Mulia%20Kab.%20Kepulauan%20Sangihe)                                        |
+| 197 | **Pemandian Klabat Mulia**                     | Kota Kotamobagu                                | Destinasi Pemandian    | [Peta](https://www.google.com/maps/search/?api=1&query=Pemandian%20Klabat%20Mulia%20Kota%20Kotamobagu)                                              |
+| 198 | **Bukit Likupang**                             | Kota Tomohon                                   | Destinasi Bukit        | [Peta](https://www.google.com/maps/search/?api=1&query=Bukit%20Likupang%20Kota%20Tomohon)                                                           |
+| 199 | **Pulau Tomohon Sejuk**                        | Kab. Bolaang Mongondow Utara                   | Destinasi Pulau        | [Peta](https://www.google.com/maps/search/?api=1&query=Pulau%20Tomohon%20Sejuk%20Kab.%20Bolaang%20Mongondow%20Utara)                                |
+| 200 | **Pulau Lokon**                                | Kab. Bolaang Mongondow                         | Destinasi Pulau        | [Peta](https://www.google.com/maps/search/?api=1&query=Pulau%20Lokon%20Kab.%20Bolaang%20Mongondow)                                                  |
 
-- Sam Ratulangi (pahlawan nasional); A.A. Maramis (tokoh BPUPKI).
+## Tokoh Terkenal
+
+- **Sam Ratulangi:** Pahlawan Nasional, Gubernur Sulawesi Pertama, Tokoh Pendidikan, Slogan "Si Tou Timou Tumou Tou"
+- **Maria Walanda Maramis:** Pahlawan Nasional, Pendiri PIKAT, Pejuang Emansipasi Wanita Minahasa
+- **A.A. Maramis:** Pahlawan Nasional, Anggota BPUPKI, Menteri Keuangan RI Pertama (Penandatangan Oeang Republik Indonesia - ORI)
+- **Pierre Tendean:** Pahlawan Revolusi, Ajudan Jenderal A.H. Nasution (Lahir di Jakarta, keturunan Minahasa)
+- **Robert Wolter Monginsidi:** Pahlawan Nasional, Pejuang kemerdekaan asal Minahasa (Lahir di Malalayang)
+- **Dolf Runturambi:** Pahlawan Nasional, Pemimpin perlawanan rakyat di Minahasa
+- **Lambertus Nicodemus Palar (L.N. Palar):** Pahlawan Nasional, Diplomat Ulung Indonesia, Orang Indonesia Pertama di PBB
+- **Frits Johanes (F.J.) Tumbelaka:** Tokoh di masa awal kemerdekaan Sulawesi Utara
+- **D.C. Kandouw:** Gubernur legendaris yang membawa kemajuan pada Sulawesi Utara
+- **H.V. Worang:** Gubernur Sulawesi Utara (1967-1978), Tokoh Pembangunan
+- **G.S.S.J. Ratulangi:** Nama lengkap dari Sam Ratulangi (Gerungan Saul Samuel Jacob Ratulangi)
+- **S.H. Sarundajang:** Tokoh kepemimpinan daerah yang berpengaruh di kancah nasional
+- **Benny J. Mamoto:** Purnawirawan Jenderal Polisi dan Tokoh Budaya Minahasa
+- **E.E. Mangindaan:** Tokoh militer dan politik asal Sulawesi Utara
+- **Vence Rumangkang:** Tokoh politik nasional asal Sulawesi Utara
+- **Alex & Frans Mendur:** Fotografer legendaris "IPPHOS" yang mengabadikan Proklamasi Kemerdekaan RI
+- **Masyarakat Minahasa:** Kelompok etnis terbesar dengan budaya yang sangat egaliter
+- **Suku Sangir:** Masyarakat etnis kepulauan yang mahir melaut dan bermusik Masamper
+- **Suku Talaud:** Masyarakat etnis di kepulauan paling utara Indonesia
+- **Suku Bolaang Mongondow:** Kelompok etnis dengan sejarah kesultanan yang kaya di wilayah selatan Sulut
 
 ## Referensi
 
-- Wikipedia Sulawesi Utara: https://id.wikipedia.org/wiki/Sulawesi_Utara
-
-## Wisata
-
-Berikut daftar 300+ destinasi wisata di Sulawesi Utara, terkategorisasi:
-
-### 🏖️ Wisata Alam & Pantai (100 destinasi)
-
-| No  | Nama Tempat                       | Jenis | Wilayah        |
-| --- | --------------------------------- | ----- | -------------- |
-| 1   | Destinasi Alam 1 Sulawesi Utara   | Alam  | Sulawesi Utara |
-| 2   | Destinasi Alam 2 Sulawesi Utara   | Alam  | Sulawesi Utara |
-| 3   | Destinasi Alam 3 Sulawesi Utara   | Alam  | Sulawesi Utara |
-| 4   | Destinasi Alam 4 Sulawesi Utara   | Alam  | Sulawesi Utara |
-| 5   | Destinasi Alam 5 Sulawesi Utara   | Alam  | Sulawesi Utara |
-| 6   | Destinasi Alam 6 Sulawesi Utara   | Alam  | Sulawesi Utara |
-| 7   | Destinasi Alam 7 Sulawesi Utara   | Alam  | Sulawesi Utara |
-| 8   | Destinasi Alam 8 Sulawesi Utara   | Alam  | Sulawesi Utara |
-| 9   | Destinasi Alam 9 Sulawesi Utara   | Alam  | Sulawesi Utara |
-| 10  | Destinasi Alam 10 Sulawesi Utara  | Alam  | Sulawesi Utara |
-| 11  | Destinasi Alam 11 Sulawesi Utara  | Alam  | Sulawesi Utara |
-| 12  | Destinasi Alam 12 Sulawesi Utara  | Alam  | Sulawesi Utara |
-| 13  | Destinasi Alam 13 Sulawesi Utara  | Alam  | Sulawesi Utara |
-| 14  | Destinasi Alam 14 Sulawesi Utara  | Alam  | Sulawesi Utara |
-| 15  | Destinasi Alam 15 Sulawesi Utara  | Alam  | Sulawesi Utara |
-| 16  | Destinasi Alam 16 Sulawesi Utara  | Alam  | Sulawesi Utara |
-| 17  | Destinasi Alam 17 Sulawesi Utara  | Alam  | Sulawesi Utara |
-| 18  | Destinasi Alam 18 Sulawesi Utara  | Alam  | Sulawesi Utara |
-| 19  | Destinasi Alam 19 Sulawesi Utara  | Alam  | Sulawesi Utara |
-| 20  | Destinasi Alam 20 Sulawesi Utara  | Alam  | Sulawesi Utara |
-| 21  | Destinasi Alam 21 Sulawesi Utara  | Alam  | Sulawesi Utara |
-| 22  | Destinasi Alam 22 Sulawesi Utara  | Alam  | Sulawesi Utara |
-| 23  | Destinasi Alam 23 Sulawesi Utara  | Alam  | Sulawesi Utara |
-| 24  | Destinasi Alam 24 Sulawesi Utara  | Alam  | Sulawesi Utara |
-| 25  | Destinasi Alam 25 Sulawesi Utara  | Alam  | Sulawesi Utara |
-| 26  | Destinasi Alam 26 Sulawesi Utara  | Alam  | Sulawesi Utara |
-| 27  | Destinasi Alam 27 Sulawesi Utara  | Alam  | Sulawesi Utara |
-| 28  | Destinasi Alam 28 Sulawesi Utara  | Alam  | Sulawesi Utara |
-| 29  | Destinasi Alam 29 Sulawesi Utara  | Alam  | Sulawesi Utara |
-| 30  | Destinasi Alam 30 Sulawesi Utara  | Alam  | Sulawesi Utara |
-| 31  | Destinasi Alam 31 Sulawesi Utara  | Alam  | Sulawesi Utara |
-| 32  | Destinasi Alam 32 Sulawesi Utara  | Alam  | Sulawesi Utara |
-| 33  | Destinasi Alam 33 Sulawesi Utara  | Alam  | Sulawesi Utara |
-| 34  | Destinasi Alam 34 Sulawesi Utara  | Alam  | Sulawesi Utara |
-| 35  | Destinasi Alam 35 Sulawesi Utara  | Alam  | Sulawesi Utara |
-| 36  | Destinasi Alam 36 Sulawesi Utara  | Alam  | Sulawesi Utara |
-| 37  | Destinasi Alam 37 Sulawesi Utara  | Alam  | Sulawesi Utara |
-| 38  | Destinasi Alam 38 Sulawesi Utara  | Alam  | Sulawesi Utara |
-| 39  | Destinasi Alam 39 Sulawesi Utara  | Alam  | Sulawesi Utara |
-| 40  | Destinasi Alam 40 Sulawesi Utara  | Alam  | Sulawesi Utara |
-| 41  | Destinasi Alam 41 Sulawesi Utara  | Alam  | Sulawesi Utara |
-| 42  | Destinasi Alam 42 Sulawesi Utara  | Alam  | Sulawesi Utara |
-| 43  | Destinasi Alam 43 Sulawesi Utara  | Alam  | Sulawesi Utara |
-| 44  | Destinasi Alam 44 Sulawesi Utara  | Alam  | Sulawesi Utara |
-| 45  | Destinasi Alam 45 Sulawesi Utara  | Alam  | Sulawesi Utara |
-| 46  | Destinasi Alam 46 Sulawesi Utara  | Alam  | Sulawesi Utara |
-| 47  | Destinasi Alam 47 Sulawesi Utara  | Alam  | Sulawesi Utara |
-| 48  | Destinasi Alam 48 Sulawesi Utara  | Alam  | Sulawesi Utara |
-| 49  | Destinasi Alam 49 Sulawesi Utara  | Alam  | Sulawesi Utara |
-| 50  | Destinasi Alam 50 Sulawesi Utara  | Alam  | Sulawesi Utara |
-| 51  | Destinasi Alam 51 Sulawesi Utara  | Alam  | Sulawesi Utara |
-| 52  | Destinasi Alam 52 Sulawesi Utara  | Alam  | Sulawesi Utara |
-| 53  | Destinasi Alam 53 Sulawesi Utara  | Alam  | Sulawesi Utara |
-| 54  | Destinasi Alam 54 Sulawesi Utara  | Alam  | Sulawesi Utara |
-| 55  | Destinasi Alam 55 Sulawesi Utara  | Alam  | Sulawesi Utara |
-| 56  | Destinasi Alam 56 Sulawesi Utara  | Alam  | Sulawesi Utara |
-| 57  | Destinasi Alam 57 Sulawesi Utara  | Alam  | Sulawesi Utara |
-| 58  | Destinasi Alam 58 Sulawesi Utara  | Alam  | Sulawesi Utara |
-| 59  | Destinasi Alam 59 Sulawesi Utara  | Alam  | Sulawesi Utara |
-| 60  | Destinasi Alam 60 Sulawesi Utara  | Alam  | Sulawesi Utara |
-| 61  | Destinasi Alam 61 Sulawesi Utara  | Alam  | Sulawesi Utara |
-| 62  | Destinasi Alam 62 Sulawesi Utara  | Alam  | Sulawesi Utara |
-| 63  | Destinasi Alam 63 Sulawesi Utara  | Alam  | Sulawesi Utara |
-| 64  | Destinasi Alam 64 Sulawesi Utara  | Alam  | Sulawesi Utara |
-| 65  | Destinasi Alam 65 Sulawesi Utara  | Alam  | Sulawesi Utara |
-| 66  | Destinasi Alam 66 Sulawesi Utara  | Alam  | Sulawesi Utara |
-| 67  | Destinasi Alam 67 Sulawesi Utara  | Alam  | Sulawesi Utara |
-| 68  | Destinasi Alam 68 Sulawesi Utara  | Alam  | Sulawesi Utara |
-| 69  | Destinasi Alam 69 Sulawesi Utara  | Alam  | Sulawesi Utara |
-| 70  | Destinasi Alam 70 Sulawesi Utara  | Alam  | Sulawesi Utara |
-| 71  | Destinasi Alam 71 Sulawesi Utara  | Alam  | Sulawesi Utara |
-| 72  | Destinasi Alam 72 Sulawesi Utara  | Alam  | Sulawesi Utara |
-| 73  | Destinasi Alam 73 Sulawesi Utara  | Alam  | Sulawesi Utara |
-| 74  | Destinasi Alam 74 Sulawesi Utara  | Alam  | Sulawesi Utara |
-| 75  | Destinasi Alam 75 Sulawesi Utara  | Alam  | Sulawesi Utara |
-| 76  | Destinasi Alam 76 Sulawesi Utara  | Alam  | Sulawesi Utara |
-| 77  | Destinasi Alam 77 Sulawesi Utara  | Alam  | Sulawesi Utara |
-| 78  | Destinasi Alam 78 Sulawesi Utara  | Alam  | Sulawesi Utara |
-| 79  | Destinasi Alam 79 Sulawesi Utara  | Alam  | Sulawesi Utara |
-| 80  | Destinasi Alam 80 Sulawesi Utara  | Alam  | Sulawesi Utara |
-| 81  | Destinasi Alam 81 Sulawesi Utara  | Alam  | Sulawesi Utara |
-| 82  | Destinasi Alam 82 Sulawesi Utara  | Alam  | Sulawesi Utara |
-| 83  | Destinasi Alam 83 Sulawesi Utara  | Alam  | Sulawesi Utara |
-| 84  | Destinasi Alam 84 Sulawesi Utara  | Alam  | Sulawesi Utara |
-| 85  | Destinasi Alam 85 Sulawesi Utara  | Alam  | Sulawesi Utara |
-| 86  | Destinasi Alam 86 Sulawesi Utara  | Alam  | Sulawesi Utara |
-| 87  | Destinasi Alam 87 Sulawesi Utara  | Alam  | Sulawesi Utara |
-| 88  | Destinasi Alam 88 Sulawesi Utara  | Alam  | Sulawesi Utara |
-| 89  | Destinasi Alam 89 Sulawesi Utara  | Alam  | Sulawesi Utara |
-| 90  | Destinasi Alam 90 Sulawesi Utara  | Alam  | Sulawesi Utara |
-| 91  | Destinasi Alam 91 Sulawesi Utara  | Alam  | Sulawesi Utara |
-| 92  | Destinasi Alam 92 Sulawesi Utara  | Alam  | Sulawesi Utara |
-| 93  | Destinasi Alam 93 Sulawesi Utara  | Alam  | Sulawesi Utara |
-| 94  | Destinasi Alam 94 Sulawesi Utara  | Alam  | Sulawesi Utara |
-| 95  | Destinasi Alam 95 Sulawesi Utara  | Alam  | Sulawesi Utara |
-| 96  | Destinasi Alam 96 Sulawesi Utara  | Alam  | Sulawesi Utara |
-| 97  | Destinasi Alam 97 Sulawesi Utara  | Alam  | Sulawesi Utara |
-| 98  | Destinasi Alam 98 Sulawesi Utara  | Alam  | Sulawesi Utara |
-| 99  | Destinasi Alam 99 Sulawesi Utara  | Alam  | Sulawesi Utara |
-| 100 | Destinasi Alam 100 Sulawesi Utara | Alam  | Sulawesi Utara |
-
-### 🕌 Wisata Religi & Budaya (100 destinasi)
-
-| No  | Nama Tempat                         | Jenis  | Wilayah        |
-| --- | ----------------------------------- | ------ | -------------- |
-| 101 | Destinasi Budaya 1 Sulawesi Utara   | Budaya | Sulawesi Utara |
-| 102 | Destinasi Budaya 2 Sulawesi Utara   | Budaya | Sulawesi Utara |
-| 103 | Destinasi Budaya 3 Sulawesi Utara   | Budaya | Sulawesi Utara |
-| 104 | Destinasi Budaya 4 Sulawesi Utara   | Budaya | Sulawesi Utara |
-| 105 | Destinasi Budaya 5 Sulawesi Utara   | Budaya | Sulawesi Utara |
-| 106 | Destinasi Budaya 6 Sulawesi Utara   | Budaya | Sulawesi Utara |
-| 107 | Destinasi Budaya 7 Sulawesi Utara   | Budaya | Sulawesi Utara |
-| 108 | Destinasi Budaya 8 Sulawesi Utara   | Budaya | Sulawesi Utara |
-| 109 | Destinasi Budaya 9 Sulawesi Utara   | Budaya | Sulawesi Utara |
-| 110 | Destinasi Budaya 10 Sulawesi Utara  | Budaya | Sulawesi Utara |
-| 111 | Destinasi Budaya 11 Sulawesi Utara  | Budaya | Sulawesi Utara |
-| 112 | Destinasi Budaya 12 Sulawesi Utara  | Budaya | Sulawesi Utara |
-| 113 | Destinasi Budaya 13 Sulawesi Utara  | Budaya | Sulawesi Utara |
-| 114 | Destinasi Budaya 14 Sulawesi Utara  | Budaya | Sulawesi Utara |
-| 115 | Destinasi Budaya 15 Sulawesi Utara  | Budaya | Sulawesi Utara |
-| 116 | Destinasi Budaya 16 Sulawesi Utara  | Budaya | Sulawesi Utara |
-| 117 | Destinasi Budaya 17 Sulawesi Utara  | Budaya | Sulawesi Utara |
-| 118 | Destinasi Budaya 18 Sulawesi Utara  | Budaya | Sulawesi Utara |
-| 119 | Destinasi Budaya 19 Sulawesi Utara  | Budaya | Sulawesi Utara |
-| 120 | Destinasi Budaya 20 Sulawesi Utara  | Budaya | Sulawesi Utara |
-| 121 | Destinasi Budaya 21 Sulawesi Utara  | Budaya | Sulawesi Utara |
-| 122 | Destinasi Budaya 22 Sulawesi Utara  | Budaya | Sulawesi Utara |
-| 123 | Destinasi Budaya 23 Sulawesi Utara  | Budaya | Sulawesi Utara |
-| 124 | Destinasi Budaya 24 Sulawesi Utara  | Budaya | Sulawesi Utara |
-| 125 | Destinasi Budaya 25 Sulawesi Utara  | Budaya | Sulawesi Utara |
-| 126 | Destinasi Budaya 26 Sulawesi Utara  | Budaya | Sulawesi Utara |
-| 127 | Destinasi Budaya 27 Sulawesi Utara  | Budaya | Sulawesi Utara |
-| 128 | Destinasi Budaya 28 Sulawesi Utara  | Budaya | Sulawesi Utara |
-| 129 | Destinasi Budaya 29 Sulawesi Utara  | Budaya | Sulawesi Utara |
-| 130 | Destinasi Budaya 30 Sulawesi Utara  | Budaya | Sulawesi Utara |
-| 131 | Destinasi Budaya 31 Sulawesi Utara  | Budaya | Sulawesi Utara |
-| 132 | Destinasi Budaya 32 Sulawesi Utara  | Budaya | Sulawesi Utara |
-| 133 | Destinasi Budaya 33 Sulawesi Utara  | Budaya | Sulawesi Utara |
-| 134 | Destinasi Budaya 34 Sulawesi Utara  | Budaya | Sulawesi Utara |
-| 135 | Destinasi Budaya 35 Sulawesi Utara  | Budaya | Sulawesi Utara |
-| 136 | Destinasi Budaya 36 Sulawesi Utara  | Budaya | Sulawesi Utara |
-| 137 | Destinasi Budaya 37 Sulawesi Utara  | Budaya | Sulawesi Utara |
-| 138 | Destinasi Budaya 38 Sulawesi Utara  | Budaya | Sulawesi Utara |
-| 139 | Destinasi Budaya 39 Sulawesi Utara  | Budaya | Sulawesi Utara |
-| 140 | Destinasi Budaya 40 Sulawesi Utara  | Budaya | Sulawesi Utara |
-| 141 | Destinasi Budaya 41 Sulawesi Utara  | Budaya | Sulawesi Utara |
-| 142 | Destinasi Budaya 42 Sulawesi Utara  | Budaya | Sulawesi Utara |
-| 143 | Destinasi Budaya 43 Sulawesi Utara  | Budaya | Sulawesi Utara |
-| 144 | Destinasi Budaya 44 Sulawesi Utara  | Budaya | Sulawesi Utara |
-| 145 | Destinasi Budaya 45 Sulawesi Utara  | Budaya | Sulawesi Utara |
-| 146 | Destinasi Budaya 46 Sulawesi Utara  | Budaya | Sulawesi Utara |
-| 147 | Destinasi Budaya 47 Sulawesi Utara  | Budaya | Sulawesi Utara |
-| 148 | Destinasi Budaya 48 Sulawesi Utara  | Budaya | Sulawesi Utara |
-| 149 | Destinasi Budaya 49 Sulawesi Utara  | Budaya | Sulawesi Utara |
-| 150 | Destinasi Budaya 50 Sulawesi Utara  | Budaya | Sulawesi Utara |
-| 151 | Destinasi Budaya 51 Sulawesi Utara  | Budaya | Sulawesi Utara |
-| 152 | Destinasi Budaya 52 Sulawesi Utara  | Budaya | Sulawesi Utara |
-| 153 | Destinasi Budaya 53 Sulawesi Utara  | Budaya | Sulawesi Utara |
-| 154 | Destinasi Budaya 54 Sulawesi Utara  | Budaya | Sulawesi Utara |
-| 155 | Destinasi Budaya 55 Sulawesi Utara  | Budaya | Sulawesi Utara |
-| 156 | Destinasi Budaya 56 Sulawesi Utara  | Budaya | Sulawesi Utara |
-| 157 | Destinasi Budaya 57 Sulawesi Utara  | Budaya | Sulawesi Utara |
-| 158 | Destinasi Budaya 58 Sulawesi Utara  | Budaya | Sulawesi Utara |
-| 159 | Destinasi Budaya 59 Sulawesi Utara  | Budaya | Sulawesi Utara |
-| 160 | Destinasi Budaya 60 Sulawesi Utara  | Budaya | Sulawesi Utara |
-| 161 | Destinasi Budaya 61 Sulawesi Utara  | Budaya | Sulawesi Utara |
-| 162 | Destinasi Budaya 62 Sulawesi Utara  | Budaya | Sulawesi Utara |
-| 163 | Destinasi Budaya 63 Sulawesi Utara  | Budaya | Sulawesi Utara |
-| 164 | Destinasi Budaya 64 Sulawesi Utara  | Budaya | Sulawesi Utara |
-| 165 | Destinasi Budaya 65 Sulawesi Utara  | Budaya | Sulawesi Utara |
-| 166 | Destinasi Budaya 66 Sulawesi Utara  | Budaya | Sulawesi Utara |
-| 167 | Destinasi Budaya 67 Sulawesi Utara  | Budaya | Sulawesi Utara |
-| 168 | Destinasi Budaya 68 Sulawesi Utara  | Budaya | Sulawesi Utara |
-| 169 | Destinasi Budaya 69 Sulawesi Utara  | Budaya | Sulawesi Utara |
-| 170 | Destinasi Budaya 70 Sulawesi Utara  | Budaya | Sulawesi Utara |
-| 171 | Destinasi Budaya 71 Sulawesi Utara  | Budaya | Sulawesi Utara |
-| 172 | Destinasi Budaya 72 Sulawesi Utara  | Budaya | Sulawesi Utara |
-| 173 | Destinasi Budaya 73 Sulawesi Utara  | Budaya | Sulawesi Utara |
-| 174 | Destinasi Budaya 74 Sulawesi Utara  | Budaya | Sulawesi Utara |
-| 175 | Destinasi Budaya 75 Sulawesi Utara  | Budaya | Sulawesi Utara |
-| 176 | Destinasi Budaya 76 Sulawesi Utara  | Budaya | Sulawesi Utara |
-| 177 | Destinasi Budaya 77 Sulawesi Utara  | Budaya | Sulawesi Utara |
-| 178 | Destinasi Budaya 78 Sulawesi Utara  | Budaya | Sulawesi Utara |
-| 179 | Destinasi Budaya 79 Sulawesi Utara  | Budaya | Sulawesi Utara |
-| 180 | Destinasi Budaya 80 Sulawesi Utara  | Budaya | Sulawesi Utara |
-| 181 | Destinasi Budaya 81 Sulawesi Utara  | Budaya | Sulawesi Utara |
-| 182 | Destinasi Budaya 82 Sulawesi Utara  | Budaya | Sulawesi Utara |
-| 183 | Destinasi Budaya 83 Sulawesi Utara  | Budaya | Sulawesi Utara |
-| 184 | Destinasi Budaya 84 Sulawesi Utara  | Budaya | Sulawesi Utara |
-| 185 | Destinasi Budaya 85 Sulawesi Utara  | Budaya | Sulawesi Utara |
-| 186 | Destinasi Budaya 86 Sulawesi Utara  | Budaya | Sulawesi Utara |
-| 187 | Destinasi Budaya 87 Sulawesi Utara  | Budaya | Sulawesi Utara |
-| 188 | Destinasi Budaya 88 Sulawesi Utara  | Budaya | Sulawesi Utara |
-| 189 | Destinasi Budaya 89 Sulawesi Utara  | Budaya | Sulawesi Utara |
-| 190 | Destinasi Budaya 90 Sulawesi Utara  | Budaya | Sulawesi Utara |
-| 191 | Destinasi Budaya 91 Sulawesi Utara  | Budaya | Sulawesi Utara |
-| 192 | Destinasi Budaya 92 Sulawesi Utara  | Budaya | Sulawesi Utara |
-| 193 | Destinasi Budaya 93 Sulawesi Utara  | Budaya | Sulawesi Utara |
-| 194 | Destinasi Budaya 94 Sulawesi Utara  | Budaya | Sulawesi Utara |
-| 195 | Destinasi Budaya 95 Sulawesi Utara  | Budaya | Sulawesi Utara |
-| 196 | Destinasi Budaya 96 Sulawesi Utara  | Budaya | Sulawesi Utara |
-| 197 | Destinasi Budaya 97 Sulawesi Utara  | Budaya | Sulawesi Utara |
-| 198 | Destinasi Budaya 98 Sulawesi Utara  | Budaya | Sulawesi Utara |
-| 199 | Destinasi Budaya 99 Sulawesi Utara  | Budaya | Sulawesi Utara |
-| 200 | Destinasi Budaya 100 Sulawesi Utara | Budaya | Sulawesi Utara |
-
-### 🌿 Wisata Kuliner & Belanja (100 destinasi)
-
-| No  | Nama Tempat                          | Jenis   | Wilayah        |
-| --- | ------------------------------------ | ------- | -------------- |
-| 201 | Destinasi Kuliner 1 Sulawesi Utara   | Kuliner | Sulawesi Utara |
-| 202 | Destinasi Kuliner 2 Sulawesi Utara   | Kuliner | Sulawesi Utara |
-| 203 | Destinasi Kuliner 3 Sulawesi Utara   | Kuliner | Sulawesi Utara |
-| 204 | Destinasi Kuliner 4 Sulawesi Utara   | Kuliner | Sulawesi Utara |
-| 205 | Destinasi Kuliner 5 Sulawesi Utara   | Kuliner | Sulawesi Utara |
-| 206 | Destinasi Kuliner 6 Sulawesi Utara   | Kuliner | Sulawesi Utara |
-| 207 | Destinasi Kuliner 7 Sulawesi Utara   | Kuliner | Sulawesi Utara |
-| 208 | Destinasi Kuliner 8 Sulawesi Utara   | Kuliner | Sulawesi Utara |
-| 209 | Destinasi Kuliner 9 Sulawesi Utara   | Kuliner | Sulawesi Utara |
-| 210 | Destinasi Kuliner 10 Sulawesi Utara  | Kuliner | Sulawesi Utara |
-| 211 | Destinasi Kuliner 11 Sulawesi Utara  | Kuliner | Sulawesi Utara |
-| 212 | Destinasi Kuliner 12 Sulawesi Utara  | Kuliner | Sulawesi Utara |
-| 213 | Destinasi Kuliner 13 Sulawesi Utara  | Kuliner | Sulawesi Utara |
-| 214 | Destinasi Kuliner 14 Sulawesi Utara  | Kuliner | Sulawesi Utara |
-| 215 | Destinasi Kuliner 15 Sulawesi Utara  | Kuliner | Sulawesi Utara |
-| 216 | Destinasi Kuliner 16 Sulawesi Utara  | Kuliner | Sulawesi Utara |
-| 217 | Destinasi Kuliner 17 Sulawesi Utara  | Kuliner | Sulawesi Utara |
-| 218 | Destinasi Kuliner 18 Sulawesi Utara  | Kuliner | Sulawesi Utara |
-| 219 | Destinasi Kuliner 19 Sulawesi Utara  | Kuliner | Sulawesi Utara |
-| 220 | Destinasi Kuliner 20 Sulawesi Utara  | Kuliner | Sulawesi Utara |
-| 221 | Destinasi Kuliner 21 Sulawesi Utara  | Kuliner | Sulawesi Utara |
-| 222 | Destinasi Kuliner 22 Sulawesi Utara  | Kuliner | Sulawesi Utara |
-| 223 | Destinasi Kuliner 23 Sulawesi Utara  | Kuliner | Sulawesi Utara |
-| 224 | Destinasi Kuliner 24 Sulawesi Utara  | Kuliner | Sulawesi Utara |
-| 225 | Destinasi Kuliner 25 Sulawesi Utara  | Kuliner | Sulawesi Utara |
-| 226 | Destinasi Kuliner 26 Sulawesi Utara  | Kuliner | Sulawesi Utara |
-| 227 | Destinasi Kuliner 27 Sulawesi Utara  | Kuliner | Sulawesi Utara |
-| 228 | Destinasi Kuliner 28 Sulawesi Utara  | Kuliner | Sulawesi Utara |
-| 229 | Destinasi Kuliner 29 Sulawesi Utara  | Kuliner | Sulawesi Utara |
-| 230 | Destinasi Kuliner 30 Sulawesi Utara  | Kuliner | Sulawesi Utara |
-| 231 | Destinasi Kuliner 31 Sulawesi Utara  | Kuliner | Sulawesi Utara |
-| 232 | Destinasi Kuliner 32 Sulawesi Utara  | Kuliner | Sulawesi Utara |
-| 233 | Destinasi Kuliner 33 Sulawesi Utara  | Kuliner | Sulawesi Utara |
-| 234 | Destinasi Kuliner 34 Sulawesi Utara  | Kuliner | Sulawesi Utara |
-| 235 | Destinasi Kuliner 35 Sulawesi Utara  | Kuliner | Sulawesi Utara |
-| 236 | Destinasi Kuliner 36 Sulawesi Utara  | Kuliner | Sulawesi Utara |
-| 237 | Destinasi Kuliner 37 Sulawesi Utara  | Kuliner | Sulawesi Utara |
-| 238 | Destinasi Kuliner 38 Sulawesi Utara  | Kuliner | Sulawesi Utara |
-| 239 | Destinasi Kuliner 39 Sulawesi Utara  | Kuliner | Sulawesi Utara |
-| 240 | Destinasi Kuliner 40 Sulawesi Utara  | Kuliner | Sulawesi Utara |
-| 241 | Destinasi Kuliner 41 Sulawesi Utara  | Kuliner | Sulawesi Utara |
-| 242 | Destinasi Kuliner 42 Sulawesi Utara  | Kuliner | Sulawesi Utara |
-| 243 | Destinasi Kuliner 43 Sulawesi Utara  | Kuliner | Sulawesi Utara |
-| 244 | Destinasi Kuliner 44 Sulawesi Utara  | Kuliner | Sulawesi Utara |
-| 245 | Destinasi Kuliner 45 Sulawesi Utara  | Kuliner | Sulawesi Utara |
-| 246 | Destinasi Kuliner 46 Sulawesi Utara  | Kuliner | Sulawesi Utara |
-| 247 | Destinasi Kuliner 47 Sulawesi Utara  | Kuliner | Sulawesi Utara |
-| 248 | Destinasi Kuliner 48 Sulawesi Utara  | Kuliner | Sulawesi Utara |
-| 249 | Destinasi Kuliner 49 Sulawesi Utara  | Kuliner | Sulawesi Utara |
-| 250 | Destinasi Kuliner 50 Sulawesi Utara  | Kuliner | Sulawesi Utara |
-| 251 | Destinasi Kuliner 51 Sulawesi Utara  | Kuliner | Sulawesi Utara |
-| 252 | Destinasi Kuliner 52 Sulawesi Utara  | Kuliner | Sulawesi Utara |
-| 253 | Destinasi Kuliner 53 Sulawesi Utara  | Kuliner | Sulawesi Utara |
-| 254 | Destinasi Kuliner 54 Sulawesi Utara  | Kuliner | Sulawesi Utara |
-| 255 | Destinasi Kuliner 55 Sulawesi Utara  | Kuliner | Sulawesi Utara |
-| 256 | Destinasi Kuliner 56 Sulawesi Utara  | Kuliner | Sulawesi Utara |
-| 257 | Destinasi Kuliner 57 Sulawesi Utara  | Kuliner | Sulawesi Utara |
-| 258 | Destinasi Kuliner 58 Sulawesi Utara  | Kuliner | Sulawesi Utara |
-| 259 | Destinasi Kuliner 59 Sulawesi Utara  | Kuliner | Sulawesi Utara |
-| 260 | Destinasi Kuliner 60 Sulawesi Utara  | Kuliner | Sulawesi Utara |
-| 261 | Destinasi Kuliner 61 Sulawesi Utara  | Kuliner | Sulawesi Utara |
-| 262 | Destinasi Kuliner 62 Sulawesi Utara  | Kuliner | Sulawesi Utara |
-| 263 | Destinasi Kuliner 63 Sulawesi Utara  | Kuliner | Sulawesi Utara |
-| 264 | Destinasi Kuliner 64 Sulawesi Utara  | Kuliner | Sulawesi Utara |
-| 265 | Destinasi Kuliner 65 Sulawesi Utara  | Kuliner | Sulawesi Utara |
-| 266 | Destinasi Kuliner 66 Sulawesi Utara  | Kuliner | Sulawesi Utara |
-| 267 | Destinasi Kuliner 67 Sulawesi Utara  | Kuliner | Sulawesi Utara |
-| 268 | Destinasi Kuliner 68 Sulawesi Utara  | Kuliner | Sulawesi Utara |
-| 269 | Destinasi Kuliner 69 Sulawesi Utara  | Kuliner | Sulawesi Utara |
-| 270 | Destinasi Kuliner 70 Sulawesi Utara  | Kuliner | Sulawesi Utara |
-| 271 | Destinasi Kuliner 71 Sulawesi Utara  | Kuliner | Sulawesi Utara |
-| 272 | Destinasi Kuliner 72 Sulawesi Utara  | Kuliner | Sulawesi Utara |
-| 273 | Destinasi Kuliner 73 Sulawesi Utara  | Kuliner | Sulawesi Utara |
-| 274 | Destinasi Kuliner 74 Sulawesi Utara  | Kuliner | Sulawesi Utara |
-| 275 | Destinasi Kuliner 75 Sulawesi Utara  | Kuliner | Sulawesi Utara |
-| 276 | Destinasi Kuliner 76 Sulawesi Utara  | Kuliner | Sulawesi Utara |
-| 277 | Destinasi Kuliner 77 Sulawesi Utara  | Kuliner | Sulawesi Utara |
-| 278 | Destinasi Kuliner 78 Sulawesi Utara  | Kuliner | Sulawesi Utara |
-| 279 | Destinasi Kuliner 79 Sulawesi Utara  | Kuliner | Sulawesi Utara |
-| 280 | Destinasi Kuliner 80 Sulawesi Utara  | Kuliner | Sulawesi Utara |
-| 281 | Destinasi Kuliner 81 Sulawesi Utara  | Kuliner | Sulawesi Utara |
-| 282 | Destinasi Kuliner 82 Sulawesi Utara  | Kuliner | Sulawesi Utara |
-| 283 | Destinasi Kuliner 83 Sulawesi Utara  | Kuliner | Sulawesi Utara |
-| 284 | Destinasi Kuliner 84 Sulawesi Utara  | Kuliner | Sulawesi Utara |
-| 285 | Destinasi Kuliner 85 Sulawesi Utara  | Kuliner | Sulawesi Utara |
-| 286 | Destinasi Kuliner 86 Sulawesi Utara  | Kuliner | Sulawesi Utara |
-| 287 | Destinasi Kuliner 87 Sulawesi Utara  | Kuliner | Sulawesi Utara |
-| 288 | Destinasi Kuliner 88 Sulawesi Utara  | Kuliner | Sulawesi Utara |
-| 289 | Destinasi Kuliner 89 Sulawesi Utara  | Kuliner | Sulawesi Utara |
-| 290 | Destinasi Kuliner 90 Sulawesi Utara  | Kuliner | Sulawesi Utara |
-| 291 | Destinasi Kuliner 91 Sulawesi Utara  | Kuliner | Sulawesi Utara |
-| 292 | Destinasi Kuliner 92 Sulawesi Utara  | Kuliner | Sulawesi Utara |
-| 293 | Destinasi Kuliner 93 Sulawesi Utara  | Kuliner | Sulawesi Utara |
-| 294 | Destinasi Kuliner 94 Sulawesi Utara  | Kuliner | Sulawesi Utara |
-| 295 | Destinasi Kuliner 95 Sulawesi Utara  | Kuliner | Sulawesi Utara |
-| 296 | Destinasi Kuliner 96 Sulawesi Utara  | Kuliner | Sulawesi Utara |
-| 297 | Destinasi Kuliner 97 Sulawesi Utara  | Kuliner | Sulawesi Utara |
-| 298 | Destinasi Kuliner 98 Sulawesi Utara  | Kuliner | Sulawesi Utara |
-| 299 | Destinasi Kuliner 99 Sulawesi Utara  | Kuliner | Sulawesi Utara |
-| 300 | Destinasi Kuliner 100 Sulawesi Utara | Kuliner | Sulawesi Utara |
-
-## Kode Pos & Kode Telepon
-
-### Kode Pos
-
-Range kode pos: **95000-95999**
-
-| Wilayah           | Kode Pos                          |
-| ----------------- | --------------------------------- |
-| Ibu Kota Provinsi | (lihat detail per kabupaten/kota) |
-| Kabupaten/Kota    | (lihat folder masing-masing)      |
-
-### Kode Telepon (Kode Area)
-
-0431 (Manado), 0438 (Bitung), 0434 (Kotamobagu), 0431 (Tomohon), 0431 (Minahasa), 0431 (Minahasa Utara), 0431 (Minahasa Selatan), 0431 (Minahasa Tenggara), 0434 (Bolaang Mongondow), 0434 (Bolaang Mongondow Utara), 0434 (Bolaang Mongondow Timur), 0434 (Bolaang Mongondow Selatan), 0432 (Kepulauan Sangihe), 0432 (Kepulauan Talaud), 0432 (Kepulauan Siau Tagulandang Biaro)
-
-> Catatan: Kode area di atas adalah untuk telepon rumah/kantor. Untuk telepon seluler, gunakan kode operator nasional (0811, 0812, 0813, 0821, 0822, 0823, 0851, 0852, 0853, 0855, 0856, 0857, 0858, 0877, 0878, 0881, 0882, 0883, 0884, 0885, 0886, 0887, 0888, 0889, 0895, 0896, 0897, 0898, 0899).
-
-## Tokoh Lengkap
-
-**Pahlawan Nasional:**
-
-- Tokoh-tokoh pahlawan dari Sulawesi Utara (lihat Wikipedia untuk daftar lengkap)
-
-**Tokoh Modern:**
-
-- Gubernur dan pejabat daerah Sulawesi Utara
-- Tokoh politik, bisnis, dan budaya Sulawesi Utara
-
-**Tokoh Agama & Budaya:**
-
-- Ulama, seniman, dan budayawan Sulawesi Utara
-
-## Sejarah Detail
-
-### Masa Prasejarah & Kerajaan Kuno
-
-- Wilayah Sulawesi Utara telah dihuni sejak masa prasejarah, dibuktikan dengan temuan arkeologis.
-- Berbagai kerajaan kuno pernah berdiri dan berkembang di wilayah ini.
-
-### Masa Kerajaan Hindu-Buddha
-
-- Pengaruh Hindu-Buddha masuk ke wilayah Sulawesi Utara melalui jalur perdagangan.
-- Beberapa kerajaan bercorak Hindu-Buddha pernah berkuasa di wilayah ini.
-
-### Masa Kerajaan Islam
-
-- Islam masuk ke wilayah Sulawesi Utara melalui pedagang dan ulama.
-- Kesultanan-kesultanan Islam berkembang dan menjadi pusat kekuasaan.
-
-### Masa Kolonial
-
-- Portugis, Belanda, dan Inggris pernah menguasai atau mempengaruhi wilayah Sulawesi Utara.
-- Perlawanan rakyat terhadap penjajah terjadi di berbagai daerah.
-- VOC (Vereenigde Oost-Indische Compagnie) mendirikan pos perdagangan.
-- Pemerintah Hindia Belanda mengatur wilayah ini sebagai bagian dari koloni.
-
-### Masa Pergerakan Nasional
-
-- Tokoh-tokoh dari Sulawesi Utara turut berperan dalam pergerakan kemerdekaan Indonesia.
-- Organisasi pergerakan nasional aktif di wilayah ini.
-
-### Masa Kemerdekaan
-
-- Wilayah Sulawesi Utara menjadi bagian dari Republik Indonesia yang diproklamasikan 17 Agustus 1945.
-- Berbagai pertempuran mempertahankan kemerdekaan terjadi di wilayah ini.
-
-### Masa Orde Lama (1945-1966)
-
-- Pembentukan pemerintahan daerah dan konsolidasi wilayah.
-- Berbagai pemberontakan dan konflik internal terjadi.
-
-### Masa Orde Baru (1966-1998)
-
-- Pembangunan infrastruktur dan ekonomi secara masif.
-- Transmigrasi membawa perubahan demografis.
-
-### Masa Reformasi (1998-sekarang)
-
-- Otonomi daerah memberikan kewenangan lebih besar kepada pemerintah daerah.
-- Pemekaran wilayah menciptakan kabupaten/kota baru.
-- Pembangunan berkelanjutan dan peningkatan kesejahteraan masyarakat.
-
-## Fun Fact Lengkap
-
-### 🌍 Geografi & Alam
-
-- Sulawesi Utara memiliki keunikan geografis yang membedakannya dari provinsi lain di Indonesia.
-- Terdapat berbagai ekosistem unik di Sulawesi Utara, dari hutan tropis hingga pesisir pantai.
-- Beberapa spesies flora dan fauna endemik hanya ditemukan di Sulawesi Utara.
-- Kondisi iklim Sulawesi Utara dipengaruhi oleh posisi geografisnya di kepulauan Indonesia.
-- Terdapat sumber daya alam yang melimpah di Sulawesi Utara, baik mineral maupun hayati.
-
-### 🏛️ Sejarah & Budaya
-
-- Sulawesi Utara memiliki sejarah panjang yang mencakup berbagai peradaban dan kerajaan.
-- Berbagai peninggalan sejarah masih dapat ditemukan di Sulawesi Utara.
-- Tradisi dan adat istiadat Sulawesi Utara telah diwariskan turun-temurun selama berabad-abad.
-- Bahasa daerah Sulawesi Utara memiliki keunikan tersendiri dalam rumpun bahasa Nusantara.
-- Seni pertunjukan tradisional Sulawesi Utara diakui sebagai warisan budaya yang berharga.
-
-### 🍽️ Kuliner & Produk Lokal
-
-- Masakan khas Sulawesi Utara menggunakan rempah-rempah lokal yang unik.
-- Beberapa produk pertanian Sulawesi Utara terkenal hingga ke mancanegara.
-- Minuman tradisional Sulawesi Utara memiliki khasiat kesehatan yang telah dikenal lama.
-- Kerajinan tangan Sulawesi Utara menggunakan bahan-bahan alami setempat.
-- Produk unggulan Sulawesi Utara berkontribusi signifikan terhadap perekonomian daerah.
-
-### 🎭 Seni & Tradisi
-
-- Festival tahunan di Sulawesi Utara menarik ribuan wisatawan setiap tahunnya.
-- Musik tradisional Sulawesi Utara menggunakan alat musik yang tidak ditemukan di daerah lain.
-- Pakaian adat Sulawesi Utara mencerminkan kekayaan budaya dan filosofi hidup masyarakatnya.
-- Upacara adat Sulawesi Utara memiliki makna spiritual yang mendalam bagi masyarakat setempat.
-- Tari tradisional Sulawesi Utara telah dipentaskan di berbagai festival internasional.
-
-### 🏆 Rekor & Pencapaian
-
-- Sulawesi Utara memegang beberapa rekor unik di tingkat nasional maupun internasional.
-- Beberapa tokoh terkenal Indonesia berasal dari Sulawesi Utara.
-- Sulawesi Utara telah menerima berbagai penghargaan atas prestasi pembangunan dan pelestarian budaya.
-- Produk-produk dari Sulawesi Utara telah mendapatkan pengakuan internasional.
-- Sulawesi Utara menjadi tuan rumah berbagai event nasional dan internasional.
-
-### 🌱 Lingkungan & Konservasi
-
-- Sulawesi Utara memiliki kawasan konservasi yang melindungi keanekaragaman hayati.
-- Beberapa spesies langka mendapat perlindungan khusus di Sulawesi Utara.
-- Program pelestarian lingkungan di Sulawesi Utara menjadi contoh bagi daerah lain.
-- Masyarakat Sulawesi Utara memiliki kearifan lokal dalam menjaga keseimbangan alam.
-- Hutan-hutan di Sulawesi Utara berperan penting dalam menjaga keseimbangan iklim regional.
-
-### 💡 Inovasi & Modernisasi
-
-- Sulawesi Utara terus berkembang dengan berbagai inovasi di bidang teknologi dan ekonomi.
-- Generasi muda Sulawesi Utara aktif dalam berbagai kompetisi nasional dan internasional.
-- Infrastruktur Sulawesi Utara terus ditingkatkan untuk mendukung pertumbuhan ekonomi.
-- Sektor pariwisata Sulawesi Utara berkembang pesat dengan berbagai destinasi baru.
-- Sulawesi Utara menjadi salah satu tujuan investasi yang menarik di Indonesia.
-
-## Fun Fact Spesifik
-
-### 🐠 Fakta Unik Sulawesi Utara
-
-1. **Bunaken** — Taman Nasional Bunaken adalah salah satu taman laut dengan keanekaragaman hayati tertinggi di dunia.
-2. **Kolintang** — Alat musik perkusi dari kayu khas Minahasa yang diakui UNESCO sebagai warisan budaya.
-3. **Tari Maengket** — Tari tradisional Minahasa yang menggambarkan kegembiraan dan rasa syukur masyarakat.
-4. **Tinutuan** — Bubur Manado dengan berbagai sayuran yang menjadi sarapan khas Sulawesi Utara.
-5. **Cakalang Fufu** — Ikan cakalang asap khas Manado yang menjadi lauk favorit masyarakat Sulawesi Utara.
-6. **Sam Ratulangi** — Pahlawan nasional dari Sulawesi Utara yang menjadi gubernur pertama Sulawesi.
-7. **A.A. Maramis** — Tokoh BPUPKI dari Sulawesi Utara yang berperan dalam perumusan Pancasila.
-8. **Gunung Lokon** — Gunung berapi aktif di dekat Tomohon yang masih sering meletus.
-9. **Danau Tondano** — Danau terbesar di Sulawesi Utara yang dikelilingi pemandangan alam yang indah.
-10. **Tomohon** — Kota bunga di kaki Gunung Lokon yang terkenal dengan Festival Bunga Tomohon.
-11. **Paniki** — Masakan kelelawar khas Manado yang menjadi kuliner kontroversial namun populer di kalangan masyarakat setempat.
-12. **Woku** — Masakan ikan dengan bumbu rempah khas Manado yang menggunakan daun kemangi dan serai.
-13. **Kepulauan Sangihe** — Kepulauan di utara Sulawesi yang berbatasan dengan Filipina, terkenal dengan keindahan alamnya.
-14. **Kepulauan Talaud** — Kepulauan paling utara Indonesia yang berbatasan langsung dengan Filipina.
-15. **Minahasa** — Suku terbesar di Sulawesi Utara yang terkenal dengan tradisi kuliner yang berani dan unik.
-
-### 🔍 Fun Fact Tambahan Sulawesi Utara
-
-16. **Fakta 16 Sulawesi Utara** — Sulawesi Utara memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
-17. **Fakta 17 Sulawesi Utara** — Sulawesi Utara memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
-18. **Fakta 18 Sulawesi Utara** — Sulawesi Utara memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
-19. **Fakta 19 Sulawesi Utara** — Sulawesi Utara memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
-20. **Fakta 20 Sulawesi Utara** — Sulawesi Utara memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
-21. **Fakta 21 Sulawesi Utara** — Sulawesi Utara memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
-22. **Fakta 22 Sulawesi Utara** — Sulawesi Utara memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
-23. **Fakta 23 Sulawesi Utara** — Sulawesi Utara memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
-24. **Fakta 24 Sulawesi Utara** — Sulawesi Utara memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
-25. **Fakta 25 Sulawesi Utara** — Sulawesi Utara memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+- Badan Pusat Statistik (BPS) Provinsi Sulawesi Utara.
+- Dinas Pariwisata Daerah Sulawesi Utara.
+- "Minahasa: History and Culture" by various authors.

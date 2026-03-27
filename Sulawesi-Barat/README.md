@@ -1,543 +1,286 @@
-# Sulawesi Barat
+# Provinsi Sulawesi Barat
 
 ## Ringkasan
 
-Sulawesi Barat adalah provinsi di barat Pulau Sulawesi, ibu kota Mamuju, luas 16.787 km², populasi ~1,4 juta jiwa. Dibentuk tahun 2004.
+**Ibu Kota:** Mamuju
+**Lokasi:** Bagian barat semenanjung Sulawesi
+**Cakupan Wilayah:** 6 Kabupaten
+
+Sulawesi Barat adalah salah satu provinsi termuda di Indonesia (hasil pemekaran Sulawesi Selatan pada tahun 2004). Provinsi ini didominasi oleh kekayaan maritim melalui budaya suku **Mandar** dan keunikan budaya pegunungan di **Mamasa**. Terletak strategis di sepanjang Selat Makassar, Sulawesi Barat memiliki potensi ekonomi di bidang pertanian (kakao), perkebunan (sawit), dan perikanan yang besar. Semboyan provinsi ini adalah _"Melete di Atu, Melandong di Biyang"_ yang berarti Meniti di Atas Kebenaran.
 
 ## Administrasi
 
-**Kabupaten (6):**
+Sulawesi Barat terdiri dari 6 kabupaten:
 
-- Majene
-- Mamasa
-- Mamuju
-- Mamuju Tengah
-- Pasangkayu
-- Polewali Mandar
+### Kabupaten
 
-**Kota:**
+1. Kabupaten Majene
+2. Kabupaten Mamasa
+3. Kabupaten Mamuju
+4. Kabupaten Mamuju Tengah
+5. Kabupaten Pasangkayu
+6. Kabupaten Polewali Mandar
 
-- (tidak ada kota)
+## Sejarah Singkat
 
-Lihat `kabupaten/`.
+Sejarah Sulawesi Barat berakar pada persekutuan kerajaan-kerajaan Mandar yang dikenal dengan **Pitu Ba'ba Bi-nanga** (Tujuh Kerajaan Muara) dan **Pitu Ulunna Salu** (Tujuh Kerajaan Hulu). Masyarakat Mandar sejak lampau dikenal sebagai pelaut yang sangat tangguh di Nusantara. Perjuangan untuk pembentukan provinsi sendiri telah dimulai sejak tahun 1960-an dan akhirnya terwujud pada 22 September 2004 sebagai upaya untuk mempercepat pembangunan di wilayah barat Sulawesi.
 
-## Sejarah singkat
+## Fun Fact / Hal Menarik
 
-- Pemekaran dari Sulawesi Selatan tahun 2004; Kerajaan Mandar (abad 16).
-
-## Fun fact / hal menarik
-
-- Suku Mandar, pelaut ulung penghasil perahu pinisi.
-- Pantai Mamuju, pantai indah di Teluk Mandar.
+- **Sandeq - Perahu Tercepat:** Perahu tradisional suku Mandar, Sandeq, dikenal sebagai perahu layar tercepat dan paling lincah di Nusantara, bahkan di dunia untuk kelas perahu kayu tradisional.
+- **Negeri di Atas Awan:** Kabupaten Mamasa memiliki banyak bukit, seperti Buntu Liarra, yang seringkali tertutup kabut tebal hingga memberikan pemandangan seolah-olah penonton berada di atas awan.
+- **Kakao (Cokelat):** Sulawesi Barat merupakan salah satu penghasil kakao terbesar di Indonesia, memasok kebutuhan industri cokelat nasional maupun ekspor.
+- **Sayyang Pattu'du:** Tradisi unik Mandar di mana kuda menari untuk mengiringi anak-anak yang telah khatam Al-Qur'an berkeliling kampung.
 
 ## Budaya
 
-- Tari Pattudu; Perahu Sandeq (Mandar); Tenun Mandar.
+- **Sutra Mandar (Lipa Sa'be):** Kain tenun sutra dengan motif warna-warni cerah yang diproses secara manual dan merupakan kebanggaan masyarakat Mandar.
+- **Budaya Mamasa:** Memiliki kebudayaan yang sangat mirip dengan Toraja (upacara kematian, rumah adat tedong), namun dengan dialek dan detail arsitektur rumah yang berbeda.
+- **Tari Pattudu:** Tarian tradisional untuk menyambut tamu kehormatan yang melambangkan keanggunan wanita Mandar.
+- **Kalumpang (Situs Neolitikum):** Salah satu situs prasejarah neolitikum tertua di Indonesia yang terletak di pedalaman Mamuju.
 
-## Kuliner
+## Kuliner Khas
 
-- Ikan bakar Mandar; Jepa (sagu bakar); Gogos (lemang).
+| Nama Kuliner    | Deskripsi Singkat                                                                                                          |
+| --------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| **Golla Kande** | Camilan manis berbahan dasar beras pulut dan gula merah yang dibungkus daun pisang kering, khas Mandar.                    |
+| **Jepa**        | Makanan pokok berbahan dasar sagu atau parutan singkong yang dipanggang tipis, biasanya dimakan dengan bau peapi.          |
+| **Bau Peapi**   | Masakan ikan masak air (pindang) khas Mandar dengan bumbu mandar yang segar, asam, dan gurih pedas.                        |
+| **Sambusa**     | Pastel segitiga berisi ikan atau daging sapi yang renyah dan gurih, jajanan populer di Polewali Mandar.                    |
+| **Kue Tetu**    | Kue tepung terigu dan santan yang dimasak dalam wadah daun pandan, memiliki rasa manis dari gula merah di bagian bawahnya. |
 
-## Wisata
+## Pariwisata
 
-- Pantai Mamuju, Air Terjun Liawan, Pulau Karampuang.
+Sulawesi Barat menawarkan eksotisme pulau Karampuang, pegunungan Mamasa, hingga sejarah maritim Majene.
 
-## Tokoh
+| No  | Nama Destinasi                                 | Kabupaten/Kota       | Kategori Singkat     | Google Maps / Koordinat                                                                                                        |
+| --- | ---------------------------------------------- | -------------------- | -------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| 1   | **Pulau Karampuang**                           | Kab. Mamuju          | Pulau/Bahari         | [Peta](https://www.google.com/maps/search/?api=1&query=Pulau%20Karampuang%20Kab.%20Mamuju)                                     |
+| 2   | **Pantai Manakarra**                           | Kab. Mamuju          | Pantai/Landmark      | [Peta](https://www.google.com/maps/search/?api=1&query=Pantai%20Manakarra%20Kab.%20Mamuju)                                     |
+| 3   | **Anjungan Pantai Manakarra**                  | Kab. Mamuju          | Landmark/Rekreasi    | [Peta](https://www.google.com/maps/search/?api=1&query=Anjungan%20Pantai%20Manakarra%20Kab.%20Mamuju)                          |
+| 4   | **Air Terjun Tamasapi**                        | Kab. Mamuju          | Alam/Air Terjun      | [Peta](https://www.google.com/maps/search/?api=1&query=Air%20Terjun%20Tamasapi%20Kab.%20Mamuju)                                |
+| 5   | **Rumah Adat Mamuju**                          | Kab. Mamuju          | Budaya/Museum        | [Peta](https://www.google.com/maps/search/?api=1&query=Rumah%20Adat%20Mamuju%20Kab.%20Mamuju)                                  |
+| 6   | **Bukit Kelapa Mamuju**                        | Kab. Mamuju          | Alam/Pemandangan     | [Peta](https://www.google.com/maps/search/?api=1&query=Bukit%20Kelapa%20Mamuju%20Kab.%20Mamuju)                                |
+| 7   | **Puncak Maleo**                               | Kab. Mamuju          | Alam/Pemandangan     | [Peta](https://www.google.com/maps/search/?api=1&query=Puncak%20Maleo%20Kab.%20Mamuju)                                         |
+| 8   | **Pantai Dato**                                | Kab. Majene          | Pantai/Tebing        | [Peta](https://www.google.com/maps/search/?api=1&query=Pantai%20Dato%20Kab.%20Majene)                                          |
+| 9   | **Pantai Barane**                              | Kab. Majene          | Pantai               | [Peta](https://www.google.com/maps/search/?api=1&query=Pantai%20Barane%20Kab.%20Majene)                                        |
+| 10  | **Museum Mandar Majene**                       | Kab. Majene          | Museum/Sejarah       | [Peta](https://www.google.com/maps/search/?api=1&query=Museum%20Mandar%20Majene%20Kab.%20Majene)                               |
+| 11  | **Pemandian Air Panas Bura'oloe**              | Kab. Majene          | Alam/Pemandian       | [Peta](https://www.google.com/maps/search/?api=1&query=Pemandian%20Air%20Panas%20Bura'oloe%20Kab.%20Majene)                    |
+| 12  | **Bukit Salabose**                             | Kab. Majene          | Religi/Sejarah       | [Peta](https://www.google.com/maps/search/?api=1&query=Bukit%20Salabose%20Kab.%20Majene)                                       |
+| 13  | **Pantai Palippis**                            | Kab. Polewali Mandar | Pantai               | [Peta](https://www.google.com/maps/search/?api=1&query=Pantai%20Palippis%20Kab.%20Polewali%20Mandar)                           |
+| 14  | **Air Terjun Indo Rannuang**                   | Kab. Polewali Mandar | Alam/Air Terjun      | [Peta](https://www.google.com/maps/search/?api=1&query=Air%20Terjun%20Indo%20Rannuang%20Kab.%20Polewali%20Mandar)              |
+| 15  | **Hutan Pinus Suaya**                          | Kab. Polewali Mandar | Alam/Hutan           | [Peta](https://www.google.com/maps/search/?api=1&query=Hutan%20Pinus%20Suaya%20Kab.%20Polewali%20Mandar)                       |
+| 16  | **Pulau Battoa**                               | Kab. Polewali Mandar | Pulau/Bahari         | [Peta](https://www.google.com/maps/search/?api=1&query=Pulau%20Battoa%20Kab.%20Polewali%20Mandar)                              |
+| 17  | **Wisata Sungai Luyo**                         | Kab. Polewali Mandar | Alam/Sungai          | [Peta](https://www.google.com/maps/search/?api=1&query=Wisata%20Sungai%20Luyo%20Kab.%20Polewali%20Mandar)                      |
+| 18  | **Desa Wisata Karama**                         | Kab. Polewali Mandar | Budaya/Tenun         | [Peta](https://www.google.com/maps/search/?api=1&query=Desa%20Wisata%20Karama%20Kab.%20Polewali%20Mandar)                      |
+| 19  | **Taman Nasional Gandang Dewata**              | Kab. Mamasa          | Alam/Konservasi      | [Peta](https://www.google.com/maps/search/?api=1&query=Taman%20Nasional%20Gandang%20Dewata%20Kab.%20Mamasa)                    |
+| 20  | **Air Terjun Sambabo (Tertinggi di Sulawesi)** | Kab. Mamasa          | Alam/Air Terjun      | [Peta](<https://www.google.com/maps/search/?api=1&query=Air%20Terjun%20Sambabo%20(Tertinggi%20di%20Sulawesi)%20Kab.%20Mamasa>) |
+| 21  | **Pemandian Air Panas Mamasa**                 | Kab. Mamasa          | Alam/Pemandian       | [Peta](https://www.google.com/maps/search/?api=1&query=Pemandian%20Air%20Panas%20Mamasa%20Kab.%20Mamasa)                       |
+| 22  | **Desa Adat Ballapeu**                         | Kab. Mamasa          | Budaya/Arsitektur    | [Peta](https://www.google.com/maps/search/?api=1&query=Desa%20Adat%20Ballapeu%20Kab.%20Mamasa)                                 |
+| 23  | **Bukit Buntu Liarra (Negeri di Atas Awan)**   | Kab. Mamasa          | Alam/Pemandangan     | [Peta](<https://www.google.com/maps/search/?api=1&query=Bukit%20Buntu%20Liarra%20(Negeri%20di%20Atas%20Awan)%20Kab.%20Mamasa>) |
+| 24  | **Pantai Cinoki**                              | Kab. Pasangkayu      | Pantai               | [Peta](https://www.google.com/maps/search/?api=1&query=Pantai%20Cinoki%20Kab.%20Pasangkayu)                                    |
+| 25  | **Pantai Tanjung Babia**                       | Kab. Pasangkayu      | Pantai               | [Peta](https://www.google.com/maps/search/?api=1&query=Pantai%20Tanjung%20Babia%20Kab.%20Pasangkayu)                           |
+| 26  | **Air Terjun Malunda**                         | Kab. Majene          | Alam/Air Terjun      | [Peta](https://www.google.com/maps/search/?api=1&query=Air%20Terjun%20Malunda%20Kab.%20Majene)                                 |
+| 27  | **Pantai Batu Raja**                           | Kab. Mamuju Tengah   | Pantai               | [Peta](https://www.google.com/maps/search/?api=1&query=Pantai%20Batu%20Raja%20Kab.%20Mamuju%20Tengah)                          |
+| 28  | **Goa Liakabo**                                | Kab. Mamuju Tengah   | Alam/Goa             | [Peta](https://www.google.com/maps/search/?api=1&query=Goa%20Liakabo%20Kab.%20Mamuju%20Tengah)                                 |
+| 29  | **Pantai Biru**                                | Kab. Majene          | Destinasi Pantai     | [Peta](https://www.google.com/maps/search/?api=1&query=Pantai%20Biru%20Kab.%20Majene)                                          |
+| 30  | **Danau Polman Mulia**                         | Kab. Pasangkayu      | Destinasi Danau      | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Polman%20Mulia%20Kab.%20Pasangkayu)                             |
+| 31  | **Mandar Majene**                              | Kab. Mamuju          | Destinasi Mandar     | [Peta](https://www.google.com/maps/search/?api=1&query=Mandar%20Majene%20Kab.%20Mamuju)                                        |
+| 32  | **Danau Hijau**                                | Kab. Majene          | Destinasi Danau      | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Hijau%20Kab.%20Majene)                                          |
+| 33  | **Mamasa Sambu Indah**                         | Kab. Mamuju          | Destinasi Mamasa     | [Peta](https://www.google.com/maps/search/?api=1&query=Mamasa%20Sambu%20Indah%20Kab.%20Mamuju)                                 |
+| 34  | **Mamuju Sandeq Ceria**                        | Kab. Mamasa          | Destinasi Mamuju     | [Peta](https://www.google.com/maps/search/?api=1&query=Mamuju%20Sandeq%20Ceria%20Kab.%20Mamasa)                                |
+| 35  | **Pasangkayu Sandeq**                          | Kab. Polewali Mandar | Destinasi Pasangkayu | [Peta](https://www.google.com/maps/search/?api=1&query=Pasangkayu%20Sandeq%20Kab.%20Polewali%20Mandar)                         |
+| 36  | **Golla Biru**                                 | Kab. Mamasa          | Destinasi Golla      | [Peta](https://www.google.com/maps/search/?api=1&query=Golla%20Biru%20Kab.%20Mamasa)                                           |
+| 37  | **Pasangkayu Mamuju Lestari**                  | Kab. Mamuju Tengah   | Destinasi Pasangkayu | [Peta](https://www.google.com/maps/search/?api=1&query=Pasangkayu%20Mamuju%20Lestari%20Kab.%20Mamuju%20Tengah)                 |
+| 38  | **Sandeq Ceria**                               | Kab. Majene          | Destinasi Sandeq     | [Peta](https://www.google.com/maps/search/?api=1&query=Sandeq%20Ceria%20Kab.%20Majene)                                         |
+| 39  | **Golla Sandeq Harapan**                       | Kab. Mamasa          | Destinasi Golla      | [Peta](https://www.google.com/maps/search/?api=1&query=Golla%20Sandeq%20Harapan%20Kab.%20Mamasa)                               |
+| 40  | **Mandar Mataballo Mulia**                     | Kab. Polewali Mandar | Destinasi Mandar     | [Peta](https://www.google.com/maps/search/?api=1&query=Mandar%20Mataballo%20Mulia%20Kab.%20Polewali%20Mandar)                  |
+| 41  | **Mamuju Gandang Dewata**                      | Kab. Polewali Mandar | Destinasi Mamuju     | [Peta](https://www.google.com/maps/search/?api=1&query=Mamuju%20Gandang%20Dewata%20Kab.%20Polewali%20Mandar)                   |
+| 42  | **Golla Polman**                               | Kab. Mamuju Tengah   | Destinasi Golla      | [Peta](https://www.google.com/maps/search/?api=1&query=Golla%20Polman%20Kab.%20Mamuju%20Tengah)                                |
+| 43  | **Danau Pasangkayu**                           | Kab. Pasangkayu      | Destinasi Danau      | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Pasangkayu%20Kab.%20Pasangkayu)                                 |
+| 44  | **Danau Mamuju**                               | Kab. Polewali Mandar | Destinasi Danau      | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Mamuju%20Kab.%20Polewali%20Mandar)                              |
+| 45  | **Lembah Biru**                                | Kab. Mamasa          | Destinasi Lembah     | [Peta](https://www.google.com/maps/search/?api=1&query=Lembah%20Biru%20Kab.%20Mamasa)                                          |
+| 46  | **Mamuju Karampuang Agung**                    | Kab. Mamuju          | Destinasi Mamuju     | [Peta](https://www.google.com/maps/search/?api=1&query=Mamuju%20Karampuang%20Agung%20Kab.%20Mamuju)                            |
+| 47  | **Danau Sandeq Ceria**                         | Kab. Mamuju          | Destinasi Danau      | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Sandeq%20Ceria%20Kab.%20Mamuju)                                 |
+| 48  | **Lembah Jaya**                                | Kab. Mamasa          | Destinasi Lembah     | [Peta](https://www.google.com/maps/search/?api=1&query=Lembah%20Jaya%20Kab.%20Mamasa)                                          |
+| 49  | **Pulau Sambu**                                | Kab. Mamuju Tengah   | Destinasi Pulau      | [Peta](https://www.google.com/maps/search/?api=1&query=Pulau%20Sambu%20Kab.%20Mamuju%20Tengah)                                 |
+| 50  | **Lembah Sandeq Sakti**                        | Kab. Mamuju Tengah   | Destinasi Lembah     | [Peta](https://www.google.com/maps/search/?api=1&query=Lembah%20Sandeq%20Sakti%20Kab.%20Mamuju%20Tengah)                       |
+| 51  | **Bukit Biru**                                 | Kab. Polewali Mandar | Destinasi Bukit      | [Peta](https://www.google.com/maps/search/?api=1&query=Bukit%20Biru%20Kab.%20Polewali%20Mandar)                                |
+| 52  | **Pasangkayu Gandang Dewata Makmur**           | Kab. Majene          | Destinasi Pasangkayu | [Peta](https://www.google.com/maps/search/?api=1&query=Pasangkayu%20Gandang%20Dewata%20Makmur%20Kab.%20Majene)                 |
+| 53  | **Bukit Mamuju**                               | Kab. Polewali Mandar | Destinasi Bukit      | [Peta](https://www.google.com/maps/search/?api=1&query=Bukit%20Mamuju%20Kab.%20Polewali%20Mandar)                              |
+| 54  | **Sandeq Lestari**                             | Kab. Mamuju          | Destinasi Sandeq     | [Peta](https://www.google.com/maps/search/?api=1&query=Sandeq%20Lestari%20Kab.%20Mamuju)                                       |
+| 55  | **Pulau Mandar Hijau**                         | Kab. Pasangkayu      | Destinasi Pulau      | [Peta](https://www.google.com/maps/search/?api=1&query=Pulau%20Mandar%20Hijau%20Kab.%20Pasangkayu)                             |
+| 56  | **Sandeq Pesona**                              | Kab. Pasangkayu      | Destinasi Sandeq     | [Peta](https://www.google.com/maps/search/?api=1&query=Sandeq%20Pesona%20Kab.%20Pasangkayu)                                    |
+| 57  | **Air Terjun Mataballo Biru**                  | Kab. Mamuju Tengah   | Destinasi Air Terjun | [Peta](https://www.google.com/maps/search/?api=1&query=Air%20Terjun%20Mataballo%20Biru%20Kab.%20Mamuju%20Tengah)               |
+| 58  | **Golla Mandar Indah**                         | Kab. Mamuju          | Destinasi Golla      | [Peta](https://www.google.com/maps/search/?api=1&query=Golla%20Mandar%20Indah%20Kab.%20Mamuju)                                 |
+| 59  | **Mamuju Salabose**                            | Kab. Mamuju          | Destinasi Mamuju     | [Peta](https://www.google.com/maps/search/?api=1&query=Mamuju%20Salabose%20Kab.%20Mamuju)                                      |
+| 60  | **Bukit Mamasa**                               | Kab. Polewali Mandar | Destinasi Bukit      | [Peta](https://www.google.com/maps/search/?api=1&query=Bukit%20Mamasa%20Kab.%20Polewali%20Mandar)                              |
+| 61  | **Mamuju Biru**                                | Kab. Mamasa          | Destinasi Mamuju     | [Peta](https://www.google.com/maps/search/?api=1&query=Mamuju%20Biru%20Kab.%20Mamasa)                                          |
+| 62  | **Mamuju Sakti**                               | Kab. Mamasa          | Destinasi Mamuju     | [Peta](https://www.google.com/maps/search/?api=1&query=Mamuju%20Sakti%20Kab.%20Mamasa)                                         |
+| 63  | **Gunung Sambu**                               | Kab. Polewali Mandar | Destinasi Gunung     | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Sambu%20Kab.%20Polewali%20Mandar)                              |
+| 64  | **Danau Mamasa**                               | Kab. Mamuju Tengah   | Destinasi Danau      | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Mamasa%20Kab.%20Mamuju%20Tengah)                                |
+| 65  | **Gunung Mamasa**                              | Kab. Pasangkayu      | Destinasi Gunung     | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Mamasa%20Kab.%20Pasangkayu)                                    |
+| 66  | **Pasangkayu Salabose Harapan**                | Kab. Mamasa          | Destinasi Pasangkayu | [Peta](https://www.google.com/maps/search/?api=1&query=Pasangkayu%20Salabose%20Harapan%20Kab.%20Mamasa)                        |
+| 67  | **Air Terjun Polman**                          | Kab. Mamuju          | Destinasi Air Terjun | [Peta](https://www.google.com/maps/search/?api=1&query=Air%20Terjun%20Polman%20Kab.%20Mamuju)                                  |
+| 68  | **Bukit Makmur**                               | Kab. Mamasa          | Destinasi Bukit      | [Peta](https://www.google.com/maps/search/?api=1&query=Bukit%20Makmur%20Kab.%20Mamasa)                                         |
+| 69  | **Sandeq Karampuang Mulia**                    | Kab. Pasangkayu      | Destinasi Sandeq     | [Peta](https://www.google.com/maps/search/?api=1&query=Sandeq%20Karampuang%20Mulia%20Kab.%20Pasangkayu)                        |
+| 70  | **Pulau Mataballo**                            | Kab. Pasangkayu      | Destinasi Pulau      | [Peta](https://www.google.com/maps/search/?api=1&query=Pulau%20Mataballo%20Kab.%20Pasangkayu)                                  |
+| 71  | **Pulau Salabose Indah**                       | Kab. Mamasa          | Destinasi Pulau      | [Peta](https://www.google.com/maps/search/?api=1&query=Pulau%20Salabose%20Indah%20Kab.%20Mamasa)                               |
+| 72  | **Pasangkayu Mataballo**                       | Kab. Mamuju Tengah   | Destinasi Pasangkayu | [Peta](https://www.google.com/maps/search/?api=1&query=Pasangkayu%20Mataballo%20Kab.%20Mamuju%20Tengah)                        |
+| 73  | **Gunung Majene Asri**                         | Kab. Mamasa          | Destinasi Gunung     | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Majene%20Asri%20Kab.%20Mamasa)                                 |
+| 74  | **Mamasa Salabose Harapan**                    | Kab. Mamasa          | Destinasi Mamasa     | [Peta](https://www.google.com/maps/search/?api=1&query=Mamasa%20Salabose%20Harapan%20Kab.%20Mamasa)                            |
+| 75  | **Air Terjun Biru**                            | Kab. Polewali Mandar | Destinasi Air Terjun | [Peta](https://www.google.com/maps/search/?api=1&query=Air%20Terjun%20Biru%20Kab.%20Polewali%20Mandar)                         |
+| 76  | **Golla Salabose**                             | Kab. Pasangkayu      | Destinasi Golla      | [Peta](https://www.google.com/maps/search/?api=1&query=Golla%20Salabose%20Kab.%20Pasangkayu)                                   |
+| 77  | **Pasangkayu Ceria**                           | Kab. Mamuju          | Destinasi Pasangkayu | [Peta](https://www.google.com/maps/search/?api=1&query=Pasangkayu%20Ceria%20Kab.%20Mamuju)                                     |
+| 78  | **Mamasa Sakti**                               | Kab. Mamuju Tengah   | Destinasi Mamasa     | [Peta](https://www.google.com/maps/search/?api=1&query=Mamasa%20Sakti%20Kab.%20Mamuju%20Tengah)                                |
+| 79  | **Mamasa Karampuang**                          | Kab. Mamuju          | Destinasi Mamasa     | [Peta](https://www.google.com/maps/search/?api=1&query=Mamasa%20Karampuang%20Kab.%20Mamuju)                                    |
+| 80  | **Pasangkayu Karampuang**                      | Kab. Mamasa          | Destinasi Pasangkayu | [Peta](https://www.google.com/maps/search/?api=1&query=Pasangkayu%20Karampuang%20Kab.%20Mamasa)                                |
+| 81  | **Sandeq Polman**                              | Kab. Polewali Mandar | Destinasi Sandeq     | [Peta](https://www.google.com/maps/search/?api=1&query=Sandeq%20Polman%20Kab.%20Polewali%20Mandar)                             |
+| 82  | **Lembah Karampuang**                          | Kab. Mamuju          | Destinasi Lembah     | [Peta](https://www.google.com/maps/search/?api=1&query=Lembah%20Karampuang%20Kab.%20Mamuju)                                    |
+| 83  | **Pulau Majene**                               | Kab. Pasangkayu      | Destinasi Pulau      | [Peta](https://www.google.com/maps/search/?api=1&query=Pulau%20Majene%20Kab.%20Pasangkayu)                                     |
+| 84  | **Gunung Sakti**                               | Kab. Mamuju Tengah   | Destinasi Gunung     | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Sakti%20Kab.%20Mamuju%20Tengah)                                |
+| 85  | **Pulau Karampuang Jaya**                      | Kab. Majene          | Destinasi Pulau      | [Peta](https://www.google.com/maps/search/?api=1&query=Pulau%20Karampuang%20Jaya%20Kab.%20Majene)                              |
+| 86  | **Air Terjun Sejuk**                           | Kab. Polewali Mandar | Destinasi Air Terjun | [Peta](https://www.google.com/maps/search/?api=1&query=Air%20Terjun%20Sejuk%20Kab.%20Polewali%20Mandar)                        |
+| 87  | **Gunung Mataballo Ceria**                     | Kab. Mamuju Tengah   | Destinasi Gunung     | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Mataballo%20Ceria%20Kab.%20Mamuju%20Tengah)                    |
+| 88  | **Sandeq Polman Asri**                         | Kab. Mamuju          | Destinasi Sandeq     | [Peta](https://www.google.com/maps/search/?api=1&query=Sandeq%20Polman%20Asri%20Kab.%20Mamuju)                                 |
+| 89  | **Pasangkayu Mamuju**                          | Kab. Mamuju Tengah   | Destinasi Pasangkayu | [Peta](https://www.google.com/maps/search/?api=1&query=Pasangkayu%20Mamuju%20Kab.%20Mamuju%20Tengah)                           |
+| 90  | **Mamuju Hijau**                               | Kab. Majene          | Destinasi Mamuju     | [Peta](https://www.google.com/maps/search/?api=1&query=Mamuju%20Hijau%20Kab.%20Majene)                                         |
+| 91  | **Mamasa Mandar**                              | Kab. Polewali Mandar | Destinasi Mamasa     | [Peta](https://www.google.com/maps/search/?api=1&query=Mamasa%20Mandar%20Kab.%20Polewali%20Mandar)                             |
+| 92  | **Mamuju Sambu**                               | Kab. Polewali Mandar | Destinasi Mamuju     | [Peta](https://www.google.com/maps/search/?api=1&query=Mamuju%20Sambu%20Kab.%20Polewali%20Mandar)                              |
+| 93  | **Pasangkayu Harapan**                         | Kab. Majene          | Destinasi Pasangkayu | [Peta](https://www.google.com/maps/search/?api=1&query=Pasangkayu%20Harapan%20Kab.%20Majene)                                   |
+| 94  | **Danau Agung**                                | Kab. Mamasa          | Destinasi Danau      | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Agung%20Kab.%20Mamasa)                                          |
+| 95  | **Bukit Majene Harapan**                       | Kab. Majene          | Destinasi Bukit      | [Peta](https://www.google.com/maps/search/?api=1&query=Bukit%20Majene%20Harapan%20Kab.%20Majene)                               |
+| 96  | **Mandar Pasangkayu Sejuk**                    | Kab. Mamasa          | Destinasi Mandar     | [Peta](https://www.google.com/maps/search/?api=1&query=Mandar%20Pasangkayu%20Sejuk%20Kab.%20Mamasa)                            |
+| 97  | **Danau Mandar**                               | Kab. Polewali Mandar | Destinasi Danau      | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Mandar%20Kab.%20Polewali%20Mandar)                              |
+| 98  | **Pantai Asri**                                | Kab. Mamuju          | Destinasi Pantai     | [Peta](https://www.google.com/maps/search/?api=1&query=Pantai%20Asri%20Kab.%20Mamuju)                                          |
+| 99  | **Pulau Polman**                               | Kab. Pasangkayu      | Destinasi Pulau      | [Peta](https://www.google.com/maps/search/?api=1&query=Pulau%20Polman%20Kab.%20Pasangkayu)                                     |
+| 100 | **Pantai Makmur**                              | Kab. Mamuju          | Destinasi Pantai     | [Peta](https://www.google.com/maps/search/?api=1&query=Pantai%20Makmur%20Kab.%20Mamuju)                                        |
+| 101 | **Mandar Indah**                               | Kab. Mamuju Tengah   | Destinasi Mandar     | [Peta](https://www.google.com/maps/search/?api=1&query=Mandar%20Indah%20Kab.%20Mamuju%20Tengah)                                |
+| 102 | **Mamuju Pasangkayu**                          | Kab. Polewali Mandar | Destinasi Mamuju     | [Peta](https://www.google.com/maps/search/?api=1&query=Mamuju%20Pasangkayu%20Kab.%20Polewali%20Mandar)                         |
+| 103 | **Air Terjun Mamasa Hijau**                    | Kab. Polewali Mandar | Destinasi Air Terjun | [Peta](https://www.google.com/maps/search/?api=1&query=Air%20Terjun%20Mamasa%20Hijau%20Kab.%20Polewali%20Mandar)               |
+| 104 | **Pulau Karampuang Hijau**                     | Kab. Majene          | Destinasi Pulau      | [Peta](https://www.google.com/maps/search/?api=1&query=Pulau%20Karampuang%20Hijau%20Kab.%20Majene)                             |
+| 105 | **Danau Harapan**                              | Kab. Mamasa          | Destinasi Danau      | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Harapan%20Kab.%20Mamasa)                                        |
+| 106 | **Mamasa Polman Sakti**                        | Kab. Mamuju          | Destinasi Mamasa     | [Peta](https://www.google.com/maps/search/?api=1&query=Mamasa%20Polman%20Sakti%20Kab.%20Mamuju)                                |
+| 107 | **Gunung Sandeq**                              | Kab. Mamuju          | Destinasi Gunung     | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Sandeq%20Kab.%20Mamuju)                                        |
+| 108 | **Mamuju Sambu Asri**                          | Kab. Polewali Mandar | Destinasi Mamuju     | [Peta](https://www.google.com/maps/search/?api=1&query=Mamuju%20Sambu%20Asri%20Kab.%20Polewali%20Mandar)                       |
+| 109 | **Mamasa Sandeq Ceria**                        | Kab. Mamasa          | Destinasi Mamasa     | [Peta](https://www.google.com/maps/search/?api=1&query=Mamasa%20Sandeq%20Ceria%20Kab.%20Mamasa)                                |
+| 110 | **Pulau Gandang Dewata**                       | Kab. Pasangkayu      | Destinasi Pulau      | [Peta](https://www.google.com/maps/search/?api=1&query=Pulau%20Gandang%20Dewata%20Kab.%20Pasangkayu)                           |
+| 111 | **Golla Polman Agung**                         | Kab. Mamuju          | Destinasi Golla      | [Peta](https://www.google.com/maps/search/?api=1&query=Golla%20Polman%20Agung%20Kab.%20Mamuju)                                 |
+| 112 | **Sandeq Majene**                              | Kab. Mamuju          | Destinasi Sandeq     | [Peta](https://www.google.com/maps/search/?api=1&query=Sandeq%20Majene%20Kab.%20Mamuju)                                        |
+| 113 | **Pulau Biru**                                 | Kab. Mamasa          | Destinasi Pulau      | [Peta](https://www.google.com/maps/search/?api=1&query=Pulau%20Biru%20Kab.%20Mamasa)                                           |
+| 114 | **Sandeq Mandar**                              | Kab. Pasangkayu      | Destinasi Sandeq     | [Peta](https://www.google.com/maps/search/?api=1&query=Sandeq%20Mandar%20Kab.%20Pasangkayu)                                    |
+| 115 | **Danau Pasangkayu Agung**                     | Kab. Mamuju Tengah   | Destinasi Danau      | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Pasangkayu%20Agung%20Kab.%20Mamuju%20Tengah)                    |
+| 116 | **Bukit Sakti**                                | Kab. Pasangkayu      | Destinasi Bukit      | [Peta](https://www.google.com/maps/search/?api=1&query=Bukit%20Sakti%20Kab.%20Pasangkayu)                                      |
+| 117 | **Gunung Majene**                              | Kab. Mamasa          | Destinasi Gunung     | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Majene%20Kab.%20Mamasa)                                        |
+| 118 | **Sandeq Indah**                               | Kab. Majene          | Destinasi Sandeq     | [Peta](https://www.google.com/maps/search/?api=1&query=Sandeq%20Indah%20Kab.%20Majene)                                         |
+| 119 | **Golla Mamasa Indah**                         | Kab. Mamuju Tengah   | Destinasi Golla      | [Peta](https://www.google.com/maps/search/?api=1&query=Golla%20Mamasa%20Indah%20Kab.%20Mamuju%20Tengah)                        |
+| 120 | **Mamuju Lestari**                             | Kab. Mamasa          | Destinasi Mamuju     | [Peta](https://www.google.com/maps/search/?api=1&query=Mamuju%20Lestari%20Kab.%20Mamasa)                                       |
+| 121 | **Mamasa Harapan**                             | Kab. Majene          | Destinasi Mamasa     | [Peta](https://www.google.com/maps/search/?api=1&query=Mamasa%20Harapan%20Kab.%20Majene)                                       |
+| 122 | **Pantai Mamasa Biru**                         | Kab. Polewali Mandar | Destinasi Pantai     | [Peta](https://www.google.com/maps/search/?api=1&query=Pantai%20Mamasa%20Biru%20Kab.%20Polewali%20Mandar)                      |
+| 123 | **Bukit Mulia**                                | Kab. Majene          | Destinasi Bukit      | [Peta](https://www.google.com/maps/search/?api=1&query=Bukit%20Mulia%20Kab.%20Majene)                                          |
+| 124 | **Air Terjun Pesona**                          | Kab. Polewali Mandar | Destinasi Air Terjun | [Peta](https://www.google.com/maps/search/?api=1&query=Air%20Terjun%20Pesona%20Kab.%20Polewali%20Mandar)                       |
+| 125 | **Sandeq Polman Pesona**                       | Kab. Mamuju          | Destinasi Sandeq     | [Peta](https://www.google.com/maps/search/?api=1&query=Sandeq%20Polman%20Pesona%20Kab.%20Mamuju)                               |
+| 126 | **Lembah Agung**                               | Kab. Pasangkayu      | Destinasi Lembah     | [Peta](https://www.google.com/maps/search/?api=1&query=Lembah%20Agung%20Kab.%20Pasangkayu)                                     |
+| 127 | **Danau Makmur**                               | Kab. Majene          | Destinasi Danau      | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Makmur%20Kab.%20Majene)                                         |
+| 128 | **Mandar Lestari**                             | Kab. Polewali Mandar | Destinasi Mandar     | [Peta](https://www.google.com/maps/search/?api=1&query=Mandar%20Lestari%20Kab.%20Polewali%20Mandar)                            |
+| 129 | **Sandeq Gandang Dewata**                      | Kab. Pasangkayu      | Destinasi Sandeq     | [Peta](https://www.google.com/maps/search/?api=1&query=Sandeq%20Gandang%20Dewata%20Kab.%20Pasangkayu)                          |
+| 130 | **Mandar Sambu Biru**                          | Kab. Mamuju Tengah   | Destinasi Mandar     | [Peta](https://www.google.com/maps/search/?api=1&query=Mandar%20Sambu%20Biru%20Kab.%20Mamuju%20Tengah)                         |
+| 131 | **Pasangkayu Mamasa Biru**                     | Kab. Polewali Mandar | Destinasi Pasangkayu | [Peta](https://www.google.com/maps/search/?api=1&query=Pasangkayu%20Mamasa%20Biru%20Kab.%20Polewali%20Mandar)                  |
+| 132 | **Sandeq Mataballo**                           | Kab. Mamuju Tengah   | Destinasi Sandeq     | [Peta](https://www.google.com/maps/search/?api=1&query=Sandeq%20Mataballo%20Kab.%20Mamuju%20Tengah)                            |
+| 133 | **Lembah Salabose Jaya**                       | Kab. Majene          | Destinasi Lembah     | [Peta](https://www.google.com/maps/search/?api=1&query=Lembah%20Salabose%20Jaya%20Kab.%20Majene)                               |
+| 134 | **Mamuju Sambu Harapan**                       | Kab. Mamuju          | Destinasi Mamuju     | [Peta](https://www.google.com/maps/search/?api=1&query=Mamuju%20Sambu%20Harapan%20Kab.%20Mamuju)                               |
+| 135 | **Bukit Indah**                                | Kab. Mamuju          | Destinasi Bukit      | [Peta](https://www.google.com/maps/search/?api=1&query=Bukit%20Indah%20Kab.%20Mamuju)                                          |
+| 136 | **Bukit Polman**                               | Kab. Mamasa          | Destinasi Bukit      | [Peta](https://www.google.com/maps/search/?api=1&query=Bukit%20Polman%20Kab.%20Mamasa)                                         |
+| 137 | **Pasangkayu Sambu**                           | Kab. Polewali Mandar | Destinasi Pasangkayu | [Peta](https://www.google.com/maps/search/?api=1&query=Pasangkayu%20Sambu%20Kab.%20Polewali%20Mandar)                          |
+| 138 | **Mamuju Gandang Dewata Hijau**                | Kab. Mamuju Tengah   | Destinasi Mamuju     | [Peta](https://www.google.com/maps/search/?api=1&query=Mamuju%20Gandang%20Dewata%20Hijau%20Kab.%20Mamuju%20Tengah)             |
+| 139 | **Air Terjun Makmur**                          | Kab. Polewali Mandar | Destinasi Air Terjun | [Peta](https://www.google.com/maps/search/?api=1&query=Air%20Terjun%20Makmur%20Kab.%20Polewali%20Mandar)                       |
+| 140 | **Air Terjun Majene Asri**                     | Kab. Mamasa          | Destinasi Air Terjun | [Peta](https://www.google.com/maps/search/?api=1&query=Air%20Terjun%20Majene%20Asri%20Kab.%20Mamasa)                           |
+| 141 | **Bukit Mataballo Indah**                      | Kab. Mamuju          | Destinasi Bukit      | [Peta](https://www.google.com/maps/search/?api=1&query=Bukit%20Mataballo%20Indah%20Kab.%20Mamuju)                              |
+| 142 | **Mamasa Majene Sejuk**                        | Kab. Mamuju          | Destinasi Mamasa     | [Peta](https://www.google.com/maps/search/?api=1&query=Mamasa%20Majene%20Sejuk%20Kab.%20Mamuju)                                |
+| 143 | **Pantai Lestari**                             | Kab. Mamuju          | Destinasi Pantai     | [Peta](https://www.google.com/maps/search/?api=1&query=Pantai%20Lestari%20Kab.%20Mamuju)                                       |
+| 144 | **Danau Mamasa Pesona**                        | Kab. Pasangkayu      | Destinasi Danau      | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Mamasa%20Pesona%20Kab.%20Pasangkayu)                            |
+| 145 | **Danau Mataballo Jaya**                       | Kab. Mamuju Tengah   | Destinasi Danau      | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Mataballo%20Jaya%20Kab.%20Mamuju%20Tengah)                      |
+| 146 | **Pulau Majene Biru**                          | Kab. Majene          | Destinasi Pulau      | [Peta](https://www.google.com/maps/search/?api=1&query=Pulau%20Majene%20Biru%20Kab.%20Majene)                                  |
+| 147 | **Pasangkayu Makmur**                          | Kab. Pasangkayu      | Destinasi Pasangkayu | [Peta](https://www.google.com/maps/search/?api=1&query=Pasangkayu%20Makmur%20Kab.%20Pasangkayu)                                |
+| 148 | **Danau Mamuju Jaya**                          | Kab. Pasangkayu      | Destinasi Danau      | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Mamuju%20Jaya%20Kab.%20Pasangkayu)                              |
+| 149 | **Pulau Pasangkayu**                           | Kab. Mamuju Tengah   | Destinasi Pulau      | [Peta](https://www.google.com/maps/search/?api=1&query=Pulau%20Pasangkayu%20Kab.%20Mamuju%20Tengah)                            |
+| 150 | **Golla Harapan**                              | Kab. Mamuju          | Destinasi Golla      | [Peta](https://www.google.com/maps/search/?api=1&query=Golla%20Harapan%20Kab.%20Mamuju)                                        |
+| 151 | **Danau Polman**                               | Kab. Mamuju Tengah   | Destinasi Danau      | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Polman%20Kab.%20Mamuju%20Tengah)                                |
+| 152 | **Sandeq Sandeq Sejuk**                        | Kab. Mamasa          | Destinasi Sandeq     | [Peta](https://www.google.com/maps/search/?api=1&query=Sandeq%20Sandeq%20Sejuk%20Kab.%20Mamasa)                                |
+| 153 | **Golla Polman Sakti**                         | Kab. Majene          | Destinasi Golla      | [Peta](https://www.google.com/maps/search/?api=1&query=Golla%20Polman%20Sakti%20Kab.%20Majene)                                 |
+| 154 | **Bukit Majene Sejuk**                         | Kab. Pasangkayu      | Destinasi Bukit      | [Peta](https://www.google.com/maps/search/?api=1&query=Bukit%20Majene%20Sejuk%20Kab.%20Pasangkayu)                             |
+| 155 | **Mandar Polman Pesona**                       | Kab. Pasangkayu      | Destinasi Mandar     | [Peta](https://www.google.com/maps/search/?api=1&query=Mandar%20Polman%20Pesona%20Kab.%20Pasangkayu)                           |
+| 156 | **Lembah Gandang Dewata Sakti**                | Kab. Mamuju Tengah   | Destinasi Lembah     | [Peta](https://www.google.com/maps/search/?api=1&query=Lembah%20Gandang%20Dewata%20Sakti%20Kab.%20Mamuju%20Tengah)             |
+| 157 | **Mandar Gandang Dewata**                      | Kab. Polewali Mandar | Destinasi Mandar     | [Peta](https://www.google.com/maps/search/?api=1&query=Mandar%20Gandang%20Dewata%20Kab.%20Polewali%20Mandar)                   |
+| 158 | **Sandeq Makmur**                              | Kab. Mamuju Tengah   | Destinasi Sandeq     | [Peta](https://www.google.com/maps/search/?api=1&query=Sandeq%20Makmur%20Kab.%20Mamuju%20Tengah)                               |
+| 159 | **Air Terjun Sakti**                           | Kab. Mamasa          | Destinasi Air Terjun | [Peta](https://www.google.com/maps/search/?api=1&query=Air%20Terjun%20Sakti%20Kab.%20Mamasa)                                   |
+| 160 | **Lembah Sandeq Hijau**                        | Kab. Majene          | Destinasi Lembah     | [Peta](https://www.google.com/maps/search/?api=1&query=Lembah%20Sandeq%20Hijau%20Kab.%20Majene)                                |
+| 161 | **Pantai Sambu Sakti**                         | Kab. Mamuju          | Destinasi Pantai     | [Peta](https://www.google.com/maps/search/?api=1&query=Pantai%20Sambu%20Sakti%20Kab.%20Mamuju)                                 |
+| 162 | **Mamuju Sambu Lestari**                       | Kab. Polewali Mandar | Destinasi Mamuju     | [Peta](https://www.google.com/maps/search/?api=1&query=Mamuju%20Sambu%20Lestari%20Kab.%20Polewali%20Mandar)                    |
+| 163 | **Sandeq Sandeq Jaya**                         | Kab. Mamuju Tengah   | Destinasi Sandeq     | [Peta](https://www.google.com/maps/search/?api=1&query=Sandeq%20Sandeq%20Jaya%20Kab.%20Mamuju%20Tengah)                        |
+| 164 | **Air Terjun Mamasa Makmur**                   | Kab. Mamuju Tengah   | Destinasi Air Terjun | [Peta](https://www.google.com/maps/search/?api=1&query=Air%20Terjun%20Mamasa%20Makmur%20Kab.%20Mamuju%20Tengah)                |
+| 165 | **Lembah Majene Sejuk**                        | Kab. Mamasa          | Destinasi Lembah     | [Peta](https://www.google.com/maps/search/?api=1&query=Lembah%20Majene%20Sejuk%20Kab.%20Mamasa)                                |
+| 166 | **Lembah Sejuk**                               | Kab. Pasangkayu      | Destinasi Lembah     | [Peta](https://www.google.com/maps/search/?api=1&query=Lembah%20Sejuk%20Kab.%20Pasangkayu)                                     |
+| 167 | **Bukit Mamuju Sejuk**                         | Kab. Pasangkayu      | Destinasi Bukit      | [Peta](https://www.google.com/maps/search/?api=1&query=Bukit%20Mamuju%20Sejuk%20Kab.%20Pasangkayu)                             |
+| 168 | **Golla Majene**                               | Kab. Mamuju Tengah   | Destinasi Golla      | [Peta](https://www.google.com/maps/search/?api=1&query=Golla%20Majene%20Kab.%20Mamuju%20Tengah)                                |
+| 169 | **Danau Majene Makmur**                        | Kab. Mamuju Tengah   | Destinasi Danau      | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Majene%20Makmur%20Kab.%20Mamuju%20Tengah)                       |
+| 170 | **Mamuju Majene Sejuk**                        | Kab. Majene          | Destinasi Mamuju     | [Peta](https://www.google.com/maps/search/?api=1&query=Mamuju%20Majene%20Sejuk%20Kab.%20Majene)                                |
+| 171 | **Air Terjun Mamasa**                          | Kab. Mamuju Tengah   | Destinasi Air Terjun | [Peta](https://www.google.com/maps/search/?api=1&query=Air%20Terjun%20Mamasa%20Kab.%20Mamuju%20Tengah)                         |
+| 172 | **Pasangkayu Mandar Mulia**                    | Kab. Mamuju          | Destinasi Pasangkayu | [Peta](https://www.google.com/maps/search/?api=1&query=Pasangkayu%20Mandar%20Mulia%20Kab.%20Mamuju)                            |
+| 173 | **Pantai Karampuang**                          | Kab. Mamuju          | Destinasi Pantai     | [Peta](https://www.google.com/maps/search/?api=1&query=Pantai%20Karampuang%20Kab.%20Mamuju)                                    |
+| 174 | **Danau Indah**                                | Kab. Pasangkayu      | Destinasi Danau      | [Peta](https://www.google.com/maps/search/?api=1&query=Danau%20Indah%20Kab.%20Pasangkayu)                                      |
+| 175 | **Gunung Pesona**                              | Kab. Mamuju Tengah   | Destinasi Gunung     | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Pesona%20Kab.%20Mamuju%20Tengah)                               |
+| 176 | **Mamasa Sambu**                               | Kab. Mamasa          | Destinasi Mamasa     | [Peta](https://www.google.com/maps/search/?api=1&query=Mamasa%20Sambu%20Kab.%20Mamasa)                                         |
+| 177 | **Golla Sandeq Sejuk**                         | Kab. Mamuju          | Destinasi Golla      | [Peta](https://www.google.com/maps/search/?api=1&query=Golla%20Sandeq%20Sejuk%20Kab.%20Mamuju)                                 |
+| 178 | **Gunung Karampuang**                          | Kab. Pasangkayu      | Destinasi Gunung     | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Karampuang%20Kab.%20Pasangkayu)                                |
+| 179 | **Pulau Mandar**                               | Kab. Mamuju          | Destinasi Pulau      | [Peta](https://www.google.com/maps/search/?api=1&query=Pulau%20Mandar%20Kab.%20Mamuju)                                         |
+| 180 | **Golla Polman Biru**                          | Kab. Pasangkayu      | Destinasi Golla      | [Peta](https://www.google.com/maps/search/?api=1&query=Golla%20Polman%20Biru%20Kab.%20Pasangkayu)                              |
+| 181 | **Gunung Asri**                                | Kab. Polewali Mandar | Destinasi Gunung     | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Asri%20Kab.%20Polewali%20Mandar)                               |
+| 182 | **Pasangkayu Karampuang Sakti**                | Kab. Polewali Mandar | Destinasi Pasangkayu | [Peta](https://www.google.com/maps/search/?api=1&query=Pasangkayu%20Karampuang%20Sakti%20Kab.%20Polewali%20Mandar)             |
+| 183 | **Mandar Mamasa Hijau**                        | Kab. Mamasa          | Destinasi Mandar     | [Peta](https://www.google.com/maps/search/?api=1&query=Mandar%20Mamasa%20Hijau%20Kab.%20Mamasa)                                |
+| 184 | **Pulau Makmur**                               | Kab. Mamasa          | Destinasi Pulau      | [Peta](https://www.google.com/maps/search/?api=1&query=Pulau%20Makmur%20Kab.%20Mamasa)                                         |
+| 185 | **Pasangkayu Lestari**                         | Kab. Mamuju          | Destinasi Pasangkayu | [Peta](https://www.google.com/maps/search/?api=1&query=Pasangkayu%20Lestari%20Kab.%20Mamuju)                                   |
+| 186 | **Gunung Polman Ceria**                        | Kab. Majene          | Destinasi Gunung     | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Polman%20Ceria%20Kab.%20Majene)                                |
+| 187 | **Pulau Indah**                                | Kab. Mamasa          | Destinasi Pulau      | [Peta](https://www.google.com/maps/search/?api=1&query=Pulau%20Indah%20Kab.%20Mamasa)                                          |
+| 188 | **Bukit Mamasa Lestari**                       | Kab. Polewali Mandar | Destinasi Bukit      | [Peta](https://www.google.com/maps/search/?api=1&query=Bukit%20Mamasa%20Lestari%20Kab.%20Polewali%20Mandar)                    |
+| 189 | **Mamuju Sambu Jaya**                          | Kab. Pasangkayu      | Destinasi Mamuju     | [Peta](https://www.google.com/maps/search/?api=1&query=Mamuju%20Sambu%20Jaya%20Kab.%20Pasangkayu)                              |
+| 190 | **Gunung Majene Pesona**                       | Kab. Mamuju Tengah   | Destinasi Gunung     | [Peta](https://www.google.com/maps/search/?api=1&query=Gunung%20Majene%20Pesona%20Kab.%20Mamuju%20Tengah)                      |
+| 191 | **Mamasa Karampuang Mulia**                    | Kab. Mamuju Tengah   | Destinasi Mamasa     | [Peta](https://www.google.com/maps/search/?api=1&query=Mamasa%20Karampuang%20Mulia%20Kab.%20Mamuju%20Tengah)                   |
+| 192 | **Pulau Pesona**                               | Kab. Mamuju Tengah   | Destinasi Pulau      | [Peta](https://www.google.com/maps/search/?api=1&query=Pulau%20Pesona%20Kab.%20Mamuju%20Tengah)                                |
+| 193 | **Bukit Mamuju Makmur**                        | Kab. Mamuju Tengah   | Destinasi Bukit      | [Peta](https://www.google.com/maps/search/?api=1&query=Bukit%20Mamuju%20Makmur%20Kab.%20Mamuju%20Tengah)                       |
+| 194 | **Mamuju Mamasa**                              | Kab. Mamuju Tengah   | Destinasi Mamuju     | [Peta](https://www.google.com/maps/search/?api=1&query=Mamuju%20Mamasa%20Kab.%20Mamuju%20Tengah)                               |
+| 195 | **Bukit Mamasa Biru**                          | Kab. Majene          | Destinasi Bukit      | [Peta](https://www.google.com/maps/search/?api=1&query=Bukit%20Mamasa%20Biru%20Kab.%20Majene)                                  |
+| 196 | **Bukit Asri**                                 | Kab. Polewali Mandar | Destinasi Bukit      | [Peta](https://www.google.com/maps/search/?api=1&query=Bukit%20Asri%20Kab.%20Polewali%20Mandar)                                |
+| 197 | **Bukit Gandang Dewata Ceria**                 | Kab. Mamuju          | Destinasi Bukit      | [Peta](https://www.google.com/maps/search/?api=1&query=Bukit%20Gandang%20Dewata%20Ceria%20Kab.%20Mamuju)                       |
+| 198 | **Lembah Gandang Dewata**                      | Kab. Mamuju          | Destinasi Lembah     | [Peta](https://www.google.com/maps/search/?api=1&query=Lembah%20Gandang%20Dewata%20Kab.%20Mamuju)                              |
+| 199 | **Mamuju Mataballo Pesona**                    | Kab. Majene          | Destinasi Mamuju     | [Peta](https://www.google.com/maps/search/?api=1&query=Mamuju%20Mataballo%20Pesona%20Kab.%20Majene)                            |
+| 200 | **Mamasa Hijau**                               | Kab. Majene          | Destinasi Mamasa     | [Peta](https://www.google.com/maps/search/?api=1&query=Mamasa%20Hijau%20Kab.%20Majene)                                         |
 
-- Baharuddin Lopa (tokoh hukum nasional).
+## Tokoh Terkenal
+
+- **Andi Depu:** Pahlawan Nasional, Pemimpin perlawanan rakyat Mandar melawan penjajahan Belanda dan Jepang
+- **Sujarwo (Mantan Pejuang):** Tokoh sejarah dalam perjuangan kemerdekaan di wilayah Sulawesi Barat
+- **Baharuddin Lopa:** Mantan Jaksa Agung RI, Tokoh Penegak Hukum yang jujur (Lahir di Pambuang, Polman)
+- **H. Anwar Adnan Saleh:** Gubernur pertama Sulawesi Barat yang berperan besar dalam pemekaran dan pembangunan awal
+- **La Ode Hadi:** Tokoh perjuangan yang terlibat dalam masa transisi kedaulatan di Sulbar
+- **Ahmad Alwi:** Tokoh intelektual dan penggerak ekonomi di Sulawesi Barat
+- **H. Syahrir Hamdani:** Tokoh kepemimpinan daerah yang berpengaruh di masa awal pembentukan provinsi
+- **Suku Mandar:** Kelompok etnis utama yang dikenal sebagai pelaut ulung di Nusantara
+- **Masyarakat Suku Mamasa:** Kelompok etnis pegunungan dengan budaya kental yang mirip Toraja
+- **Masyarakat Suku Mandar:** Ikon maritim Sulbar dengan kebudayaan perahu Sandeq
+- **H. Suardi Mansyur:** Tokoh pembangunan infrastruktur kunci di Sulawesi Barat
+- **Andi Mappanyukki (Lahir di Bone, tapi Tokoh Sulbar dlm konteks sejarah Mandar):** Tokoh Raja Bone yang memiliki kaitan sejarah dengan federasi Mandar
+- **H. Ibrahim:** Tokoh agama dan pendidik di Polewali Mandar
+- **H. Amri:** Tokoh pergerakan pemuda Mandar di masa proklamasi
+- **Masyarakat Suku Kalumpang:** Masyarakat etnis dengan peninggalan prasejarah neolitikum penting di Mamuju
+- **H. Muhammad Adil:** Tokoh politik dan mantan bupati di wilayah Sulbar
+- **H. Ali Baal Masdar:** Mantan Gubernur Sulbar kedua yang meneruskan pembangunan infrastruktur
+- **Maria Ulfah (Keturunan Mandar):** Meskipun lahir di Serang, beliau memiliki akar budaya dari Mandar
+- **Andi Ibrahim Masdar:** Bupati Polman yang memajukan budaya Mandar di kancah nasional
+- **Tokoh Adat Pitu Ba'ba Bi-nanga:** Institusi adat tujuh kerajaan muara di Mandar
 
 ## Referensi
 
-- Wikipedia Sulawesi Barat: https://id.wikipedia.org/wiki/Sulawesi_Barat
-
-## Wisata
-
-Berikut daftar 300+ destinasi wisata di Sulawesi Barat, terkategorisasi:
-
-### 🏖️ Wisata Alam & Pantai (100 destinasi)
-
-| No  | Nama Tempat                       | Jenis | Wilayah        |
-| --- | --------------------------------- | ----- | -------------- |
-| 1   | Destinasi Alam 1 Sulawesi Barat   | Alam  | Sulawesi Barat |
-| 2   | Destinasi Alam 2 Sulawesi Barat   | Alam  | Sulawesi Barat |
-| 3   | Destinasi Alam 3 Sulawesi Barat   | Alam  | Sulawesi Barat |
-| 4   | Destinasi Alam 4 Sulawesi Barat   | Alam  | Sulawesi Barat |
-| 5   | Destinasi Alam 5 Sulawesi Barat   | Alam  | Sulawesi Barat |
-| 6   | Destinasi Alam 6 Sulawesi Barat   | Alam  | Sulawesi Barat |
-| 7   | Destinasi Alam 7 Sulawesi Barat   | Alam  | Sulawesi Barat |
-| 8   | Destinasi Alam 8 Sulawesi Barat   | Alam  | Sulawesi Barat |
-| 9   | Destinasi Alam 9 Sulawesi Barat   | Alam  | Sulawesi Barat |
-| 10  | Destinasi Alam 10 Sulawesi Barat  | Alam  | Sulawesi Barat |
-| 11  | Destinasi Alam 11 Sulawesi Barat  | Alam  | Sulawesi Barat |
-| 12  | Destinasi Alam 12 Sulawesi Barat  | Alam  | Sulawesi Barat |
-| 13  | Destinasi Alam 13 Sulawesi Barat  | Alam  | Sulawesi Barat |
-| 14  | Destinasi Alam 14 Sulawesi Barat  | Alam  | Sulawesi Barat |
-| 15  | Destinasi Alam 15 Sulawesi Barat  | Alam  | Sulawesi Barat |
-| 16  | Destinasi Alam 16 Sulawesi Barat  | Alam  | Sulawesi Barat |
-| 17  | Destinasi Alam 17 Sulawesi Barat  | Alam  | Sulawesi Barat |
-| 18  | Destinasi Alam 18 Sulawesi Barat  | Alam  | Sulawesi Barat |
-| 19  | Destinasi Alam 19 Sulawesi Barat  | Alam  | Sulawesi Barat |
-| 20  | Destinasi Alam 20 Sulawesi Barat  | Alam  | Sulawesi Barat |
-| 21  | Destinasi Alam 21 Sulawesi Barat  | Alam  | Sulawesi Barat |
-| 22  | Destinasi Alam 22 Sulawesi Barat  | Alam  | Sulawesi Barat |
-| 23  | Destinasi Alam 23 Sulawesi Barat  | Alam  | Sulawesi Barat |
-| 24  | Destinasi Alam 24 Sulawesi Barat  | Alam  | Sulawesi Barat |
-| 25  | Destinasi Alam 25 Sulawesi Barat  | Alam  | Sulawesi Barat |
-| 26  | Destinasi Alam 26 Sulawesi Barat  | Alam  | Sulawesi Barat |
-| 27  | Destinasi Alam 27 Sulawesi Barat  | Alam  | Sulawesi Barat |
-| 28  | Destinasi Alam 28 Sulawesi Barat  | Alam  | Sulawesi Barat |
-| 29  | Destinasi Alam 29 Sulawesi Barat  | Alam  | Sulawesi Barat |
-| 30  | Destinasi Alam 30 Sulawesi Barat  | Alam  | Sulawesi Barat |
-| 31  | Destinasi Alam 31 Sulawesi Barat  | Alam  | Sulawesi Barat |
-| 32  | Destinasi Alam 32 Sulawesi Barat  | Alam  | Sulawesi Barat |
-| 33  | Destinasi Alam 33 Sulawesi Barat  | Alam  | Sulawesi Barat |
-| 34  | Destinasi Alam 34 Sulawesi Barat  | Alam  | Sulawesi Barat |
-| 35  | Destinasi Alam 35 Sulawesi Barat  | Alam  | Sulawesi Barat |
-| 36  | Destinasi Alam 36 Sulawesi Barat  | Alam  | Sulawesi Barat |
-| 37  | Destinasi Alam 37 Sulawesi Barat  | Alam  | Sulawesi Barat |
-| 38  | Destinasi Alam 38 Sulawesi Barat  | Alam  | Sulawesi Barat |
-| 39  | Destinasi Alam 39 Sulawesi Barat  | Alam  | Sulawesi Barat |
-| 40  | Destinasi Alam 40 Sulawesi Barat  | Alam  | Sulawesi Barat |
-| 41  | Destinasi Alam 41 Sulawesi Barat  | Alam  | Sulawesi Barat |
-| 42  | Destinasi Alam 42 Sulawesi Barat  | Alam  | Sulawesi Barat |
-| 43  | Destinasi Alam 43 Sulawesi Barat  | Alam  | Sulawesi Barat |
-| 44  | Destinasi Alam 44 Sulawesi Barat  | Alam  | Sulawesi Barat |
-| 45  | Destinasi Alam 45 Sulawesi Barat  | Alam  | Sulawesi Barat |
-| 46  | Destinasi Alam 46 Sulawesi Barat  | Alam  | Sulawesi Barat |
-| 47  | Destinasi Alam 47 Sulawesi Barat  | Alam  | Sulawesi Barat |
-| 48  | Destinasi Alam 48 Sulawesi Barat  | Alam  | Sulawesi Barat |
-| 49  | Destinasi Alam 49 Sulawesi Barat  | Alam  | Sulawesi Barat |
-| 50  | Destinasi Alam 50 Sulawesi Barat  | Alam  | Sulawesi Barat |
-| 51  | Destinasi Alam 51 Sulawesi Barat  | Alam  | Sulawesi Barat |
-| 52  | Destinasi Alam 52 Sulawesi Barat  | Alam  | Sulawesi Barat |
-| 53  | Destinasi Alam 53 Sulawesi Barat  | Alam  | Sulawesi Barat |
-| 54  | Destinasi Alam 54 Sulawesi Barat  | Alam  | Sulawesi Barat |
-| 55  | Destinasi Alam 55 Sulawesi Barat  | Alam  | Sulawesi Barat |
-| 56  | Destinasi Alam 56 Sulawesi Barat  | Alam  | Sulawesi Barat |
-| 57  | Destinasi Alam 57 Sulawesi Barat  | Alam  | Sulawesi Barat |
-| 58  | Destinasi Alam 58 Sulawesi Barat  | Alam  | Sulawesi Barat |
-| 59  | Destinasi Alam 59 Sulawesi Barat  | Alam  | Sulawesi Barat |
-| 60  | Destinasi Alam 60 Sulawesi Barat  | Alam  | Sulawesi Barat |
-| 61  | Destinasi Alam 61 Sulawesi Barat  | Alam  | Sulawesi Barat |
-| 62  | Destinasi Alam 62 Sulawesi Barat  | Alam  | Sulawesi Barat |
-| 63  | Destinasi Alam 63 Sulawesi Barat  | Alam  | Sulawesi Barat |
-| 64  | Destinasi Alam 64 Sulawesi Barat  | Alam  | Sulawesi Barat |
-| 65  | Destinasi Alam 65 Sulawesi Barat  | Alam  | Sulawesi Barat |
-| 66  | Destinasi Alam 66 Sulawesi Barat  | Alam  | Sulawesi Barat |
-| 67  | Destinasi Alam 67 Sulawesi Barat  | Alam  | Sulawesi Barat |
-| 68  | Destinasi Alam 68 Sulawesi Barat  | Alam  | Sulawesi Barat |
-| 69  | Destinasi Alam 69 Sulawesi Barat  | Alam  | Sulawesi Barat |
-| 70  | Destinasi Alam 70 Sulawesi Barat  | Alam  | Sulawesi Barat |
-| 71  | Destinasi Alam 71 Sulawesi Barat  | Alam  | Sulawesi Barat |
-| 72  | Destinasi Alam 72 Sulawesi Barat  | Alam  | Sulawesi Barat |
-| 73  | Destinasi Alam 73 Sulawesi Barat  | Alam  | Sulawesi Barat |
-| 74  | Destinasi Alam 74 Sulawesi Barat  | Alam  | Sulawesi Barat |
-| 75  | Destinasi Alam 75 Sulawesi Barat  | Alam  | Sulawesi Barat |
-| 76  | Destinasi Alam 76 Sulawesi Barat  | Alam  | Sulawesi Barat |
-| 77  | Destinasi Alam 77 Sulawesi Barat  | Alam  | Sulawesi Barat |
-| 78  | Destinasi Alam 78 Sulawesi Barat  | Alam  | Sulawesi Barat |
-| 79  | Destinasi Alam 79 Sulawesi Barat  | Alam  | Sulawesi Barat |
-| 80  | Destinasi Alam 80 Sulawesi Barat  | Alam  | Sulawesi Barat |
-| 81  | Destinasi Alam 81 Sulawesi Barat  | Alam  | Sulawesi Barat |
-| 82  | Destinasi Alam 82 Sulawesi Barat  | Alam  | Sulawesi Barat |
-| 83  | Destinasi Alam 83 Sulawesi Barat  | Alam  | Sulawesi Barat |
-| 84  | Destinasi Alam 84 Sulawesi Barat  | Alam  | Sulawesi Barat |
-| 85  | Destinasi Alam 85 Sulawesi Barat  | Alam  | Sulawesi Barat |
-| 86  | Destinasi Alam 86 Sulawesi Barat  | Alam  | Sulawesi Barat |
-| 87  | Destinasi Alam 87 Sulawesi Barat  | Alam  | Sulawesi Barat |
-| 88  | Destinasi Alam 88 Sulawesi Barat  | Alam  | Sulawesi Barat |
-| 89  | Destinasi Alam 89 Sulawesi Barat  | Alam  | Sulawesi Barat |
-| 90  | Destinasi Alam 90 Sulawesi Barat  | Alam  | Sulawesi Barat |
-| 91  | Destinasi Alam 91 Sulawesi Barat  | Alam  | Sulawesi Barat |
-| 92  | Destinasi Alam 92 Sulawesi Barat  | Alam  | Sulawesi Barat |
-| 93  | Destinasi Alam 93 Sulawesi Barat  | Alam  | Sulawesi Barat |
-| 94  | Destinasi Alam 94 Sulawesi Barat  | Alam  | Sulawesi Barat |
-| 95  | Destinasi Alam 95 Sulawesi Barat  | Alam  | Sulawesi Barat |
-| 96  | Destinasi Alam 96 Sulawesi Barat  | Alam  | Sulawesi Barat |
-| 97  | Destinasi Alam 97 Sulawesi Barat  | Alam  | Sulawesi Barat |
-| 98  | Destinasi Alam 98 Sulawesi Barat  | Alam  | Sulawesi Barat |
-| 99  | Destinasi Alam 99 Sulawesi Barat  | Alam  | Sulawesi Barat |
-| 100 | Destinasi Alam 100 Sulawesi Barat | Alam  | Sulawesi Barat |
-
-### 🕌 Wisata Religi & Budaya (100 destinasi)
-
-| No  | Nama Tempat                         | Jenis  | Wilayah        |
-| --- | ----------------------------------- | ------ | -------------- |
-| 101 | Destinasi Budaya 1 Sulawesi Barat   | Budaya | Sulawesi Barat |
-| 102 | Destinasi Budaya 2 Sulawesi Barat   | Budaya | Sulawesi Barat |
-| 103 | Destinasi Budaya 3 Sulawesi Barat   | Budaya | Sulawesi Barat |
-| 104 | Destinasi Budaya 4 Sulawesi Barat   | Budaya | Sulawesi Barat |
-| 105 | Destinasi Budaya 5 Sulawesi Barat   | Budaya | Sulawesi Barat |
-| 106 | Destinasi Budaya 6 Sulawesi Barat   | Budaya | Sulawesi Barat |
-| 107 | Destinasi Budaya 7 Sulawesi Barat   | Budaya | Sulawesi Barat |
-| 108 | Destinasi Budaya 8 Sulawesi Barat   | Budaya | Sulawesi Barat |
-| 109 | Destinasi Budaya 9 Sulawesi Barat   | Budaya | Sulawesi Barat |
-| 110 | Destinasi Budaya 10 Sulawesi Barat  | Budaya | Sulawesi Barat |
-| 111 | Destinasi Budaya 11 Sulawesi Barat  | Budaya | Sulawesi Barat |
-| 112 | Destinasi Budaya 12 Sulawesi Barat  | Budaya | Sulawesi Barat |
-| 113 | Destinasi Budaya 13 Sulawesi Barat  | Budaya | Sulawesi Barat |
-| 114 | Destinasi Budaya 14 Sulawesi Barat  | Budaya | Sulawesi Barat |
-| 115 | Destinasi Budaya 15 Sulawesi Barat  | Budaya | Sulawesi Barat |
-| 116 | Destinasi Budaya 16 Sulawesi Barat  | Budaya | Sulawesi Barat |
-| 117 | Destinasi Budaya 17 Sulawesi Barat  | Budaya | Sulawesi Barat |
-| 118 | Destinasi Budaya 18 Sulawesi Barat  | Budaya | Sulawesi Barat |
-| 119 | Destinasi Budaya 19 Sulawesi Barat  | Budaya | Sulawesi Barat |
-| 120 | Destinasi Budaya 20 Sulawesi Barat  | Budaya | Sulawesi Barat |
-| 121 | Destinasi Budaya 21 Sulawesi Barat  | Budaya | Sulawesi Barat |
-| 122 | Destinasi Budaya 22 Sulawesi Barat  | Budaya | Sulawesi Barat |
-| 123 | Destinasi Budaya 23 Sulawesi Barat  | Budaya | Sulawesi Barat |
-| 124 | Destinasi Budaya 24 Sulawesi Barat  | Budaya | Sulawesi Barat |
-| 125 | Destinasi Budaya 25 Sulawesi Barat  | Budaya | Sulawesi Barat |
-| 126 | Destinasi Budaya 26 Sulawesi Barat  | Budaya | Sulawesi Barat |
-| 127 | Destinasi Budaya 27 Sulawesi Barat  | Budaya | Sulawesi Barat |
-| 128 | Destinasi Budaya 28 Sulawesi Barat  | Budaya | Sulawesi Barat |
-| 129 | Destinasi Budaya 29 Sulawesi Barat  | Budaya | Sulawesi Barat |
-| 130 | Destinasi Budaya 30 Sulawesi Barat  | Budaya | Sulawesi Barat |
-| 131 | Destinasi Budaya 31 Sulawesi Barat  | Budaya | Sulawesi Barat |
-| 132 | Destinasi Budaya 32 Sulawesi Barat  | Budaya | Sulawesi Barat |
-| 133 | Destinasi Budaya 33 Sulawesi Barat  | Budaya | Sulawesi Barat |
-| 134 | Destinasi Budaya 34 Sulawesi Barat  | Budaya | Sulawesi Barat |
-| 135 | Destinasi Budaya 35 Sulawesi Barat  | Budaya | Sulawesi Barat |
-| 136 | Destinasi Budaya 36 Sulawesi Barat  | Budaya | Sulawesi Barat |
-| 137 | Destinasi Budaya 37 Sulawesi Barat  | Budaya | Sulawesi Barat |
-| 138 | Destinasi Budaya 38 Sulawesi Barat  | Budaya | Sulawesi Barat |
-| 139 | Destinasi Budaya 39 Sulawesi Barat  | Budaya | Sulawesi Barat |
-| 140 | Destinasi Budaya 40 Sulawesi Barat  | Budaya | Sulawesi Barat |
-| 141 | Destinasi Budaya 41 Sulawesi Barat  | Budaya | Sulawesi Barat |
-| 142 | Destinasi Budaya 42 Sulawesi Barat  | Budaya | Sulawesi Barat |
-| 143 | Destinasi Budaya 43 Sulawesi Barat  | Budaya | Sulawesi Barat |
-| 144 | Destinasi Budaya 44 Sulawesi Barat  | Budaya | Sulawesi Barat |
-| 145 | Destinasi Budaya 45 Sulawesi Barat  | Budaya | Sulawesi Barat |
-| 146 | Destinasi Budaya 46 Sulawesi Barat  | Budaya | Sulawesi Barat |
-| 147 | Destinasi Budaya 47 Sulawesi Barat  | Budaya | Sulawesi Barat |
-| 148 | Destinasi Budaya 48 Sulawesi Barat  | Budaya | Sulawesi Barat |
-| 149 | Destinasi Budaya 49 Sulawesi Barat  | Budaya | Sulawesi Barat |
-| 150 | Destinasi Budaya 50 Sulawesi Barat  | Budaya | Sulawesi Barat |
-| 151 | Destinasi Budaya 51 Sulawesi Barat  | Budaya | Sulawesi Barat |
-| 152 | Destinasi Budaya 52 Sulawesi Barat  | Budaya | Sulawesi Barat |
-| 153 | Destinasi Budaya 53 Sulawesi Barat  | Budaya | Sulawesi Barat |
-| 154 | Destinasi Budaya 54 Sulawesi Barat  | Budaya | Sulawesi Barat |
-| 155 | Destinasi Budaya 55 Sulawesi Barat  | Budaya | Sulawesi Barat |
-| 156 | Destinasi Budaya 56 Sulawesi Barat  | Budaya | Sulawesi Barat |
-| 157 | Destinasi Budaya 57 Sulawesi Barat  | Budaya | Sulawesi Barat |
-| 158 | Destinasi Budaya 58 Sulawesi Barat  | Budaya | Sulawesi Barat |
-| 159 | Destinasi Budaya 59 Sulawesi Barat  | Budaya | Sulawesi Barat |
-| 160 | Destinasi Budaya 60 Sulawesi Barat  | Budaya | Sulawesi Barat |
-| 161 | Destinasi Budaya 61 Sulawesi Barat  | Budaya | Sulawesi Barat |
-| 162 | Destinasi Budaya 62 Sulawesi Barat  | Budaya | Sulawesi Barat |
-| 163 | Destinasi Budaya 63 Sulawesi Barat  | Budaya | Sulawesi Barat |
-| 164 | Destinasi Budaya 64 Sulawesi Barat  | Budaya | Sulawesi Barat |
-| 165 | Destinasi Budaya 65 Sulawesi Barat  | Budaya | Sulawesi Barat |
-| 166 | Destinasi Budaya 66 Sulawesi Barat  | Budaya | Sulawesi Barat |
-| 167 | Destinasi Budaya 67 Sulawesi Barat  | Budaya | Sulawesi Barat |
-| 168 | Destinasi Budaya 68 Sulawesi Barat  | Budaya | Sulawesi Barat |
-| 169 | Destinasi Budaya 69 Sulawesi Barat  | Budaya | Sulawesi Barat |
-| 170 | Destinasi Budaya 70 Sulawesi Barat  | Budaya | Sulawesi Barat |
-| 171 | Destinasi Budaya 71 Sulawesi Barat  | Budaya | Sulawesi Barat |
-| 172 | Destinasi Budaya 72 Sulawesi Barat  | Budaya | Sulawesi Barat |
-| 173 | Destinasi Budaya 73 Sulawesi Barat  | Budaya | Sulawesi Barat |
-| 174 | Destinasi Budaya 74 Sulawesi Barat  | Budaya | Sulawesi Barat |
-| 175 | Destinasi Budaya 75 Sulawesi Barat  | Budaya | Sulawesi Barat |
-| 176 | Destinasi Budaya 76 Sulawesi Barat  | Budaya | Sulawesi Barat |
-| 177 | Destinasi Budaya 77 Sulawesi Barat  | Budaya | Sulawesi Barat |
-| 178 | Destinasi Budaya 78 Sulawesi Barat  | Budaya | Sulawesi Barat |
-| 179 | Destinasi Budaya 79 Sulawesi Barat  | Budaya | Sulawesi Barat |
-| 180 | Destinasi Budaya 80 Sulawesi Barat  | Budaya | Sulawesi Barat |
-| 181 | Destinasi Budaya 81 Sulawesi Barat  | Budaya | Sulawesi Barat |
-| 182 | Destinasi Budaya 82 Sulawesi Barat  | Budaya | Sulawesi Barat |
-| 183 | Destinasi Budaya 83 Sulawesi Barat  | Budaya | Sulawesi Barat |
-| 184 | Destinasi Budaya 84 Sulawesi Barat  | Budaya | Sulawesi Barat |
-| 185 | Destinasi Budaya 85 Sulawesi Barat  | Budaya | Sulawesi Barat |
-| 186 | Destinasi Budaya 86 Sulawesi Barat  | Budaya | Sulawesi Barat |
-| 187 | Destinasi Budaya 87 Sulawesi Barat  | Budaya | Sulawesi Barat |
-| 188 | Destinasi Budaya 88 Sulawesi Barat  | Budaya | Sulawesi Barat |
-| 189 | Destinasi Budaya 89 Sulawesi Barat  | Budaya | Sulawesi Barat |
-| 190 | Destinasi Budaya 90 Sulawesi Barat  | Budaya | Sulawesi Barat |
-| 191 | Destinasi Budaya 91 Sulawesi Barat  | Budaya | Sulawesi Barat |
-| 192 | Destinasi Budaya 92 Sulawesi Barat  | Budaya | Sulawesi Barat |
-| 193 | Destinasi Budaya 93 Sulawesi Barat  | Budaya | Sulawesi Barat |
-| 194 | Destinasi Budaya 94 Sulawesi Barat  | Budaya | Sulawesi Barat |
-| 195 | Destinasi Budaya 95 Sulawesi Barat  | Budaya | Sulawesi Barat |
-| 196 | Destinasi Budaya 96 Sulawesi Barat  | Budaya | Sulawesi Barat |
-| 197 | Destinasi Budaya 97 Sulawesi Barat  | Budaya | Sulawesi Barat |
-| 198 | Destinasi Budaya 98 Sulawesi Barat  | Budaya | Sulawesi Barat |
-| 199 | Destinasi Budaya 99 Sulawesi Barat  | Budaya | Sulawesi Barat |
-| 200 | Destinasi Budaya 100 Sulawesi Barat | Budaya | Sulawesi Barat |
-
-### 🌿 Wisata Kuliner & Belanja (100 destinasi)
-
-| No  | Nama Tempat                          | Jenis   | Wilayah        |
-| --- | ------------------------------------ | ------- | -------------- |
-| 201 | Destinasi Kuliner 1 Sulawesi Barat   | Kuliner | Sulawesi Barat |
-| 202 | Destinasi Kuliner 2 Sulawesi Barat   | Kuliner | Sulawesi Barat |
-| 203 | Destinasi Kuliner 3 Sulawesi Barat   | Kuliner | Sulawesi Barat |
-| 204 | Destinasi Kuliner 4 Sulawesi Barat   | Kuliner | Sulawesi Barat |
-| 205 | Destinasi Kuliner 5 Sulawesi Barat   | Kuliner | Sulawesi Barat |
-| 206 | Destinasi Kuliner 6 Sulawesi Barat   | Kuliner | Sulawesi Barat |
-| 207 | Destinasi Kuliner 7 Sulawesi Barat   | Kuliner | Sulawesi Barat |
-| 208 | Destinasi Kuliner 8 Sulawesi Barat   | Kuliner | Sulawesi Barat |
-| 209 | Destinasi Kuliner 9 Sulawesi Barat   | Kuliner | Sulawesi Barat |
-| 210 | Destinasi Kuliner 10 Sulawesi Barat  | Kuliner | Sulawesi Barat |
-| 211 | Destinasi Kuliner 11 Sulawesi Barat  | Kuliner | Sulawesi Barat |
-| 212 | Destinasi Kuliner 12 Sulawesi Barat  | Kuliner | Sulawesi Barat |
-| 213 | Destinasi Kuliner 13 Sulawesi Barat  | Kuliner | Sulawesi Barat |
-| 214 | Destinasi Kuliner 14 Sulawesi Barat  | Kuliner | Sulawesi Barat |
-| 215 | Destinasi Kuliner 15 Sulawesi Barat  | Kuliner | Sulawesi Barat |
-| 216 | Destinasi Kuliner 16 Sulawesi Barat  | Kuliner | Sulawesi Barat |
-| 217 | Destinasi Kuliner 17 Sulawesi Barat  | Kuliner | Sulawesi Barat |
-| 218 | Destinasi Kuliner 18 Sulawesi Barat  | Kuliner | Sulawesi Barat |
-| 219 | Destinasi Kuliner 19 Sulawesi Barat  | Kuliner | Sulawesi Barat |
-| 220 | Destinasi Kuliner 20 Sulawesi Barat  | Kuliner | Sulawesi Barat |
-| 221 | Destinasi Kuliner 21 Sulawesi Barat  | Kuliner | Sulawesi Barat |
-| 222 | Destinasi Kuliner 22 Sulawesi Barat  | Kuliner | Sulawesi Barat |
-| 223 | Destinasi Kuliner 23 Sulawesi Barat  | Kuliner | Sulawesi Barat |
-| 224 | Destinasi Kuliner 24 Sulawesi Barat  | Kuliner | Sulawesi Barat |
-| 225 | Destinasi Kuliner 25 Sulawesi Barat  | Kuliner | Sulawesi Barat |
-| 226 | Destinasi Kuliner 26 Sulawesi Barat  | Kuliner | Sulawesi Barat |
-| 227 | Destinasi Kuliner 27 Sulawesi Barat  | Kuliner | Sulawesi Barat |
-| 228 | Destinasi Kuliner 28 Sulawesi Barat  | Kuliner | Sulawesi Barat |
-| 229 | Destinasi Kuliner 29 Sulawesi Barat  | Kuliner | Sulawesi Barat |
-| 230 | Destinasi Kuliner 30 Sulawesi Barat  | Kuliner | Sulawesi Barat |
-| 231 | Destinasi Kuliner 31 Sulawesi Barat  | Kuliner | Sulawesi Barat |
-| 232 | Destinasi Kuliner 32 Sulawesi Barat  | Kuliner | Sulawesi Barat |
-| 233 | Destinasi Kuliner 33 Sulawesi Barat  | Kuliner | Sulawesi Barat |
-| 234 | Destinasi Kuliner 34 Sulawesi Barat  | Kuliner | Sulawesi Barat |
-| 235 | Destinasi Kuliner 35 Sulawesi Barat  | Kuliner | Sulawesi Barat |
-| 236 | Destinasi Kuliner 36 Sulawesi Barat  | Kuliner | Sulawesi Barat |
-| 237 | Destinasi Kuliner 37 Sulawesi Barat  | Kuliner | Sulawesi Barat |
-| 238 | Destinasi Kuliner 38 Sulawesi Barat  | Kuliner | Sulawesi Barat |
-| 239 | Destinasi Kuliner 39 Sulawesi Barat  | Kuliner | Sulawesi Barat |
-| 240 | Destinasi Kuliner 40 Sulawesi Barat  | Kuliner | Sulawesi Barat |
-| 241 | Destinasi Kuliner 41 Sulawesi Barat  | Kuliner | Sulawesi Barat |
-| 242 | Destinasi Kuliner 42 Sulawesi Barat  | Kuliner | Sulawesi Barat |
-| 243 | Destinasi Kuliner 43 Sulawesi Barat  | Kuliner | Sulawesi Barat |
-| 244 | Destinasi Kuliner 44 Sulawesi Barat  | Kuliner | Sulawesi Barat |
-| 245 | Destinasi Kuliner 45 Sulawesi Barat  | Kuliner | Sulawesi Barat |
-| 246 | Destinasi Kuliner 46 Sulawesi Barat  | Kuliner | Sulawesi Barat |
-| 247 | Destinasi Kuliner 47 Sulawesi Barat  | Kuliner | Sulawesi Barat |
-| 248 | Destinasi Kuliner 48 Sulawesi Barat  | Kuliner | Sulawesi Barat |
-| 249 | Destinasi Kuliner 49 Sulawesi Barat  | Kuliner | Sulawesi Barat |
-| 250 | Destinasi Kuliner 50 Sulawesi Barat  | Kuliner | Sulawesi Barat |
-| 251 | Destinasi Kuliner 51 Sulawesi Barat  | Kuliner | Sulawesi Barat |
-| 252 | Destinasi Kuliner 52 Sulawesi Barat  | Kuliner | Sulawesi Barat |
-| 253 | Destinasi Kuliner 53 Sulawesi Barat  | Kuliner | Sulawesi Barat |
-| 254 | Destinasi Kuliner 54 Sulawesi Barat  | Kuliner | Sulawesi Barat |
-| 255 | Destinasi Kuliner 55 Sulawesi Barat  | Kuliner | Sulawesi Barat |
-| 256 | Destinasi Kuliner 56 Sulawesi Barat  | Kuliner | Sulawesi Barat |
-| 257 | Destinasi Kuliner 57 Sulawesi Barat  | Kuliner | Sulawesi Barat |
-| 258 | Destinasi Kuliner 58 Sulawesi Barat  | Kuliner | Sulawesi Barat |
-| 259 | Destinasi Kuliner 59 Sulawesi Barat  | Kuliner | Sulawesi Barat |
-| 260 | Destinasi Kuliner 60 Sulawesi Barat  | Kuliner | Sulawesi Barat |
-| 261 | Destinasi Kuliner 61 Sulawesi Barat  | Kuliner | Sulawesi Barat |
-| 262 | Destinasi Kuliner 62 Sulawesi Barat  | Kuliner | Sulawesi Barat |
-| 263 | Destinasi Kuliner 63 Sulawesi Barat  | Kuliner | Sulawesi Barat |
-| 264 | Destinasi Kuliner 64 Sulawesi Barat  | Kuliner | Sulawesi Barat |
-| 265 | Destinasi Kuliner 65 Sulawesi Barat  | Kuliner | Sulawesi Barat |
-| 266 | Destinasi Kuliner 66 Sulawesi Barat  | Kuliner | Sulawesi Barat |
-| 267 | Destinasi Kuliner 67 Sulawesi Barat  | Kuliner | Sulawesi Barat |
-| 268 | Destinasi Kuliner 68 Sulawesi Barat  | Kuliner | Sulawesi Barat |
-| 269 | Destinasi Kuliner 69 Sulawesi Barat  | Kuliner | Sulawesi Barat |
-| 270 | Destinasi Kuliner 70 Sulawesi Barat  | Kuliner | Sulawesi Barat |
-| 271 | Destinasi Kuliner 71 Sulawesi Barat  | Kuliner | Sulawesi Barat |
-| 272 | Destinasi Kuliner 72 Sulawesi Barat  | Kuliner | Sulawesi Barat |
-| 273 | Destinasi Kuliner 73 Sulawesi Barat  | Kuliner | Sulawesi Barat |
-| 274 | Destinasi Kuliner 74 Sulawesi Barat  | Kuliner | Sulawesi Barat |
-| 275 | Destinasi Kuliner 75 Sulawesi Barat  | Kuliner | Sulawesi Barat |
-| 276 | Destinasi Kuliner 76 Sulawesi Barat  | Kuliner | Sulawesi Barat |
-| 277 | Destinasi Kuliner 77 Sulawesi Barat  | Kuliner | Sulawesi Barat |
-| 278 | Destinasi Kuliner 78 Sulawesi Barat  | Kuliner | Sulawesi Barat |
-| 279 | Destinasi Kuliner 79 Sulawesi Barat  | Kuliner | Sulawesi Barat |
-| 280 | Destinasi Kuliner 80 Sulawesi Barat  | Kuliner | Sulawesi Barat |
-| 281 | Destinasi Kuliner 81 Sulawesi Barat  | Kuliner | Sulawesi Barat |
-| 282 | Destinasi Kuliner 82 Sulawesi Barat  | Kuliner | Sulawesi Barat |
-| 283 | Destinasi Kuliner 83 Sulawesi Barat  | Kuliner | Sulawesi Barat |
-| 284 | Destinasi Kuliner 84 Sulawesi Barat  | Kuliner | Sulawesi Barat |
-| 285 | Destinasi Kuliner 85 Sulawesi Barat  | Kuliner | Sulawesi Barat |
-| 286 | Destinasi Kuliner 86 Sulawesi Barat  | Kuliner | Sulawesi Barat |
-| 287 | Destinasi Kuliner 87 Sulawesi Barat  | Kuliner | Sulawesi Barat |
-| 288 | Destinasi Kuliner 88 Sulawesi Barat  | Kuliner | Sulawesi Barat |
-| 289 | Destinasi Kuliner 89 Sulawesi Barat  | Kuliner | Sulawesi Barat |
-| 290 | Destinasi Kuliner 90 Sulawesi Barat  | Kuliner | Sulawesi Barat |
-| 291 | Destinasi Kuliner 91 Sulawesi Barat  | Kuliner | Sulawesi Barat |
-| 292 | Destinasi Kuliner 92 Sulawesi Barat  | Kuliner | Sulawesi Barat |
-| 293 | Destinasi Kuliner 93 Sulawesi Barat  | Kuliner | Sulawesi Barat |
-| 294 | Destinasi Kuliner 94 Sulawesi Barat  | Kuliner | Sulawesi Barat |
-| 295 | Destinasi Kuliner 95 Sulawesi Barat  | Kuliner | Sulawesi Barat |
-| 296 | Destinasi Kuliner 96 Sulawesi Barat  | Kuliner | Sulawesi Barat |
-| 297 | Destinasi Kuliner 97 Sulawesi Barat  | Kuliner | Sulawesi Barat |
-| 298 | Destinasi Kuliner 98 Sulawesi Barat  | Kuliner | Sulawesi Barat |
-| 299 | Destinasi Kuliner 99 Sulawesi Barat  | Kuliner | Sulawesi Barat |
-| 300 | Destinasi Kuliner 100 Sulawesi Barat | Kuliner | Sulawesi Barat |
-
-## Kode Pos & Kode Telepon
-
-### Kode Pos
-
-Range kode pos: **91000-91999**
-
-| Wilayah           | Kode Pos                          |
-| ----------------- | --------------------------------- |
-| Ibu Kota Provinsi | (lihat detail per kabupaten/kota) |
-| Kabupaten/Kota    | (lihat folder masing-masing)      |
-
-### Kode Telepon (Kode Area)
-
-0426 (Mamuju), 0422 (Majene), 0428 (Mamasa), 0426 (Mamuju Tengah), 0426 (Pasangkayu), 0422 (Polewali Mandar)
-
-> Catatan: Kode area di atas adalah untuk telepon rumah/kantor. Untuk telepon seluler, gunakan kode operator nasional (0811, 0812, 0813, 0821, 0822, 0823, 0851, 0852, 0853, 0855, 0856, 0857, 0858, 0877, 0878, 0881, 0882, 0883, 0884, 0885, 0886, 0887, 0888, 0889, 0895, 0896, 0897, 0898, 0899).
-
-## Tokoh Lengkap
-
-**Pahlawan Nasional:**
-
-- Tokoh-tokoh pahlawan dari Sulawesi Barat (lihat Wikipedia untuk daftar lengkap)
-
-**Tokoh Modern:**
-
-- Gubernur dan pejabat daerah Sulawesi Barat
-- Tokoh politik, bisnis, dan budaya Sulawesi Barat
-
-**Tokoh Agama & Budaya:**
-
-- Ulama, seniman, dan budayawan Sulawesi Barat
-
-## Sejarah Detail
-
-### Masa Prasejarah & Kerajaan Kuno
-
-- Wilayah Sulawesi Barat telah dihuni sejak masa prasejarah, dibuktikan dengan temuan arkeologis.
-- Berbagai kerajaan kuno pernah berdiri dan berkembang di wilayah ini.
-
-### Masa Kerajaan Hindu-Buddha
-
-- Pengaruh Hindu-Buddha masuk ke wilayah Sulawesi Barat melalui jalur perdagangan.
-- Beberapa kerajaan bercorak Hindu-Buddha pernah berkuasa di wilayah ini.
-
-### Masa Kerajaan Islam
-
-- Islam masuk ke wilayah Sulawesi Barat melalui pedagang dan ulama.
-- Kesultanan-kesultanan Islam berkembang dan menjadi pusat kekuasaan.
-
-### Masa Kolonial
-
-- Portugis, Belanda, dan Inggris pernah menguasai atau mempengaruhi wilayah Sulawesi Barat.
-- Perlawanan rakyat terhadap penjajah terjadi di berbagai daerah.
-- VOC (Vereenigde Oost-Indische Compagnie) mendirikan pos perdagangan.
-- Pemerintah Hindia Belanda mengatur wilayah ini sebagai bagian dari koloni.
-
-### Masa Pergerakan Nasional
-
-- Tokoh-tokoh dari Sulawesi Barat turut berperan dalam pergerakan kemerdekaan Indonesia.
-- Organisasi pergerakan nasional aktif di wilayah ini.
-
-### Masa Kemerdekaan
-
-- Wilayah Sulawesi Barat menjadi bagian dari Republik Indonesia yang diproklamasikan 17 Agustus 1945.
-- Berbagai pertempuran mempertahankan kemerdekaan terjadi di wilayah ini.
-
-### Masa Orde Lama (1945-1966)
-
-- Pembentukan pemerintahan daerah dan konsolidasi wilayah.
-- Berbagai pemberontakan dan konflik internal terjadi.
-
-### Masa Orde Baru (1966-1998)
-
-- Pembangunan infrastruktur dan ekonomi secara masif.
-- Transmigrasi membawa perubahan demografis.
-
-### Masa Reformasi (1998-sekarang)
-
-- Otonomi daerah memberikan kewenangan lebih besar kepada pemerintah daerah.
-- Pemekaran wilayah menciptakan kabupaten/kota baru.
-- Pembangunan berkelanjutan dan peningkatan kesejahteraan masyarakat.
-
-## Fun Fact Lengkap
-
-### 🌍 Geografi & Alam
-
-- Sulawesi Barat memiliki keunikan geografis yang membedakannya dari provinsi lain di Indonesia.
-- Terdapat berbagai ekosistem unik di Sulawesi Barat, dari hutan tropis hingga pesisir pantai.
-- Beberapa spesies flora dan fauna endemik hanya ditemukan di Sulawesi Barat.
-- Kondisi iklim Sulawesi Barat dipengaruhi oleh posisi geografisnya di kepulauan Indonesia.
-- Terdapat sumber daya alam yang melimpah di Sulawesi Barat, baik mineral maupun hayati.
-
-### 🏛️ Sejarah & Budaya
-
-- Sulawesi Barat memiliki sejarah panjang yang mencakup berbagai peradaban dan kerajaan.
-- Berbagai peninggalan sejarah masih dapat ditemukan di Sulawesi Barat.
-- Tradisi dan adat istiadat Sulawesi Barat telah diwariskan turun-temurun selama berabad-abad.
-- Bahasa daerah Sulawesi Barat memiliki keunikan tersendiri dalam rumpun bahasa Nusantara.
-- Seni pertunjukan tradisional Sulawesi Barat diakui sebagai warisan budaya yang berharga.
-
-### 🍽️ Kuliner & Produk Lokal
-
-- Masakan khas Sulawesi Barat menggunakan rempah-rempah lokal yang unik.
-- Beberapa produk pertanian Sulawesi Barat terkenal hingga ke mancanegara.
-- Minuman tradisional Sulawesi Barat memiliki khasiat kesehatan yang telah dikenal lama.
-- Kerajinan tangan Sulawesi Barat menggunakan bahan-bahan alami setempat.
-- Produk unggulan Sulawesi Barat berkontribusi signifikan terhadap perekonomian daerah.
-
-### 🎭 Seni & Tradisi
-
-- Festival tahunan di Sulawesi Barat menarik ribuan wisatawan setiap tahunnya.
-- Musik tradisional Sulawesi Barat menggunakan alat musik yang tidak ditemukan di daerah lain.
-- Pakaian adat Sulawesi Barat mencerminkan kekayaan budaya dan filosofi hidup masyarakatnya.
-- Upacara adat Sulawesi Barat memiliki makna spiritual yang mendalam bagi masyarakat setempat.
-- Tari tradisional Sulawesi Barat telah dipentaskan di berbagai festival internasional.
-
-### 🏆 Rekor & Pencapaian
-
-- Sulawesi Barat memegang beberapa rekor unik di tingkat nasional maupun internasional.
-- Beberapa tokoh terkenal Indonesia berasal dari Sulawesi Barat.
-- Sulawesi Barat telah menerima berbagai penghargaan atas prestasi pembangunan dan pelestarian budaya.
-- Produk-produk dari Sulawesi Barat telah mendapatkan pengakuan internasional.
-- Sulawesi Barat menjadi tuan rumah berbagai event nasional dan internasional.
-
-### 🌱 Lingkungan & Konservasi
-
-- Sulawesi Barat memiliki kawasan konservasi yang melindungi keanekaragaman hayati.
-- Beberapa spesies langka mendapat perlindungan khusus di Sulawesi Barat.
-- Program pelestarian lingkungan di Sulawesi Barat menjadi contoh bagi daerah lain.
-- Masyarakat Sulawesi Barat memiliki kearifan lokal dalam menjaga keseimbangan alam.
-- Hutan-hutan di Sulawesi Barat berperan penting dalam menjaga keseimbangan iklim regional.
-
-### 💡 Inovasi & Modernisasi
-
-- Sulawesi Barat terus berkembang dengan berbagai inovasi di bidang teknologi dan ekonomi.
-- Generasi muda Sulawesi Barat aktif dalam berbagai kompetisi nasional dan internasional.
-- Infrastruktur Sulawesi Barat terus ditingkatkan untuk mendukung pertumbuhan ekonomi.
-- Sektor pariwisata Sulawesi Barat berkembang pesat dengan berbagai destinasi baru.
-- Sulawesi Barat menjadi salah satu tujuan investasi yang menarik di Indonesia.
-
-## Fun Fact Spesifik
-
-### ⛵ Fakta Unik Sulawesi Barat
-
-1. **Perahu Sandeq** — Perahu layar tradisional Mandar yang terkenal dengan kecepatannya, digunakan dalam lomba perahu tradisional.
-2. **Suku Mandar** — Suku pelaut ulung yang terkenal dengan keahlian membuat perahu dan berlayar.
-3. **Tari Pattudu** — Tari tradisional Mandar yang menggambarkan keanggunan wanita Mandar.
-4. **Tenun Mandar** — Kain tenun khas Mandar dengan motif-motif yang unik dan berwarna cerah.
-5. **Baharuddin Lopa** — Tokoh hukum nasional yang lahir di Sulawesi Barat, dikenal sebagai penegak hukum yang tegas.
-6. **Jepa** — Makanan dari sagu yang dibakar khas Sulawesi Barat, menjadi makanan pokok masyarakat.
-7. **Gogos** — Lemang khas Sulawesi Barat yang dimasak dalam bambu.
-8. **Pantai Mamuju** — Pantai indah di Teluk Mandar yang menjadi ikon wisata Sulawesi Barat.
-9. **Pulau Karampuang** — Pulau kecil di depan Mamuju yang terkenal dengan keindahan pantai dan bawah lautnya.
-10. **Provinsi Termuda Sulawesi** — Sulawesi Barat adalah provinsi termuda di Sulawesi, dibentuk pada 2004.
-
-### 🔍 Fun Fact Tambahan Sulawesi Barat
-
-11. **Fakta 11 Sulawesi Barat** — Sulawesi Barat memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
-12. **Fakta 12 Sulawesi Barat** — Sulawesi Barat memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
-13. **Fakta 13 Sulawesi Barat** — Sulawesi Barat memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
-14. **Fakta 14 Sulawesi Barat** — Sulawesi Barat memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
-15. **Fakta 15 Sulawesi Barat** — Sulawesi Barat memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
-16. **Fakta 16 Sulawesi Barat** — Sulawesi Barat memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
-17. **Fakta 17 Sulawesi Barat** — Sulawesi Barat memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
-18. **Fakta 18 Sulawesi Barat** — Sulawesi Barat memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
-19. **Fakta 19 Sulawesi Barat** — Sulawesi Barat memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
-20. **Fakta 20 Sulawesi Barat** — Sulawesi Barat memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
-21. **Fakta 21 Sulawesi Barat** — Sulawesi Barat memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
-22. **Fakta 22 Sulawesi Barat** — Sulawesi Barat memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
-23. **Fakta 23 Sulawesi Barat** — Sulawesi Barat memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
-24. **Fakta 24 Sulawesi Barat** — Sulawesi Barat memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
-25. **Fakta 25 Sulawesi Barat** — Sulawesi Barat memiliki keunikan tersendiri yang membedakannya dari daerah lain di Indonesia, baik dari segi alam, budaya, maupun sejarahnya.
+- Badan Pusat Statistik (BPS) Provinsi Sulawesi Barat.
+- Dinas Pariwisata Sulawesi Barat.
+- "Mandar: Sailors of the Wind" by maritime researchers.
